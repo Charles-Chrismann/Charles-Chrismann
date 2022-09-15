@@ -1,5 +1,5 @@
-# NumberOfViews : 12
-One thing I want to improve on:  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+# NumberOfViews : 13
+One thing I want to improve on: <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
 To see an other one, click *[Here](https://github.com/Charles-Chrismann)*
 ![See ya](https://next-lvl-github.herokuapp.com/slide/random)
 <p align="left">
@@ -9,7 +9,7 @@ To see an other one, click *[Here](https://github.com/Charles-Chrismann)*
 
 <a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=0&y=2">:black_large_square:</a><a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=1&y=2">:black_large_square:</a><a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=2&y=2">:black_large_square:</a><a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=3&y=2">:boom:</a><a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=4&y=2">:two:</a>
 
-<a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=0&y=3">:black_large_square:</a><a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=1&y=3">:black_large_square:</a><a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=2&y=3">:black_large_square:</a><a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=3&y=3">:black_large_square:</a><a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=4&y=3">:black_large_square:</a>
+<a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=0&y=3">:black_large_square:</a><a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=1&y=3">:black_large_square:</a><a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=2&y=3">:black_large_square:</a><a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=3&y=3">:black_large_square:</a><a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=4&y=3">:two:</a>
 
 <a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=0&y=4">:black_large_square:</a><a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=1&y=4">:black_large_square:</a><a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=2&y=4">:black_large_square:</a><a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=3&y=4">:black_large_square:</a><a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=4&y=4">:black_large_square:</a>
 
