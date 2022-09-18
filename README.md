@@ -87,9 +87,9 @@
 </a>
 </p>
 <h1 align="center">Flex Zone</h1>
-<p>One thing I want to improve on: <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a></p>
+<p>One thing I want to improve on:  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a></p>
 <p>To see an other one, click <a href="https://github.com/Charles-Chrismann" target="_self" rel="noreferrer">here</a></p>
 <h1 align="center">Work in progress</h1>
 <p align="center">Other features are in progress (minesweeper, g/place, last follower...) feel free to follow me to discover them.</p>
-<img src="https://next-lvl-github.herokuapp.com/slide/random" alt="work in progress" width="200" height="200"/>
+<p align="center"><img src="https://next-lvl-github.herokuapp.com/slide/random" alt="work in progress" width="200" height="200"/></p>
 <p align="center"><a href="https://github.com/Charles-Chrismann" target="_self" rel="noreferrer">See ya <3</a></p>
