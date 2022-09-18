@@ -1,4 +1,4 @@
-# Hi visitor #8
+# Hi visitor #9
 <p>I'm Charles Chrismann !</p>
 <p>I'm a french student in 2nd year in web development at <a href="https://www.iim.fr" target="_blank" rel="noreferrer" title="Institut de l'Internet et du Multimédia">IIM DigitalSchool</a> in Paris.</p>
 <h1 align="center">Technical skills</h1>
@@ -87,7 +87,7 @@
 </a>
 </p>
 <h1 align="centre">Flex Zone</h1>
-One thing I want to improve on: <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
+One thing I want to improve on:  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
 To see an other one, click *[Here](https://github.com/Charles-Chrismann)*
 ![See ya](https://next-lvl-github.herokuapp.com/slide/random)
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">blank</a>
