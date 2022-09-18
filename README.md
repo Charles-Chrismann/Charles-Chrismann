@@ -1,6 +1,6 @@
 # Hi visitor #undefined
 <p>I'm Charles Chrismann !</p>
-<p>I'm a french student in 2nd year in web development at [IIM DigitalSchool](https://www.iim.fr/ "Institut de l'Internet et du Multimédia") in Paris.</p>
+<p>I'm a french student in 2nd year in web development at <a href="https://www.iim.fr" target="_blank" rel="noreferrer" title="Institut de l'Internet et du Multimédia">IIM DigitalSchool</a> in Paris.</p>
 <h1 align="center">Technical skills</h1>
 <h3> Front-end technologies</h3>
 <p align="left">
@@ -74,7 +74,7 @@
 ### Front-end technologies
 ### Front-end technologies
 ### Front-end technologies
-One thing I want to improve on: <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
+One thing I want to improve on:  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 To see an other one, click *[Here](https://github.com/Charles-Chrismann)*
 ![See ya](https://next-lvl-github.herokuapp.com/slide/random)
 <p align="center">
