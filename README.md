@@ -1,8 +1,8 @@
 # Hi visitor #undefined
 <p>I'm Charles Chrismann !</p>
-I'm a french student in 2nd year in web development at [IIM DigitalSchool](https://www.iim.fr/ "Institut de l'Internet et du Multimédia") in Paris.
+<p>I'm a french student in 2nd year in web development at [IIM DigitalSchool](https://www.iim.fr/ "Institut de l'Internet et du Multimédia") in Paris.</p>
 <h1 align="center">Technical skills</h1>
-### Front-end technologies
+<h3> Front-end technologies</h3>
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -14,7 +14,7 @@ I'm a french student in 2nd year in web development at [IIM DigitalSchool](https
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 </a>
 </p>
-### Back-end technologies
+<h3> Back-end technologies</h3>
 <p align="left">
 <a href="https://www.php.net" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
@@ -29,7 +29,7 @@ I'm a french student in 2nd year in web development at [IIM DigitalSchool](https
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 </a>
 </p>
-### Other technologies where I have notions
+<h3> Other technologies where I have notions</h3>
 <p align="left">
 <a href="https://angular.io" target="_blank" rel="noreferrer">
 <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
@@ -74,7 +74,7 @@ I'm a french student in 2nd year in web development at [IIM DigitalSchool](https
 ### Front-end technologies
 ### Front-end technologies
 ### Front-end technologies
-One thing I want to improve on: <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+One thing I want to improve on: <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
 To see an other one, click *[Here](https://github.com/Charles-Chrismann)*
 ![See ya](https://next-lvl-github.herokuapp.com/slide/random)
 <p align="center">
