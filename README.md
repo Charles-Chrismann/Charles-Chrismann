@@ -1,4 +1,4 @@
-# Hi visitor #56
+# Hi visitor #57
 <p>I'm Charles Chrismann !</p>
 <p>I'm a french student in 2nd year in web development at <a href="https://www.iim.fr" target="_blank" rel="noreferrer" title="Institut de l'Internet et du Multimédia">IIM DigitalSchool</a> in Paris.</p>
 <h1 align="center">Technical skills</h1>
@@ -87,15 +87,15 @@
 </a>
 </p>
 <h1 align="center">Flex Zone</h1>
-<p>One thing I want to improve on:  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>, to see an other one, click <a href="https://github.com/Charles-Chrismann" target="_self" rel="noreferrer">here</a></p>
+<p>One thing I want to improve on: <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>, to see an other one, click <a href="https://github.com/Charles-Chrismann" target="_self" rel="noreferrer">here</a></p>
 <a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=0&y=0">:black_large_square:</a><a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=1&y=0">:black_large_square:</a><a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=2&y=0">:black_large_square:</a><a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=3&y=0">:black_large_square:</a><a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=4&y=0">:black_large_square:</a><br>
 <a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=0&y=1">:black_large_square:</a><a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=1&y=1">:black_large_square:</a><a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=2&y=1">:black_large_square:</a><a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=3&y=1">:black_large_square:</a><a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=4&y=1">:black_large_square:</a><br>
 <a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=0&y=2">:black_large_square:</a><a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=1&y=2">:black_large_square:</a><a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=2&y=2">:one:</a><a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=3&y=2">:black_large_square:</a><a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=4&y=2">:black_large_square:</a><br>
-<a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=0&y=3">:black_large_square:</a><a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=1&y=3">:black_large_square:</a><a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=2&y=3">:black_large_square:</a><a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=3&y=3">:black_large_square:</a><a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=4&y=3">:black_large_square:</a><br>
+<a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=0&y=3">:black_large_square:</a><a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=1&y=3">:black_large_square:</a><a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=2&y=3">:two:</a><a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=3&y=3">:black_large_square:</a><a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=4&y=3">:black_large_square:</a><br>
 <a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=0&y=4">:black_large_square:</a><a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=1&y=4">:black_large_square:</a><a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=2&y=4">:black_large_square:</a><a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=3&y=4">:black_large_square:</a><a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=4&y=4">:black_large_square:</a><br>
 </p>
 <a href="https://next-lvl-github.herokuapp.com/minesweeper/new">New Game</a>
 <h1 align="center">Work in progress</h1>
 <p align="center">Other features are in progress (minesweeper, g/place, last follower...) feel free to follow me to discover them.</p>
-<p align="center"><img src="https://next-lvl-github.herokuapp.com/slide/random?views=57" alt="work in progress" width="200" height="200"/></p>
+<p align="center"><img src="https://next-lvl-github.herokuapp.com/slide/random?views=58" alt="work in progress" width="200" height="200"/></p>
 <p align="center"><a href="https://github.com/Charles-Chrismann" target="_self" rel="noreferrer">See ya <3</a></p>
