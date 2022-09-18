@@ -1,4 +1,4 @@
-# Hi visitor #NaN
+# Hi visitor #1
 <p>I'm Charles Chrismann !</p>
 <p>I'm a french student in 2nd year in web development at <a href="https://www.iim.fr" target="_blank" rel="noreferrer" title="Institut de l'Internet et du Multimédia">IIM DigitalSchool</a> in Paris.</p>
 <h1 align="center">Technical skills</h1>
@@ -86,22 +86,10 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
 </a>
 </p>
-<h1 align="centre">Flex Zone</h1>
-One thing I want to improve on:  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
-To see an other one, click *[Here](https://github.com/Charles-Chrismann)*
-![See ya](https://next-lvl-github.herokuapp.com/slide/random)
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">blank</a>
-<a href="https://www.photoshop.com/en" target="_self" rel="noreferrer">self</a>
-<img src="https://next-lvl-github.herokuapp.com/slide/random" alt="work in progress" width="40" height="40"/>
-<p align="center">
-<p align="center">
-<p align="center">
-<p align="center">
-<p align="center">
-<a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=0&y=0">:black_large_square:</a><a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=1&y=0">:black_large_square:</a><a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=2&y=0">:black_large_square:</a><a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=3&y=0">:black_large_square:</a><a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=4&y=0">:black_large_square:</a><br>
-<a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=0&y=1">:black_large_square:</a><a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=1&y=1">:black_large_square:</a><a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=2&y=1">:black_large_square:</a><a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=3&y=1">:black_large_square:</a><a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=4&y=1">:black_large_square:</a><br>
-<a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=0&y=2">:black_large_square:</a><a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=1&y=2">:black_large_square:</a><a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=2&y=2">:black_large_square:</a><a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=3&y=2">:black_large_square:</a><a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=4&y=2">:black_large_square:</a><br>
-<a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=0&y=3">:black_large_square:</a><a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=1&y=3">:black_large_square:</a><a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=2&y=3">:black_large_square:</a><a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=3&y=3">:black_large_square:</a><a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=4&y=3">:black_large_square:</a><br>
-<a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=0&y=4">:black_large_square:</a><a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=1&y=4">:black_large_square:</a><a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=2&y=4">:black_large_square:</a><a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=3&y=4">:black_large_square:</a><a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=4&y=4">:black_large_square:</a><br>
-</p>
-<a href="https://next-lvl-github.herokuapp.com/minesweeper/new">New Game</a>
+<h1 align="center">Flex Zone</h1>
+<p>One thing I want to improve on: <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a></p>
+<p>To see an other one, click <a href="https://github.com/Charles-Chrismann" target="_self" rel="noreferrer">here</a></p>
+<h1 align="center">Work in progress</h1>
+<p align="center">Other features are in progress (minesweeper, g/place, last follower...) feel free to follow me to discover them.</p>
+<img src="https://next-lvl-github.herokuapp.com/slide/random" alt="work in progress" width="200" height="200"/>
+<p align="center"><a href="https://github.com/Charles-Chrismann" target="_self" rel="noreferrer">See ya <3</a></p>
