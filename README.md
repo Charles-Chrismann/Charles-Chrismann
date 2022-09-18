@@ -62,7 +62,31 @@
 <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
 </a>
 </p>
-### Tools
+<h3>Tools</h3>
+<p align="left">
+<a href="https://postman.com" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+</a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+</a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+</a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+</a>
+<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
+<img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
+</a>
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
+</a>
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
+</a>
+</p>
+<h1 align="centre">Flex Zone</h1>
 ### Front-end technologies
 ### Front-end technologies
 ### Front-end technologies
@@ -74,7 +98,20 @@
 ### Front-end technologies
 ### Front-end technologies
 ### Front-end technologies
-One thing I want to improve on:  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+### Front-end technologies
+### Front-end technologies
+### Front-end technologies
+### Front-end technologies
+### Front-end technologies
+### Front-end technologies
+### Front-end technologies
+### Front-end technologies
+### Front-end technologies
+### Front-end technologies
+### Front-end technologies
+### Front-end technologies
+### Front-end technologies
+One thing I want to improve on:  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
 To see an other one, click *[Here](https://github.com/Charles-Chrismann)*
 ![See ya](https://next-lvl-github.herokuapp.com/slide/random)
 <p align="center">
