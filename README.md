@@ -1,4 +1,4 @@
-# Hi visitor #80
+# Hi visitor #81
 <p>I'm Charles Chrismann !</p>
 <p>I'm a french student in 2nd year in web development at <a href="https://www.iim.fr" target="_blank" rel="noreferrer" title="Institut de l'Internet et du Multimédia">IIM DigitalSchool</a> in Paris.</p>
 <h1 align="center">Technical skills</h1>
@@ -100,5 +100,5 @@
 <a href="https://next-lvl-github.herokuapp.com/minesweeper/new">New Game</a>
 <h1 align="center">Work in progress</h1>
 <p align="center">Other features are in progress (minesweeper, g/place, last follower...) feel free to follow me to discover them.</p>
-<p align="center"><img src="https://next-lvl-github.herokuapp.com/slide/random?views=81" alt="work in progress" width="200" height="200"/></p>
+<p align="center"><img src="https://next-lvl-github.herokuapp.com/slide/random?views=82" alt="work in progress" width="200" height="200"/></p>
 <p align="center"><a href="https://github.com/Charles-Chrismann" target="_self" rel="noreferrer">See ya <3</a></p>
