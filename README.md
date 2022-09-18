@@ -87,13 +87,8 @@
 </a>
 </p>
 <h1 align="center">Flex Zone</h1>
-<p>One thing I want to improve on: <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a></p>
+<p>One thing I want to improve on: <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a></p>
 <p>To see an other one, click <a href="https://github.com/Charles-Chrismann" target="_self" rel="noreferrer">here</a></p>
-<h1 align="center">Work in progress</h1>
-<p align="center">Other features are in progress (minesweeper, g/place...) feel free to follow me to discover them.</p>
-<img align="center" src="https://next-lvl-github.herokuapp.com/slide/random" alt="work in progress" width="200" height="200"/>
-<h1 align="center"></h1>
-<p align="center"><a href="https://github.com/Charles-Chrismann" target="_self" rel="noreferrer">here</a></p>
 <a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=0&y=0">:black_large_square:</a><a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=1&y=0">:black_large_square:</a><a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=2&y=0">:black_large_square:</a><a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=3&y=0">:black_large_square:</a><a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=4&y=0">:black_large_square:</a><br>
 <a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=0&y=1">:black_large_square:</a><a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=1&y=1">:black_large_square:</a><a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=2&y=1">:black_large_square:</a><a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=3&y=1">:black_large_square:</a><a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=4&y=1">:black_large_square:</a><br>
 <a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=0&y=2">:black_large_square:</a><a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=1&y=2">:black_large_square:</a><a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=2&y=2">:black_large_square:</a><a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=3&y=2">:black_large_square:</a><a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=4&y=2">:black_large_square:</a><br>
@@ -101,3 +96,8 @@
 <a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=0&y=4">:black_large_square:</a><a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=1&y=4">:black_large_square:</a><a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=2&y=4">:black_large_square:</a><a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=3&y=4">:black_large_square:</a><a href="https://next-lvl-github.herokuapp.com/minesweeper/update?x=4&y=4">:black_large_square:</a><br>
 </p>
 <a href="https://next-lvl-github.herokuapp.com/minesweeper/new">New Game</a>
+<h1 align="center">Work in progress</h1>
+<p align="center">Other features are in progress (minesweeper, g/place, last follower...) feel free to follow me to discover them.</p>
+<p align="center"><imgsrc="https://next-lvl-github.herokuapp.com/slide/random" alt="work in progress" width="200" height="200"/></p>
+<h1 align="center"></h1>
+<p align="center"><a href="https://github.com/Charles-Chrismann" target="_self" rel="noreferrer">See ya <3</a></p>
