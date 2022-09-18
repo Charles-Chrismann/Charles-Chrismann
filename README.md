@@ -87,9 +87,9 @@
 </a>
 </p>
 <h1 align="center">Flex Zone</h1>
-<p>One thing I want to improve on: <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a></p>
+<p>One thing I want to improve on: <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a></p>
 <p>To see an other one, click <a href="https://github.com/Charles-Chrismann" target="_self" rel="noreferrer">here</a></p>
 <h1 align="center">Work in progress</h1>
 <p align="center">Other features are in progress (minesweeper, g/place, last follower...) feel free to follow me to discover them.</p>
-<p align="center"><img src="https://next-lvl-github.herokuapp.com/slide/random?views=40" alt="work in progress" width="200" height="200"/></p>
+<p align="center"><img src="https://next-lvl-github.herokuapp.com/slide/random?views=401" alt="work in progress" width="200" height="200"/></p>
 <p align="center"><a href="https://github.com/Charles-Chrismann" target="_self" rel="noreferrer">See ya <3</a></p>
