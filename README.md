@@ -1,4 +1,4 @@
-# Hi visitor #1
+# Hi visitor #undefined
 <p>I'm Charles Chrismann !</p>
 <p>I'm a french student in 2nd year in web development at <a href="https://www.iim.fr" target="_blank" rel="noreferrer" title="Institut de l'Internet et du Multimédia">IIM DigitalSchool</a> in Paris.</p>
 <h1 align="center">Technical skills</h1>
@@ -87,9 +87,9 @@
 </a>
 </p>
 <h1 align="center">Flex Zone</h1>
-<p>One thing I want to improve on:  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a></p>
+<p>One thing I want to improve on:  <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a></p>
 <p>To see an other one, click <a href="https://github.com/Charles-Chrismann" target="_self" rel="noreferrer">here</a></p>
 <h1 align="center">Work in progress</h1>
 <p align="center">Other features are in progress (minesweeper, g/place, last follower...) feel free to follow me to discover them.</p>
-<p align="center"><img src="https://next-lvl-github.herokuapp.com/slide/random" alt="work in progress" width="200" height="200"/></p>
+<p align="center"><img src="https://next-lvl-github.herokuapp.com/slide/random?views=undefined" alt="work in progress" width="200" height="200"/></p>
 <p align="center"><a href="https://github.com/Charles-Chrismann" target="_self" rel="noreferrer">See ya <3</a></p>
