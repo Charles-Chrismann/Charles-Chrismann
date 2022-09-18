@@ -111,7 +111,7 @@
 ### Front-end technologies
 ### Front-end technologies
 ### Front-end technologies
-One thing I want to improve on: <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
+One thing I want to improve on: <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a>
 To see an other one, click *[Here](https://github.com/Charles-Chrismann)*
 ![See ya](https://next-lvl-github.herokuapp.com/slide/random)
 <p align="center">
