@@ -1,4 +1,4 @@
-# :wave: - Hi visitor #27
+# :wave: - Hi visitor #28
 <h3>I'm Charles Chrismann !</h3>
 <p>I'm a french student in 2nd year in web development at <a href="https://www.iim.fr" target="_blank" rel="noreferrer" title="Institut de l'Internet et du Multimédia">IIM DigitalSchool</a> in Paris.</p>
 <p>:mag: - I am looking for an internship for a period of around 3 months, and then a work-study program for a period of 1 to 3 years in the field of web development.</p>
@@ -116,7 +116,7 @@
 </p>
 <h3 align="center"><a href="https://next-lvl-github.herokuapp.com/minesweeper/new">New Game</a></h3>
 <p><ins>Post-Scriptum:</ins> I know ! I know that in the classic game discovering an empty square discovers all those around it, shame on me, I'm bad at algorithms, I'm bad at recursion, I'm a bad developer.</p>
-<p align="center"><img src="https://next-lvl-github.herokuapp.com/slide/random?views=28" alt="work in progress" width="200" height="200"/></p>
+<p align="center"><img src="https://next-lvl-github.herokuapp.com/slide/random?views=29" alt="work in progress" width="200" height="200"/></p>
 <h1 align="center">Work in progress</h1>
 <p align="center">Other features are in progress (minesweeper, g/place, last follower...) feel free to follow me to discover them.</p>
 <p align="center"><a href="https://github.com/Charles-Chrismann" target="_self" rel="noreferrer">See ya <3</a></p>
