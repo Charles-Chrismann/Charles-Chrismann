@@ -95,7 +95,7 @@
 </a>
 </p>
 <h1 align="center">Flex Zone</h1>
-<p>One thing I want to improve on:  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>, to see an other one, click <a href="https://github.com/Charles-Chrismann" target="_self" rel="noreferrer">here</a></p>
+<p>One thing I want to improve on: <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a>, to see an other one, click <a href="https://github.com/Charles-Chrismann" target="_self" rel="noreferrer">here</a></p>
 <h3 align="center">A classic Minesweeper</h3>
 <p><ins>How to play:</ins> due to markdown software limitation, you need to clink the those wonderful black squares (hint: ctrl + click opens a new tab, you just need to close it afterwards) then <a href="https://github.com/Charles-Chrismann" target="_self" rel="noreferrer">refresh the page</a>.</p>
 <p align="center">
