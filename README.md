@@ -1,4 +1,4 @@
-# :wave: - Hi visitor #175
+# :wave: - Hi visitor #176
 <h3>I'm Charles Chrismann !</h3>
 <p>I'm a french student in 2nd year in web development at <a href="https://www.iim.fr" target="_blank" rel="noreferrer" title="Institut de l'Internet et du Multimédia">IIM DigitalSchool</a> in Paris.</p>
 <p>:mag: - I am looking for an internship for a period of around 3 months, and then a work-study program for a period of 1 to 3 years in the field of web development.</p>
@@ -95,7 +95,7 @@
 </a>
 </p>
 <h1 align="center">Flex Zone</h1>
-<p>One thing I want to improve on:  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>, to see an other one, click <a href="https://github.com/Charles-Chrismann" target="_self" rel="noreferrer">here</a></p>
+<p>One thing I want to improve on:  <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a>, to see an other one, click <a href="https://github.com/Charles-Chrismann" target="_self" rel="noreferrer">here</a></p>
 <h3 align="center">A classic Minesweeper</h3>
 <p><ins>How to play:</ins> due to markdown software limitation, you need to clink the those wonderful black squares (hint: ctrl + click opens a new tab, you just need to close it afterwards) then <a href="https://github.com/Charles-Chrismann" target="_self" rel="noreferrer">refresh the page</a>.</p>
 <p align="center">
@@ -116,7 +116,7 @@
 </p>
 <h3 align="center"><a href="https://next-lvl-github.herokuapp.com/minesweeper/new">New Game</a></h3>
 <p><ins>Post-Scriptum:</ins> I know ! I know that in the classic game discovering an empty square discovers all those around it, shame on me, I'm bad at algorithms, I'm bad at recursion, I'm a bad developer.</p>
-<p align="center"><img src="https://next-lvl-github.herokuapp.com/slide/random?views=176" alt="work in progress" width="200" height="200"/></p>
+<p align="center"><img src="https://next-lvl-github.herokuapp.com/slide/random?views=177" alt="work in progress" width="200" height="200"/></p>
 <h1 align="center">Work in progress</h1>
 <p align="center">Other features are in progress (minesweeper, g/place, last follower...) feel free to follow me to discover them.</p>
 <p align="center"><a href="https://github.com/Charles-Chrismann" target="_self" rel="noreferrer">See ya <3</a></p>
