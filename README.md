@@ -13,12 +13,12 @@
             <tr>
                 <td align="center"></td>
                 <td align="center"></td>
-                <td align="center">a</td>
-                <td align="center">b</td>
-                <td align="center">c</td>
-                <td align="center">d</td>
-                <td align="center">e</td>
-                <td align="center">f</td>
-                <td align="center">g</td>
-                <td align="center">h</td>
+                <td align="center">🇦</td>
+                <td align="center">🇧</td>
+                <td align="center">🇨</td>
+                <td align="center">🇩</td>
+                <td align="center">🇪</td>
+                <td align="center">🇫</td>
+                <td align="center">🇬</td>
+                <td align="center">🇭</td>
             </tr></tbody></table><h3 align="center"><a href="http://aws.charles-chrismann.fr/chess/new">Reset Game</a></h3><h1 align="center">Work in progress</h1><p align="center">Other features are in progress, feel free to follow me to discover them.</p><p align="center"><img align="center" src="http://aws.charles-chrismann.fr/trigger" alt="work in progress" width="256" /></p><p align="center"><a href="https://github.com/Charles-Chrismann">See ya <3</a></p>
