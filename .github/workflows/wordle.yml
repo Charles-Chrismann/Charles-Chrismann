@@ -9,7 +9,7 @@ jobs:
     steps:
       - name: wordle
         run: |
-          sentence=${{ github.event.issue.title }}
+          sentence="${{ github.event.issue.title }}"
           words=($sentence)
           echo "words : ${words[@]}"
           
