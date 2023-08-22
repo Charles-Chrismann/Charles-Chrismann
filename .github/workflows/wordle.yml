@@ -15,4 +15,4 @@ jobs:
           
           curl_data="{\"guess\":\"${words[1]}\", \"GH_ACTION_TRUST\":\"${{ secrets.GH_ACTION_TRUST }}\", \"issuer\": \"${{ github.event.issue.user.login }}\", \"issuerId\": ${{ github.event.issue.user.id }}}"
           echo "running curl : curl -d '$curl_data' -H \"Content-Type: application/json\" -X POST http://aws.charles-chrismann.fr/wordle/guess"
-          curl -d "$curl_data" -H \"Content-Type: application/json\" -X POST http://aws.charles-chrismann.fr/wordle/guess
+          curl -d '{"guess":"${words[1]}", "GH_ACTION_TRUST":"${{ secrets.GH_ACTION_TRUST }}", "issuer": "${{ github.event.issue.user.login }}", "issuerId": ${{ github.event.issue.user.id }}}' -H "Content-Type: application/json" -X POST http://aws.charles-chrismann.fr/wordle/guess
