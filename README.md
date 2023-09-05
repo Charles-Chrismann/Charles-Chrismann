@@ -401,7 +401,8 @@
       <th colspan="5">Wordle</th><th>Player</th>
     </tr>
   </thead>
-  <tbody>    <tr>
+  <tbody>
+    <tr>
       <td>‎ </td>
       <td>‎ </td>
       <td>‎ </td>
@@ -437,7 +438,6 @@
       </td>
       <td align="center">4</td>
     </tr>
-
   </tbody>
 </table>
 
@@ -448,6 +448,8 @@
 <p align="center">To understand how it works, take a look <a href="https://github.com/Charles-Chrismann/dynamic-readme" target="_blank" rel="noreferrer" title="github dynalic readme">here</a></p>
 <p align="center">
   <img align="center" src="http://aws.charles-chrismann.fr/trigger" alt="work in progress" width="256" />
-</p><p align="center">
+</p>
+<p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
-</p><p align="right">Generated in 0.421s on Tue Sep 5 at 22:38</p>
+</p>
+<p align="right">Generated in 0.465s on Tue Sep 5 at 22:41</p>
