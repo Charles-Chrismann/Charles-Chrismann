@@ -20,38 +20,38 @@
   </thead>
   <tbody>
     <tr>
-    <td align="center">18</td>
-    <td align="center">
-      <a href="https://github.com/FannyGautierr" target="_blank">
-      <img src="https://avatars.githubusercontent.com/u/55425039?u=b626a7e1e01d4dcc355433aff91719b19302cd6c&v=4" alt="FannyGautierr" width="40" height="40"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/FannyGautierr" target="_blank">FannyGautierr</a>
-    </td>
-  </tr>
+      <td align="center">18</td>
+      <td align="center">
+        <a href="https://github.com/FannyGautierr" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/55425039?u=b626a7e1e01d4dcc355433aff91719b19302cd6c&v=4" alt="FannyGautierr" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/FannyGautierr" target="_blank">FannyGautierr</a>
+      </td>
+    </tr>
     <tr>
-    <td align="center">19</td>
-    <td align="center">
-      <a href="https://github.com/Arthur-Prudhomme" target="_blank">
-      <img src="https://avatars.githubusercontent.com/u/86523707?u=c472ceedd8a174930bc89a2222382c8e22e25020&v=4" alt="Arthur-Prudhomme" width="40" height="40"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Arthur-Prudhomme" target="_blank">Arthur-Prudhomme</a>
-    </td>
-  </tr>
+      <td align="center">19</td>
+      <td align="center">
+        <a href="https://github.com/Arthur-Prudhomme" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/86523707?u=c472ceedd8a174930bc89a2222382c8e22e25020&v=4" alt="Arthur-Prudhomme" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Arthur-Prudhomme" target="_blank">Arthur-Prudhomme</a>
+      </td>
+    </tr>
     <tr>
-    <td align="center">20</td>
-    <td align="center">
-      <a href="https://github.com/Foword5" target="_blank">
-      <img src="https://avatars.githubusercontent.com/u/84903360?u=b29247bb05cede4cbcf0061e330d61cedcfdb31f&v=4" alt="Foword5" width="40" height="40"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Foword5" target="_blank">Foword5</a>
-    </td>
-  </tr>
+      <td align="center">20</td>
+      <td align="center">
+        <a href="https://github.com/Foword5" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/84903360?u=b29247bb05cede4cbcf0061e330d61cedcfdb31f&v=4" alt="Foword5" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Foword5" target="_blank">Foword5</a>
+      </td>
+    </tr>
     <tr>
       <td align="center">21</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
@@ -254,4 +254,4 @@
 
 <hr>
 
-<h1 align="center">Work in progress</h1><p align="center">Other features are in progress, feel free to follow me to discover them.</p><p align="center">To understand how it works, take a look <a href="https://github.com/Charles-Chrismann/dynamic-readme" target="_blank" rel="noreferrer" title="github dynalic readme">here</a></p><p align="center"><img align="center" src="http://aws.charles-chrismann.fr/trigger" alt="work in progress" width="256" /></p><p align="center"><a href="https://github.com/Charles-Chrismann">See ya <3</a></p><p align="right">Generated in 0.406s on Tue Sep 5 at 22:00</p>
+<h1 align="center">Work in progress</h1><p align="center">Other features are in progress, feel free to follow me to discover them.</p><p align="center">To understand how it works, take a look <a href="https://github.com/Charles-Chrismann/dynamic-readme" target="_blank" rel="noreferrer" title="github dynalic readme">here</a></p><p align="center"><img align="center" src="http://aws.charles-chrismann.fr/trigger" alt="work in progress" width="256" /></p><p align="center"><a href="https://github.com/Charles-Chrismann">See ya <3</a></p><p align="right">Generated in 0.431s on Tue Sep 5 at 22:01</p>
