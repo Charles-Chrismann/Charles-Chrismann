@@ -30,7 +30,7 @@
       <a href="https://github.com/FannyGautierr" target="_blank">FannyGautierr</a>
     </td>
   </tr>
-,  <tr>
+  <tr>
     <td align="center">19</td>
     <td align="center">
       <a href="https://github.com/Arthur-Prudhomme" target="_blank">
@@ -41,7 +41,7 @@
       <a href="https://github.com/Arthur-Prudhomme" target="_blank">Arthur-Prudhomme</a>
     </td>
   </tr>
-,  <tr>
+  <tr>
     <td align="center">20</td>
     <td align="center">
       <a href="https://github.com/Foword5" target="_blank">
@@ -249,4 +249,4 @@
 
 <hr>
 
-<h1 align="center">Work in progress</h1><p align="center">Other features are in progress, feel free to follow me to discover them.</p><p align="center">To understand how it works, take a look <a href="https://github.com/Charles-Chrismann/dynamic-readme" target="_blank" rel="noreferrer" title="github dynalic readme">here</a></p><p align="center"><img align="center" src="http://aws.charles-chrismann.fr/trigger" alt="work in progress" width="256" /></p><p align="center"><a href="https://github.com/Charles-Chrismann">See ya <3</a></p><p align="right">Generated in 0.433s on Tue Sep 5 at 21:55</p>
+<h1 align="center">Work in progress</h1><p align="center">Other features are in progress, feel free to follow me to discover them.</p><p align="center">To understand how it works, take a look <a href="https://github.com/Charles-Chrismann/dynamic-readme" target="_blank" rel="noreferrer" title="github dynalic readme">here</a></p><p align="center"><img align="center" src="http://aws.charles-chrismann.fr/trigger" alt="work in progress" width="256" /></p><p align="center"><a href="https://github.com/Charles-Chrismann">See ya <3</a></p><p align="right">Generated in 0.405s on Tue Sep 5 at 21:56</p>
