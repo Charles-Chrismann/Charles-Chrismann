@@ -26,11 +26,9 @@
 <hr>
 
 <h3 align="center">A classic Chess</h3>
-
 <p align="center">
   <img width="256" src="http://aws.charles-chrismann.fr/board.png" />
 </p>
-
 <p align="center">It's White's turn</p>
 
 <table align="center">
@@ -199,4 +197,4 @@
   <a href="http://aws.charles-chrismann.fr/chess/new">Reset Game</a>
 </h3>
 
-<hr><h1 align="center">Work in progress</h1><p align="center">Other features are in progress, feel free to follow me to discover them.</p><p align="center">To understand how it works, take a look <a href="https://github.com/Charles-Chrismann/dynamic-readme" target="_blank" rel="noreferrer" title="github dynalic readme">here</a></p><p align="center"><img align="center" src="http://aws.charles-chrismann.fr/trigger" alt="work in progress" width="256" /></p><p align="center"><a href="https://github.com/Charles-Chrismann">See ya <3</a></p><p align="right">Generated in 0.38s on Tue Sep 5 at 21:24</p>
+<hr><h1 align="center">Work in progress</h1><p align="center">Other features are in progress, feel free to follow me to discover them.</p><p align="center">To understand how it works, take a look <a href="https://github.com/Charles-Chrismann/dynamic-readme" target="_blank" rel="noreferrer" title="github dynalic readme">here</a></p><p align="center"><img align="center" src="http://aws.charles-chrismann.fr/trigger" alt="work in progress" width="256" /></p><p align="center"><a href="https://github.com/Charles-Chrismann">See ya <3</a></p><p align="right">Generated in 0.435s on Tue Sep 5 at 21:42</p>
