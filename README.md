@@ -335,7 +335,7 @@
   <a href="http://aws.charles-chrismann.fr/minesweeper/click?x=0&y=7">:black_large_square:</a>
   <a href="http://aws.charles-chrismann.fr/minesweeper/click?x=1&y=7">:black_large_square:</a>
   <a href="http://aws.charles-chrismann.fr/minesweeper/click?x=2&y=7">:black_large_square:</a>
-  <a href="http://aws.charles-chrismann.fr/minesweeper/click?x=3&y=7">:black_large_square:</a>
+  <span>:two:</span>
   <a href="http://aws.charles-chrismann.fr/minesweeper/click?x=4&y=7">:black_large_square:</a>
   <span>:one:</span>
   <span>:white_large_square:</span>
@@ -466,7 +466,9 @@
   <span>:white_large_square:</span>
 </p>
 <p align="center">Keep clearing, there are still many mines left.</p>
-<h3 align="center">
+<p align="center">
+  <img width="256" src="http://aws.charles-chrismann.fr/minesweeper.gif" />
+</p><h3 align="center">
   <a href="http://aws.charles-chrismann.fr/minesweeper/new">Reset Game</a>
 </h3>
 
@@ -654,4 +656,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.096s on Fri Sep 8 at 8:35</p>
+<p align="right">Generated in 0.205s on Fri Sep 8 at 8:35</p>
