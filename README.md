@@ -652,6 +652,55 @@
 
 <hr>
 
+<h3 align="center">A classic Wordle</h3>
+<table align="center">
+  <thead>
+    <tr>
+      <th colspan="5">Wordle</th><th>Player</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>‎ </td>
+      <td>‎ </td>
+      <td>‎ </td>
+      <td>‎ </td>
+      <td>‎ </td>
+      <td>
+        <a href="https://github.com/Charles-Chrismann/Charles-Chrismann/issues/new?body=Please+only+add+your+word+to+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Wordle%3A+">Submit a word</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<table align="center">
+  <thead>
+    <tr>
+      <th colspan="4">Scoreboard</th>
+    </tr>
+    <tr>
+      <th>Rank</th>
+      <th colspan="2">Player</th>
+      <th>Wins</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">1</td>
+      <td align="center">
+        <a href="https://github.com/Charles-Chrismann">
+          <img src="https://avatars.githubusercontent.com/u/78157563?size=32">
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Charles-Chrismann">@Charles-Chrismann</a>
+      </td>
+      <td align="center">4</td>
+    </tr>
+  </tbody>
+</table>
+
+<hr>
+
 <h1 align="center">Work in progress</h1>
 <p align="center">Other features are in progress, feel free to follow me to discover them.</p>
 <p align="center">To understand how it works, take a look <a href="https://github.com/Charles-Chrismann/dynamic-readme" target="_blank" rel="noreferrer" title="github dynalic readme">here</a></p>
@@ -661,4 +710,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.968s on Fri Sep 8 at 18:36</p>
+<p align="right">Generated in 0.985s on Fri Sep 8 at 22:00</p>
