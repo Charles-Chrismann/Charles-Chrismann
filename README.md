@@ -700,6 +700,15 @@
         <a href="https://github.com/Charles-Chrismann">@Charles-Chrismann</a></
       td>
     </tr>
+    <tr>      <td>$\text{\color{lightgreen}{R}}$</td>
+      <td>$\text{\color{lightgreen}{O}}$</td>
+      <td>$\text{\color{white}{J}}$</td>
+      <td>$\text{\color{lightgreen}{E}}$</td>
+      <td>$\text{\color{lightgreen}{R}}$</td>
+      <td>
+        <a href="https://github.com/Foword5">@Foword5</a></
+      td>
+    </tr>
     <tr>
       <td>‎ </td>
       <td>‎ </td>
@@ -750,4 +759,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.061s on Fri Oct 6 at 14:48</p>
+<p align="right">Generated in 0.119s on Fri Oct 6 at 14:49</p>
