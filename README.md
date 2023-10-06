@@ -709,6 +709,15 @@
         <a href="https://github.com/Foword5">@Foword5</a></
       td>
     </tr>
+    <tr>      <td>$\text{\color{lightgreen}{R}}$</td>
+      <td>$\text{\color{lightgreen}{O}}$</td>
+      <td>$\text{\color{lightgreen}{G}}$</td>
+      <td>$\text{\color{lightgreen}{E}}$</td>
+      <td>$\text{\color{lightgreen}{R}}$</td>
+      <td>
+        <a href="https://github.com/Foword5">@Foword5</a></
+      td>
+    </tr>
     <tr>
       <td>‎ </td>
       <td>‎ </td>
@@ -745,6 +754,18 @@
       </td>
       <td align="center">4</td>
     </tr>
+,    <tr>
+      <td align="center">2</td>
+      <td align="center">
+        <a href="https://github.com/Foword5">
+          <img src="https://avatars.githubusercontent.com/u/84903360?size=32">
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Foword5">@Foword5</a>
+      </td>
+      <td align="center">1</td>
+    </tr>
   </tbody>
 </table>
 
@@ -759,4 +780,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.119s on Fri Oct 6 at 14:49</p>
+<p align="right">Generated in 0.06s on Fri Oct 6 at 14:49</p>
