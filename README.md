@@ -707,6 +707,15 @@
         <a href="https://github.com/Foword5">@Foword5</a></
       td>
     </tr>
+    <tr>      <td>$\text{\color{lightgreen}{T}}$</td>
+      <td>$\text{\color{lightgreen}{E}}$</td>
+      <td>$\text{\color{lightgreen}{D}}$</td>
+      <td>$\text{\color{lightgreen}{D}}$</td>
+      <td>$\text{\color{lightgreen}{Y}}$</td>
+      <td>
+        <a href="https://github.com/Foword5">@Foword5</a></
+      td>
+    </tr>
     <tr>
       <td>‎ </td>
       <td>‎ </td>
@@ -753,7 +762,7 @@
       <td>
         <a href="https://github.com/Foword5">@Foword5</a>
       </td>
-      <td align="center">1</td>
+      <td align="center">2</td>
     </tr>
   </tbody>
 </table>
@@ -769,4 +778,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.081s on Mon Oct 9 at 14:41</p>
+<p align="right">Generated in 0.08s on Mon Oct 9 at 14:42</p>
