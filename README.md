@@ -655,69 +655,6 @@
     </tr>
   </thead>
   <tbody>
-    <tr>      <td>$\text{\color{white}{C}}$</td>
-      <td>$\text{\color{white}{R}}$</td>
-      <td>$\text{\color{white}{A}}$</td>
-      <td>$\text{\color{white}{N}}$</td>
-      <td>$\text{\color{orange}{E}}$</td>
-      <td>
-        <a href="https://github.com/Charles-Chrismann">@Charles-Chrismann</a></
-      td>
-    </tr>
-    <tr>      <td>$\text{\color{white}{P}}$</td>
-      <td>$\text{\color{lightgreen}{E}}$</td>
-      <td>$\text{\color{white}{N}}$</td>
-      <td>$\text{\color{white}{I}}$</td>
-      <td>$\text{\color{white}{S}}$</td>
-      <td>
-        <a href="https://github.com/Foword5">@Foword5</a></
-      td>
-    </tr>
-    <tr>      <td>$\text{\color{white}{B}}$</td>
-      <td>$\text{\color{lightgreen}{E}}$</td>
-      <td>$\text{\color{white}{B}}$</td>
-      <td>$\text{\color{white}{O}}$</td>
-      <td>$\text{\color{white}{U}}$</td>
-      <td>
-        <a href="https://github.com/Foword5">@Foword5</a></
-      td>
-    </tr>
-    <tr>      <td>$\text{\color{white}{M}}$</td>
-      <td>$\text{\color{lightgreen}{E}}$</td>
-      <td>$\text{\color{white}{W}}$</td>
-      <td>$\text{\color{lightgreen}{D}}$</td>
-      <td>$\text{\color{white}{K}}$</td>
-      <td>
-        <a href="https://github.com/Foword5">@Foword5</a></
-      td>
-    </tr>
-    <tr>      <td>$\text{\color{white}{F}}$</td>
-      <td>$\text{\color{white}{G}}$</td>
-      <td>$\text{\color{white}{H}}$</td>
-      <td>$\text{\color{white}{J}}$</td>
-      <td>$\text{\color{white}{L}}$</td>
-      <td>
-        <a href="https://github.com/Foword5">@Foword5</a></
-      td>
-    </tr>
-    <tr>      <td>$\text{\color{lightgreen}{T}}$</td>
-      <td>$\text{\color{white}{Q}}$</td>
-      <td>$\text{\color{white}{V}}$</td>
-      <td>$\text{\color{white}{X}}$</td>
-      <td>$\text{\color{lightgreen}{Y}}$</td>
-      <td>
-        <a href="https://github.com/Foword5">@Foword5</a></
-      td>
-    </tr>
-    <tr>      <td>$\text{\color{lightgreen}{T}}$</td>
-      <td>$\text{\color{lightgreen}{E}}$</td>
-      <td>$\text{\color{lightgreen}{D}}$</td>
-      <td>$\text{\color{lightgreen}{D}}$</td>
-      <td>$\text{\color{lightgreen}{Y}}$</td>
-      <td>
-        <a href="https://github.com/Foword5">@Foword5</a></
-      td>
-    </tr>
     <tr>
       <td>‎ </td>
       <td>‎ </td>
@@ -780,4 +717,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.154s on Mon Oct 9 at 19:17</p>
+<p align="right">Generated in 0.087s on Mon Oct 9 at 22:00</p>
