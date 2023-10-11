@@ -475,7 +475,177 @@
 
 <hr>
 
-[object Promise][object Promise]<h1 align="center">Work in progress</h1>
+<h3 align="center">A classic Chess</h3>
+<p align="center">
+  <img width="256" src="http://aws.charles-chrismann.fr/board.png" />
+</p>
+<p align="center">It's White's turn</p>
+<table align="center">
+  <tbody>
+    <tr>
+      <td align="center">:eight:</td>
+      <td align="center">♜      </td>
+      <td align="center">♞      </td>
+      <td align="center">♝      </td>
+      <td align="center">♛      </td>
+      <td align="center">♚      </td>
+      <td align="center">♝      </td>
+      <td align="center">♞      </td>
+      <td align="center">♜      </td>
+    </tr>
+    <tr>
+      <td align="center">:seven:</td>
+      <td align="center">♟      </td>
+      <td align="center">♟      </td>
+      <td align="center">♟      </td>
+      <td align="center">♟      </td>
+      <td align="center">♟      </td>
+      <td align="center">♟      </td>
+      <td align="center">♟      </td>
+      <td align="center">♟      </td>
+    </tr>
+    <tr>
+      <td align="center">:six:</td>
+      <td align="center">‎       </td>
+      <td align="center">‎       </td>
+      <td align="center">‎       </td>
+      <td align="center">‎       </td>
+      <td align="center">‎       </td>
+      <td align="center">‎       </td>
+      <td align="center">‎       </td>
+      <td align="center">‎       </td>
+    </tr>
+    <tr>
+      <td align="center">:five:</td>
+      <td align="center">‎       </td>
+      <td align="center">‎       </td>
+      <td align="center">‎       </td>
+      <td align="center">‎       </td>
+      <td align="center">‎       </td>
+      <td align="center">‎       </td>
+      <td align="center">‎       </td>
+      <td align="center">‎       </td>
+    </tr>
+    <tr>
+      <td align="center">:four:</td>
+      <td align="center">‎       </td>
+      <td align="center">‎       </td>
+      <td align="center">‎       </td>
+      <td align="center">‎       </td>
+      <td align="center">‎       </td>
+      <td align="center">‎       </td>
+      <td align="center">‎       </td>
+      <td align="center">‎       </td>
+    </tr>
+    <tr>
+      <td align="center">:three:</td>
+      <td align="center">‎       </td>
+      <td align="center">‎       </td>
+      <td align="center">‎       </td>
+      <td align="center">‎       </td>
+      <td align="center">‎       </td>
+      <td align="center">‎       </td>
+      <td align="center">‎       </td>
+      <td align="center">‎       </td>
+    </tr>
+    <tr>
+      <td align="center">:two:</td>
+      <td align="center">♙      </td>
+      <td align="center">♙      </td>
+      <td align="center">♙      </td>
+      <td align="center">♙      </td>
+      <td align="center">♙      </td>
+      <td align="center">♙      </td>
+      <td align="center">♙      </td>
+      <td align="center">♙      </td>
+    </tr>
+    <tr>
+      <td align="center">:one:</td>
+      <td align="center">♖      </td>
+      <td align="center">♘      </td>
+      <td align="center">♗      </td>
+      <td align="center">♕      </td>
+      <td align="center">♔      </td>
+      <td align="center">♗      </td>
+      <td align="center">♘      </td>
+      <td align="center">♖      </td>
+    </tr>
+  <tr>
+    <td align="center"></td>
+    <td align="center">🇦</td>
+    <td align="center">🇧</td>
+    <td align="center">🇨</td>
+    <td align="center">🇩</td>
+    <td align="center">🇪</td>
+    <td align="center">🇫</td>
+    <td align="center">🇬</td>
+    <td align="center">🇭</td>
+    </tr>
+  </tbody>
+</table><h3 align="center">
+<a href="http://aws.charles-chrismann.fr/chess/new">Reset Game</a>
+</h3>
+
+<hr>
+
+<h3 align="center">A classic Wordle</h3>
+<table align="center">
+  <thead>
+    <tr>
+      <th colspan="5">Wordle</th><th>Player</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>$\text{\color{orange}{A}}$</td>
+      <td>$\text{\color{lightgreen}{L}}$</td>
+      <td>$\text{\color{white}{O}}$</td>
+      <td>$\text{\color{white}{U}}$</td>
+      <td>$\text{\color{white}{D}}$</td>
+      <td>
+        <a href="https://github.com/kyky">@kyky</a>
+      </td>
+    </tr>
+    <tr>
+      <td>$\text{\color{red}{S}}$</td>
+      <td>$\text{\color{red}{S}}$</td>
+      <td>$\text{\color{red}{S}}$</td>
+      <td>$\text{\color{red}{S}}$</td>
+      <td>$\text{\color{red}{S}}$</td>
+      <td>
+        <a href="https://github.com/kyky">@kyky</a>
+      </td>
+    </tr>
+    <tr>
+      <td>‎ </td>
+      <td>‎ </td>
+      <td>‎ </td>
+      <td>‎ </td>
+      <td>‎ </td>
+      <td>
+        <a href="https://github.com/Charles-Chrismann/Charles-Chrismann/issues/new?body=Please+only+add+your+word+to+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Wordle%3A+">Submit a word</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<table align="center">
+  <thead>
+    <tr>
+      <th colspan="4">Scoreboard</th>
+    </tr>
+    <tr>
+      <th>Rank</th>
+      <th colspan="2">Player</th>
+      <th>Wins</th>
+    </tr>
+  </thead>
+  <tbody>
+  </tbody>
+</table>
+
+<hr>
+
+<h1 align="center">Work in progress</h1>
 <p align="center">Other features are in progress, feel free to follow me to discover them.</p>
 <p align="center">To understand how it works, take a look <a href="https://github.com/Charles-Chrismann/dynamic-readme" target="_blank" rel="noreferrer" title="github dynalic readme">here</a></p>
 <p align="center">
@@ -484,4 +654,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.327s on Wed Oct 11 at 22:46</p>
+<p align="right">Generated in 0.552s on Wed Oct 11 at 22:48</p>
