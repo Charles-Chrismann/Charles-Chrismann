@@ -479,7 +479,7 @@
 <p align="center">
   <img width="256" src="http://aws-ubu.charles-chrismann.fr/board.png" />
 </p>
-<p align="center">It's Black's turn</p>
+<p align="center">It's White's turn</p>
 <table align="center">
   <tbody>
     <tr>
@@ -539,7 +539,7 @@
     </tr>
     <tr>
       <td align="center">:three:</td>
-      <td align="center">♙      </td>
+      <td align="center">‎       </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
@@ -550,7 +550,7 @@
     </tr>
     <tr>
       <td align="center">:two:</td>
-      <td align="center">‎       </td>
+      <td align="center">♙      </td>
       <td align="center">♙      </td>
       <td align="center">♙      </td>
       <td align="center">♙      </td>
@@ -634,4 +634,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.145s on Wed Oct 11 at 23:23</p>
+<p align="right">Generated in 0.074s on Wed Oct 11 at 23:23</p>
