@@ -597,26 +597,6 @@
   </thead>
   <tbody>
     <tr>
-      <td>$\text{\color{orange}{A}}$</td>
-      <td>$\text{\color{lightgreen}{L}}$</td>
-      <td>$\text{\color{white}{O}}$</td>
-      <td>$\text{\color{white}{U}}$</td>
-      <td>$\text{\color{white}{D}}$</td>
-      <td>
-        <a href="https://github.com/kyky">@kyky</a>
-      </td>
-    </tr>
-    <tr>
-      <td>$\text{\color{red}{S}}$</td>
-      <td>$\text{\color{red}{S}}$</td>
-      <td>$\text{\color{red}{S}}$</td>
-      <td>$\text{\color{red}{S}}$</td>
-      <td>$\text{\color{red}{S}}$</td>
-      <td>
-        <a href="https://github.com/kyky">@kyky</a>
-      </td>
-    </tr>
-    <tr>
       <td>‎ </td>
       <td>‎ </td>
       <td>‎ </td>
@@ -654,4 +634,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.552s on Wed Oct 11 at 22:48</p>
+<p align="right">Generated in 0.501s on Wed Oct 11 at 22:53</p>
