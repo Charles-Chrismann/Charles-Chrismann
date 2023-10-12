@@ -206,7 +206,7 @@
     <img src="./assets/gameboy/left.jpg" height="144" width="69.5">
   </a>
   <a href="#">
-    <img src="http://aws-v.charles-chrismann.fr/gameboy/frame?a=hytft" width="160" height="144">
+    <img src="http://aws-v.charles-chrismann.fr/gameboy/frame?a=8ruqgj" width="160" height="144">
   </a>
   <a href="#">
     <img src="./assets/gameboy/right.jpg" height="144" width="69.5">
