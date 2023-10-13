@@ -198,38 +198,38 @@
 </p>
 <h1 align="center">Flex Zone</h1>
 <h3 align="center">GitHub Plays Pokemon ?</h3>
-<p align="center">  <a href="#">
+<p align="center">  <a href="http://aws-v.charles-chrismann.fr/gameboy/input">
     <img src="./assets/gameboy/top.png" width="308">
   </a>
   <br>
-  <a href="#">
+  <a href="http://aws-v.charles-chrismann.fr/gameboy/input">
     <img src="./assets/gameboy/left.jpg" height="144" width="69.5">
   </a>
-  <a href="#">
+  <a href="http://aws-v.charles-chrismann.fr/gameboy/input">
     <img src="http://aws-v.charles-chrismann.fr/gameboy/doframe" width="160" height="144">
   </a>
-  <a href="#">
+  <a href="http://aws-v.charles-chrismann.fr/gameboy/input">
     <img src="./assets/gameboy/right.jpg" height="144" width="69.5">
   </a>
   <br>
-  <a href="#">
+  <a href="http://aws-v.charles-chrismann.fr/gameboy/input">
     <img src="./assets/gameboy/bot-screen.jpg" width="308">
   </a>
   <br>
-  <a href="#">
+  <a href="http://aws-v.charles-chrismann.fr/gameboy/input">
     <img src="./assets/gameboy/rect.jpg" width="47" height="36">
   </a>
   <a href="http://aws-v.charles-chrismann.fr/gameboy/input?input=up">
     <img src="./assets/gameboy/croix-top.jpg" height="36">
   </a>
-  <a href="#">
+  <a href="http://aws-v.charles-chrismann.fr/gameboy/input">
     <img src="./assets/gameboy/rect.jpg" width="226.5" height="36">
   </a>
   <br>
   <a href="http://aws-v.charles-chrismann.fr/gameboy/input?input=left">
     <img src="./assets/gameboy/croix-left.jpg" height="26">
   </a>
-  <a href="#">
+  <a href="http://aws-v.charles-chrismann.fr/gameboy/input">
     <img src="./assets/gameboy/croix-mid.jpg" height="26">
   </a>
   <a href="http://aws-v.charles-chrismann.fr/gameboy/input?input=right">
@@ -242,17 +242,17 @@
     <img src="./assets/gameboy/a.jpg" height="26">
   </a>
   <br>
-  <a href="#">
+  <a href="http://aws-v.charles-chrismann.fr/gameboy/input">
     <img src="./assets/gameboy/rect.jpg" width="47" height="36">
   </a>
   <a href="http://aws-v.charles-chrismann.fr/gameboy/input?input=down">
     <img src="./assets/gameboy/croix-bot.jpg" height="36">
   </a>
-  <a href="#">
+  <a href="http://aws-v.charles-chrismann.fr/gameboy/input">
     <img src="./assets/gameboy/rect.jpg" width="226.5" height="36">
   </a>
   <br>
-  <a href="#">
+  <a href="http://aws-v.charles-chrismann.fr/gameboy/input">
     <img src="./assets/gameboy/rect.jpg" width="82" height="51">
   </a>
   <a href="http://aws-v.charles-chrismann.fr/gameboy/input?input=select">
@@ -261,11 +261,11 @@
   <a href="http://aws-v.charles-chrismann.fr/gameboy/input?input=start">
     <img src="./assets/gameboy/start.jpg" height="51">
   </a>
-  <a href="#">
+  <a href="http://aws-v.charles-chrismann.fr/gameboy/input">
     <img src="./assets/gameboy/rect.jpg" width="110" height="51">
   </a>
   <br>
-  <a href="#">
+  <a href="http://aws-v.charles-chrismann.fr/gameboy/input">
     <img src="./assets/gameboy/bot-bot.png" width="308">
   </a>
 </p>
@@ -560,7 +560,7 @@
     <tr>
       <td align="center">:eight:</td>
       <td align="center">♜      </td>
-      <td align="center">‎       </td>
+      <td align="center">♞      </td>
       <td align="center">♝      </td>
       <td align="center">♛      </td>
       <td align="center">♚      </td>
@@ -581,7 +581,7 @@
     </tr>
     <tr>
       <td align="center">:six:</td>
-      <td align="center">♞      </td>
+      <td align="center">‎       </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
@@ -606,12 +606,7 @@
       <td align="center">‎       </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
-      <td align="center">
-        <details>
-          <summary>♙</summary>
-          <a href="http://aws-v.charles-chrismann.fr/chess/move?x1=3&y1=4&x2=3&y2=3">d5</a>
-        </details>
-      </td>
+      <td align="center">‎       </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
@@ -651,7 +646,13 @@
           <a href="http://aws-v.charles-chrismann.fr/chess/move?x1=2&y1=6&x2=2&y2=5">c3</a>
         </details>
       </td>
-      <td align="center">‎       </td>
+      <td align="center">
+        <details>
+          <summary>♙</summary>
+          <a href="http://aws-v.charles-chrismann.fr/chess/move?x1=3&y1=6&x2=3&y2=4">d4</a>
+          <a href="http://aws-v.charles-chrismann.fr/chess/move?x1=3&y1=6&x2=3&y2=5">d3</a>
+        </details>
+      </td>
       <td align="center">
         <details>
           <summary>♙</summary>
@@ -689,32 +690,11 @@
           <summary>♘</summary>
           <a href="http://aws-v.charles-chrismann.fr/chess/move?x1=1&y1=7&x2=0&y2=5">a3</a>
           <a href="http://aws-v.charles-chrismann.fr/chess/move?x1=1&y1=7&x2=2&y2=5">c3</a>
-          <br><a href="http://aws-v.charles-chrismann.fr/chess/move?x1=1&y1=7&x2=3&y2=6">d2</a>
         </details>
       </td>
-      <td align="center">
-        <details>
-          <summary>♗</summary>
-          <a href="http://aws-v.charles-chrismann.fr/chess/move?x1=2&y1=7&x2=3&y2=6">d2</a>
-          <a href="http://aws-v.charles-chrismann.fr/chess/move?x1=2&y1=7&x2=4&y2=5">e3</a>
-          <a href="http://aws-v.charles-chrismann.fr/chess/move?x1=2&y1=7&x2=5&y2=4">f4</a>
-          <br><a href="http://aws-v.charles-chrismann.fr/chess/move?x1=2&y1=7&x2=6&y2=3">g5</a>
-          <a href="http://aws-v.charles-chrismann.fr/chess/move?x1=2&y1=7&x2=7&y2=2">h6</a>
-        </details>
-      </td>
-      <td align="center">
-        <details>
-          <summary>♕</summary>
-          <a href="http://aws-v.charles-chrismann.fr/chess/move?x1=3&y1=7&x2=3&y2=6">d2</a>
-          <a href="http://aws-v.charles-chrismann.fr/chess/move?x1=3&y1=7&x2=3&y2=5">d3</a>
-        </details>
-      </td>
-      <td align="center">
-        <details>
-          <summary>♔</summary>
-          <a href="http://aws-v.charles-chrismann.fr/chess/move?x1=4&y1=7&x2=3&y2=6">d2</a>
-        </details>
-      </td>
+      <td align="center">♗      </td>
+      <td align="center">♕      </td>
+      <td align="center">♔      </td>
       <td align="center">♗      </td>
       <td align="center">
         <details>
@@ -789,4 +769,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.404s on Fri Oct 13 at 22:38</p>
+<p align="right">Generated in 0.659s on Fri Oct 13 at 23:26</p>
