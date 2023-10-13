@@ -206,7 +206,7 @@
     <img src="./assets/gameboy/left.jpg" height="144" width="69.5">
   </a>
   <a href="#">
-    <img src="http://aws-v.charles-chrismann.fr/gameboy/frame?a=6h79r" width="160" height="144">
+    <img src="http://aws-v.charles-chrismann.fr/gameboy/doframe" width="160" height="144">
   </a>
   <a href="#">
     <img src="./assets/gameboy/right.jpg" height="144" width="69.5">
@@ -219,33 +219,33 @@
   <a href="#">
     <img src="./assets/gameboy/rect.jpg" width="47" height="36">
   </a>
-  <a href="http://aws-v.charles-chrismann.fr/gameboy/input-commit?input=up">
+  <a href="http://aws-v.charles-chrismann.fr/gameboy/input?input=up">
     <img src="./assets/gameboy/croix-top.jpg" height="36">
   </a>
   <a href="#">
     <img src="./assets/gameboy/rect.jpg" width="226.5" height="36">
   </a>
   <br>
-  <a href="http://aws-v.charles-chrismann.fr/gameboy/input-commit?input=left">
+  <a href="http://aws-v.charles-chrismann.fr/gameboy/input?input=left">
     <img src="./assets/gameboy/croix-left.jpg" height="26">
   </a>
   <a href="#">
     <img src="./assets/gameboy/croix-mid.jpg" height="26">
   </a>
-  <a href="http://aws-v.charles-chrismann.fr/gameboy/input-commit?input=right">
+  <a href="http://aws-v.charles-chrismann.fr/gameboy/input?input=right">
     <img src="./assets/gameboy/croix-right.jpg" height="26">
   </a>
-  <a href="http://aws-v.charles-chrismann.fr/gameboy/input-commit?input=b">
+  <a href="http://aws-v.charles-chrismann.fr/gameboy/input?input=b">
     <img src="./assets/gameboy/b.jpg" height="26">
   </a>
-  <a href="http://aws-v.charles-chrismann.fr/gameboy/input-commit?input=a">
+  <a href="http://aws-v.charles-chrismann.fr/gameboy/input?input=a">
     <img src="./assets/gameboy/a.jpg" height="26">
   </a>
   <br>
   <a href="#">
     <img src="./assets/gameboy/rect.jpg" width="47" height="36">
   </a>
-  <a href="http://aws-v.charles-chrismann.fr/gameboy/input-commit?input=down">
+  <a href="http://aws-v.charles-chrismann.fr/gameboy/input?input=down">
     <img src="./assets/gameboy/croix-bot.jpg" height="36">
   </a>
   <a href="#">
@@ -255,10 +255,10 @@
   <a href="#">
     <img src="./assets/gameboy/rect.jpg" width="82" height="51">
   </a>
-  <a href="http://aws-v.charles-chrismann.fr/gameboy/input-commit?input=select">
+  <a href="http://aws-v.charles-chrismann.fr/gameboy/input?input=select">
     <img src="./assets/gameboy/select.jpg" height="51">
   </a>
-  <a href="http://aws-v.charles-chrismann.fr/gameboy/input-commit?input=start">
+  <a href="http://aws-v.charles-chrismann.fr/gameboy/input?input=start">
     <img src="./assets/gameboy/start.jpg" height="51">
   </a>
   <a href="#">
@@ -789,4 +789,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.318s on Fri Oct 13 at 17:57</p>
+<p align="right">Generated in 0.609s on Fri Oct 13 at 18:03</p>
