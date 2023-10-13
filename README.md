@@ -206,7 +206,7 @@
     <img src="./assets/gameboy/left.jpg" height="144" width="69.5">
   </a>
   <a href="#">
-    <img src="http://aws-v.charles-chrismann.fr/gameboy/frame?a=fzpp4" width="160" height="144">
+    <img src="http://aws-v.charles-chrismann.fr/gameboy/frame?a=s3ein" width="160" height="144">
   </a>
   <a href="#">
     <img src="./assets/gameboy/right.jpg" height="144" width="69.5">
@@ -789,4 +789,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.382s on Fri Oct 13 at 15:29</p>
+<p align="right">Generated in 0.323s on Fri Oct 13 at 15:30</p>
