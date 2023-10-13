@@ -206,7 +206,7 @@
     <img src="./assets/gameboy/left.jpg" height="144" width="69.5">
   </a>
   <a href="#">
-    <img src="http://aws-v.charles-chrismann.fr/gameboy/frame?a=u0gk7" width="160" height="144">
+    <img src="http://aws-v.charles-chrismann.fr/gameboy/frame?a=gv5un" width="160" height="144">
   </a>
   <a href="#">
     <img src="./assets/gameboy/right.jpg" height="144" width="69.5">
@@ -525,7 +525,7 @@
   <span>:white_large_square:</span>
   <span>:white_large_square:</span>
   <span>:one:</span>
-  <a href="http://aws-v.charles-chrismann.fr/minesweeper/click?x=4&y=13">:black_large_square:</a>
+  <span>:one:</span>
   <a href="http://aws-v.charles-chrismann.fr/minesweeper/click?x=5&y=13">:black_large_square:</a>
   <a href="http://aws-v.charles-chrismann.fr/minesweeper/click?x=6&y=13">:black_large_square:</a>
   <a href="http://aws-v.charles-chrismann.fr/minesweeper/click?x=7&y=13">:black_large_square:</a>
@@ -769,4 +769,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.341s on Fri Oct 13 at 10:06</p>
+<p align="right">Generated in 0.433s on Fri Oct 13 at 10:07</p>
