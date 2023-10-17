@@ -1,4 +1,4 @@
-<h1>:wave: - Hi visitorhhh</h1>
+<h1>:wave: - Hi visitor</h1>
 <h3>I'm Charles Chrismann !</h3>
 <p>:technologist: I'm a french student in 3rd year in web development at <a href="https://www.iim.fr" target="_blank" rel="noreferrer" title="Institut de l'Internet et du Multimédia">IIM DigitalSchool</a> in Paris.</p>
 <p>:heart: I am what you can call a javascript/typescript enthousiaste.</p>
@@ -793,4 +793,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.676s on Tue Oct 17 at 13:04</p>
+<p align="right">Generated in 0.382s on Tue Oct 17 at 13:04</p>
