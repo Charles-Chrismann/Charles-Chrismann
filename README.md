@@ -1,6 +1,6 @@
 <h1>:wave: - Hi visitor</h1>
 <h3>I'm Charles Chrismann !</h3>
-<p>:technologist: I'm a french student in 3rd year in web development at <a href="https://www.iim.fr" target="_blank" rel="noreferrer" title="Institut de l'Internet et du Multimédia">IIM DigitalSchool</a> in Paris.</p>
+<p>:technologist: I'm akkkk french student in 3rd year in web development at <a href="https://www.iim.fr" target="_blank" rel="noreferrer" title="Institut de l'Internet et du Multimédia">IIM DigitalSchool</a> in Paris.</p>
 <p>:heart: I am what you can call a javascript/typescript enthousiaste.</p>
 <p>:dart: I have the ambition to become a respectable full stack js developer, currently grinding on it.</p>
 <p>Some facts:</p>
