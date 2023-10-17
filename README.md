@@ -8,7 +8,7 @@
   <li>:two_hearts: I automatically likes anything ending with -lang & -land</li>
   <li>:book: I choose to learn a stack based on the fun of the name</li>
   <li>:cup_with_straw: Gin-Gonic just has the best name</li>
-  <li>:sauropod: Deno is a better Node with a cut mascotkkkk</li>
+  <li>:sauropod: Deno is a better Node with a cut mascot</li>
   <li>:crab: & :otter: are better together (there is no gopher emoji and otters are cute)</li>
 </ul>
 <p>My discord: @kymono</p>
@@ -793,4 +793,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.662s on Tue Oct 17 at 13:07</p>
+<p align="right">Generated in 0.357s on Tue Oct 17 at 13:07</p>
