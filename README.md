@@ -8,7 +8,7 @@
   <li>:two_hearts: I automatically likes anything ending with -lang & -land</li>
   <li>:book: I choose to learn a stack based on the fun of the name</li>
   <li>:cup_with_straw: Gin-Gonic just has the best name</li>
-  <li>:sauropod: Deno is a better Node with a cut mascot</li>
+  <li>:sauropod: Deno is a better Node with a cut mascotkkkk</li>
   <li>:crab: & :otter: are better together (there is no gopher emoji and otters are cute)</li>
 </ul>
 <p>My discord: @kymono</p>
