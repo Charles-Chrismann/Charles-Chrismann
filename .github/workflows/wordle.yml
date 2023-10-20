@@ -19,4 +19,4 @@ jobs:
       - name: Close GitHub issue
         run: gh issue close ${{ github.event.issue.id }}
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
