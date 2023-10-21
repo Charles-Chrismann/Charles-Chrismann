@@ -21,3 +21,4 @@ jobs:
         run: gh issue close ${{ github.event.issue.html_url }} -r completed -c "See https://github.com/Charles-Chrismann#a-classic-wordle"
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+
