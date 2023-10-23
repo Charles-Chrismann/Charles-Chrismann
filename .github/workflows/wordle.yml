@@ -6,6 +6,8 @@ jobs:
     steps:
       - name: wordle
         run: |
+          if echo ${{ github.event.issue.state }} | grep -c "close"; then exit; fi
+          
           sentence="${{ github.event.issue.title }}"
           words=($sentence)
           echo "words : ${words[@]}"
@@ -17,6 +19,10 @@ jobs:
 
       - name: Close GitHub issue
         if: github.event.issue.state == 'open'
-        run: gh issue close ${{ github.event.issue.html_url }} -r completed -c "See https://github.com/Charles-Chrismann#a-classic-wordle"
+        run: |
+          if echo ${{ github.event.issue.state }} | grep -c "open"
+          then
+            gh issue close ${{ github.event.issue.html_url }} -r completed -c "See https://github.com/Charles-Chrismann#a-classic-wordle"
+          fi
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
