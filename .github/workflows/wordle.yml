@@ -2,6 +2,7 @@ name: Wordle
 on: [issues]
 jobs:
   submit_guess:
+    if: github.event.issue.state == 'open'
     runs-on: ubuntu-latest
     steps:
       - name: wordle
