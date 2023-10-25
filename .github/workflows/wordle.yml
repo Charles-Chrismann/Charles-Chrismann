@@ -6,7 +6,7 @@ jobs:
     steps:
       - name: wordle
         run: |
-          if echo ${{ github.event.issue.state }} | grep -c "closed"; then exit 0; fi;
+          if echo "${{ github.event.issue.state }}" | grep -c "closed"; then exit 0; fi;
           
           sentence="${{ github.event.issue.title }}"
           words=($sentence)
