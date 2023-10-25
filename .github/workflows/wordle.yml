@@ -14,10 +14,7 @@ jobs:
           
           curl_data="{\"guess\":\"${words[1]}\", \"GH_ACTION_TRUST\":\"${{ secrets.GH_ACTION_TRUST }}\", \"issuer\": \"${{ github.event.issue.user.login }}\", \"issuerId\": ${{ github.event.issue.user.id }}}"
           echo "running curl : curl -d '$curl_data' -H \"Content-Type: application/json\" -X POST http://aws-v.charles-chrismann.fr/wordle/guess"
-          if echo ${{ github.event.issue.state }} | grep -c "open"
-          then
             curl -d "{\"guess\":\"${words[1]}\", \"GH_ACTION_TRUST\":\"${{ secrets.GH_ACTION_TRUST }}\", \"issuer\": \"${{ github.event.issue.user.login }}\", \"issuerId\": ${{ github.event.issue.user.id }}}" -H "Content-Type: application/json" -X POST http://aws-v.charles-chrismann.fr/wordle/guess
-          fi
 
       - name: Close GitHub issue
         if: github.event.issue.state == 'open'
