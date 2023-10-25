@@ -5,6 +5,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: wordle
+        if: github.event.issue.state == 'open'
         run: |
           if echo "${{ github.event.issue.state }}" | grep -c "closed"; then exit 0; fi;
           
