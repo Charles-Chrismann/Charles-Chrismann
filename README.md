@@ -732,36 +732,6 @@
   </thead>
   <tbody>
     <tr>
-      <td>$\text{\color{lightgreen}{C}}$</td>
-      <td>$\text{\color{white}{R}}$</td>
-      <td>$\text{\color{lightgreen}{A}}$</td>
-      <td>$\text{\color{lightgreen}{N}}$</td>
-      <td>$\text{\color{white}{E}}$</td>
-      <td>
-        <a href="https://github.com/Charles-Chrismann">@Charles-Chrismann</a>
-      </td>
-    </tr>
-    <tr>
-      <td>$\text{\color{white}{S}}$</td>
-      <td>$\text{\color{lightgreen}{L}}$</td>
-      <td>$\text{\color{lightgreen}{A}}$</td>
-      <td>$\text{\color{white}{T}}$</td>
-      <td>$\text{\color{white}{E}}$</td>
-      <td>
-        <a href="https://github.com/Charles-Chrismann">@Charles-Chrismann</a>
-      </td>
-    </tr>
-    <tr>
-      <td>$\text{\color{lightgreen}{C}}$</td>
-      <td>$\text{\color{lightgreen}{L}}$</td>
-      <td>$\text{\color{lightgreen}{A}}$</td>
-      <td>$\text{\color{lightgreen}{N}}$</td>
-      <td>$\text{\color{lightgreen}{K}}$</td>
-      <td>
-        <a href="https://github.com/Charles-Chrismann">@Charles-Chrismann</a>
-      </td>
-    </tr>
-    <tr>
       <td>‎ </td>
       <td>‎ </td>
       <td>‎ </td>
@@ -823,4 +793,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.964s on Sun Oct 29 at 10:16</p>
+<p align="right">Generated in 1.037s on Sun Oct 29 at 22:00</p>
