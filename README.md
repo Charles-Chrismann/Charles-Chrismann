@@ -283,8 +283,8 @@
   <tbody>
     <tr>
       <th>1</th>
-      <th><img src="https://avatars.githubusercontent.com/u/78157563?v=4" alt="profil picture"></th>
-      <th>Charles-Chrismann</th>
+      <th><a href="https://github.com/Charles-Chrismann"><img src="https://avatars.githubusercontent.com/u/78157563?v=4" alt="profil picture" width="40"></img></th>
+      <th><a href="https://github.com/Charles-Chrismann">@Charles-Chrismann</a></th>
       <th>825</th>    </tr>
   </tbody>
 </table>
@@ -814,4 +814,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.71s on Thu Nov 2 at 0:05</p>
+<p align="right">Generated in 0.744s on Thu Nov 2 at 0:11</p>
