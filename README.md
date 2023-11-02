@@ -285,7 +285,7 @@
       <th>1</th>
       <th><a href="https://github.com/Charles-Chrismann"><img src="https://avatars.githubusercontent.com/u/78157563?v=4" alt="profil picture" width="40"></img></th>
       <th><a href="https://github.com/Charles-Chrismann">@Charles-Chrismann</a></th>
-      <th>10</th>    </tr>
+      <th>53</th>    </tr>
   </tbody>
 </table>
 
@@ -814,4 +814,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 1.443s on Thu Nov 2 at 10:14</p>
+<p align="right">Generated in 1.091s on Thu Nov 2 at 10:15</p>
