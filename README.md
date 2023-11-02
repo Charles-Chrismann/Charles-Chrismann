@@ -282,13 +282,13 @@
   </thead>
   <tbody>
     <tr>
-      <td>1</td>
-      <td><a href="https://github.com/Charles-Chrismann"><img src="https://avatars.githubusercontent.com/u/78157563?v=4" alt="profil picture" width="40"></img></td>
-      <td><a href="https://github.com/Charles-Chrismann">@Charles-Chrismann</a></td>
-      <td>839</td>
+      <td align="center">1</td>
+      <td align="center"><a href="https://github.com/Charles-Chrismann"><img src="https://avatars.githubusercontent.com/u/78157563?v=4" alt="profil picture" width="40"></img></td>
+      <td align="center"><a href="https://github.com/Charles-Chrismann">@Charles-Chrismann</a></td>
+      <td align="center">839</td>
     </tr>
     <tr>
-      <td colspan="4"><a href="http://aws-v.charles-chrismann.fr/client.html>Play Here</a></td>
+      <td colspan="4" align="center"><a href="http://aws-v.charles-chrismann.fr/client.html">Play with your Github account here !</a></td>
     </tr>
   </tbody>
 </table>
@@ -818,4 +818,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.34s on Thu Nov 2 at 11:49</p>
+<p align="right">Generated in 0.721s on Thu Nov 2 at 11:55</p>
