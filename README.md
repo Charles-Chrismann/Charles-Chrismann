@@ -269,7 +269,7 @@
     <img src="./assets/gameboy/bot-bot.png" width="308">
   </a>
 
-<table>
+<table align="center">
   <thead>
     <tr>
       <th colspan="4">Game Contributions</th>
@@ -285,7 +285,7 @@
       <th>1</th>
       <th><a href="https://github.com/Charles-Chrismann"><img src="https://avatars.githubusercontent.com/u/78157563?v=4" alt="profil picture" width="40"></img></th>
       <th><a href="https://github.com/Charles-Chrismann">@Charles-Chrismann</a></th>
-      <th>826</th>    </tr>
+      <th>839</th>    </tr>
   </tbody>
 </table>
 
@@ -814,4 +814,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.374s on Thu Nov 2 at 0:19</p>
+<p align="right">Generated in 0.925s on Thu Nov 2 at 0:20</p>
