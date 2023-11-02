@@ -291,7 +291,7 @@
       <td align="center">2</td>
       <td align="center"><a href="https://github.com/Foword5"><img src="https://avatars.githubusercontent.com/u/84903360?v=4" alt="profil picture" width="40"></img></td>
       <td align="center"><a href="https://github.com/Foword5">@Foword5</a></td>
-      <td align="center">44</td>
+      <td align="center">57</td>
     </tr>
     <tr>
       <td colspan="4" align="center"><a href="http://aws-v.charles-chrismann.fr/client.html">Play with your Github account here !</a></td>
@@ -824,4 +824,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 1.419s on Thu Nov 2 at 15:39</p>
+<p align="right">Generated in 1.102s on Thu Nov 2 at 16:43</p>
