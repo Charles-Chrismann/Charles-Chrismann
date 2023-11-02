@@ -285,12 +285,12 @@
       <th>1</th>
       <th><a href="https://github.com/Charles-Chrismann"><img src="https://avatars.githubusercontent.com/u/78157563?v=4" alt="profil picture" width="40"></img></th>
       <th><a href="https://github.com/Charles-Chrismann">@Charles-Chrismann</a></th>
-      <th>334</th>    </tr>
+      <th>341</th>    </tr>
     <tr>
       <th>2</th>
       <th><a href="https://github.com/Foword5"><img src="https://avatars.githubusercontent.com/u/84903360?v=4" alt="profil picture" width="40"></img></th>
       <th><a href="https://github.com/Foword5">@Foword5</a></th>
-      <th>41</th>    </tr>
+      <th>44</th>    </tr>
   </tbody>
 </table>
 
@@ -819,4 +819,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 1.107s on Thu Nov 2 at 10:49</p>
+<p align="right">Generated in 1.003s on Thu Nov 2 at 10:50</p>
