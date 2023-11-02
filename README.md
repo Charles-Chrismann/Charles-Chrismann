@@ -273,12 +273,12 @@
   <thead>
     <tr>
       <th colspan="4">Game Contributions</th>
-    <tr>
+    </tr>
     <tr>
       <th>Rank</th>
       <th colspan="2">Player</th>
       <th>Inputs</th>
-    <tr>
+    </tr>
   </thead>
   <tbody>
     <tr>1</tr>
@@ -813,4 +813,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.285s on Thu Nov 2 at 0:01</p>
+<p align="right">Generated in 0.731s on Thu Nov 2 at 0:03</p>
