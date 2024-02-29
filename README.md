@@ -20,17 +20,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">20</td>
-      <td align="center">
-        <a href="https://github.com/Foword5" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/84903360?u=b29247bb05cede4cbcf0061e330d61cedcfdb31f&v=4" alt="Foword5" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Foword5" target="_blank">Foword5</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">21</td>
       <td align="center">
         <a href="https://github.com/Clansou" target="_blank">
@@ -54,6 +43,17 @@
     </tr>
     <tr>
       <td align="center">23</td>
+      <td align="center">
+        <a href="https://github.com/ChampiEZ" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/90695905?u=09e00ad0fa8d38ca5d56f5c04fcac33b310d62a7&v=4" alt="ChampiEZ" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/ChampiEZ" target="_blank">ChampiEZ</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">24</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -843,4 +843,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.734s on Thu Feb 29 at 10:59</p>
+<p align="right">Generated in 0.491s on Thu Feb 29 at 11:01</p>
