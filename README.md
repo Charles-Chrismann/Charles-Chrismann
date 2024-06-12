@@ -198,74 +198,74 @@
 </p>
 <h1 align="center">Flex Zone</h1>
 <h3 align="center">GitHub Plays Pokemon ?</h3>
-<p align="center">  <a href="http://aws-v.charles-chrismann.fr/gameboy/input">
+<p align="center">  <a href="https://o.charles-chrismann.fr/gameboy/input">
     <img src="./assets/gameboy/top.png" width="308">
   </a>
   <br>
-  <a href="http://aws-v.charles-chrismann.fr/gameboy/input">
+  <a href="https://o.charles-chrismann.fr/gameboy/input">
     <img src="./assets/gameboy/left.jpg" height="144" width="69.5">
   </a>
-  <a href="http://aws-v.charles-chrismann.fr/gameboy/input">
-    <img src="http://aws-v.charles-chrismann.fr/gameboy/dogif" width="160" height="144">
+  <a href="https://o.charles-chrismann.fr/gameboy/input">
+    <img src="https://o.charles-chrismann.fr/gameboy/dogif" width="160" height="144">
   </a>
-  <a href="http://aws-v.charles-chrismann.fr/gameboy/input">
+  <a href="https://o.charles-chrismann.fr/gameboy/input">
     <img src="./assets/gameboy/right.jpg" height="144" width="69.5">
   </a>
   <br>
-  <a href="http://aws-v.charles-chrismann.fr/gameboy/input">
+  <a href="https://o.charles-chrismann.fr/gameboy/input">
     <img src="./assets/gameboy/bot-screen.jpg" width="308">
   </a>
   <br>
-  <a href="http://aws-v.charles-chrismann.fr/gameboy/input">
+  <a href="https://o.charles-chrismann.fr/gameboy/input">
     <img src="./assets/gameboy/rect.jpg" width="47" height="36">
   </a>
-  <a href="http://aws-v.charles-chrismann.fr/gameboy/input?input=up">
+  <a href="https://o.charles-chrismann.fr/gameboy/input?input=up">
     <img src="./assets/gameboy/croix-top.jpg" height="36">
   </a>
-  <a href="http://aws-v.charles-chrismann.fr/gameboy/input">
+  <a href="https://o.charles-chrismann.fr/gameboy/input">
     <img src="./assets/gameboy/rect.jpg" width="226.5" height="36">
   </a>
   <br>
-  <a href="http://aws-v.charles-chrismann.fr/gameboy/input?input=left">
+  <a href="https://o.charles-chrismann.fr/gameboy/input?input=left">
     <img src="./assets/gameboy/croix-left.jpg" height="26">
   </a>
-  <a href="http://aws-v.charles-chrismann.fr/gameboy/input">
+  <a href="https://o.charles-chrismann.fr/gameboy/input">
     <img src="./assets/gameboy/croix-mid.jpg" height="26">
   </a>
-  <a href="http://aws-v.charles-chrismann.fr/gameboy/input?input=right">
+  <a href="https://o.charles-chrismann.fr/gameboy/input?input=right">
     <img src="./assets/gameboy/croix-right.jpg" height="26">
   </a>
-  <a href="http://aws-v.charles-chrismann.fr/gameboy/input?input=b">
+  <a href="https://o.charles-chrismann.fr/gameboy/input?input=b">
     <img src="./assets/gameboy/b.jpg" height="26">
   </a>
-  <a href="http://aws-v.charles-chrismann.fr/gameboy/input?input=a">
+  <a href="https://o.charles-chrismann.fr/gameboy/input?input=a">
     <img src="./assets/gameboy/a.jpg" height="26">
   </a>
   <br>
-  <a href="http://aws-v.charles-chrismann.fr/gameboy/input">
+  <a href="https://o.charles-chrismann.fr/gameboy/input">
     <img src="./assets/gameboy/rect.jpg" width="47" height="36">
   </a>
-  <a href="http://aws-v.charles-chrismann.fr/gameboy/input?input=down">
+  <a href="https://o.charles-chrismann.fr/gameboy/input?input=down">
     <img src="./assets/gameboy/croix-bot.jpg" height="36">
   </a>
-  <a href="http://aws-v.charles-chrismann.fr/gameboy/input">
+  <a href="https://o.charles-chrismann.fr/gameboy/input">
     <img src="./assets/gameboy/rect.jpg" width="226.5" height="36">
   </a>
   <br>
-  <a href="http://aws-v.charles-chrismann.fr/gameboy/input">
+  <a href="https://o.charles-chrismann.fr/gameboy/input">
     <img src="./assets/gameboy/rect.jpg" width="82" height="51">
   </a>
-  <a href="http://aws-v.charles-chrismann.fr/gameboy/input?input=select">
+  <a href="https://o.charles-chrismann.fr/gameboy/input?input=select">
     <img src="./assets/gameboy/select.jpg" height="51">
   </a>
-  <a href="http://aws-v.charles-chrismann.fr/gameboy/input?input=start">
+  <a href="https://o.charles-chrismann.fr/gameboy/input?input=start">
     <img src="./assets/gameboy/start.jpg" height="51">
   </a>
-  <a href="http://aws-v.charles-chrismann.fr/gameboy/input">
+  <a href="https://o.charles-chrismann.fr/gameboy/input">
     <img src="./assets/gameboy/rect.jpg" width="110" height="51">
   </a>
   <br>
-  <a href="http://aws-v.charles-chrismann.fr/gameboy/input">
+  <a href="https://o.charles-chrismann.fr/gameboy/input">
     <img src="./assets/gameboy/bot-bot.png" width="308">
   </a>
 
@@ -294,7 +294,7 @@
       <td align="center">113</td>
     </tr>
     <tr>
-      <td colspan="4" align="center"><a href="http://aws-v.charles-chrismann.fr/client.html">Play with your Github account here !</a></td>
+      <td colspan="4" align="center"><a href="https://o.charles-chrismann.fr/client.html">Play with your Github account here !</a></td>
     </tr>
   </tbody>
 </table>
@@ -305,12 +305,12 @@
 
 <h3 align="center">A classic Minesweeper</h3>
 <p align="center">
-  <a href="http://aws-v.charles-chrismann.fr/minesweeper/click?x=0&y=0">:black_large_square:</a>
+  <a href="https://o.charles-chrismann.fr/minesweeper/click?x=0&y=0">:black_large_square:</a>
   <span>:boom:</span>
   <span>:boom:</span>
-  <a href="http://aws-v.charles-chrismann.fr/minesweeper/click?x=3&y=0">:black_large_square:</a>
-  <a href="http://aws-v.charles-chrismann.fr/minesweeper/click?x=4&y=0">:black_large_square:</a>
-  <a href="http://aws-v.charles-chrismann.fr/minesweeper/click?x=5&y=0">:black_large_square:</a>
+  <a href="https://o.charles-chrismann.fr/minesweeper/click?x=3&y=0">:black_large_square:</a>
+  <a href="https://o.charles-chrismann.fr/minesweeper/click?x=4&y=0">:black_large_square:</a>
+  <a href="https://o.charles-chrismann.fr/minesweeper/click?x=5&y=0">:black_large_square:</a>
   <span>:one:</span>
   <span>:white_large_square:</span>
   <span>:white_large_square:</span>
@@ -320,15 +320,15 @@
   <span>:white_large_square:</span>
   <span>:white_large_square:</span>
   <span>:one:</span>
-  <a href="http://aws-v.charles-chrismann.fr/minesweeper/click?x=15&y=0">:black_large_square:</a>
+  <a href="https://o.charles-chrismann.fr/minesweeper/click?x=15&y=0">:black_large_square:</a>
   <span>:one:</span>
   <span>:white_large_square:</span>
   <br>
-  <a href="http://aws-v.charles-chrismann.fr/minesweeper/click?x=0&y=1">:black_large_square:</a>
+  <a href="https://o.charles-chrismann.fr/minesweeper/click?x=0&y=1">:black_large_square:</a>
   <span>:boom:</span>
   <span>:boom:</span>
-  <a href="http://aws-v.charles-chrismann.fr/minesweeper/click?x=3&y=1">:black_large_square:</a>
-  <a href="http://aws-v.charles-chrismann.fr/minesweeper/click?x=4&y=1">:black_large_square:</a>
+  <a href="https://o.charles-chrismann.fr/minesweeper/click?x=3&y=1">:black_large_square:</a>
+  <a href="https://o.charles-chrismann.fr/minesweeper/click?x=4&y=1">:black_large_square:</a>
   <span>:boom:</span>
   <span>:two:</span>
   <span>:white_large_square:</span>
@@ -343,9 +343,9 @@
   <span>:one:</span>
   <span>:white_large_square:</span>
   <br>
-  <a href="http://aws-v.charles-chrismann.fr/minesweeper/click?x=0&y=2">:black_large_square:</a>
-  <a href="http://aws-v.charles-chrismann.fr/minesweeper/click?x=1&y=2">:black_large_square:</a>
-  <a href="http://aws-v.charles-chrismann.fr/minesweeper/click?x=2&y=2">:black_large_square:</a>
+  <a href="https://o.charles-chrismann.fr/minesweeper/click?x=0&y=2">:black_large_square:</a>
+  <a href="https://o.charles-chrismann.fr/minesweeper/click?x=1&y=2">:black_large_square:</a>
+  <a href="https://o.charles-chrismann.fr/minesweeper/click?x=2&y=2">:black_large_square:</a>
   <span>:three:</span>
   <span>:boom:</span>
   <span>:boom:</span>
@@ -355,28 +355,28 @@
   <span>:two:</span>
   <span>:three:</span>
   <span>:boom:</span>
-  <a href="http://aws-v.charles-chrismann.fr/minesweeper/click?x=12&y=2">:black_large_square:</a>
-  <a href="http://aws-v.charles-chrismann.fr/minesweeper/click?x=13&y=2">:black_large_square:</a>
+  <a href="https://o.charles-chrismann.fr/minesweeper/click?x=12&y=2">:black_large_square:</a>
+  <a href="https://o.charles-chrismann.fr/minesweeper/click?x=13&y=2">:black_large_square:</a>
   <span>:boom:</span>
   <span>:two:</span>
   <span>:one:</span>
   <span>:white_large_square:</span>
   <br>
   <span>:boom:</span>
-  <a href="http://aws-v.charles-chrismann.fr/minesweeper/click?x=1&y=3">:black_large_square:</a>
-  <a href="http://aws-v.charles-chrismann.fr/minesweeper/click?x=2&y=3">:black_large_square:</a>
-  <a href="http://aws-v.charles-chrismann.fr/minesweeper/click?x=3&y=3">:black_large_square:</a>
+  <a href="https://o.charles-chrismann.fr/minesweeper/click?x=1&y=3">:black_large_square:</a>
+  <a href="https://o.charles-chrismann.fr/minesweeper/click?x=2&y=3">:black_large_square:</a>
+  <a href="https://o.charles-chrismann.fr/minesweeper/click?x=3&y=3">:black_large_square:</a>
   <span>:boom:</span>
   <span>:boom:</span>
   <span>:boom:</span>
-  <a href="http://aws-v.charles-chrismann.fr/minesweeper/click?x=7&y=3">:black_large_square:</a>
-  <a href="http://aws-v.charles-chrismann.fr/minesweeper/click?x=8&y=3">:black_large_square:</a>
+  <a href="https://o.charles-chrismann.fr/minesweeper/click?x=7&y=3">:black_large_square:</a>
+  <a href="https://o.charles-chrismann.fr/minesweeper/click?x=8&y=3">:black_large_square:</a>
   <span>:boom:</span>
   <span>:boom:</span>
   <span>:two:</span>
   <span>:one:</span>
   <span>:two:</span>
-  <a href="http://aws-v.charles-chrismann.fr/minesweeper/click?x=14&y=3">:black_large_square:</a>
+  <a href="https://o.charles-chrismann.fr/minesweeper/click?x=14&y=3">:black_large_square:</a>
   <span>:two:</span>
   <span>:white_large_square:</span>
   <span>:white_large_square:</span>
@@ -384,13 +384,13 @@
   <span>:one:</span>
   <span>:one:</span>
   <span>:one:</span>
-  <a href="http://aws-v.charles-chrismann.fr/minesweeper/click?x=3&y=4">:black_large_square:</a>
+  <a href="https://o.charles-chrismann.fr/minesweeper/click?x=3&y=4">:black_large_square:</a>
   <span>:boom:</span>
-  <a href="http://aws-v.charles-chrismann.fr/minesweeper/click?x=5&y=4">:black_large_square:</a>
+  <a href="https://o.charles-chrismann.fr/minesweeper/click?x=5&y=4">:black_large_square:</a>
   <span>:three:</span>
   <span>:two:</span>
-  <a href="http://aws-v.charles-chrismann.fr/minesweeper/click?x=8&y=4">:black_large_square:</a>
-  <a href="http://aws-v.charles-chrismann.fr/minesweeper/click?x=9&y=4">:black_large_square:</a>
+  <a href="https://o.charles-chrismann.fr/minesweeper/click?x=8&y=4">:black_large_square:</a>
+  <a href="https://o.charles-chrismann.fr/minesweeper/click?x=9&y=4">:black_large_square:</a>
   <span>:three:</span>
   <span>:one:</span>
   <span>:white_large_square:</span>
@@ -404,11 +404,11 @@
   <span>:white_large_square:</span>
   <span>:one:</span>
   <span>:boom:</span>
-  <a href="http://aws-v.charles-chrismann.fr/minesweeper/click?x=4&y=5">:black_large_square:</a>
-  <a href="http://aws-v.charles-chrismann.fr/minesweeper/click?x=5&y=5">:black_large_square:</a>
+  <a href="https://o.charles-chrismann.fr/minesweeper/click?x=4&y=5">:black_large_square:</a>
+  <a href="https://o.charles-chrismann.fr/minesweeper/click?x=5&y=5">:black_large_square:</a>
   <span>:boom:</span>
-  <a href="http://aws-v.charles-chrismann.fr/minesweeper/click?x=7&y=5">:black_large_square:</a>
-  <a href="http://aws-v.charles-chrismann.fr/minesweeper/click?x=8&y=5">:black_large_square:</a>
+  <a href="https://o.charles-chrismann.fr/minesweeper/click?x=7&y=5">:black_large_square:</a>
+  <a href="https://o.charles-chrismann.fr/minesweeper/click?x=8&y=5">:black_large_square:</a>
   <span>:boom:</span>
   <span>:one:</span>
   <span>:white_large_square:</span>
@@ -573,17 +573,17 @@
 </p>
 <p align="center">You lost don't hesitate to try again</p>
 <p align="center">
-  <img width="256" src="http://aws-v.charles-chrismann.fr/minesweeper.gif" />
+  <img width="256" src="https://o.charles-chrismann.fr/minesweeper.gif" />
 </p>
 <h3 align="center">
-  <a href="http://aws-v.charles-chrismann.fr/minesweeper/new">Reset Game</a>
+  <a href="https://o.charles-chrismann.fr/minesweeper/new">Reset Game</a>
 </h3>
 
 <hr>
 
 <h3 align="center">A classic Chess</h3>
 <p align="center">
-  <img width="256" src="http://aws-v.charles-chrismann.fr/board.png" />
+  <img width="256" src="https://o.charles-chrismann.fr/board.png" />
 </p>
 <p align="center">It's White's turn</p>
 <table align="center">
@@ -659,57 +659,57 @@
       <td align="center">
         <details>
           <summary>♙</summary>
-          <a href="http://aws-v.charles-chrismann.fr/chess/move?x1=0&y1=6&x2=0&y2=4">a4</a>
-          <a href="http://aws-v.charles-chrismann.fr/chess/move?x1=0&y1=6&x2=0&y2=5">a3</a>
+          <a href="https://o.charles-chrismann.fr/chess/move?x1=0&y1=6&x2=0&y2=4">a4</a>
+          <a href="https://o.charles-chrismann.fr/chess/move?x1=0&y1=6&x2=0&y2=5">a3</a>
         </details>
       </td>
       <td align="center">
         <details>
           <summary>♙</summary>
-          <a href="http://aws-v.charles-chrismann.fr/chess/move?x1=1&y1=6&x2=1&y2=4">b4</a>
-          <a href="http://aws-v.charles-chrismann.fr/chess/move?x1=1&y1=6&x2=1&y2=5">b3</a>
+          <a href="https://o.charles-chrismann.fr/chess/move?x1=1&y1=6&x2=1&y2=4">b4</a>
+          <a href="https://o.charles-chrismann.fr/chess/move?x1=1&y1=6&x2=1&y2=5">b3</a>
         </details>
       </td>
       <td align="center">
         <details>
           <summary>♙</summary>
-          <a href="http://aws-v.charles-chrismann.fr/chess/move?x1=2&y1=6&x2=2&y2=4">c4</a>
-          <a href="http://aws-v.charles-chrismann.fr/chess/move?x1=2&y1=6&x2=2&y2=5">c3</a>
+          <a href="https://o.charles-chrismann.fr/chess/move?x1=2&y1=6&x2=2&y2=4">c4</a>
+          <a href="https://o.charles-chrismann.fr/chess/move?x1=2&y1=6&x2=2&y2=5">c3</a>
         </details>
       </td>
       <td align="center">
         <details>
           <summary>♙</summary>
-          <a href="http://aws-v.charles-chrismann.fr/chess/move?x1=3&y1=6&x2=3&y2=4">d4</a>
-          <a href="http://aws-v.charles-chrismann.fr/chess/move?x1=3&y1=6&x2=3&y2=5">d3</a>
+          <a href="https://o.charles-chrismann.fr/chess/move?x1=3&y1=6&x2=3&y2=4">d4</a>
+          <a href="https://o.charles-chrismann.fr/chess/move?x1=3&y1=6&x2=3&y2=5">d3</a>
         </details>
       </td>
       <td align="center">
         <details>
           <summary>♙</summary>
-          <a href="http://aws-v.charles-chrismann.fr/chess/move?x1=4&y1=6&x2=4&y2=4">e4</a>
-          <a href="http://aws-v.charles-chrismann.fr/chess/move?x1=4&y1=6&x2=4&y2=5">e3</a>
+          <a href="https://o.charles-chrismann.fr/chess/move?x1=4&y1=6&x2=4&y2=4">e4</a>
+          <a href="https://o.charles-chrismann.fr/chess/move?x1=4&y1=6&x2=4&y2=5">e3</a>
         </details>
       </td>
       <td align="center">
         <details>
           <summary>♙</summary>
-          <a href="http://aws-v.charles-chrismann.fr/chess/move?x1=5&y1=6&x2=5&y2=4">f4</a>
-          <a href="http://aws-v.charles-chrismann.fr/chess/move?x1=5&y1=6&x2=5&y2=5">f3</a>
+          <a href="https://o.charles-chrismann.fr/chess/move?x1=5&y1=6&x2=5&y2=4">f4</a>
+          <a href="https://o.charles-chrismann.fr/chess/move?x1=5&y1=6&x2=5&y2=5">f3</a>
         </details>
       </td>
       <td align="center">
         <details>
           <summary>♙</summary>
-          <a href="http://aws-v.charles-chrismann.fr/chess/move?x1=6&y1=6&x2=6&y2=4">g4</a>
-          <a href="http://aws-v.charles-chrismann.fr/chess/move?x1=6&y1=6&x2=6&y2=5">g3</a>
+          <a href="https://o.charles-chrismann.fr/chess/move?x1=6&y1=6&x2=6&y2=4">g4</a>
+          <a href="https://o.charles-chrismann.fr/chess/move?x1=6&y1=6&x2=6&y2=5">g3</a>
         </details>
       </td>
       <td align="center">
         <details>
           <summary>♙</summary>
-          <a href="http://aws-v.charles-chrismann.fr/chess/move?x1=7&y1=6&x2=7&y2=4">h4</a>
-          <a href="http://aws-v.charles-chrismann.fr/chess/move?x1=7&y1=6&x2=7&y2=5">h3</a>
+          <a href="https://o.charles-chrismann.fr/chess/move?x1=7&y1=6&x2=7&y2=4">h4</a>
+          <a href="https://o.charles-chrismann.fr/chess/move?x1=7&y1=6&x2=7&y2=5">h3</a>
         </details>
       </td>
     </tr>
@@ -719,8 +719,8 @@
       <td align="center">
         <details>
           <summary>♘</summary>
-          <a href="http://aws-v.charles-chrismann.fr/chess/move?x1=1&y1=7&x2=0&y2=5">a3</a>
-          <a href="http://aws-v.charles-chrismann.fr/chess/move?x1=1&y1=7&x2=2&y2=5">c3</a>
+          <a href="https://o.charles-chrismann.fr/chess/move?x1=1&y1=7&x2=0&y2=5">a3</a>
+          <a href="https://o.charles-chrismann.fr/chess/move?x1=1&y1=7&x2=2&y2=5">c3</a>
         </details>
       </td>
       <td align="center">♗      </td>
@@ -730,8 +730,8 @@
       <td align="center">
         <details>
           <summary>♘</summary>
-          <a href="http://aws-v.charles-chrismann.fr/chess/move?x1=6&y1=7&x2=5&y2=5">f3</a>
-          <a href="http://aws-v.charles-chrismann.fr/chess/move?x1=6&y1=7&x2=7&y2=5">h3</a>
+          <a href="https://o.charles-chrismann.fr/chess/move?x1=6&y1=7&x2=5&y2=5">f3</a>
+          <a href="https://o.charles-chrismann.fr/chess/move?x1=6&y1=7&x2=7&y2=5">h3</a>
         </details>
       </td>
       <td align="center">♖      </td>
@@ -749,7 +749,7 @@
     </tr>
   </tbody>
 </table><h3 align="center">
-<a href="http://aws-v.charles-chrismann.fr/chess/new">Reset Game</a>
+<a href="https://o.charles-chrismann.fr/chess/new">Reset Game</a>
 </h3>
 
 <hr>
@@ -819,9 +819,9 @@
 <p align="center">Other features are in progress, feel free to follow me to discover them.</p>
 <p align="center">To understand how it works, take a look <a href="https://github.com/Charles-Chrismann/dynamic-readme" target="_blank" rel="noreferrer" title="github dynalic readme">here</a></p>
 <p align="center">
-  <img align="center" src="http://aws-v.charles-chrismann.fr/trigger" alt="work in progress" width="256" />
+  <img align="center" src="https://o.charles-chrismann.fr/trigger" alt="work in progress" width="256" />
 </p>
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.851s on Wed Jun 12 at 22:52</p>
+<p align="right">Generated in 0.788s on Wed Jun 12 at 22:54</p>
