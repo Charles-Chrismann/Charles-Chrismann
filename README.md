@@ -20,17 +20,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">49</td>
-      <td align="center">
-        <a href="https://github.com/Tunki1201" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/135999216?v=4" alt="Tunki1201" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Tunki1201" target="_blank">Tunki1201</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">50</td>
       <td align="center">
         <a href="https://github.com/Balajichandra" target="_blank">
@@ -54,6 +43,17 @@
     </tr>
     <tr>
       <td align="center">52</td>
+      <td align="center">
+        <a href="https://github.com/linces" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/45243?u=0c2854d0e66cec4799dfda127c5b5aa93f25e987&v=4" alt="linces" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/linces" target="_blank">linces</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">53</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -827,4 +827,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.417s on Thu Jul 25 at 4:37</p>
+<p align="right">Generated in 0.426s on Thu Jul 25 at 4:48</p>
