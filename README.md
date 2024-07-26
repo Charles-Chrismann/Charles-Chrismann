@@ -20,40 +20,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">71</td>
+      <td align="center">75</td>
       <td align="center">
-        <a href="https://github.com/chrdek" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/10632099?u=eb5a11ef5dfeec6b423f7bd70ff542b7be98ef06&v=4" alt="chrdek" width="40" height="40"/>
+        <a href="https://github.com/davronverse" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/109772618?u=0febba864c8a44862c3c6dabca274ec907cb019a&v=4" alt="davronverse" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/chrdek" target="_blank">chrdek</a>
+        <a href="https://github.com/davronverse" target="_blank">davronverse</a>
       </td>
     </tr>
     <tr>
-      <td align="center">72</td>
+      <td align="center">76</td>
       <td align="center">
-        <a href="https://github.com/Jaswine" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/82625479?u=99f355ade5ee2d7d55b7c3c292aaf7e39f56b12a&v=4" alt="Jaswine" width="40" height="40"/>
+        <a href="https://github.com/fedebayer" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/89879671?u=18f02b1cb34eca369969ca7f60c073bfcab13a56&v=4" alt="fedebayer" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/Jaswine" target="_blank">Jaswine</a>
+        <a href="https://github.com/fedebayer" target="_blank">fedebayer</a>
       </td>
     </tr>
     <tr>
-      <td align="center">73</td>
+      <td align="center">77</td>
       <td align="center">
-        <a href="https://github.com/kevin-06-huang" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/10319695?v=4" alt="kevin-06-huang" width="40" height="40"/>
+        <a href="https://github.com/blocage" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/156615728?u=9029306f649863cc22592121106958118b483cc3&v=4" alt="blocage" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/kevin-06-huang" target="_blank">kevin-06-huang</a>
+        <a href="https://github.com/blocage" target="_blank">blocage</a>
       </td>
     </tr>
     <tr>
-      <td align="center">74</td>
+      <td align="center">78</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -662,4 +662,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.397s on Fri Jul 26 at 21:11</p>
+<p align="right">Generated in 0.391s on Fri Jul 26 at 21:56</p>
