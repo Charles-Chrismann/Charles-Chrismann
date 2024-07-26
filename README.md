@@ -45,7 +45,7 @@
       <td align="center">78</td>
       <td align="center">
         <a href="https://github.com/iloveryuux" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/170891612?u=704ff04165c7f67f4e712122eed0e938768a08e4&v=4" alt="iloveryuux" width="40" height="40"/>
+          <img src="https://avatars.githubusercontent.com/u/170891612?u=ab43df0be7e8038b0668ae1391c8b3f13021121d&v=4" alt="iloveryuux" width="40" height="40"/>
         </a>
       </td>
       <td>
@@ -662,4 +662,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.379s on Fri Jul 26 at 22:13</p>
+<p align="right">Generated in 0.399s on Fri Jul 26 at 22:49</p>
