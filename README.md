@@ -45,7 +45,7 @@
       <td align="center">71</td>
       <td align="center">
         <a href="https://github.com/chrdek" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/10632099?u=0a0456611c3ba679d5006b0472787d6fecc12a93&v=4" alt="chrdek" width="40" height="40"/>
+          <img src="https://avatars.githubusercontent.com/u/10632099?u=eb5a11ef5dfeec6b423f7bd70ff542b7be98ef06&v=4" alt="chrdek" width="40" height="40"/>
         </a>
       </td>
       <td>
@@ -662,4 +662,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.334s on Fri Jul 26 at 12:47</p>
+<p align="right">Generated in 0.311s on Fri Jul 26 at 12:50</p>
