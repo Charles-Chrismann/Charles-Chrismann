@@ -20,18 +20,18 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">76</td>
+      <td align="center">75</td>
       <td align="center">
-        <a href="https://github.com/blocage" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/156615728?u=9029306f649863cc22592121106958118b483cc3&v=4" alt="blocage" width="40" height="40"/>
+        <a href="https://github.com/fedebayer" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/89879671?u=18f02b1cb34eca369969ca7f60c073bfcab13a56&v=4" alt="fedebayer" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/blocage" target="_blank">blocage</a>
+        <a href="https://github.com/fedebayer" target="_blank">fedebayer</a>
       </td>
     </tr>
     <tr>
-      <td align="center">77</td>
+      <td align="center">76</td>
       <td align="center">
         <a href="https://github.com/shahradelahi" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/17948260?u=645426fcb89823f26554bd437177e82d7a2f6b93&v=4" alt="shahradelahi" width="40" height="40"/>
@@ -42,7 +42,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">78</td>
+      <td align="center">77</td>
       <td align="center">
         <a href="https://github.com/iloveryuux" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/170891612?u=ab43df0be7e8038b0668ae1391c8b3f13021121d&v=4" alt="iloveryuux" width="40" height="40"/>
@@ -53,7 +53,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">79</td>
+      <td align="center">78</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -662,4 +662,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.386s on Fri Jul 26 at 22:51</p>
+<p align="right">Generated in 0.379s on Fri Jul 26 at 22:52</p>
