@@ -63,7 +63,7 @@
   </a>
 </p>
 
-$<hr>
+<hr>
 
 <p>:dart: I have the ambition to become a respectable full stack js developer, currently grinding on it.</p>
 <p>Some facts:</p>
@@ -807,4 +807,4 @@ $<hr>
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.782s on Sat Jul 27 at 23:37</p>
+<p align="right">Generated in 1.099s on Sat Jul 27 at 23:41</p>
