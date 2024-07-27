@@ -1,7 +1,100 @@
 <h1>:wave: - Hi visitor</h1>
 <h3>I'm Charles Chrismann !</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Charles-Chrismann">
+</p>
 <p>:technologist: I'm a french student in 3rd year in web development at <a href="https://www.iim.fr" target="_blank" rel="noreferrer" title="Institut de l'Internet et du Multimédia">IIM DigitalSchool</a> in Paris.</p>
 <p>:heart: I am what you can call a javascript/typescript enthousiaste.</p>
+<h3 align="center">F*** Zodiac signs, let's play Pokemon together</h3>
+<p align="center">
+  <a href="https://o.charles-chrismann.fr/gba/input">
+    <img src="./assets/gba/top.png">
+  </a>
+  <br>
+  <a href="https://o.charles-chrismann.fr/gba/input">
+    <img src="./assets/gba/top-left.png">
+  </a>
+  <a href="https://o.charles-chrismann.fr/gba/input">
+    <img src="https://o.charles-chrismann.fr/gba/dogif" width="240" height="160">
+  </a>
+  <a href="https://o.charles-chrismann.fr/gba/input">
+    <img src="./assets/gba/top-right.png">
+  </a>
+  <br>
+  <a href="https://o.charles-chrismann.fr/gba/input">
+    <img src="./assets/gba/top-bottom.png">
+  </a>
+  <br>
+  <a href="https://o.charles-chrismann.fr/gba/input?input=6">
+    <img src="./assets/gba/btn-up.png">
+  </a>
+  <a href="https://o.charles-chrismann.fr/gba/input">
+    <img src="./assets/gba/bottom-top-right.png">
+  </a>
+  <br>
+  <a href="https://o.charles-chrismann.fr/gba/input?input=5">
+    <img src="./assets/gba/btn-left.png">
+  </a>
+  <a href="https://o.charles-chrismann.fr/gba/input">
+    <img src="./assets/gba/btn-mid.png">
+  </a>
+  <a href="https://o.charles-chrismann.fr/gba/input?input=4">
+    <img src="./assets/gba/btn-right.png">
+  </a>
+  <a href="https://o.charles-chrismann.fr/gba/input?input=1">
+    <img src="./assets/gba/btn-b.png">
+  </a>
+  <a href="https://o.charles-chrismann.fr/gba/input?input=0">
+    <img src="./assets/gba/btn-a.png">
+  </a>
+  <br>
+  <a href="https://o.charles-chrismann.fr/gba/input?input=7">
+    <img src="./assets/gba/btn-down.png">
+  </a>
+  <a href="https://o.charles-chrismann.fr/gba/input">
+    <img src="./assets/gba/reactange.png">
+  </a>
+  <br>
+  <a href="https://o.charles-chrismann.fr/gba/input?input=2">
+    <img src="./assets/gba/btn-select.png">
+  </a>
+  <a href="https://o.charles-chrismann.fr/gba/input?input=3">
+    <img src="./assets/gba/btn-start.png">
+  </a>
+</p>
+
+<table align="center">
+  <thead>
+    <tr>
+      <th colspan="4">Game Contributions</th>
+    </tr>
+    <tr>
+      <th>Rank</th>
+      <th colspan="2">Player</th>
+      <th>Inputs</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">1</td>
+      <td align="center"><a href="https://github.com/Charles-Chrismann"><img src="https://avatars.githubusercontent.com/u/78157563?v=4" alt="profil picture" width="40"></img></td>
+      <td align="center"><a href="https://github.com/Charles-Chrismann">@Charles-Chrismann</a></td>
+      <td align="center">876</td>
+    </tr>
+    <tr>
+      <td align="center">2</td>
+      <td align="center"><a href="https://github.com/Foword5"><img src="https://avatars.githubusercontent.com/u/84903360?v=4" alt="profil picture" width="40"></img></td>
+      <td align="center"><a href="https://github.com/Foword5">@Foword5</a></td>
+      <td align="center">113</td>
+    </tr>
+    <tr>
+      <td colspan="4" align="center"><a href="https://o.charles-chrismann.fr/client.html">Play with your Github account here !</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<hr>
+
 <p>:dart: I have the ambition to become a respectable full stack js developer, currently grinding on it.</p>
 <p>Some facts:</p>
 <ul>
@@ -197,112 +290,6 @@
   </a>
 </p>
 <h1 align="center">Flex Zone</h1>
-<h3 align="center">GitHub Plays Pokemon ?</h3>
-<p align="center">  <a href="https://o.charles-chrismann.fr/gameboy/input">
-    <img src="./assets/gameboy/top.png" width="308">
-  </a>
-  <br>
-  <a href="https://o.charles-chrismann.fr/gameboy/input">
-    <img src="./assets/gameboy/left.jpg" height="144" width="69.5">
-  </a>
-  <a href="https://o.charles-chrismann.fr/gameboy/input">
-    <img src="https://o.charles-chrismann.fr/gameboy/dogif" width="160" height="144">
-  </a>
-  <a href="https://o.charles-chrismann.fr/gameboy/input">
-    <img src="./assets/gameboy/right.jpg" height="144" width="69.5">
-  </a>
-  <br>
-  <a href="https://o.charles-chrismann.fr/gameboy/input">
-    <img src="./assets/gameboy/bot-screen.jpg" width="308">
-  </a>
-  <br>
-  <a href="https://o.charles-chrismann.fr/gameboy/input">
-    <img src="./assets/gameboy/rect.jpg" width="47" height="36">
-  </a>
-  <a href="https://o.charles-chrismann.fr/gameboy/input?input=up">
-    <img src="./assets/gameboy/croix-top.jpg" height="36">
-  </a>
-  <a href="https://o.charles-chrismann.fr/gameboy/input">
-    <img src="./assets/gameboy/rect.jpg" width="226.5" height="36">
-  </a>
-  <br>
-  <a href="https://o.charles-chrismann.fr/gameboy/input?input=left">
-    <img src="./assets/gameboy/croix-left.jpg" height="26">
-  </a>
-  <a href="https://o.charles-chrismann.fr/gameboy/input">
-    <img src="./assets/gameboy/croix-mid.jpg" height="26">
-  </a>
-  <a href="https://o.charles-chrismann.fr/gameboy/input?input=right">
-    <img src="./assets/gameboy/croix-right.jpg" height="26">
-  </a>
-  <a href="https://o.charles-chrismann.fr/gameboy/input?input=b">
-    <img src="./assets/gameboy/b.jpg" height="26">
-  </a>
-  <a href="https://o.charles-chrismann.fr/gameboy/input?input=a">
-    <img src="./assets/gameboy/a.jpg" height="26">
-  </a>
-  <br>
-  <a href="https://o.charles-chrismann.fr/gameboy/input">
-    <img src="./assets/gameboy/rect.jpg" width="47" height="36">
-  </a>
-  <a href="https://o.charles-chrismann.fr/gameboy/input?input=down">
-    <img src="./assets/gameboy/croix-bot.jpg" height="36">
-  </a>
-  <a href="https://o.charles-chrismann.fr/gameboy/input">
-    <img src="./assets/gameboy/rect.jpg" width="226.5" height="36">
-  </a>
-  <br>
-  <a href="https://o.charles-chrismann.fr/gameboy/input">
-    <img src="./assets/gameboy/rect.jpg" width="82" height="51">
-  </a>
-  <a href="https://o.charles-chrismann.fr/gameboy/input?input=select">
-    <img src="./assets/gameboy/select.jpg" height="51">
-  </a>
-  <a href="https://o.charles-chrismann.fr/gameboy/input?input=start">
-    <img src="./assets/gameboy/start.jpg" height="51">
-  </a>
-  <a href="https://o.charles-chrismann.fr/gameboy/input">
-    <img src="./assets/gameboy/rect.jpg" width="110" height="51">
-  </a>
-  <br>
-  <a href="https://o.charles-chrismann.fr/gameboy/input">
-    <img src="./assets/gameboy/bot-bot.png" width="308">
-  </a>
-
-<table align="center">
-  <thead>
-    <tr>
-      <th colspan="4">Game Contributions</th>
-    </tr>
-    <tr>
-      <th>Rank</th>
-      <th colspan="2">Player</th>
-      <th>Inputs</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">1</td>
-      <td align="center"><a href="https://github.com/Charles-Chrismann"><img src="https://avatars.githubusercontent.com/u/78157563?v=4" alt="profil picture" width="40"></img></td>
-      <td align="center"><a href="https://github.com/Charles-Chrismann">@Charles-Chrismann</a></td>
-      <td align="center">876</td>
-    </tr>
-    <tr>
-      <td align="center">2</td>
-      <td align="center"><a href="https://github.com/Foword5"><img src="https://avatars.githubusercontent.com/u/84903360?v=4" alt="profil picture" width="40"></img></td>
-      <td align="center"><a href="https://github.com/Foword5">@Foword5</a></td>
-      <td align="center">113</td>
-    </tr>
-    <tr>
-      <td colspan="4" align="center"><a href="https://o.charles-chrismann.fr/client.html">Play with your Github account here !</a></td>
-    </tr>
-  </tbody>
-</table>
-
-</p>
-
-<hr>
-
 <h3 align="center">A classic Minesweeper</h3>
 <p align="center">
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=0&y=0">:black_large_square:</a>
@@ -850,4 +837,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.566s on Sat Jul 27 at 23:29</p>
+<p align="right">Generated in 0.951s on Sat Jul 27 at 23:32</p>
