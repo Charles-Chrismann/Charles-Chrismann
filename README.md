@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">84</td>
-      <td align="center">
-        <a href="https://github.com/jdevfullstack" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/47092464?u=300c252d64e3feb6cfc5fcb441652bb7837c4784&v=4" alt="jdevfullstack" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/jdevfullstack" target="_blank">jdevfullstack</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">85</td>
       <td align="center">
         <a href="https://github.com/Lhourquin" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">87</td>
+      <td align="center">
+        <a href="https://github.com/omololevy" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/89441139?u=2a6a4c443499d10fa92b3f71b3b2317c59eb1bbc&v=4" alt="omololevy" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/omololevy" target="_blank">omololevy</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">88</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -785,4 +785,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.434s on Sun Jul 28 at 17:46</p>
+<p align="right">Generated in 0.428s on Sun Jul 28 at 17:48</p>
