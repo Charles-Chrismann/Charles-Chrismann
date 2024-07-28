@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">81</td>
-      <td align="center">
-        <a href="https://github.com/Kymaz" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/167198898?v=4" alt="Kymaz" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Kymaz" target="_blank">Kymaz</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">82</td>
       <td align="center">
         <a href="https://github.com/mig1023" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">84</td>
+      <td align="center">
+        <a href="https://github.com/jdevfullstack" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/47092464?u=300c252d64e3feb6cfc5fcb441652bb7837c4784&v=4" alt="jdevfullstack" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/jdevfullstack" target="_blank">jdevfullstack</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">85</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -741,4 +741,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 1.139s on Sun Jul 28 at 16:22</p>
+<p align="right">Generated in 0.948s on Sun Jul 28 at 16:25</p>
