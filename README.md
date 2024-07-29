@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">99</td>
-      <td align="center">
-        <a href="https://github.com/apple-fritter" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/125221355?u=cf2b524cc71af29e421c42b16691966cb56fb731&v=4" alt="apple-fritter" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/apple-fritter" target="_blank">apple-fritter</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">100</td>
       <td align="center">
         <a href="https://github.com/pinhe91" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">102</td>
+      <td align="center">
+        <a href="https://github.com/OracleBrain" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/121432807?u=f6b9aa7e65fa698e533ee5d1161939c0f9793e76&v=4" alt="OracleBrain" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/OracleBrain" target="_blank">OracleBrain</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">103</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -802,4 +802,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.463s on Mon Jul 29 at 5:56</p>
+<p align="right">Generated in 0.28s on Mon Jul 29 at 6:04</p>
