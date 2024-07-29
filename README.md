@@ -85,17 +85,6 @@
     <tr>
       <td align="center">96</td>
       <td align="center">
-        <a href="https://github.com/CollinLiu813" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/174817982?u=b2131824e885c182403a80d8fc0838b7ea67419d&v=4" alt="CollinLiu813" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/CollinLiu813" target="_blank">CollinLiu813</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">97</td>
-      <td align="center">
         <a href="https://github.com/seanpm2001" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/65933340?u=629d16e8108b55c194e5afddb8995d9156ef1eeb&v=4" alt="seanpm2001" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">98</td>
+      <td align="center">97</td>
       <td align="center">
         <a href="https://github.com/Zizwar" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/1431864?u=5a540e463e06c3238d820f5618882abaae15bc9a&v=4" alt="Zizwar" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/Zizwar" target="_blank">Zizwar</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">98</td>
+      <td align="center">
+        <a href="https://github.com/apple-fritter" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/125221355?u=cf2b524cc71af29e421c42b16691966cb56fb731&v=4" alt="apple-fritter" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/apple-fritter" target="_blank">apple-fritter</a>
       </td>
     </tr>
     <tr>
@@ -797,4 +797,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.244s on Mon Jul 29 at 2:32</p>
+<p align="right">Generated in 0.238s on Mon Jul 29 at 2:35</p>
