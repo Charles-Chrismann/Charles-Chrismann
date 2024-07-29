@@ -83,7 +83,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">96</td>
+      <td align="center">97</td>
       <td align="center">
         <a href="https://github.com/seanpm2001" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/65933340?u=629d16e8108b55c194e5afddb8995d9156ef1eeb&v=4" alt="seanpm2001" width="40" height="40"/>
@@ -94,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">97</td>
+      <td align="center">98</td>
       <td align="center">
         <a href="https://github.com/Zizwar" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/1431864?u=5a540e463e06c3238d820f5618882abaae15bc9a&v=4" alt="Zizwar" width="40" height="40"/>
@@ -105,7 +105,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">98</td>
+      <td align="center">99</td>
       <td align="center">
         <a href="https://github.com/apple-fritter" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/125221355?u=cf2b524cc71af29e421c42b16691966cb56fb731&v=4" alt="apple-fritter" width="40" height="40"/>
@@ -116,7 +116,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">99</td>
+      <td align="center">100</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
