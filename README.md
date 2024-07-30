@@ -83,40 +83,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">141</td>
-      <td align="center">
-        <a href="https://github.com/anissafia90" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/140076273?v=4" alt="anissafia90" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/anissafia90" target="_blank">anissafia90</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">142</td>
-      <td align="center">
-        <a href="https://github.com/sovmulax" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/59442525?u=8df6ffd599bbc4f7d3c4b32b8fd95f215dc04eff&v=4" alt="sovmulax" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/sovmulax" target="_blank">sovmulax</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">143</td>
       <td align="center">
-        <a href="https://github.com/walidbosso" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/121355412?u=d09c60c933ce8a8cc89439fad7a10765dcac1c84&v=4" alt="walidbosso" width="40" height="40"/>
+        <a href="https://github.com/ccrisc" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/78849337?v=4" alt="ccrisc" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/walidbosso" target="_blank">walidbosso</a>
+        <a href="https://github.com/ccrisc" target="_blank">ccrisc</a>
       </td>
     </tr>
     <tr>
       <td align="center">144</td>
+      <td align="center">
+        <a href="https://github.com/Nrarslan" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/167582170?v=4" alt="Nrarslan" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Nrarslan" target="_blank">Nrarslan</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">145</td>
+      <td align="center">
+        <a href="https://github.com/Moris9" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/117934564?u=a7c9575ea0c76b0dfa5c6d8cdb0962166032a57a&v=4" alt="Moris9" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Moris9" target="_blank">Moris9</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">146</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -781,4 +781,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.369s on Tue Jul 30 at 8:48</p>
+<p align="right">Generated in 0.389s on Tue Jul 30 at 9:40</p>
