@@ -85,17 +85,6 @@
     <tr>
       <td align="center">203</td>
       <td align="center">
-        <a href="https://github.com/fractalego" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/9697264?u=f2590eb0dce5dbb6990b6e34253e24dd12f241d8&v=4" alt="fractalego" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/fractalego" target="_blank">fractalego</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">204</td>
-      <td align="center">
         <a href="https://github.com/waltereidi" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/6370415?u=a429067b18d06cc2fceba65a9f8ec2425a56d75c&v=4" alt="waltereidi" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">205</td>
+      <td align="center">204</td>
       <td align="center">
         <a href="https://github.com/brenobattaglin" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/8771994?u=b9c7a5e16094d3ac65a24206b4d04c24f4fa0d20&v=4" alt="brenobattaglin" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/brenobattaglin" target="_blank">brenobattaglin</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">205</td>
+      <td align="center">
+        <a href="https://github.com/j7-dev" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/9213776?u=8613e6ffa203f24caea121454a69652bced863d9&v=4" alt="j7-dev" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/j7-dev" target="_blank">j7-dev</a>
       </td>
     </tr>
     <tr>
@@ -785,4 +785,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.388s on Thu Aug 1 at 23:21</p>
+<p align="right">Generated in 0.277s on Thu Aug 1 at 23:33</p>
