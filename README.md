@@ -83,7 +83,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">203</td>
+      <td align="center">204</td>
       <td align="center">
         <a href="https://github.com/waltereidi" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/6370415?u=a429067b18d06cc2fceba65a9f8ec2425a56d75c&v=4" alt="waltereidi" width="40" height="40"/>
@@ -94,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">204</td>
+      <td align="center">205</td>
       <td align="center">
         <a href="https://github.com/brenobattaglin" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/8771994?u=b9c7a5e16094d3ac65a24206b4d04c24f4fa0d20&v=4" alt="brenobattaglin" width="40" height="40"/>
@@ -105,7 +105,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">205</td>
+      <td align="center">206</td>
       <td align="center">
         <a href="https://github.com/j7-dev" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/9213776?u=8613e6ffa203f24caea121454a69652bced863d9&v=4" alt="j7-dev" width="40" height="40"/>
@@ -116,7 +116,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">206</td>
+      <td align="center">207</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -404,7 +404,7 @@
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=6&y=7">:black_large_square:</a>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=7&y=7">:black_large_square:</a>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=8&y=7">:black_large_square:</a>
-  <a href="https://o.charles-chrismann.fr/minesweeper/click?x=9&y=7">:black_large_square:</a>
+  <span>:three:</span>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=10&y=7">:black_large_square:</a>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=11&y=7">:black_large_square:</a>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=12&y=7">:black_large_square:</a>
@@ -785,4 +785,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.277s on Thu Aug 1 at 23:33</p>
+<p align="right">Generated in 0.29s on Thu Aug 1 at 23:33</p>
