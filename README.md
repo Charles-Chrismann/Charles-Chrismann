@@ -83,18 +83,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">361</td>
-      <td align="center">
-        <a href="https://github.com/DaxSoft" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/6865744?u=15d3d29762ccea5ede943061885c0828db65d909&v=4" alt="DaxSoft" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/DaxSoft" target="_blank">DaxSoft</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">362</td>
+      <td align="center">363</td>
       <td align="center">
         <a href="https://github.com/veganaize" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/7102064?u=6be8d2bff8fb1d675156bd3000790c4ca959cd0a&v=4" alt="veganaize" width="40" height="40"/>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">363</td>
+      <td align="center">364</td>
       <td align="center">
         <a href="https://github.com/tbmeans" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/16884727?u=9a2a95f6b600c45fdcb4eba07defc51362fda39a&v=4" alt="tbmeans" width="40" height="40"/>
@@ -116,7 +105,18 @@
       </td>
     </tr>
     <tr>
-      <td align="center">364</td>
+      <td align="center">365</td>
+      <td align="center">
+        <a href="https://github.com/iamtutumo" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/7942491?u=856f198d108ad2d2862692183faeb0bb9112b148&v=4" alt="iamtutumo" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/iamtutumo" target="_blank">iamtutumo</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">366</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -790,4 +790,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.2s on Fri Aug 2 at 21:06</p>
+<p align="right">Generated in 0.205s on Fri Aug 2 at 21:09</p>
