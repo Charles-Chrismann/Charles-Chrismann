@@ -97,7 +97,7 @@
       <td align="center">256</td>
       <td align="center">
         <a href="https://github.com/CRY-D" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/16564491?u=e261029363b34d51dd067fc9f936809a0c6aad9e&v=4" alt="CRY-D" width="40" height="40"/>
+          <img src="https://avatars.githubusercontent.com/u/16564491?u=d2acf90217708215eec486781f72e7379724b291&v=4" alt="CRY-D" width="40" height="40"/>
         </a>
       </td>
       <td>
@@ -788,4 +788,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.325s on Fri Aug 2 at 10:17</p>
+<p align="right">Generated in 0.256s on Fri Aug 2 at 10:19</p>
