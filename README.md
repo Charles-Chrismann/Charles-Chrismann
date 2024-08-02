@@ -83,29 +83,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">371</td>
-      <td align="center">
-        <a href="https://github.com/tatsuyafujisaki" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/1838962?u=db89b48fe670a9dee7e6fabdda60306cfe9827ea&v=4" alt="tatsuyafujisaki" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/tatsuyafujisaki" target="_blank">tatsuyafujisaki</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">372</td>
-      <td align="center">
-        <a href="https://github.com/toastkidjp" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/15980475?u=4de19096b98ca76ea4ddc2cd80664bdabb05f2ee&v=4" alt="toastkidjp" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/toastkidjp" target="_blank">toastkidjp</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">373</td>
       <td align="center">
         <a href="https://github.com/MohitKambli" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/31406633?u=e4668f97f55b889d73a07caf7301fa8a972496b3&v=4" alt="MohitKambli" width="40" height="40"/>
@@ -116,7 +94,29 @@
       </td>
     </tr>
     <tr>
+      <td align="center">373</td>
+      <td align="center">
+        <a href="https://github.com/Richardchan1131" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/174752211?u=ed562fbe5213fc41a2be68cdde1fb7e86237cbed&v=4" alt="Richardchan1131" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Richardchan1131" target="_blank">Richardchan1131</a>
+      </td>
+    </tr>
+    <tr>
       <td align="center">374</td>
+      <td align="center">
+        <a href="https://github.com/Tugbars" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/23309063?u=bed216248287de8046452b83051503533aa08d76&v=4" alt="Tugbars" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Tugbars" target="_blank">Tugbars</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">375</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -795,4 +795,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.332s on Fri Aug 2 at 23:28</p>
+<p align="right">Generated in 0.261s on Fri Aug 2 at 23:35</p>
