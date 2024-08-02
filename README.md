@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">347</td>
-      <td align="center">
-        <a href="https://github.com/nj1787" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/22225544?u=185a5fd7185b064ef47085db5f34f510fc0d1f9c&v=4" alt="nj1787" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/nj1787" target="_blank">nj1787</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">348</td>
       <td align="center">
         <a href="https://github.com/macxb" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">350</td>
+      <td align="center">
+        <a href="https://github.com/tuantadev" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/29135823?v=4" alt="tuantadev" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/tuantadev" target="_blank">tuantadev</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">351</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.299s on Fri Aug 2 at 18:51</p>
+<p align="right">Generated in 0.24s on Fri Aug 2 at 18:54</p>
