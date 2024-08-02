@@ -85,17 +85,6 @@
     <tr>
       <td align="center">316</td>
       <td align="center">
-        <a href="https://github.com/sotos22i" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/3135304?u=86b5c60a00901a927df7b70e3c16523502f78a7a&v=4" alt="sotos22i" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/sotos22i" target="_blank">sotos22i</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">317</td>
-      <td align="center">
         <a href="https://github.com/statisticsguru1" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/30623588?u=82daaff44707047aeac5a1e0c890f015bf28d438&v=4" alt="statisticsguru1" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">318</td>
+      <td align="center">317</td>
       <td align="center">
         <a href="https://github.com/nicolasdanet" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/25415812?u=24ba13b54d038b5de4d4469138dfdc995dcdaf3f&v=4" alt="nicolasdanet" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/nicolasdanet" target="_blank">nicolasdanet</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">318</td>
+      <td align="center">
+        <a href="https://github.com/CsarGomez" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/5133753?u=5866f5a88b0b021d7098842dcfb88d2d6484a7f0&v=4" alt="CsarGomez" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/CsarGomez" target="_blank">CsarGomez</a>
       </td>
     </tr>
     <tr>
@@ -806,4 +806,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.499s on Fri Aug 2 at 15:42</p>
+<p align="right">Generated in 0.32s on Fri Aug 2 at 15:47</p>
