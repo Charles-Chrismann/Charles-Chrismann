@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">281</td>
-      <td align="center">
-        <a href="https://github.com/jonathanatuscpsu" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/11417610?v=4" alt="jonathanatuscpsu" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/jonathanatuscpsu" target="_blank">jonathanatuscpsu</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">282</td>
       <td align="center">
         <a href="https://github.com/EPSOFT" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">284</td>
+      <td align="center">
+        <a href="https://github.com/Bastianleaf" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/21956486?u=60dcf92d79863c11e4248a64b7921b605534ab81&v=4" alt="Bastianleaf" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Bastianleaf" target="_blank">Bastianleaf</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">285</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -781,4 +781,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.266s on Fri Aug 2 at 12:55</p>
+<p align="right">Generated in 0.222s on Fri Aug 2 at 12:56</p>
