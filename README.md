@@ -85,17 +85,6 @@
     <tr>
       <td align="center">350</td>
       <td align="center">
-        <a href="https://github.com/tuantadev" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/29135823?v=4" alt="tuantadev" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/tuantadev" target="_blank">tuantadev</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">351</td>
-      <td align="center">
         <a href="https://github.com/dtsuper3" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/32347879?u=88ca3b63803c1b436dba06d56f83de464a90e656&v=4" alt="dtsuper3" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">352</td>
+      <td align="center">351</td>
       <td align="center">
         <a href="https://github.com/Julio-Rats" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/25793444?u=fadfd41fe0f43ba1ad1ed0d0f8cceae06c0bb7c9&v=4" alt="Julio-Rats" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/Julio-Rats" target="_blank">Julio-Rats</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">352</td>
+      <td align="center">
+        <a href="https://github.com/Mihail-D" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/11092701?u=b109091d1fa1fd36a1198d666ad5659c4f0af2b6&v=4" alt="Mihail-D" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Mihail-D" target="_blank">Mihail-D</a>
       </td>
     </tr>
     <tr>
@@ -790,4 +790,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.298s on Fri Aug 2 at 19:24</p>
+<p align="right">Generated in 0.26s on Fri Aug 2 at 19:28</p>
