@@ -85,17 +85,6 @@
     <tr>
       <td align="center">275</td>
       <td align="center">
-        <a href="https://github.com/arcanoix" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/6331999?u=829924d6843dd0e0301d8d583f92ac44de36a8ae&v=4" alt="arcanoix" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/arcanoix" target="_blank">arcanoix</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">276</td>
-      <td align="center">
         <a href="https://github.com/mauudev" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/4335429?u=c707a2e471383d93f16e6806aab477f74a6bf4b8&v=4" alt="mauudev" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">277</td>
+      <td align="center">276</td>
       <td align="center">
         <a href="https://github.com/hansf14" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/20245080?v=4" alt="hansf14" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/hansf14" target="_blank">hansf14</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">277</td>
+      <td align="center">
+        <a href="https://github.com/lucasrmagalhaes" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/43296467?u=2a2c0852355a08b320508f12a61c5c38cec82b8b&v=4" alt="lucasrmagalhaes" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/lucasrmagalhaes" target="_blank">lucasrmagalhaes</a>
       </td>
     </tr>
     <tr>
@@ -781,4 +781,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.227s on Fri Aug 2 at 12:21</p>
+<p align="right">Generated in 0.182s on Fri Aug 2 at 12:23</p>
