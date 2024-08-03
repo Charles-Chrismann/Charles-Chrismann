@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">434</td>
-      <td align="center">
-        <a href="https://github.com/omermertkaya" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/10751047?u=a8702d43e0e56333b3315890692a46f289a45178&v=4" alt="omermertkaya" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/omermertkaya" target="_blank">omermertkaya</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">435</td>
       <td align="center">
         <a href="https://github.com/NJul" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">437</td>
+      <td align="center">
+        <a href="https://github.com/second-slip" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/35421339?v=4" alt="second-slip" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/second-slip" target="_blank">second-slip</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">438</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -781,4 +781,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.28s on Sat Aug 3 at 13:25</p>
+<p align="right">Generated in 0.29s on Sat Aug 3 at 13:40</p>
