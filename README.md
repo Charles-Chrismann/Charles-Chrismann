@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">415</td>
-      <td align="center">
-        <a href="https://github.com/bjtu-lucas-nlp" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/17002294?u=1ea87f050bae2fd53168e7d8f1e41208ec3b31e0&v=4" alt="bjtu-lucas-nlp" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/bjtu-lucas-nlp" target="_blank">bjtu-lucas-nlp</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">416</td>
       <td align="center">
         <a href="https://github.com/Poitreqm" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">418</td>
+      <td align="center">
+        <a href="https://github.com/GabrieliusSavickis" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/16088254?u=38d49e9393d60776130dae38eac9e8163930f5cd&v=4" alt="GabrieliusSavickis" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/GabrieliusSavickis" target="_blank">GabrieliusSavickis</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">419</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -781,4 +781,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.433s on Sat Aug 3 at 11:11</p>
+<p align="right">Generated in 0.243s on Sat Aug 3 at 11:14</p>
