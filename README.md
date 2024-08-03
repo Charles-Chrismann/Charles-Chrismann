@@ -561,7 +561,7 @@
       <td align="center">♟      </td>
       <td align="center">♟      </td>
       <td align="center">♟      </td>
-      <td align="center">‎       </td>
+      <td align="center">♟      </td>
       <td align="center">♟      </td>
       <td align="center">♟      </td>
       <td align="center">♟      </td>
@@ -583,7 +583,7 @@
       <td align="center">‎       </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
-      <td align="center">♟      </td>
+      <td align="center">‎       </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
@@ -622,10 +622,9 @@
       </td>
       <td align="center">
         <details>
-          <summary>♘</summary>
-          <a href="https://o.charles-chrismann.fr/chess/move?x1=1&y1=6&x2=0&y2=4">a4</a>
-          <a href="https://o.charles-chrismann.fr/chess/move?x1=1&y1=6&x2=2&y2=4">c4</a>
-          <br><a href="https://o.charles-chrismann.fr/chess/move?x1=1&y1=6&x2=3&y2=5">d3</a>
+          <summary>♙</summary>
+          <a href="https://o.charles-chrismann.fr/chess/move?x1=1&y1=6&x2=1&y2=4">b4</a>
+          <a href="https://o.charles-chrismann.fr/chess/move?x1=1&y1=6&x2=1&y2=5">b3</a>
         </details>
       </td>
       <td align="center">
@@ -673,13 +672,14 @@
     </tr>
     <tr>
       <td align="center">:one:</td>
+      <td align="center">♖      </td>
       <td align="center">
         <details>
-          <summary>♖</summary>
-          <a href="https://o.charles-chrismann.fr/chess/move?x1=0&y1=7&x2=1&y2=7">b1</a>
+          <summary>♘</summary>
+          <a href="https://o.charles-chrismann.fr/chess/move?x1=1&y1=7&x2=0&y2=5">a3</a>
+          <a href="https://o.charles-chrismann.fr/chess/move?x1=1&y1=7&x2=2&y2=5">c3</a>
         </details>
       </td>
-      <td align="center">‎       </td>
       <td align="center">♗      </td>
       <td align="center">♕      </td>
       <td align="center">♔      </td>
@@ -781,4 +781,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.2s on Sat Aug 3 at 16:56</p>
+<p align="right">Generated in 0.179s on Sat Aug 3 at 16:56</p>
