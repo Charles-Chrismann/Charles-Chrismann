@@ -83,29 +83,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">483</td>
-      <td align="center">
-        <a href="https://github.com/alperakkin" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/25936659?u=62318271a1e7adbda2b46fb88c46bd66c7939b60&v=4" alt="alperakkin" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/alperakkin" target="_blank">alperakkin</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">484</td>
-      <td align="center">
-        <a href="https://github.com/Golbolco" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/29699696?u=48a276a62d702da508426091f9d681d3e65c0e41&v=4" alt="Golbolco" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Golbolco" target="_blank">Golbolco</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">485</td>
       <td align="center">
         <a href="https://github.com/potat-dev" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/33260586?u=011cc551b7f956489a6c6b852bab0e30f9c8c870&v=4" alt="potat-dev" width="40" height="40"/>
@@ -116,7 +94,29 @@
       </td>
     </tr>
     <tr>
+      <td align="center">485</td>
+      <td align="center">
+        <a href="https://github.com/Kwynto" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/31433211?u=b15c7e00ab4a6b9b0e9d2531dfebceee90f6ddb1&v=4" alt="Kwynto" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Kwynto" target="_blank">Kwynto</a>
+      </td>
+    </tr>
+    <tr>
       <td align="center">486</td>
+      <td align="center">
+        <a href="https://github.com/YaniStancheva" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/19373149?u=ba72df92db2194a37128f5f28883ad4b92f080b4&v=4" alt="YaniStancheva" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/YaniStancheva" target="_blank">YaniStancheva</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">487</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -803,4 +803,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.259s on Sat Aug 3 at 22:02</p>
+<p align="right">Generated in 0.279s on Sat Aug 3 at 22:18</p>
