@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">374</td>
-      <td align="center">
-        <a href="https://github.com/Tugbars" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/23309063?u=bed216248287de8046452b83051503533aa08d76&v=4" alt="Tugbars" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Tugbars" target="_blank">Tugbars</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">375</td>
       <td align="center">
         <a href="https://github.com/abdalmoniem" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">377</td>
+      <td align="center">
+        <a href="https://github.com/DarmorGamz" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/19918183?u=742f47801c8536449d6df7efa8e2ce06a202c5f1&v=4" alt="DarmorGamz" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/DarmorGamz" target="_blank">DarmorGamz</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">378</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -731,4 +731,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.326s on Sat Aug 3 at 0:36</p>
+<p align="right">Generated in 0.307s on Sat Aug 3 at 0:38</p>
