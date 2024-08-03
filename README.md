@@ -83,28 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">394</td>
-      <td align="center">
-        <a href="https://github.com/praditya7" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/22443727?v=4" alt="praditya7" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/praditya7" target="_blank">praditya7</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">395</td>
-      <td align="center">
-        <a href="https://github.com/jepbura" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/25738325?u=fc8a0fdf6997a66ae44d82b340ee7e5a1d8afc22&v=4" alt="jepbura" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/jepbura" target="_blank">jepbura</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">396</td>
       <td align="center">
         <a href="https://github.com/farhadrezvani" target="_blank">
@@ -117,6 +95,28 @@
     </tr>
     <tr>
       <td align="center">397</td>
+      <td align="center">
+        <a href="https://github.com/D-Gaspa" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/90874078?u=338f212c22c5a722954c4a08961bd04748b0e610&v=4" alt="D-Gaspa" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/D-Gaspa" target="_blank">D-Gaspa</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">398</td>
+      <td align="center">
+        <a href="https://github.com/Mazochi" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/30679664?u=04256a5cd44e4dc804bf6f4de81a328e49e2a233&v=4" alt="Mazochi" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Mazochi" target="_blank">Mazochi</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">399</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -796,4 +796,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.306s on Sat Aug 3 at 5:54</p>
+<p align="right">Generated in 0.302s on Sat Aug 3 at 5:56</p>
