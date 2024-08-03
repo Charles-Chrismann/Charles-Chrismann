@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">391</td>
-      <td align="center">
-        <a href="https://github.com/Luna222" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/26841054?u=e68a69852875c157eb627485d4f9447c346e5441&v=4" alt="Luna222" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Luna222" target="_blank">Luna222</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">392</td>
       <td align="center">
         <a href="https://github.com/dhan-profile" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">394</td>
+      <td align="center">
+        <a href="https://github.com/praditya7" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/22443727?v=4" alt="praditya7" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/praditya7" target="_blank">praditya7</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">395</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -731,4 +731,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.39s on Sat Aug 3 at 4:32</p>
+<p align="right">Generated in 0.335s on Sat Aug 3 at 4:35</p>
