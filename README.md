@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">490</td>
-      <td align="center">
-        <a href="https://github.com/OfficialJavaScript" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/51689500?u=397380ea2cb9afdc248e1b38550f5b46a408daea&v=4" alt="OfficialJavaScript" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/OfficialJavaScript" target="_blank">OfficialJavaScript</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">491</td>
       <td align="center">
         <a href="https://github.com/dntjdgur" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">493</td>
+      <td align="center">
+        <a href="https://github.com/kehindeBankole" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/33335391?u=99a0fd59e1debb784dc315a029b0d93ee0bca213&v=4" alt="kehindeBankole" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/kehindeBankole" target="_blank">kehindeBankole</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">494</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -781,4 +781,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.289s on Sat Aug 3 at 22:48</p>
+<p align="right">Generated in 0.219s on Sat Aug 3 at 22:48</p>
