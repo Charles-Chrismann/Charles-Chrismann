@@ -83,29 +83,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">443</td>
-      <td align="center">
-        <a href="https://github.com/AjayrajC" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/36720917?v=4" alt="AjayrajC" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/AjayrajC" target="_blank">AjayrajC</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">444</td>
-      <td align="center">
-        <a href="https://github.com/hu8813" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/38990435?u=7769b0abb84131dc1dbb5aee838c3b3f8b0dfe8d&v=4" alt="hu8813" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/hu8813" target="_blank">hu8813</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">445</td>
+      <td align="center">446</td>
       <td align="center">
         <a href="https://github.com/TanmoySG" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/36238254?u=f8bc2b3eb25cc58f185a99bf7b438228c5a33c4a&v=4" alt="TanmoySG" width="40" height="40"/>
@@ -116,7 +94,29 @@
       </td>
     </tr>
     <tr>
-      <td align="center">446</td>
+      <td align="center">447</td>
+      <td align="center">
+        <a href="https://github.com/spatulatom" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/40583214?u=4c533d67f5df04ebffc3cbc95ce85e6bc25795cc&v=4" alt="spatulatom" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/spatulatom" target="_blank">spatulatom</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">448</td>
+      <td align="center">
+        <a href="https://github.com/sanyaade-teachings" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/4993211?u=3e8684a4b97f1575066a08eee0a1780f037cc756&v=4" alt="sanyaade-teachings" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/sanyaade-teachings" target="_blank">sanyaade-teachings</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">449</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -780,4 +780,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.306s on Sat Aug 3 at 16:18</p>
+<p align="right">Generated in 0.319s on Sat Aug 3 at 16:24</p>
