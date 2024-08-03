@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">437</td>
-      <td align="center">
-        <a href="https://github.com/second-slip" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/35421339?v=4" alt="second-slip" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/second-slip" target="_blank">second-slip</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">438</td>
       <td align="center">
         <a href="https://github.com/marcosfshirafuchi" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">440</td>
+      <td align="center">
+        <a href="https://github.com/yoshi723dev" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/40107488?v=4" alt="yoshi723dev" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/yoshi723dev" target="_blank">yoshi723dev</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">441</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -804,4 +804,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.504s on Sat Aug 3 at 14:33</p>
+<p align="right">Generated in 0.301s on Sat Aug 3 at 14:43</p>
