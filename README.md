@@ -83,40 +83,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">570</td>
+      <td align="center">574</td>
       <td align="center">
-        <a href="https://github.com/Mehrdadghassabi" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/53050138?u=d9430cc188fc94a701e6bdf4de85185175faba71&v=4" alt="Mehrdadghassabi" width="40" height="40"/>
+        <a href="https://github.com/alxbnct" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/52067352?u=4e861d0a5096803679a81e3f3f481fe0beef0878&v=4" alt="alxbnct" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/Mehrdadghassabi" target="_blank">Mehrdadghassabi</a>
+        <a href="https://github.com/alxbnct" target="_blank">alxbnct</a>
       </td>
     </tr>
     <tr>
-      <td align="center">571</td>
+      <td align="center">575</td>
       <td align="center">
-        <a href="https://github.com/ray-97" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/50550351?u=c14b81e20cfd37c8ef6ed4c04ddb099f55728f2f&v=4" alt="ray-97" width="40" height="40"/>
+        <a href="https://github.com/Ikuzweshema" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/163114861?u=ba1be6db3daea3d31125c4b6d0d453fc50804831&v=4" alt="Ikuzweshema" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/ray-97" target="_blank">ray-97</a>
+        <a href="https://github.com/Ikuzweshema" target="_blank">Ikuzweshema</a>
       </td>
     </tr>
     <tr>
-      <td align="center">572</td>
+      <td align="center">576</td>
       <td align="center">
-        <a href="https://github.com/bagasstrongman" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/54809734?u=1ddac061cf31a0c1afcf62e07f4cb2eadecc3c70&v=4" alt="bagasstrongman" width="40" height="40"/>
+        <a href="https://github.com/tolgaboroglu" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/46046034?u=a10e32bd845918a5da46b3cec2652289463eeb23&v=4" alt="tolgaboroglu" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/bagasstrongman" target="_blank">bagasstrongman</a>
+        <a href="https://github.com/tolgaboroglu" target="_blank">tolgaboroglu</a>
       </td>
     </tr>
     <tr>
-      <td align="center">573</td>
+      <td align="center">577</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -779,4 +779,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.399s on Sun Aug 4 at 7:39</p>
+<p align="right">Generated in 0.236s on Sun Aug 4 at 7:53</p>
