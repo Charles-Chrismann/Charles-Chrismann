@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">676</td>
-      <td align="center">
-        <a href="https://github.com/Rfontt" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/69485548?u=38928e8f3c2fa6fa49eb14295ccbf23e46b2d419&v=4" alt="Rfontt" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Rfontt" target="_blank">Rfontt</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">677</td>
       <td align="center">
         <a href="https://github.com/Dan-Nobre" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">679</td>
+      <td align="center">
+        <a href="https://github.com/rust-sol" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/171685359?v=4" alt="rust-sol" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/rust-sol" target="_blank">rust-sol</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">680</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -781,4 +781,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.215s on Sun Aug 4 at 14:58</p>
+<p align="right">Generated in 0.218s on Sun Aug 4 at 14:59</p>
