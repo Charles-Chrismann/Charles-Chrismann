@@ -83,40 +83,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">742</td>
+      <td align="center">746</td>
       <td align="center">
-        <a href="https://github.com/ceyhunonac" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/74990452?u=4ff152a9db2c9ac7a4ea07dfed0b1d53c1eaef96&v=4" alt="ceyhunonac" width="40" height="40"/>
+        <a href="https://github.com/marianapiccolo" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/77842121?u=5d23b82213c01f4c22c0bed122c5713667f69e43&v=4" alt="marianapiccolo" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/ceyhunonac" target="_blank">ceyhunonac</a>
+        <a href="https://github.com/marianapiccolo" target="_blank">marianapiccolo</a>
       </td>
     </tr>
     <tr>
-      <td align="center">743</td>
+      <td align="center">747</td>
       <td align="center">
-        <a href="https://github.com/mfcaicedo" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/67482617?u=d94c212ff34047083b0754e1dbdaf3bf7e892df5&v=4" alt="mfcaicedo" width="40" height="40"/>
+        <a href="https://github.com/mohammedhrima" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/71414472?u=1e7d67d67ab296f508269a558863f78eab84415a&v=4" alt="mohammedhrima" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/mfcaicedo" target="_blank">mfcaicedo</a>
+        <a href="https://github.com/mohammedhrima" target="_blank">mohammedhrima</a>
       </td>
     </tr>
     <tr>
-      <td align="center">744</td>
+      <td align="center">748</td>
       <td align="center">
-        <a href="https://github.com/MrPowerUp82" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/70461958?u=5f9ce810eaa393666a039346cc4b21139e2b08f6&v=4" alt="MrPowerUp82" width="40" height="40"/>
+        <a href="https://github.com/MiguelBrav" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/60828177?v=4" alt="MiguelBrav" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/MrPowerUp82" target="_blank">MrPowerUp82</a>
+        <a href="https://github.com/MiguelBrav" target="_blank">MiguelBrav</a>
       </td>
     </tr>
     <tr>
-      <td align="center">745</td>
+      <td align="center">749</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -781,4 +781,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.234s on Sun Aug 4 at 18:18</p>
+<p align="right">Generated in 0.186s on Sun Aug 4 at 18:19</p>
