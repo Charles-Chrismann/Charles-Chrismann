@@ -83,10 +83,10 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">816</td>
+      <td align="center">815</td>
       <td align="center">
         <a href="https://github.com/ceofast" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/65781593?u=85fe58568891a25e9912616e9b7a8b997c855757&v=4" alt="ceofast" width="40" height="40"/>
+          <img src="https://avatars.githubusercontent.com/u/65781593?u=3d6017280071797617f4144dc1983a02029a23b4&v=4" alt="ceofast" width="40" height="40"/>
         </a>
       </td>
       <td>
@@ -94,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">817</td>
+      <td align="center">816</td>
       <td align="center">
         <a href="https://github.com/ortegavan" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/30645960?u=beb814b51bb45e9f1dc38eabc71992c416cc7626&v=4" alt="ortegavan" width="40" height="40"/>
@@ -105,7 +105,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">818</td>
+      <td align="center">817</td>
       <td align="center">
         <a href="https://github.com/omphilejmatsobe" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/64405813?u=6200c25b52e9e3f2640ae1f514ec8f3dac77be48&v=4" alt="omphilejmatsobe" width="40" height="40"/>
@@ -116,7 +116,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">819</td>
+      <td align="center">818</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -798,4 +798,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.403s on Sun Aug 4 at 22:39</p>
+<p align="right">Generated in 0.318s on Sun Aug 4 at 22:40</p>
