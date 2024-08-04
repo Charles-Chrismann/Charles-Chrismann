@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">653</td>
-      <td align="center">
-        <a href="https://github.com/saeedamini144" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/42317098?u=9b4cb7fd26ee279da6ba1383278b8d0640851001&v=4" alt="saeedamini144" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/saeedamini144" target="_blank">saeedamini144</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">654</td>
       <td align="center">
         <a href="https://github.com/Moustafa-Elgammal" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">656</td>
+      <td align="center">
+        <a href="https://github.com/akisatoon1" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/56778697?v=4" alt="akisatoon1" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/akisatoon1" target="_blank">akisatoon1</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">657</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -518,7 +518,7 @@
   <span>:one:</span>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=7&y=13">:black_large_square:</a>
   <span>:one:</span>
-  <a href="https://o.charles-chrismann.fr/minesweeper/click?x=9&y=13">:black_large_square:</a>
+  <span>:one:</span>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=10&y=13">:black_large_square:</a>
   <span>:one:</span>
   <span>:white_large_square:</span>
@@ -528,7 +528,7 @@
   <span>:white_large_square:</span>
   <span>:white_large_square:</span>
 </p>
-<p align="center">Keep clearing, there are still many mines left.</p>
+<p align="center">Congrats you won !</p>
 <p align="center">
   <img width="256" src="https://o.charles-chrismann.fr/minesweeper.gif" />
 </p>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 1.117s on Sun Aug 4 at 13:33</p>
+<p align="right">Generated in 1.178s on Sun Aug 4 at 13:33</p>
