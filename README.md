@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">650</td>
-      <td align="center">
-        <a href="https://github.com/MindsMend-org" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/59998931?u=ffbd0933f2e8af3f28e388a56db0463d7086363e&v=4" alt="MindsMend-org" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/MindsMend-org" target="_blank">MindsMend-org</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">651</td>
       <td align="center">
         <a href="https://github.com/casch-at" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">653</td>
+      <td align="center">
+        <a href="https://github.com/Guilherme-Mariano" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/62659575?v=4" alt="Guilherme-Mariano" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Guilherme-Mariano" target="_blank">Guilherme-Mariano</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">654</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.345s on Sun Aug 4 at 13:19</p>
+<p align="right">Generated in 0.348s on Sun Aug 4 at 13:22</p>
