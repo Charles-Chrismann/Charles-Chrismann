@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">528</td>
-      <td align="center">
-        <a href="https://github.com/jvalenteros" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/52338531?v=4" alt="jvalenteros" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/jvalenteros" target="_blank">jvalenteros</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">529</td>
       <td align="center">
         <a href="https://github.com/stnc" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">531</td>
+      <td align="center">
+        <a href="https://github.com/GamerCleanVic" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/10964167?u=0c53cfb3c4332dc038255d8f6ba3b8e8f2940a26&v=4" alt="GamerCleanVic" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/GamerCleanVic" target="_blank">GamerCleanVic</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">532</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -781,4 +781,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.3s on Sun Aug 4 at 3:42</p>
+<p align="right">Generated in 0.311s on Sun Aug 4 at 3:47</p>
