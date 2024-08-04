@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">738</td>
-      <td align="center">
-        <a href="https://github.com/manuwarfare" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/57271488?u=10f9ccf538463f4bc2b24957378f433a44066690&v=4" alt="manuwarfare" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/manuwarfare" target="_blank">manuwarfare</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">739</td>
       <td align="center">
         <a href="https://github.com/FrankHubeny" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">741</td>
+      <td align="center">
+        <a href="https://github.com/shinkai-tester" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/57576102?u=2f3cf31c4f389447ba9f99756817ab5e6e27dc79&v=4" alt="shinkai-tester" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/shinkai-tester" target="_blank">shinkai-tester</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">742</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -781,4 +781,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.227s on Sun Aug 4 at 17:56</p>
+<p align="right">Generated in 0.217s on Sun Aug 4 at 17:56</p>
