@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">666</td>
-      <td align="center">
-        <a href="https://github.com/codnjs042" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/73993796?u=4834323698c9c1a715d88a3d459de9aad3dffbe1&v=4" alt="codnjs042" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/codnjs042" target="_blank">codnjs042</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">667</td>
       <td align="center">
         <a href="https://github.com/ErikDMCosta" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">669</td>
+      <td align="center">
+        <a href="https://github.com/bugwarez" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/49249051?u=6cfe677f9ca32f53f746401bd6d0a57d91712153&v=4" alt="bugwarez" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/bugwarez" target="_blank">bugwarez</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">670</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -781,4 +781,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 1.174s on Sun Aug 4 at 14:24</p>
+<p align="right">Generated in 1.238s on Sun Aug 4 at 14:25</p>
