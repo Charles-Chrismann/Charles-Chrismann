@@ -83,40 +83,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">686</td>
-      <td align="center">
-        <a href="https://github.com/aniketpatidar" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/67000557?u=2f42d917d08ffd9a102bf5bb0b582f2ff4307e9c&v=4" alt="aniketpatidar" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/aniketpatidar" target="_blank">aniketpatidar</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">687</td>
-      <td align="center">
-        <a href="https://github.com/braydenoneal" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/71409691?u=aeea5a36b23c24a6fccfbee74e4925362238a4f7&v=4" alt="braydenoneal" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/braydenoneal" target="_blank">braydenoneal</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">688</td>
-      <td align="center">
-        <a href="https://github.com/andreluis-oliveira" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/53203742?u=172d77c8597e293bbf637d5d31bded17b0c99d1f&v=4" alt="andreluis-oliveira" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/andreluis-oliveira" target="_blank">andreluis-oliveira</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">689</td>
+      <td align="center">
+        <a href="https://github.com/burningbeattle" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/45086739?u=0303c7f3191f2febdf71807e4f3eeffb02bfd9db&v=4" alt="burningbeattle" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/burningbeattle" target="_blank">burningbeattle</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">690</td>
+      <td align="center">
+        <a href="https://github.com/biggaji" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/40983352?v=4" alt="biggaji" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/biggaji" target="_blank">biggaji</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">691</td>
+      <td align="center">
+        <a href="https://github.com/iwdath" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/75438184?u=72b7e525e817d53b1a921cbf22b3da13c2e09ae0&v=4" alt="iwdath" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/iwdath" target="_blank">iwdath</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">692</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -801,4 +801,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.3s on Sun Aug 4 at 15:21</p>
+<p align="right">Generated in 0.326s on Sun Aug 4 at 15:25</p>
