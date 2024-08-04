@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">669</td>
-      <td align="center">
-        <a href="https://github.com/bugwarez" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/49249051?u=6cfe677f9ca32f53f746401bd6d0a57d91712153&v=4" alt="bugwarez" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/bugwarez" target="_blank">bugwarez</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">670</td>
       <td align="center">
         <a href="https://github.com/valentinsoare" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">672</td>
+      <td align="center">
+        <a href="https://github.com/samanesayyar" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/10350690?v=4" alt="samanesayyar" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/samanesayyar" target="_blank">samanesayyar</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">673</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -781,4 +781,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.213s on Sun Aug 4 at 14:37</p>
+<p align="right">Generated in 0.231s on Sun Aug 4 at 14:41</p>
