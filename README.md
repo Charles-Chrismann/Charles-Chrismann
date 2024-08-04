@@ -83,40 +83,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">774</td>
-      <td align="center">
-        <a href="https://github.com/eoguvo" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/62659139?u=d677072ecf6b76bb8ee6586d77e0d08d751eac8e&v=4" alt="eoguvo" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/eoguvo" target="_blank">eoguvo</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">775</td>
-      <td align="center">
-        <a href="https://github.com/qh21" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/76710890?v=4" alt="qh21" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/qh21" target="_blank">qh21</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">776</td>
-      <td align="center">
-        <a href="https://github.com/mickozak" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/34646280?u=a192ac59636a5a965eb8100f5010e52e35eb8056&v=4" alt="mickozak" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/mickozak" target="_blank">mickozak</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">777</td>
+      <td align="center">
+        <a href="https://github.com/Nigel-Moes" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/68500902?u=2f1d02ffe98d42726f95735bef8c37cc65373391&v=4" alt="Nigel-Moes" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Nigel-Moes" target="_blank">Nigel-Moes</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">778</td>
+      <td align="center">
+        <a href="https://github.com/Lucas-HMSC" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/63379937?u=8dd4c961fa6812281a8c9380b275352aced7deb5&v=4" alt="Lucas-HMSC" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Lucas-HMSC" target="_blank">Lucas-HMSC</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">779</td>
+      <td align="center">
+        <a href="https://github.com/manosakpujiha" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/70998471?u=e4bd0890e8d3af7b6a4454508bda2c0a60b81685&v=4" alt="manosakpujiha" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/manosakpujiha" target="_blank">manosakpujiha</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">780</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -787,4 +787,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.188s on Sun Aug 4 at 20:18</p>
+<p align="right">Generated in 0.168s on Sun Aug 4 at 20:19</p>
