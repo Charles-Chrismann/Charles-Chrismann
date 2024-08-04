@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">763</td>
-      <td align="center">
-        <a href="https://github.com/diaspd" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/71470442?u=5fd828826d64cc096f439c98c375788b1fc48ae2&v=4" alt="diaspd" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/diaspd" target="_blank">diaspd</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">764</td>
       <td align="center">
         <a href="https://github.com/AlbericoJr" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">766</td>
+      <td align="center">
+        <a href="https://github.com/TeshaneCrawford" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/58280701?u=a068731838a389ced6029177e1e657841997acba&v=4" alt="TeshaneCrawford" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/TeshaneCrawford" target="_blank">TeshaneCrawford</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">767</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -781,4 +781,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.198s on Sun Aug 4 at 19:26</p>
+<p align="right">Generated in 0.189s on Sun Aug 4 at 19:27</p>
