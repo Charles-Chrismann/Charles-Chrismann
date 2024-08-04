@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">782</td>
-      <td align="center">
-        <a href="https://github.com/melhamamsy" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/63168028?u=b3a1c94ad06ee69d6725798fb0d0f1e307429663&v=4" alt="melhamamsy" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/melhamamsy" target="_blank">melhamamsy</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">783</td>
       <td align="center">
         <a href="https://github.com/ItaloFabricio" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">785</td>
+      <td align="center">
+        <a href="https://github.com/BryanAnariba" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/43623601?u=f6983b64ff71a5a2a25d08b0dc317295f4764038&v=4" alt="BryanAnariba" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/BryanAnariba" target="_blank">BryanAnariba</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">786</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -125,6 +125,9 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/charles-chrismann/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/charles.cmn?igsh=bG55YnM1cGZjbjhh" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Instagram.svg" alt="instagram" height="30" width="40" />
   </a>
 </p>
 <h1 align="center">Technical skills</h1>
@@ -797,4 +800,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.185s on Sun Aug 4 at 20:34</p>
+<p align="right">Generated in 0.791s on Sun Aug 4 at 20:36</p>
