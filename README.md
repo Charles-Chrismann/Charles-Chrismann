@@ -83,40 +83,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">1015</td>
-      <td align="center">
-        <a href="https://github.com/yokingma" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/8767820?u=83a3b2aaf80e0c1661c788fcf25ed6212b5c7ff5&v=4" alt="yokingma" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/yokingma" target="_blank">yokingma</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">1016</td>
-      <td align="center">
-        <a href="https://github.com/nikosmokas" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/44407057?u=63ff6f6bbf2234cae12b60f8659a4da20f134112&v=4" alt="nikosmokas" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/nikosmokas" target="_blank">nikosmokas</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">1017</td>
-      <td align="center">
-        <a href="https://github.com/bbcdabao" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/45411947?u=1d056c9e536f98e0e3cd2123d719d8351af6ddab&v=4" alt="bbcdabao" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/bbcdabao" target="_blank">bbcdabao</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">1018</td>
+      <td align="center">
+        <a href="https://github.com/viniciusnazario" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/42946401?v=4" alt="viniciusnazario" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/viniciusnazario" target="_blank">viniciusnazario</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1019</td>
+      <td align="center">
+        <a href="https://github.com/benniematiko" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/36801983?u=b52cb19e0c47ecd31b3d80d3d45d61951b1182cc&v=4" alt="benniematiko" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/benniematiko" target="_blank">benniematiko</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1020</td>
+      <td align="center">
+        <a href="https://github.com/wonkyungup" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/34180230?u=6a592cb389400bb886f089ee5d06f52d6d5c9a33&v=4" alt="wonkyungup" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/wonkyungup" target="_blank">wonkyungup</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1021</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -819,4 +819,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.494s on Mon Aug 5 at 12:19</p>
+<p align="right">Generated in 0.301s on Mon Aug 5 at 12:24</p>
