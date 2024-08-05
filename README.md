@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">856</td>
-      <td align="center">
-        <a href="https://github.com/Calvindd2f" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/74103103?v=4" alt="Calvindd2f" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Calvindd2f" target="_blank">Calvindd2f</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">857</td>
       <td align="center">
         <a href="https://github.com/otaviossousa" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">859</td>
+      <td align="center">
+        <a href="https://github.com/AndreyDiDev" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/44914169?v=4" alt="AndreyDiDev" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/AndreyDiDev" target="_blank">AndreyDiDev</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">860</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -815,4 +815,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.259s on Mon Aug 5 at 1:39</p>
+<p align="right">Generated in 0.257s on Mon Aug 5 at 1:42</p>
