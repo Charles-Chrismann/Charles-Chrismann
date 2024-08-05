@@ -85,17 +85,6 @@
     <tr>
       <td align="center">843</td>
       <td align="center">
-        <a href="https://github.com/LuminousChestnut" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/59057924?u=6c279f240d011a2a10bb0345dae2966abe46caf0&v=4" alt="LuminousChestnut" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/LuminousChestnut" target="_blank">LuminousChestnut</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">844</td>
-      <td align="center">
         <a href="https://github.com/guilhermedom" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/33037020?u=346f819a4dd160a587328d7760cd968204816230&v=4" alt="guilhermedom" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">845</td>
+      <td align="center">844</td>
       <td align="center">
         <a href="https://github.com/afiifatuts" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/32781700?u=258e484b6bdb948d6ea444c54c7f4dd0652785c9&v=4" alt="afiifatuts" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/afiifatuts" target="_blank">afiifatuts</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">845</td>
+      <td align="center">
+        <a href="https://github.com/OpenEDF" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/37032513?u=713658985922ca912a6fe7a15c75a14daaac3203&v=4" alt="OpenEDF" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/OpenEDF" target="_blank">OpenEDF</a>
       </td>
     </tr>
     <tr>
@@ -789,4 +789,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.287s on Mon Aug 5 at 1:02</p>
+<p align="right">Generated in 0.286s on Mon Aug 5 at 1:03</p>
