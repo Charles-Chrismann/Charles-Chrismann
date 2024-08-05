@@ -85,17 +85,6 @@
     <tr>
       <td align="center">1084</td>
       <td align="center">
-        <a href="https://github.com/silvesterwali" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/40487188?u=bef52f493ccc9df8c8901fa2dbf89f32f34249dd&v=4" alt="silvesterwali" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/silvesterwali" target="_blank">silvesterwali</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">1085</td>
-      <td align="center">
         <a href="https://github.com/PreciousIfeaka" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/76190326?u=4a118bf8103c5085eac57bce636a7172e6699983&v=4" alt="PreciousIfeaka" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">1086</td>
+      <td align="center">1085</td>
       <td align="center">
         <a href="https://github.com/knowledge35" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/6735807?u=eb799b477a968f7ac813e749375ad02e09bbd513&v=4" alt="knowledge35" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/knowledge35" target="_blank">knowledge35</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1086</td>
+      <td align="center">
+        <a href="https://github.com/onuralpszr" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/1688848?u=26c0145300b450c492392340041fd32c5697b818&v=4" alt="onuralpszr" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/onuralpszr" target="_blank">onuralpszr</a>
       </td>
     </tr>
     <tr>
@@ -791,4 +791,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.407s on Mon Aug 5 at 16:13</p>
+<p align="right">Generated in 0.276s on Mon Aug 5 at 16:24</p>
