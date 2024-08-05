@@ -85,17 +85,6 @@
     <tr>
       <td align="center">1050</td>
       <td align="center">
-        <a href="https://github.com/DavidSilveira80" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/78636631?u=36009a8805b7d5e7f7773b191001c8efa8d4ea61&v=4" alt="DavidSilveira80" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/DavidSilveira80" target="_blank">DavidSilveira80</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">1051</td>
-      <td align="center">
         <a href="https://github.com/cnourrcier" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/78494987?u=958a15d9d00af2c85337980c926eb8237405c491&v=4" alt="cnourrcier" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">1052</td>
+      <td align="center">1051</td>
       <td align="center">
         <a href="https://github.com/imagez22" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/63812022?u=576f47b26e79f2a310ad6ac27fd7273d407214d4&v=4" alt="imagez22" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/imagez22" target="_blank">imagez22</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1052</td>
+      <td align="center">
+        <a href="https://github.com/dimitrihamelin" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/60851320?u=6500f0901603bc9c5cf7fc6e07a86503e6bb46db&v=4" alt="dimitrihamelin" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/dimitrihamelin" target="_blank">dimitrihamelin</a>
       </td>
     </tr>
     <tr>
@@ -817,4 +817,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.369s on Mon Aug 5 at 14:27</p>
+<p align="right">Generated in 0.349s on Mon Aug 5 at 14:27</p>
