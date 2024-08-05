@@ -83,40 +83,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">975</td>
-      <td align="center">
-        <a href="https://github.com/DragosCP" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/17333989?u=7513995aa5194e0c35a2d7c43d353f8c64fe0e00&v=4" alt="DragosCP" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/DragosCP" target="_blank">DragosCP</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">976</td>
-      <td align="center">
-        <a href="https://github.com/dandelg88" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/19698148?u=a170cfb2ade99858eafa0f40d09d99b39a4daccf&v=4" alt="dandelg88" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/dandelg88" target="_blank">dandelg88</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">977</td>
-      <td align="center">
-        <a href="https://github.com/nakzoo" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/73391169?u=371694d0ae73c38eb86c610c9d08b57cd86d6b63&v=4" alt="nakzoo" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/nakzoo" target="_blank">nakzoo</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">978</td>
+      <td align="center">
+        <a href="https://github.com/kudak3" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/52527906?v=4" alt="kudak3" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/kudak3" target="_blank">kudak3</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">979</td>
+      <td align="center">
+        <a href="https://github.com/sametrozturk" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/51668672?u=957677a6d28da02d0f42e1941a740c251fa72156&v=4" alt="sametrozturk" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/sametrozturk" target="_blank">sametrozturk</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">980</td>
+      <td align="center">
+        <a href="https://github.com/kerrickchan" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/42406163?u=0b47acfa6de471ab3c38ce23a6b49de44a38c6d4&v=4" alt="kerrickchan" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/kerrickchan" target="_blank">kerrickchan</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">981</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 1.219s on Mon Aug 5 at 9:36</p>
+<p align="right">Generated in 1.151s on Mon Aug 5 at 9:38</p>
