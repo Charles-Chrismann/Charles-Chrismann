@@ -85,17 +85,6 @@
     <tr>
       <td align="center">940</td>
       <td align="center">
-        <a href="https://github.com/rubanzasilva" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/27724348?u=f26fc6e99d2cc24199f928f63f9cb1aa24c9740f&v=4" alt="rubanzasilva" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/rubanzasilva" target="_blank">rubanzasilva</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">941</td>
-      <td align="center">
         <a href="https://github.com/OmaarElAmri" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/26025866?u=6c3323d45eb73a8b374f1f53de3a49da9ee61977&v=4" alt="OmaarElAmri" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">942</td>
+      <td align="center">941</td>
       <td align="center">
         <a href="https://github.com/michael811125" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/30960759?u=e55520a2ba4cb86049c1e739e8f19d90b88944a4&v=4" alt="michael811125" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/michael811125" target="_blank">michael811125</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">942</td>
+      <td align="center">
+        <a href="https://github.com/StayBlank" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/27936285?v=4" alt="StayBlank" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/StayBlank" target="_blank">StayBlank</a>
       </td>
     </tr>
     <tr>
@@ -801,4 +801,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.32s on Mon Aug 5 at 7:50</p>
+<p align="right">Generated in 0.323s on Mon Aug 5 at 7:53</p>
