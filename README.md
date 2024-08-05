@@ -83,40 +83,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">951</td>
-      <td align="center">
-        <a href="https://github.com/JohnBrew" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/33233823?u=a818b93025064770baf199c7d68b02b500122048&v=4" alt="JohnBrew" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/JohnBrew" target="_blank">JohnBrew</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">952</td>
-      <td align="center">
-        <a href="https://github.com/gianpaolof" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/6586650?u=33cc1f2c03c5f200c02f94bd897a7034b40e85cf&v=4" alt="gianpaolof" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/gianpaolof" target="_blank">gianpaolof</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">953</td>
-      <td align="center">
-        <a href="https://github.com/idris0001" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/36794582?u=5e8575c4860e669b5288d6e8e8c2068e485a6b41&v=4" alt="idris0001" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/idris0001" target="_blank">idris0001</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">954</td>
+      <td align="center">
+        <a href="https://github.com/harshalkardile" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/69854015?u=2ab677ce03388cb6ff973632956100f3d4f50821&v=4" alt="harshalkardile" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/harshalkardile" target="_blank">harshalkardile</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">955</td>
+      <td align="center">
+        <a href="https://github.com/reybos" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/30983051?u=6687eb264ffa4ac233a0810fe14c43c4e96a99ef&v=4" alt="reybos" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/reybos" target="_blank">reybos</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">956</td>
+      <td align="center">
+        <a href="https://github.com/Amanuel-1" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/71079278?u=fe55d0807f02cd2c7e97fe8c70ec5ec0058738c7&v=4" alt="Amanuel-1" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Amanuel-1" target="_blank">Amanuel-1</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">957</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -801,4 +801,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.368s on Mon Aug 5 at 8:27</p>
+<p align="right">Generated in 0.331s on Mon Aug 5 at 8:36</p>
