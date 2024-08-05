@@ -83,40 +83,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">1002</td>
-      <td align="center">
-        <a href="https://github.com/MANU-de" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/67684505?u=bbed3d782d53e34cb4c38a8197a0fb705f0c1041&v=4" alt="MANU-de" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/MANU-de" target="_blank">MANU-de</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">1003</td>
-      <td align="center">
-        <a href="https://github.com/anopsy" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/74981211?u=59927de54d0d1f54ee6bdee52881cce5d8a97ac0&v=4" alt="anopsy" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/anopsy" target="_blank">anopsy</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">1004</td>
-      <td align="center">
-        <a href="https://github.com/Nayama95" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/74407667?u=101d53e8574339c2ac23162689a532b84a5850b9&v=4" alt="Nayama95" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Nayama95" target="_blank">Nayama95</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">1005</td>
+      <td align="center">
+        <a href="https://github.com/endisl" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/49719707?u=265994d824eff6bc2235947d4e0fee8407ab036f&v=4" alt="endisl" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/endisl" target="_blank">endisl</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1006</td>
+      <td align="center">
+        <a href="https://github.com/YanFellippe" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/69776644?u=288a91661b70b650a0f73af8f97f9d23bb890a09&v=4" alt="YanFellippe" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/YanFellippe" target="_blank">YanFellippe</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1007</td>
+      <td align="center">
+        <a href="https://github.com/taiwonaf" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/69268373?u=e8094517c9af187027cdbfd129d071a6324f0754&v=4" alt="taiwonaf" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/taiwonaf" target="_blank">taiwonaf</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1008</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -793,4 +793,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 1.197s on Mon Aug 5 at 11:04</p>
+<p align="right">Generated in 1.19s on Mon Aug 5 at 11:10</p>
