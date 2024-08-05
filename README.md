@@ -85,17 +85,6 @@
     <tr>
       <td align="center">898</td>
       <td align="center">
-        <a href="https://github.com/Gaurav-Van" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/50765800?u=f63c11f14071c3290a8c35ca6ca95a1335d61c61&v=4" alt="Gaurav-Van" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Gaurav-Van" target="_blank">Gaurav-Van</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">899</td>
-      <td align="center">
         <a href="https://github.com/jimmonster" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/17333222?u=5639bafe7ce33baf8083b26e6264a8aa30a4dbbd&v=4" alt="jimmonster" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">900</td>
+      <td align="center">899</td>
       <td align="center">
         <a href="https://github.com/Nes-O" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/75729695?v=4" alt="Nes-O" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/Nes-O" target="_blank">Nes-O</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">900</td>
+      <td align="center">
+        <a href="https://github.com/elitmor" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/52796683?u=a00b80cacc7dcc652ed80ed6e97a48f3224d99b4&v=4" alt="elitmor" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/elitmor" target="_blank">elitmor</a>
       </td>
     </tr>
     <tr>
