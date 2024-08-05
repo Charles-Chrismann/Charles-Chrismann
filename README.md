@@ -83,40 +83,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">989</td>
-      <td align="center">
-        <a href="https://github.com/kaybrian" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/46319683?u=3521b7d99c2e61b751be4fae4d1b6e39bb64b5d7&v=4" alt="kaybrian" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/kaybrian" target="_blank">kaybrian</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">990</td>
-      <td align="center">
-        <a href="https://github.com/atipy" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/34001760?u=62a3a790285d0020af92b3f33cd8f51331073da3&v=4" alt="atipy" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/atipy" target="_blank">atipy</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">991</td>
-      <td align="center">
-        <a href="https://github.com/hutajoullach" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/60039508?u=285d092ae6aac62fa0f3fec67f3fcedbe9ba342e&v=4" alt="hutajoullach" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/hutajoullach" target="_blank">hutajoullach</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">992</td>
+      <td align="center">
+        <a href="https://github.com/salmonGowa" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/67318860?u=be9292e8e8a7602cfe633aa02d565d9121492481&v=4" alt="salmonGowa" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/salmonGowa" target="_blank">salmonGowa</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">993</td>
+      <td align="center">
+        <a href="https://github.com/Zaid-deve" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/77426696?u=4c0d58ba4d5a85b08f5853f0741cb04ce2168269&v=4" alt="Zaid-deve" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Zaid-deve" target="_blank">Zaid-deve</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">994</td>
+      <td align="center">
+        <a href="https://github.com/ljnszu" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/5731392?v=4" alt="ljnszu" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/ljnszu" target="_blank">ljnszu</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">995</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -788,4 +788,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 1.197s on Mon Aug 5 at 10:26</p>
+<p align="right">Generated in 1.173s on Mon Aug 5 at 10:30</p>
