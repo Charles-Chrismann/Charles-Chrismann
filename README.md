@@ -107,12 +107,12 @@
     <tr>
       <td align="center">1123</td>
       <td align="center">
-        <a href="https://github.com/Sandro642" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/84270313?u=0f4e4dbef5845a3e27d363ad1e930ef67e35aeb0&v=4" alt="Sandro642" width="40" height="40"/>
+        <a href="https://github.com/gustavodiasag" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/79119534?u=63ad90cc7007c2084f625cd908a349114eb5bc6b&v=4" alt="gustavodiasag" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/Sandro642" target="_blank">Sandro642</a>
+        <a href="https://github.com/gustavodiasag" target="_blank">gustavodiasag</a>
       </td>
     </tr>
     <tr>
@@ -790,4 +790,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.365s on Mon Aug 5 at 18:13</p>
+<p align="right">Generated in 0.296s on Mon Aug 5 at 18:13</p>
