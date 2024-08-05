@@ -83,40 +83,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">1134</td>
-      <td align="center">
-        <a href="https://github.com/M-Awwab-Khan" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/63666608?u=02fe55f024e5252a46e407bec0be6505686c6189&v=4" alt="M-Awwab-Khan" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/M-Awwab-Khan" target="_blank">M-Awwab-Khan</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">1135</td>
-      <td align="center">
-        <a href="https://github.com/BrunoCiccarino" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/82242552?u=b699a194a509511542b93477813f26b116c6995c&v=4" alt="BrunoCiccarino" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/BrunoCiccarino" target="_blank">BrunoCiccarino</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">1136</td>
-      <td align="center">
-        <a href="https://github.com/fahleiro" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/40614718?u=f2541d20040647b0898a12ad0da9299fdf2db231&v=4" alt="fahleiro" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/fahleiro" target="_blank">fahleiro</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">1137</td>
+      <td align="center">
+        <a href="https://github.com/mercie-ux" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/71188215?u=d399f2546510ad9aa88097590a26aa70a57ec11f&v=4" alt="mercie-ux" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/mercie-ux" target="_blank">mercie-ux</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1138</td>
+      <td align="center">
+        <a href="https://github.com/sergiogcdev" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/74437121?u=c9dac3ef85c9639be627daf2a22b46cf957718e4&v=4" alt="sergiogcdev" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/sergiogcdev" target="_blank">sergiogcdev</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1139</td>
+      <td align="center">
+        <a href="https://github.com/velosoberti" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/73717104?u=6353e902930628717183eaa412a7da9274e6f664&v=4" alt="velosoberti" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/velosoberti" target="_blank">velosoberti</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1140</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -800,4 +800,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.237s on Mon Aug 5 at 18:51</p>
+<p align="right">Generated in 0.25s on Mon Aug 5 at 18:57</p>
