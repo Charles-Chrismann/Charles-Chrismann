@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">1112</td>
-      <td align="center">
-        <a href="https://github.com/JoaoVictorGI" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/76417611?v=4" alt="JoaoVictorGI" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/JoaoVictorGI" target="_blank">JoaoVictorGI</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">1113</td>
       <td align="center">
         <a href="https://github.com/Github11200" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">1115</td>
+      <td align="center">
+        <a href="https://github.com/Dickson2020" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/75673864?u=5032b0d768ba780b7a05a3478799bf4f5f9f3b07&v=4" alt="Dickson2020" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Dickson2020" target="_blank">Dickson2020</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1116</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -790,4 +790,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.34s on Mon Aug 5 at 17:53</p>
+<p align="right">Generated in 0.348s on Mon Aug 5 at 17:54</p>
