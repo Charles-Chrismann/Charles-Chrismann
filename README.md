@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">1190</td>
-      <td align="center">
-        <a href="https://github.com/loonglim" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/170989464?u=0cc9e060c3ed949c49d4b2d622a77877bd37df86&v=4" alt="loonglim" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/loonglim" target="_blank">loonglim</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">1191</td>
       <td align="center">
         <a href="https://github.com/streamerd" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">1193</td>
+      <td align="center">
+        <a href="https://github.com/snufkinwa" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/68300416?u=ca530d5a46b55c39c5356440045d6e834709ee8b&v=4" alt="snufkinwa" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/snufkinwa" target="_blank">snufkinwa</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1194</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.368s on Mon Aug 5 at 22:03</p>
+<p align="right">Generated in 0.225s on Mon Aug 5 at 22:04</p>
