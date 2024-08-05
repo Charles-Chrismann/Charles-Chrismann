@@ -83,18 +83,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">881</td>
-      <td align="center">
-        <a href="https://github.com/lucasaltm" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/71459923?u=f86fc7b95c4f74a86651a471badfd34a9458056f&v=4" alt="lucasaltm" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/lucasaltm" target="_blank">lucasaltm</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">882</td>
+      <td align="center">883</td>
       <td align="center">
         <a href="https://github.com/moelhaj" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/22400576?u=febc61ed55ef42342b7e5831484e13a8af456886&v=4" alt="moelhaj" width="40" height="40"/>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">883</td>
+      <td align="center">884</td>
       <td align="center">
         <a href="https://github.com/lucas-moont" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/66444506?u=f6b7c92ccc166869ef9d088790ee1994a77077b6&v=4" alt="lucas-moont" width="40" height="40"/>
@@ -116,7 +105,18 @@
       </td>
     </tr>
     <tr>
-      <td align="center">884</td>
+      <td align="center">885</td>
+      <td align="center">
+        <a href="https://github.com/Ctrl-E" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/73417469?u=79362abb00b8a5db773655b5e44e3c4c8d2a2fdb&v=4" alt="Ctrl-E" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Ctrl-E" target="_blank">Ctrl-E</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">886</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -818,4 +818,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.219s on Mon Aug 5 at 4:16</p>
+<p align="right">Generated in 0.217s on Mon Aug 5 at 4:18</p>
