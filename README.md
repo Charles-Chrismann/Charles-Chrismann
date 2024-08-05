@@ -83,40 +83,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">1116</td>
+      <td align="center">1121</td>
       <td align="center">
-        <a href="https://github.com/gustavovianaA" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/38870251?u=0e1e39a8bf808a2c3d2d43148129e5fe5b17fad8&v=4" alt="gustavovianaA" width="40" height="40"/>
+        <a href="https://github.com/caiquetorres" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/56696506?u=6c7af2ba2c147dbf0994031218b0f9e1b8bca7db&v=4" alt="caiquetorres" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/gustavovianaA" target="_blank">gustavovianaA</a>
+        <a href="https://github.com/caiquetorres" target="_blank">caiquetorres</a>
       </td>
     </tr>
     <tr>
-      <td align="center">1117</td>
+      <td align="center">1122</td>
       <td align="center">
-        <a href="https://github.com/kdingin" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/68949521?u=c049cc575d2d341db24f73104e7d273e421e0a0d&v=4" alt="kdingin" width="40" height="40"/>
+        <a href="https://github.com/MosbyLeia" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/73869310?u=5fbb60510fc7a2c385efd1a3ba0e6a2da52752fe&v=4" alt="MosbyLeia" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/kdingin" target="_blank">kdingin</a>
+        <a href="https://github.com/MosbyLeia" target="_blank">MosbyLeia</a>
       </td>
     </tr>
     <tr>
-      <td align="center">1118</td>
+      <td align="center">1123</td>
       <td align="center">
-        <a href="https://github.com/jucarata" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/83429985?v=4" alt="jucarata" width="40" height="40"/>
+        <a href="https://github.com/Sandro642" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/84270313?u=0f4e4dbef5845a3e27d363ad1e930ef67e35aeb0&v=4" alt="Sandro642" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/jucarata" target="_blank">jucarata</a>
+        <a href="https://github.com/Sandro642" target="_blank">Sandro642</a>
       </td>
     </tr>
     <tr>
-      <td align="center">1119</td>
+      <td align="center">1124</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -790,4 +790,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.318s on Mon Aug 5 at 18:00</p>
+<p align="right">Generated in 0.311s on Mon Aug 5 at 18:08</p>
