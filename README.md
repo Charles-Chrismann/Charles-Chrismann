@@ -83,29 +83,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">1084</td>
-      <td align="center">
-        <a href="https://github.com/PreciousIfeaka" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/76190326?u=4a118bf8103c5085eac57bce636a7172e6699983&v=4" alt="PreciousIfeaka" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/PreciousIfeaka" target="_blank">PreciousIfeaka</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">1085</td>
-      <td align="center">
-        <a href="https://github.com/knowledge35" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/6735807?u=eb799b477a968f7ac813e749375ad02e09bbd513&v=4" alt="knowledge35" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/knowledge35" target="_blank">knowledge35</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">1086</td>
+      <td align="center">1087</td>
       <td align="center">
         <a href="https://github.com/onuralpszr" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/1688848?u=26c0145300b450c492392340041fd32c5697b818&v=4" alt="onuralpszr" width="40" height="40"/>
@@ -116,7 +94,29 @@
       </td>
     </tr>
     <tr>
-      <td align="center">1087</td>
+      <td align="center">1088</td>
+      <td align="center">
+        <a href="https://github.com/gustavobastian" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/24254340?u=1c5129d6ffe153433de2a5ae7636659bd2b08653&v=4" alt="gustavobastian" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/gustavobastian" target="_blank">gustavobastian</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1089</td>
+      <td align="center">
+        <a href="https://github.com/Staks-sor" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/81685498?u=4405881d561e6bccb0afefcca22c7dc2d7fc7ae7&v=4" alt="Staks-sor" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Staks-sor" target="_blank">Staks-sor</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1090</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -791,4 +791,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.325s on Mon Aug 5 at 16:26</p>
+<p align="right">Generated in 0.262s on Mon Aug 5 at 16:27</p>
