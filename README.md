@@ -83,18 +83,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">853</td>
-      <td align="center">
-        <a href="https://github.com/karan-t" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/34405580?u=f83e83ccbd4a7beda55f3494bc935c7b96e74d98&v=4" alt="karan-t" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/karan-t" target="_blank">karan-t</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">854</td>
+      <td align="center">855</td>
       <td align="center">
         <a href="https://github.com/Huniko519" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/71299022?u=22172f45a17dce24d35b7a05e146df9272ef69b7&v=4" alt="Huniko519" width="40" height="40"/>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">855</td>
+      <td align="center">856</td>
       <td align="center">
         <a href="https://github.com/Calvindd2f" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/74103103?v=4" alt="Calvindd2f" width="40" height="40"/>
@@ -116,7 +105,18 @@
       </td>
     </tr>
     <tr>
-      <td align="center">856</td>
+      <td align="center">857</td>
+      <td align="center">
+        <a href="https://github.com/otaviossousa" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/130789571?u=755397e08c7c57ab68c95341de0e2086c9744ec7&v=4" alt="otaviossousa" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/otaviossousa" target="_blank">otaviossousa</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">858</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -815,4 +815,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.239s on Mon Aug 5 at 1:25</p>
+<p align="right">Generated in 0.252s on Mon Aug 5 at 1:25</p>
