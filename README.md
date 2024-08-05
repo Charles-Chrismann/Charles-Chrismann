@@ -83,29 +83,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">1166</td>
-      <td align="center">
-        <a href="https://github.com/nfultz" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/418638?u=76fa821dabfbc97cd67519377dcd863210c1f596&v=4" alt="nfultz" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/nfultz" target="_blank">nfultz</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">1167</td>
-      <td align="center">
-        <a href="https://github.com/maaferna" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/55238942?u=67886127d4934839764f938b4d3ac5fcbcaadfd8&v=4" alt="maaferna" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/maaferna" target="_blank">maaferna</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">1168</td>
       <td align="center">
         <a href="https://github.com/Ikuzweshema" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/163114861?u=ba1be6db3daea3d31125c4b6d0d453fc50804831&v=4" alt="Ikuzweshema" width="40" height="40"/>
@@ -116,7 +94,29 @@
       </td>
     </tr>
     <tr>
+      <td align="center">1168</td>
+      <td align="center">
+        <a href="https://github.com/erenaspire7" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/25663584?u=a1a096459d57ec438841b8ce4a13a98aade7a742&v=4" alt="erenaspire7" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/erenaspire7" target="_blank">erenaspire7</a>
+      </td>
+    </tr>
+    <tr>
       <td align="center">1169</td>
+      <td align="center">
+        <a href="https://github.com/RenanBorba" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/48495838?u=e9866712bdb20b5e33b446c3bdc6aa9d10af2ccf&v=4" alt="RenanBorba" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/RenanBorba" target="_blank">RenanBorba</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1170</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.352s on Mon Aug 5 at 20:49</p>
+<p align="right">Generated in 0.21s on Mon Aug 5 at 20:52</p>
