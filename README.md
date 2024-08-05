@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">1037</td>
-      <td align="center">
-        <a href="https://github.com/vitordl" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/48863970?u=251e1cf095d01c412f411d5b42d195e139079c60&v=4" alt="vitordl" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/vitordl" target="_blank">vitordl</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">1038</td>
       <td align="center">
         <a href="https://github.com/jamieecode" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">1040</td>
+      <td align="center">
+        <a href="https://github.com/its-nmt05" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/78692215?v=4" alt="its-nmt05" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/its-nmt05" target="_blank">its-nmt05</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1041</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -817,4 +817,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.358s on Mon Aug 5 at 13:47</p>
+<p align="right">Generated in 0.325s on Mon Aug 5 at 13:49</p>
