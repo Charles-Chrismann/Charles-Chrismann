@@ -83,18 +83,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">843</td>
-      <td align="center">
-        <a href="https://github.com/guilhermedom" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/33037020?u=346f819a4dd160a587328d7760cd968204816230&v=4" alt="guilhermedom" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/guilhermedom" target="_blank">guilhermedom</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">844</td>
+      <td align="center">845</td>
       <td align="center">
         <a href="https://github.com/afiifatuts" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/32781700?u=258e484b6bdb948d6ea444c54c7f4dd0652785c9&v=4" alt="afiifatuts" width="40" height="40"/>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">845</td>
+      <td align="center">846</td>
       <td align="center">
         <a href="https://github.com/OpenEDF" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/37032513?u=713658985922ca912a6fe7a15c75a14daaac3203&v=4" alt="OpenEDF" width="40" height="40"/>
@@ -116,7 +105,18 @@
       </td>
     </tr>
     <tr>
-      <td align="center">846</td>
+      <td align="center">847</td>
+      <td align="center">
+        <a href="https://github.com/Sugar0612" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/73148587?u=09eecc6a09104dccab3098d39fc834eb78564325&v=4" alt="Sugar0612" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Sugar0612" target="_blank">Sugar0612</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">848</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -815,4 +815,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.489s on Mon Aug 5 at 1:03</p>
+<p align="right">Generated in 0.316s on Mon Aug 5 at 1:05</p>
