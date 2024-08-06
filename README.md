@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">1366</td>
-      <td align="center">
-        <a href="https://github.com/fxzer" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/68853957?u=9836fd48382e842a086233ab6ea259c207233e5e&v=4" alt="fxzer" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/fxzer" target="_blank">fxzer</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">1367</td>
       <td align="center">
         <a href="https://github.com/javaGhost1" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">1369</td>
+      <td align="center">
+        <a href="https://github.com/Fatma-Nur-Azman" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/97127265?u=569b6cfc73ba6b6bd48315b5768acf93e76852c9&v=4" alt="Fatma-Nur-Azman" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Fatma-Nur-Azman" target="_blank">Fatma-Nur-Azman</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1370</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -779,4 +779,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.165s on Tue Aug 6 at 8:59</p>
+<p align="right">Generated in 0.16s on Tue Aug 6 at 9:00</p>
