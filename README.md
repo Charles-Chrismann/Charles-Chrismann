@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">1537</td>
-      <td align="center">
-        <a href="https://github.com/kairos-hk" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/83718994?u=13c99f801ffa956105c9aa5d5b507cca2a4f8871&v=4" alt="kairos-hk" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/kairos-hk" target="_blank">kairos-hk</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">1538</td>
       <td align="center">
         <a href="https://github.com/Manoj882" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">1540</td>
+      <td align="center">
+        <a href="https://github.com/ThatGuyChandan" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/92448088?v=4" alt="ThatGuyChandan" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/ThatGuyChandan" target="_blank">ThatGuyChandan</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1541</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.215s on Tue Aug 6 at 15:25</p>
+<p align="right">Generated in 0.206s on Tue Aug 6 at 15:28</p>
