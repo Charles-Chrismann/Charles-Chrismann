@@ -85,17 +85,6 @@
     <tr>
       <td align="center">1468</td>
       <td align="center">
-        <a href="https://github.com/yusufie" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/90094867?u=f04abab2e75054f09d8dc31a4d6a18fa4c4fcb4b&v=4" alt="yusufie" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/yusufie" target="_blank">yusufie</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">1469</td>
-      <td align="center">
         <a href="https://github.com/alvesmariadefatima" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/94319702?u=e66d4e58b8df999b28e06caecc281ab09c443c94&v=4" alt="alvesmariadefatima" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">1470</td>
+      <td align="center">1469</td>
       <td align="center">
         <a href="https://github.com/khmgobe" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/98224004?u=6751a0d5bb6effd0c15caecb5e17a6d732d43d69&v=4" alt="khmgobe" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/khmgobe" target="_blank">khmgobe</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1470</td>
+      <td align="center">
+        <a href="https://github.com/VishalS-HK" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/99802796?u=8d078537b5a85428580ba104259e64c6741af0de&v=4" alt="VishalS-HK" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/VishalS-HK" target="_blank">VishalS-HK</a>
       </td>
     </tr>
     <tr>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.343s on Tue Aug 6 at 13:25</p>
+<p align="right">Generated in 0.242s on Tue Aug 6 at 13:25</p>
