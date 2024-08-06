@@ -83,18 +83,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">1393</td>
-      <td align="center">
-        <a href="https://github.com/ALICHERIF" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/23421300?u=b5636a17991264ee44a3da0b69305bd40a97d61f&v=4" alt="ALICHERIF" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/ALICHERIF" target="_blank">ALICHERIF</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">1394</td>
+      <td align="center">1395</td>
       <td align="center">
         <a href="https://github.com/hesuhesu" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/91324571?v=4" alt="hesuhesu" width="40" height="40"/>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">1395</td>
+      <td align="center">1396</td>
       <td align="center">
         <a href="https://github.com/KamiNation" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/83586972?u=cff74e6ba15c558230fdd11071e9e472ff759926&v=4" alt="KamiNation" width="40" height="40"/>
@@ -116,7 +105,18 @@
       </td>
     </tr>
     <tr>
-      <td align="center">1396</td>
+      <td align="center">1397</td>
+      <td align="center">
+        <a href="https://github.com/Misganaw-Berihun" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/85707242?u=1fd449e9dcc5916af8e3e58dc137a9e322403f59&v=4" alt="Misganaw-Berihun" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Misganaw-Berihun" target="_blank">Misganaw-Berihun</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1398</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.279s on Tue Aug 6 at 10:06</p>
+<p align="right">Generated in 0.263s on Tue Aug 6 at 10:06</p>
