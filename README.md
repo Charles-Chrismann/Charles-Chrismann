@@ -85,34 +85,34 @@
     <tr>
       <td align="center">1520</td>
       <td align="center">
-        <a href="https://github.com/akshaypjoshi" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/25765955?u=19ec2151dd0acfad15d1d50066923418a7e91041&v=4" alt="akshaypjoshi" width="40" height="40"/>
+        <a href="https://github.com/ArtyomIT" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/50076431?u=fbf819774b49e9177bc7e1648c1e3cec97493bf4&v=4" alt="ArtyomIT" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/akshaypjoshi" target="_blank">akshaypjoshi</a>
+        <a href="https://github.com/ArtyomIT" target="_blank">ArtyomIT</a>
       </td>
     </tr>
     <tr>
       <td align="center">1521</td>
       <td align="center">
-        <a href="https://github.com/rafamanetti" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/84095571?u=ec06a649b6e591117ec7e9098dcad02912078c6d&v=4" alt="rafamanetti" width="40" height="40"/>
+        <a href="https://github.com/danielBRTanimacao" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/93400508?u=f8a081f946d20c8484be6019c43d8fb907461d36&v=4" alt="danielBRTanimacao" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/rafamanetti" target="_blank">rafamanetti</a>
+        <a href="https://github.com/danielBRTanimacao" target="_blank">danielBRTanimacao</a>
       </td>
     </tr>
     <tr>
       <td align="center">1522</td>
       <td align="center">
-        <a href="https://github.com/nlutala" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/87072306?u=6e04c36d2170b629b013be9205719f42e00c6d0e&v=4" alt="nlutala" width="40" height="40"/>
+        <a href="https://github.com/zerotreze" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/87788261?u=7aa2f0ecea599cd735e79930b90c33facc5666aa&v=4" alt="zerotreze" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/nlutala" target="_blank">nlutala</a>
+        <a href="https://github.com/zerotreze" target="_blank">zerotreze</a>
       </td>
     </tr>
     <tr>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.148s on Tue Aug 6 at 15:00</p>
+<p align="right">Generated in 0.152s on Tue Aug 6 at 15:05</p>
