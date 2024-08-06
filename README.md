@@ -83,40 +83,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">1353</td>
+      <td align="center">1357</td>
       <td align="center">
-        <a href="https://github.com/johnsonjh" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/61629094?u=1e08e81b0acdf16ed644415ce19d8da244d77b1c&v=4" alt="johnsonjh" width="40" height="40"/>
+        <a href="https://github.com/Gruffyy" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/94645876?u=e446961e22d0376b231352ba40f2774196a6a376&v=4" alt="Gruffyy" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/johnsonjh" target="_blank">johnsonjh</a>
+        <a href="https://github.com/Gruffyy" target="_blank">Gruffyy</a>
       </td>
     </tr>
     <tr>
-      <td align="center">1354</td>
+      <td align="center">1358</td>
       <td align="center">
-        <a href="https://github.com/Zamoca42" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/96982072?u=65464113c7d4e187639d9d4ee0774b639671b54b&v=4" alt="Zamoca42" width="40" height="40"/>
+        <a href="https://github.com/LamThanhNguyen" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/48795168?v=4" alt="LamThanhNguyen" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/Zamoca42" target="_blank">Zamoca42</a>
+        <a href="https://github.com/LamThanhNguyen" target="_blank">LamThanhNguyen</a>
       </td>
     </tr>
     <tr>
-      <td align="center">1355</td>
+      <td align="center">1359</td>
       <td align="center">
-        <a href="https://github.com/qqaazz0222" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/39234389?u=96f2d58546a952298ef8b8868a1c1b4d7962ee11&v=4" alt="qqaazz0222" width="40" height="40"/>
+        <a href="https://github.com/NiRbHaYsInGh30" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/90407590?u=51f9c2a2e939484ed2c2f42215900a0ddab9066b&v=4" alt="NiRbHaYsInGh30" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/qqaazz0222" target="_blank">qqaazz0222</a>
+        <a href="https://github.com/NiRbHaYsInGh30" target="_blank">NiRbHaYsInGh30</a>
       </td>
     </tr>
     <tr>
-      <td align="center">1356</td>
+      <td align="center">1360</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -779,4 +779,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.208s on Tue Aug 6 at 8:43</p>
+<p align="right">Generated in 0.195s on Tue Aug 6 at 8:44</p>
