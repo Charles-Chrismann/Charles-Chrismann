@@ -83,40 +83,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">1445</td>
-      <td align="center">
-        <a href="https://github.com/VictorDevPHP" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/98700678?u=a92d4a361914b49fc021b9bb2a28e0e37d110548&v=4" alt="VictorDevPHP" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/VictorDevPHP" target="_blank">VictorDevPHP</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">1446</td>
-      <td align="center">
-        <a href="https://github.com/geovanaolis" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/97990410?u=4be31c3b08a73e9410ae526a4e64716f29d7fead&v=4" alt="geovanaolis" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/geovanaolis" target="_blank">geovanaolis</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">1447</td>
-      <td align="center">
-        <a href="https://github.com/maxter9595" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/51326318?u=69a018422347f005e2874a091caba0784229d36c&v=4" alt="maxter9595" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/maxter9595" target="_blank">maxter9595</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">1448</td>
+      <td align="center">
+        <a href="https://github.com/Neves369" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/63128431?u=82c648130264738c424ba6bf93976385d8526f7a&v=4" alt="Neves369" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Neves369" target="_blank">Neves369</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1449</td>
+      <td align="center">
+        <a href="https://github.com/Julianadev" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/68672538?u=a1635b1f328d2c9f01ca60234bb34dc9ebceffa1&v=4" alt="Julianadev" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Julianadev" target="_blank">Julianadev</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1450</td>
+      <td align="center">
+        <a href="https://github.com/SantosRodrigo89" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/93896739?u=9823bf96b40fc367f718e33445b01ee5a4ccc228&v=4" alt="SantosRodrigo89" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/SantosRodrigo89" target="_blank">SantosRodrigo89</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1451</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -786,4 +786,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 1.852s on Tue Aug 6 at 12:38</p>
+<p align="right">Generated in 0.271s on Tue Aug 6 at 12:42</p>
