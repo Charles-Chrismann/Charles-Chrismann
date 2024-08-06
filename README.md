@@ -85,17 +85,6 @@
     <tr>
       <td align="center">1506</td>
       <td align="center">
-        <a href="https://github.com/DiwaPrasetyo02" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/103320912?u=c088d7157cdc7c2ef4bd16f0c34b455f8e6ae1b6&v=4" alt="DiwaPrasetyo02" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/DiwaPrasetyo02" target="_blank">DiwaPrasetyo02</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">1507</td>
-      <td align="center">
         <a href="https://github.com/kidde60" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/95461386?u=ecac910bd6455ecf23ce6777f89d17c6d980df86&v=4" alt="kidde60" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">1508</td>
+      <td align="center">1507</td>
       <td align="center">
         <a href="https://github.com/KrishnanditoLksn" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/96246664?u=878bcce162ddb9db6e43f3b4366e2b035780dcf6&v=4" alt="KrishnanditoLksn" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/KrishnanditoLksn" target="_blank">KrishnanditoLksn</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1508</td>
+      <td align="center">
+        <a href="https://github.com/3equoia" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/91288286?v=4" alt="3equoia" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/3equoia" target="_blank">3equoia</a>
       </td>
     </tr>
     <tr>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.329s on Tue Aug 6 at 14:35</p>
+<p align="right">Generated in 0.337s on Tue Aug 6 at 14:36</p>
