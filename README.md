@@ -83,28 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">1302</td>
-      <td align="center">
-        <a href="https://github.com/Nurrozcetin" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/93328444?u=5f9e11eb9ad9cd423c8a62a1973c4704b02083dd&v=4" alt="Nurrozcetin" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Nurrozcetin" target="_blank">Nurrozcetin</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">1303</td>
-      <td align="center">
-        <a href="https://github.com/pranav-bot" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/57317761?u=2a2dbd4db01ae89f78299f523cc27629c7f7076e&v=4" alt="pranav-bot" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/pranav-bot" target="_blank">pranav-bot</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">1304</td>
       <td align="center">
         <a href="https://github.com/BestQwerty" target="_blank">
@@ -117,6 +95,28 @@
     </tr>
     <tr>
       <td align="center">1305</td>
+      <td align="center">
+        <a href="https://github.com/MeralTd" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/26633192?v=4" alt="MeralTd" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/MeralTd" target="_blank">MeralTd</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1306</td>
+      <td align="center">
+        <a href="https://github.com/hongdroid94" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/49463513?v=4" alt="hongdroid94" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/hongdroid94" target="_blank">hongdroid94</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1307</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.304s on Tue Aug 6 at 6:17</p>
+<p align="right">Generated in 0.304s on Tue Aug 6 at 6:21</p>
