@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">1279</td>
-      <td align="center">
-        <a href="https://github.com/fensk-cmd" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/71367369?u=76353b29d19eb4a08325c7d0dac3c0d7d4e610fa&v=4" alt="fensk-cmd" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/fensk-cmd" target="_blank">fensk-cmd</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">1280</td>
       <td align="center">
         <a href="https://github.com/DevNomadAbhi" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">1282</td>
+      <td align="center">
+        <a href="https://github.com/NigarOrujova" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/92165280?u=8572ca2bbbff4bbd32a3306451ccf4500a56377a&v=4" alt="NigarOrujova" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/NigarOrujova" target="_blank">NigarOrujova</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1283</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.277s on Tue Aug 6 at 4:51</p>
+<p align="right">Generated in 0.277s on Tue Aug 6 at 4:56</p>
