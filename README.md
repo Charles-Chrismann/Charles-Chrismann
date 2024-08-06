@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">1473</td>
-      <td align="center">
-        <a href="https://github.com/ekisler" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/102256661?u=b3af51d3e8bdbc0016deeba8e77846143fea7228&v=4" alt="ekisler" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/ekisler" target="_blank">ekisler</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">1474</td>
       <td align="center">
         <a href="https://github.com/Aslihan06" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">1476</td>
+      <td align="center">
+        <a href="https://github.com/GLino-Oficial" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/60303771?u=b5700026aead21f563de5f73ee3a250837280a9a&v=4" alt="GLino-Oficial" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/GLino-Oficial" target="_blank">GLino-Oficial</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1477</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.211s on Tue Aug 6 at 13:34</p>
+<p align="right">Generated in 0.207s on Tue Aug 6 at 13:35</p>
