@@ -83,40 +83,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">1361</td>
-      <td align="center">
-        <a href="https://github.com/Buddhikanip" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/98378758?u=6a60b507a58503e93b69d85fd3b6be1a42e4d4cf&v=4" alt="Buddhikanip" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Buddhikanip" target="_blank">Buddhikanip</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">1362</td>
-      <td align="center">
-        <a href="https://github.com/MorningStarTM" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/83525606?u=514e91b3ce04b99ccfa76a470814b19da0471d38&v=4" alt="MorningStarTM" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/MorningStarTM" target="_blank">MorningStarTM</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">1363</td>
       <td align="center">
-        <a href="https://github.com/Hoomanzoh79" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/86908448?u=219721c5b26e4f19b29a0dbace8d8389f8204ca2&v=4" alt="Hoomanzoh79" width="40" height="40"/>
+        <a href="https://github.com/tuanductran" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/69758022?u=b02ebd8858248aafba2ebac859d27c986c24727a&v=4" alt="tuanductran" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/Hoomanzoh79" target="_blank">Hoomanzoh79</a>
+        <a href="https://github.com/tuanductran" target="_blank">tuanductran</a>
       </td>
     </tr>
     <tr>
       <td align="center">1364</td>
+      <td align="center">
+        <a href="https://github.com/wasiquehaider" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/26715284?u=59307597cae79bea6b36bd704fed612d931cf730&v=4" alt="wasiquehaider" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/wasiquehaider" target="_blank">wasiquehaider</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1365</td>
+      <td align="center">
+        <a href="https://github.com/fxzer" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/68853957?u=9836fd48382e842a086233ab6ea259c207233e5e&v=4" alt="fxzer" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/fxzer" target="_blank">fxzer</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1366</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -779,4 +779,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.174s on Tue Aug 6 at 8:49</p>
+<p align="right">Generated in 0.171s on Tue Aug 6 at 8:55</p>
