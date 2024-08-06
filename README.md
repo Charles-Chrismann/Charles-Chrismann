@@ -85,17 +85,6 @@
     <tr>
       <td align="center">1488</td>
       <td align="center">
-        <a href="https://github.com/dalcheonroadhead" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/102154788?u=6a8d2908857a391b7cba2e1553923d1e5bb455b7&v=4" alt="dalcheonroadhead" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/dalcheonroadhead" target="_blank">dalcheonroadhead</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">1489</td>
-      <td align="center">
         <a href="https://github.com/KennyMwendwaX" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/99965267?u=cb1b671be732dacec2458dcb96077eb6ec48406e&v=4" alt="KennyMwendwaX" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">1490</td>
+      <td align="center">1489</td>
       <td align="center">
         <a href="https://github.com/pHEONIX0360" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/95993837?v=4" alt="pHEONIX0360" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/pHEONIX0360" target="_blank">pHEONIX0360</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1490</td>
+      <td align="center">
+        <a href="https://github.com/leo-smi" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/20663547?u=7785964de528cf987b7f8643800375011d175d6c&v=4" alt="leo-smi" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/leo-smi" target="_blank">leo-smi</a>
       </td>
     </tr>
     <tr>
@@ -800,4 +800,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.28s on Tue Aug 6 at 14:06</p>
+<p align="right">Generated in 0.272s on Tue Aug 6 at 14:07</p>
