@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">1297</td>
-      <td align="center">
-        <a href="https://github.com/Tugaytalha" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/76882910?v=4" alt="Tugaytalha" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Tugaytalha" target="_blank">Tugaytalha</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">1298</td>
       <td align="center">
         <a href="https://github.com/webscriptmaster" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">1300</td>
+      <td align="center">
+        <a href="https://github.com/nogizakapython" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/92526281?v=4" alt="nogizakapython" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/nogizakapython" target="_blank">nogizakapython</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1301</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.351s on Tue Aug 6 at 6:01</p>
+<p align="right">Generated in 0.299s on Tue Aug 6 at 6:02</p>
