@@ -85,17 +85,6 @@
     <tr>
       <td align="center">1314</td>
       <td align="center">
-        <a href="https://github.com/jkyt123" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/34531946?v=4" alt="jkyt123" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/jkyt123" target="_blank">jkyt123</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">1315</td>
-      <td align="center">
         <a href="https://github.com/Kalutu" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/78742463?u=fef96ab76c04ed2ebea78eb824d875955b9a60e4&v=4" alt="Kalutu" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">1316</td>
+      <td align="center">1315</td>
       <td align="center">
         <a href="https://github.com/Myxogastria0808" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/78744619?u=dda036f08ce4053d00a705d6b8c5795ea282d0be&v=4" alt="Myxogastria0808" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/Myxogastria0808" target="_blank">Myxogastria0808</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1316</td>
+      <td align="center">
+        <a href="https://github.com/James-Muguro" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/87544057?u=b86a2440d3e919b6a2eba98f5b4ac3c7a8002ff6&v=4" alt="James-Muguro" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/James-Muguro" target="_blank">James-Muguro</a>
       </td>
     </tr>
     <tr>
@@ -786,4 +786,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.537s on Tue Aug 6 at 6:53</p>
+<p align="right">Generated in 0.409s on Tue Aug 6 at 6:55</p>
