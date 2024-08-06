@@ -83,40 +83,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">1456</td>
-      <td align="center">
-        <a href="https://github.com/harlangilbran" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/167880900?u=52a4fbfdabd6de0698f8fb6785fd6a77e593dc4e&v=4" alt="harlangilbran" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/harlangilbran" target="_blank">harlangilbran</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">1457</td>
-      <td align="center">
-        <a href="https://github.com/RankracerBR" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/101043200?u=24131791a61f21875cba168b65f5400598177a48&v=4" alt="RankracerBR" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/RankracerBR" target="_blank">RankracerBR</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">1458</td>
       <td align="center">
-        <a href="https://github.com/Akshay08k" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/96125015?u=57f94af4c8b878d729b38b35d45eec7240ab02c9&v=4" alt="Akshay08k" width="40" height="40"/>
+        <a href="https://github.com/Satyamkumarnavneet" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/76639713?u=12f5c8a14a3e1620d6338c72cf0c35654108a0dd&v=4" alt="Satyamkumarnavneet" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/Akshay08k" target="_blank">Akshay08k</a>
+        <a href="https://github.com/Satyamkumarnavneet" target="_blank">Satyamkumarnavneet</a>
       </td>
     </tr>
     <tr>
       <td align="center">1459</td>
+      <td align="center">
+        <a href="https://github.com/p-delfani" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/91133322?u=ae62e051f0e1c32c96aab31e2af8af1448d5d527&v=4" alt="p-delfani" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/p-delfani" target="_blank">p-delfani</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1460</td>
+      <td align="center">
+        <a href="https://github.com/jucarata" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/83429985?v=4" alt="jucarata" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/jucarata" target="_blank">jucarata</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1461</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -806,4 +806,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.456s on Tue Aug 6 at 13:03</p>
+<p align="right">Generated in 0.262s on Tue Aug 6 at 13:08</p>
