@@ -83,28 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">1265</td>
-      <td align="center">
-        <a href="https://github.com/President-Banda" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/22883499?u=7f4cf9665cfe613b2dde7a31f2516dcb1a6c997d&v=4" alt="President-Banda" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/President-Banda" target="_blank">President-Banda</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">1266</td>
-      <td align="center">
-        <a href="https://github.com/eriskcn" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/93506716?u=3aed9fc39c095e61aed85a1ee1c11d6ca0debba0&v=4" alt="eriskcn" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/eriskcn" target="_blank">eriskcn</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">1267</td>
       <td align="center">
         <a href="https://github.com/s0ul141" target="_blank">
@@ -117,6 +95,28 @@
     </tr>
     <tr>
       <td align="center">1268</td>
+      <td align="center">
+        <a href="https://github.com/AbhiFutureTech" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/157373320?u=432b78deeee39b23be02ac9bfaaffb17c1271218&v=4" alt="AbhiFutureTech" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/AbhiFutureTech" target="_blank">AbhiFutureTech</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1269</td>
+      <td align="center">
+        <a href="https://github.com/ReyhanehAhani" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/88882191?u=71cb0387cc8e37258d25032de5a2cff714645cf4&v=4" alt="ReyhanehAhani" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/ReyhanehAhani" target="_blank">ReyhanehAhani</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1270</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -794,4 +794,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.276s on Tue Aug 6 at 3:47</p>
+<p align="right">Generated in 0.286s on Tue Aug 6 at 4:00</p>
