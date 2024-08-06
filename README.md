@@ -85,17 +85,6 @@
     <tr>
       <td align="center">1610</td>
       <td align="center">
-        <a href="https://github.com/DevCoff" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/105569223?u=a1f582961d3770fcf41bbf571977fe179343e7c2&v=4" alt="DevCoff" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/DevCoff" target="_blank">DevCoff</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">1611</td>
-      <td align="center">
         <a href="https://github.com/marianamartiyns" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/102267325?u=1bbae1b04b4bbb7277a50492d5c94d07142858ca&v=4" alt="marianamartiyns" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">1612</td>
+      <td align="center">1611</td>
       <td align="center">
         <a href="https://github.com/igorssant" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/31260344?v=4" alt="igorssant" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/igorssant" target="_blank">igorssant</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1612</td>
+      <td align="center">
+        <a href="https://github.com/wamikabro" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/62086478?u=c1028e2c5926df701a36dd9438d6224a27343528&v=4" alt="wamikabro" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/wamikabro" target="_blank">wamikabro</a>
       </td>
     </tr>
     <tr>
@@ -811,4 +811,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.295s on Tue Aug 6 at 18:37</p>
+<p align="right">Generated in 0.322s on Tue Aug 6 at 18:38</p>
