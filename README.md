@@ -83,40 +83,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">1538</td>
-      <td align="center">
-        <a href="https://github.com/Manoj882" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/58880150?v=4" alt="Manoj882" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Manoj882" target="_blank">Manoj882</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">1539</td>
-      <td align="center">
-        <a href="https://github.com/AencioVinicius2" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/106282309?u=51291176d36dfb6deb922b3b665e46f0ffece221&v=4" alt="AencioVinicius2" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/AencioVinicius2" target="_blank">AencioVinicius2</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">1540</td>
       <td align="center">
-        <a href="https://github.com/ThatGuyChandan" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/92448088?v=4" alt="ThatGuyChandan" width="40" height="40"/>
+        <a href="https://github.com/linkhanthtel" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/95618937?u=aced0991493af672440ac614eb47ece9839a2c1e&v=4" alt="linkhanthtel" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/ThatGuyChandan" target="_blank">ThatGuyChandan</a>
+        <a href="https://github.com/linkhanthtel" target="_blank">linkhanthtel</a>
       </td>
     </tr>
     <tr>
       <td align="center">1541</td>
+      <td align="center">
+        <a href="https://github.com/OtavioBandeira" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/101152646?v=4" alt="OtavioBandeira" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/OtavioBandeira" target="_blank">OtavioBandeira</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1542</td>
+      <td align="center">
+        <a href="https://github.com/utuedey" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/97887019?u=c50527f70be6ce561c8b8f71cbef347b44feabdf&v=4" alt="utuedey" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/utuedey" target="_blank">utuedey</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1543</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.206s on Tue Aug 6 at 15:28</p>
+<p align="right">Generated in 0.21s on Tue Aug 6 at 15:30</p>
