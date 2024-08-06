@@ -85,17 +85,6 @@
     <tr>
       <td align="center">1371</td>
       <td align="center">
-        <a href="https://github.com/Pfrommer1982" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/90003610?u=2f863391cc24869d8d5b598b56d207c0349032d2&v=4" alt="Pfrommer1982" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Pfrommer1982" target="_blank">Pfrommer1982</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">1372</td>
-      <td align="center">
         <a href="https://github.com/Hossein-Fazel" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/73769552?u=74c5d6a140f9c2e1e3963f01d6b503b59e367dad&v=4" alt="Hossein-Fazel" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">1373</td>
+      <td align="center">1372</td>
       <td align="center">
         <a href="https://github.com/ErikasRamaneckas" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/88393745?v=4" alt="ErikasRamaneckas" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/ErikasRamaneckas" target="_blank">ErikasRamaneckas</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1373</td>
+      <td align="center">
+        <a href="https://github.com/ZygimantasB" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/92627436?u=da59944be7fe72e0d21ed41e560796a06c824b76&v=4" alt="ZygimantasB" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/ZygimantasB" target="_blank">ZygimantasB</a>
       </td>
     </tr>
     <tr>
@@ -779,4 +779,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.247s on Tue Aug 6 at 9:08</p>
+<p align="right">Generated in 0.247s on Tue Aug 6 at 9:09</p>
