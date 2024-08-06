@@ -83,40 +83,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">1546</td>
+      <td align="center">1550</td>
       <td align="center">
-        <a href="https://github.com/angelicaccampos" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/82877749?u=1028a52da613238f31eee1fc629775cbabe42a13&v=4" alt="angelicaccampos" width="40" height="40"/>
+        <a href="https://github.com/laststonedjs" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/58791451?u=267574c797eb75bf50957278d299ae017aada6da&v=4" alt="laststonedjs" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/angelicaccampos" target="_blank">angelicaccampos</a>
+        <a href="https://github.com/laststonedjs" target="_blank">laststonedjs</a>
       </td>
     </tr>
     <tr>
-      <td align="center">1547</td>
+      <td align="center">1551</td>
       <td align="center">
-        <a href="https://github.com/geotdsu" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/93000261?u=9c5332ee880092312ececbb8e9ab4e8306d45fc9&v=4" alt="geotdsu" width="40" height="40"/>
+        <a href="https://github.com/GauravKesh" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/98611148?u=126497fdbd2ed3850a02976c2f17a29941e926e8&v=4" alt="GauravKesh" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/geotdsu" target="_blank">geotdsu</a>
+        <a href="https://github.com/GauravKesh" target="_blank">GauravKesh</a>
       </td>
     </tr>
     <tr>
-      <td align="center">1548</td>
+      <td align="center">1552</td>
       <td align="center">
-        <a href="https://github.com/vitoriabarbosa" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/93888309?u=37aac34a1d745d852f32ed2ab4f06c3bacf1afb4&v=4" alt="vitoriabarbosa" width="40" height="40"/>
+        <a href="https://github.com/gitover22" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/83172922?u=7577ba3a2404385c27c3829b63493747c213268e&v=4" alt="gitover22" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/vitoriabarbosa" target="_blank">vitoriabarbosa</a>
+        <a href="https://github.com/gitover22" target="_blank">gitover22</a>
       </td>
     </tr>
     <tr>
-      <td align="center">1549</td>
+      <td align="center">1553</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -803,4 +803,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.517s on Tue Aug 6 at 15:48</p>
+<p align="right">Generated in 0.345s on Tue Aug 6 at 15:48</p>
