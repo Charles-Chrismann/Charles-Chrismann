@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">1300</td>
-      <td align="center">
-        <a href="https://github.com/nogizakapython" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/92526281?v=4" alt="nogizakapython" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/nogizakapython" target="_blank">nogizakapython</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">1301</td>
       <td align="center">
         <a href="https://github.com/Rickiarty" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">1303</td>
+      <td align="center">
+        <a href="https://github.com/pranav-bot" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/57317761?u=2a2dbd4db01ae89f78299f523cc27629c7f7076e&v=4" alt="pranav-bot" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/pranav-bot" target="_blank">pranav-bot</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1304</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.305s on Tue Aug 6 at 6:11</p>
+<p align="right">Generated in 0.3s on Tue Aug 6 at 6:14</p>
