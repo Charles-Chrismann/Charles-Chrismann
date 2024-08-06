@@ -83,40 +83,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">1540</td>
-      <td align="center">
-        <a href="https://github.com/linkhanthtel" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/95618937?u=aced0991493af672440ac614eb47ece9839a2c1e&v=4" alt="linkhanthtel" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/linkhanthtel" target="_blank">linkhanthtel</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">1541</td>
-      <td align="center">
-        <a href="https://github.com/OtavioBandeira" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/101152646?v=4" alt="OtavioBandeira" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/OtavioBandeira" target="_blank">OtavioBandeira</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">1542</td>
-      <td align="center">
-        <a href="https://github.com/utuedey" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/97887019?u=c50527f70be6ce561c8b8f71cbef347b44feabdf&v=4" alt="utuedey" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/utuedey" target="_blank">utuedey</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">1543</td>
+      <td align="center">
+        <a href="https://github.com/leandreAlly" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/78492995?u=78b9e342acbf035a480cf61911606dece828b904&v=4" alt="leandreAlly" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/leandreAlly" target="_blank">leandreAlly</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1544</td>
+      <td align="center">
+        <a href="https://github.com/ryanfavour4" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/87520763?u=b011347a55c3e54e851cb8b4d44805c16378a747&v=4" alt="ryanfavour4" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/ryanfavour4" target="_blank">ryanfavour4</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1545</td>
+      <td align="center">
+        <a href="https://github.com/franciscocruz29" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/64855867?u=ac143a3600635d9db0eecc9a18c53cb6950b3706&v=4" alt="franciscocruz29" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/franciscocruz29" target="_blank">franciscocruz29</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1546</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.21s on Tue Aug 6 at 15:30</p>
+<p align="right">Generated in 0.21s on Tue Aug 6 at 15:33</p>
