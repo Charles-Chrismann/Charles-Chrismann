@@ -85,17 +85,6 @@
     <tr>
       <td align="center">1639</td>
       <td align="center">
-        <a href="https://github.com/waylake" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/101973534?u=6dcfb3a6859f21eefb43448b646722260b40a1c9&v=4" alt="waylake" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/waylake" target="_blank">waylake</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">1640</td>
-      <td align="center">
         <a href="https://github.com/steven-kamanga" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/105992688?u=73d94a0390f854a931d4f733a2dd143812f02db7&v=4" alt="steven-kamanga" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">1641</td>
+      <td align="center">1640</td>
       <td align="center">
         <a href="https://github.com/MoustafaShaaban" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/57029110?u=65cfd763726d100cba4b507339cc9ace5add7c3d&v=4" alt="MoustafaShaaban" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/MoustafaShaaban" target="_blank">MoustafaShaaban</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1641</td>
+      <td align="center">
+        <a href="https://github.com/kcinova" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/59314511?u=52415e010a094498ade65893c83565e388674fc6&v=4" alt="kcinova" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/kcinova" target="_blank">kcinova</a>
       </td>
     </tr>
     <tr>
@@ -806,4 +806,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.249s on Tue Aug 6 at 20:12</p>
+<p align="right">Generated in 0.248s on Tue Aug 6 at 20:13</p>
