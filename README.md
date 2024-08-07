@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">1793</td>
-      <td align="center">
-        <a href="https://github.com/Pequanta" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/96361630?u=c4a8f25a45e5a1a332f004789e15901986c36a0a&v=4" alt="Pequanta" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Pequanta" target="_blank">Pequanta</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">1794</td>
       <td align="center">
         <a href="https://github.com/rudrabhikadiya3" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">1796</td>
+      <td align="center">
+        <a href="https://github.com/Codeboy90" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/64711214?v=4" alt="Codeboy90" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Codeboy90" target="_blank">Codeboy90</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1797</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -786,4 +786,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.242s on Wed Aug 7 at 5:06</p>
+<p align="right">Generated in 0.236s on Wed Aug 7 at 5:09</p>
