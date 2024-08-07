@@ -85,17 +85,6 @@
     <tr>
       <td align="center">1928</td>
       <td align="center">
-        <a href="https://github.com/devansh-kc" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/99194285?v=4" alt="devansh-kc" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/devansh-kc" target="_blank">devansh-kc</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">1929</td>
-      <td align="center">
         <a href="https://github.com/niculicicris" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/106548675?v=4" alt="niculicicris" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">1930</td>
+      <td align="center">1929</td>
       <td align="center">
         <a href="https://github.com/glitchingcore" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/102431570?u=2826303a8a5fe266f334efeae92e863688a2b210&v=4" alt="glitchingcore" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/glitchingcore" target="_blank">glitchingcore</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1930</td>
+      <td align="center">
+        <a href="https://github.com/Imanm02" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/82255293?u=21afca8f0fde71508a6b3d0c418d7059d7924332&v=4" alt="Imanm02" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Imanm02" target="_blank">Imanm02</a>
       </td>
     </tr>
     <tr>
@@ -803,4 +803,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.277s on Wed Aug 7 at 10:14</p>
+<p align="right">Generated in 0.28s on Wed Aug 7 at 10:14</p>
