@@ -85,17 +85,6 @@
     <tr>
       <td align="center">2068</td>
       <td align="center">
-        <a href="https://github.com/Chanakan5591" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/80865605?u=2cf2ad76713165987f558ab834da6eae1b378536&v=4" alt="Chanakan5591" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Chanakan5591" target="_blank">Chanakan5591</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">2069</td>
-      <td align="center">
         <a href="https://github.com/sabata06" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/118965934?u=5f68a08b4ff3676d7d25fdea155244cff0d7d7b1&v=4" alt="sabata06" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">2070</td>
+      <td align="center">2069</td>
       <td align="center">
         <a href="https://github.com/akillness" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/31362761?u=207744e1926428ae6183ebc2e124354497551c3f&v=4" alt="akillness" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/akillness" target="_blank">akillness</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">2070</td>
+      <td align="center">
+        <a href="https://github.com/taiking005-git" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/107807982?u=227006b576b40697de766c6acdb33ddb0388f12e&v=4" alt="taiking005-git" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/taiking005-git" target="_blank">taiking005-git</a>
       </td>
     </tr>
     <tr>
