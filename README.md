@@ -85,17 +85,6 @@
     <tr>
       <td align="center">1954</td>
       <td align="center">
-        <a href="https://github.com/BenNeighbour" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/45554944?u=03c1d9119dfe0264ecbb816e77bd7668436449be&v=4" alt="BenNeighbour" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/BenNeighbour" target="_blank">BenNeighbour</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">1955</td>
-      <td align="center">
         <a href="https://github.com/hmikihth" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/79752640?u=b150bee4b93e551e634752d5d1652d9aa3c5d785&v=4" alt="hmikihth" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">1956</td>
+      <td align="center">1955</td>
       <td align="center">
         <a href="https://github.com/MabohlaleNkuna" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/111710433?u=b184210f09da1c62ab49b296d04388ad3a46e1dd&v=4" alt="MabohlaleNkuna" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/MabohlaleNkuna" target="_blank">MabohlaleNkuna</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1956</td>
+      <td align="center">
+        <a href="https://github.com/addu2612" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/117341727?u=ad936b3a532e4ac6c292d7318636746f04f6a2e6&v=4" alt="addu2612" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/addu2612" target="_blank">addu2612</a>
       </td>
     </tr>
     <tr>
@@ -814,4 +814,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.258s on Wed Aug 7 at 10:52</p>
+<p align="right">Generated in 0.257s on Wed Aug 7 at 10:54</p>
