@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">1733</td>
-      <td align="center">
-        <a href="https://github.com/mdprana" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/95018619?u=6caa0adda614b3adbae8b696d5995751b6f96e68&v=4" alt="mdprana" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/mdprana" target="_blank">mdprana</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">1734</td>
       <td align="center">
         <a href="https://github.com/thezedwards" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">1736</td>
+      <td align="center">
+        <a href="https://github.com/CodewithSegNet" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/91101596?u=3c36b81ad30be4afbf3dd060a647ba529c78b889&v=4" alt="CodewithSegNet" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/CodewithSegNet" target="_blank">CodewithSegNet</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1737</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -803,4 +803,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.637s on Wed Aug 7 at 1:17</p>
+<p align="right">Generated in 0.491s on Wed Aug 7 at 1:17</p>
