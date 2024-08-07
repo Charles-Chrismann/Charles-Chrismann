@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">2022</td>
-      <td align="center">
-        <a href="https://github.com/lmagdanello" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/47561599?u=710aa0871dbdcf5c324c279880c740108623bb87&v=4" alt="lmagdanello" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/lmagdanello" target="_blank">lmagdanello</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">2023</td>
       <td align="center">
         <a href="https://github.com/mondalsurojit" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">2025</td>
+      <td align="center">
+        <a href="https://github.com/hebaomar94" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/97067717?u=05ff236e137a535e38446fea2a6067438b6940ab&v=4" alt="hebaomar94" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/hebaomar94" target="_blank">hebaomar94</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">2026</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -750,4 +750,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.322s on Wed Aug 7 at 12:59</p>
+<p align="right">Generated in 0.322s on Wed Aug 7 at 13:00</p>
