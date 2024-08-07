@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">1973</td>
-      <td align="center">
-        <a href="https://github.com/Jakkapan-a" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/67558529?u=b75afd848563be0feca17add3b3202fb1605761a&v=4" alt="Jakkapan-a" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Jakkapan-a" target="_blank">Jakkapan-a</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">1974</td>
       <td align="center">
         <a href="https://github.com/romiardanaputra" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">1976</td>
+      <td align="center">
+        <a href="https://github.com/AflaxCade" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/116007622?u=4f267d3e0a46b1c39f394041a19c6dbe673412b1&v=4" alt="AflaxCade" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/AflaxCade" target="_blank">AflaxCade</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1977</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.223s on Wed Aug 7 at 11:38</p>
+<p align="right">Generated in 0.225s on Wed Aug 7 at 11:43</p>
