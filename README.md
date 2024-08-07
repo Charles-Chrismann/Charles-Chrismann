@@ -83,40 +83,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">1947</td>
-      <td align="center">
-        <a href="https://github.com/federicorex" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/114136314?u=daa5eb577c254690d29524e382041f713fe78880&v=4" alt="federicorex" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/federicorex" target="_blank">federicorex</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">1948</td>
-      <td align="center">
-        <a href="https://github.com/TomekPolomski" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/122450388?v=4" alt="TomekPolomski" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/TomekPolomski" target="_blank">TomekPolomski</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">1949</td>
-      <td align="center">
-        <a href="https://github.com/aminelebrini" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/113290995?u=ff8f5b5f0f3cb5dbbc89b42f8ce747c313a95834&v=4" alt="aminelebrini" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/aminelebrini" target="_blank">aminelebrini</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">1950</td>
+      <td align="center">
+        <a href="https://github.com/mateusherrera" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/44376582?u=a4c3700e89c3860ac5e6fa1446bde41045d2845c&v=4" alt="mateusherrera" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/mateusherrera" target="_blank">mateusherrera</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1951</td>
+      <td align="center">
+        <a href="https://github.com/haisenCx" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/116866196?u=2d9ba513290df0f3a8484bf428c77c2c65179a57&v=4" alt="haisenCx" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/haisenCx" target="_blank">haisenCx</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1952</td>
+      <td align="center">
+        <a href="https://github.com/islam-heddi" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/117187090?v=4" alt="islam-heddi" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/islam-heddi" target="_blank">islam-heddi</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1953</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -814,4 +814,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.568s on Wed Aug 7 at 10:47</p>
+<p align="right">Generated in 0.355s on Wed Aug 7 at 10:49</p>
