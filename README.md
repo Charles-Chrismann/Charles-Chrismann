@@ -83,40 +83,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">1849</td>
-      <td align="center">
-        <a href="https://github.com/shivkumar98" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/58525809?u=4e8bc7e6ae26af425ca4bb922fb0e775688f8605&v=4" alt="shivkumar98" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/shivkumar98" target="_blank">shivkumar98</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">1850</td>
-      <td align="center">
-        <a href="https://github.com/SemanurOrhan" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/119792917?u=9bc8e1fcb4d0f006933a9aac90dccf2ea1293671&v=4" alt="SemanurOrhan" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/SemanurOrhan" target="_blank">SemanurOrhan</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">1851</td>
-      <td align="center">
-        <a href="https://github.com/dannybee82" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/110029463?v=4" alt="dannybee82" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/dannybee82" target="_blank">dannybee82</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">1852</td>
+      <td align="center">
+        <a href="https://github.com/KadirKarabacak" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/111240712?u=9edd7efcec90c025ab1526051ea8019b1661009d&v=4" alt="KadirKarabacak" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/KadirKarabacak" target="_blank">KadirKarabacak</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1853</td>
+      <td align="center">
+        <a href="https://github.com/rioyuda02" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/98393277?u=7656bbaf274eef6e616154b87c8ff76351c05887&v=4" alt="rioyuda02" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/rioyuda02" target="_blank">rioyuda02</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1854</td>
+      <td align="center">
+        <a href="https://github.com/ahmadelmassalkhi" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/80991074?v=4" alt="ahmadelmassalkhi" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/ahmadelmassalkhi" target="_blank">ahmadelmassalkhi</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1855</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -799,4 +799,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.275s on Wed Aug 7 at 7:44</p>
+<p align="right">Generated in 0.23s on Wed Aug 7 at 7:47</p>
