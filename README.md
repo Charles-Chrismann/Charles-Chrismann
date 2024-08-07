@@ -85,17 +85,6 @@
     <tr>
       <td align="center">2284</td>
       <td align="center">
-        <a href="https://github.com/DentistOmarAshraf" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/107763505?u=7edc1e2f18c3b137f0e806b34d72df7035011fdd&v=4" alt="DentistOmarAshraf" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/DentistOmarAshraf" target="_blank">DentistOmarAshraf</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">2285</td>
-      <td align="center">
         <a href="https://github.com/Gustavosaf" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/96705193?u=73ad5c6090dd3b1a4227cca4de8d19095aeff920&v=4" alt="Gustavosaf" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">2286</td>
+      <td align="center">2285</td>
       <td align="center">
         <a href="https://github.com/Soyamo" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/108200997?v=4" alt="Soyamo" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/Soyamo" target="_blank">Soyamo</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">2286</td>
+      <td align="center">
+        <a href="https://github.com/joaoflaviosantos" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/80658056?u=eb7c644182421ae5aba8ec65ac23bac6e4b746a9&v=4" alt="joaoflaviosantos" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/joaoflaviosantos" target="_blank">joaoflaviosantos</a>
       </td>
     </tr>
     <tr>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.489s on Wed Aug 7 at 22:51</p>
+<p align="right">Generated in 0.28s on Wed Aug 7 at 22:52</p>
