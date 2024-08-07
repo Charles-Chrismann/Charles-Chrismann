@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">1934</td>
-      <td align="center">
-        <a href="https://github.com/aligzsht" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/95775327?u=398833c893100ea68ad5080fef339e9ee74d105b&v=4" alt="aligzsht" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/aligzsht" target="_blank">aligzsht</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">1935</td>
       <td align="center">
         <a href="https://github.com/Absattar22" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">1937</td>
+      <td align="center">
+        <a href="https://github.com/EfeBastug" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/111367842?v=4" alt="EfeBastug" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/EfeBastug" target="_blank">EfeBastug</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1938</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.261s on Wed Aug 7 at 10:26</p>
+<p align="right">Generated in 0.282s on Wed Aug 7 at 10:27</p>
