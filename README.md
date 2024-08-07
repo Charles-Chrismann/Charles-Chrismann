@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">1924</td>
-      <td align="center">
-        <a href="https://github.com/Digvijay1422" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/121427787?v=4" alt="Digvijay1422" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Digvijay1422" target="_blank">Digvijay1422</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">1925</td>
       <td align="center">
         <a href="https://github.com/burak-albayrak" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">1927</td>
+      <td align="center">
+        <a href="https://github.com/VriaA" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/123843734?v=4" alt="VriaA" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/VriaA" target="_blank">VriaA</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1928</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -803,4 +803,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.244s on Wed Aug 7 at 10:08</p>
+<p align="right">Generated in 0.245s on Wed Aug 7 at 10:11</p>
