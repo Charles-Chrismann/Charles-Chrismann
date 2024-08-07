@@ -83,40 +83,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">2269</td>
-      <td align="center">
-        <a href="https://github.com/luanaxcardoso" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/112970416?u=0775ca70f04f5cb8fcf57268520e24895f444c54&v=4" alt="luanaxcardoso" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/luanaxcardoso" target="_blank">luanaxcardoso</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">2270</td>
-      <td align="center">
-        <a href="https://github.com/FiereEinar" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/128957122?u=b45427c69ad0ff9a779e564e3bded625f007e3b9&v=4" alt="FiereEinar" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/FiereEinar" target="_blank">FiereEinar</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">2271</td>
-      <td align="center">
-        <a href="https://github.com/taylordanger" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/112269404?u=6e6c44ce379f6a5b9ae5dc13ea71328d553a52e2&v=4" alt="taylordanger" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/taylordanger" target="_blank">taylordanger</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">2272</td>
+      <td align="center">
+        <a href="https://github.com/leticiamaca" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/106698576?u=faa5327e4fc30e1003e411b1178f006720f45587&v=4" alt="leticiamaca" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/leticiamaca" target="_blank">leticiamaca</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">2273</td>
+      <td align="center">
+        <a href="https://github.com/laur3te" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/122318912?u=8b38d71805856d5208598a44421187cefd3ef45a&v=4" alt="laur3te" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/laur3te" target="_blank">laur3te</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">2274</td>
+      <td align="center">
+        <a href="https://github.com/GEdgardoFernandez" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/109187041?u=067a191eee5aa83a8e4a98a88d7077960ebaccbf&v=4" alt="GEdgardoFernandez" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/GEdgardoFernandez" target="_blank">GEdgardoFernandez</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">2275</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -817,4 +817,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.327s on Wed Aug 7 at 21:39</p>
+<p align="right">Generated in 0.273s on Wed Aug 7 at 21:42</p>
