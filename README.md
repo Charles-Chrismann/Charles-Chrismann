@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">2204</td>
-      <td align="center">
-        <a href="https://github.com/rudushiislam" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/177581969?v=4" alt="rudushiislam" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/rudushiislam" target="_blank">rudushiislam</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">2205</td>
       <td align="center">
         <a href="https://github.com/kevinndungu-source" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">2207</td>
+      <td align="center">
+        <a href="https://github.com/CHEGEBB" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/123733116?u=04a8fa7e4199990c5313a83644bc942f70559e08&v=4" alt="CHEGEBB" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/CHEGEBB" target="_blank">CHEGEBB</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">2208</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -804,4 +804,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.406s on Wed Aug 7 at 18:19</p>
+<p align="right">Generated in 0.264s on Wed Aug 7 at 18:20</p>
