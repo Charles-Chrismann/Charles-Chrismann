@@ -83,40 +83,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">2106</td>
+      <td align="center">2110</td>
       <td align="center">
-        <a href="https://github.com/LauanAmorim" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/62584060?u=44189c51289804dec37853bc80587bf5df95eaaf&v=4" alt="LauanAmorim" width="40" height="40"/>
+        <a href="https://github.com/ZZHow1024" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/109335896?u=2d9f82f2af1710aa473491d4afbc83a5cba68f9c&v=4" alt="ZZHow1024" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/LauanAmorim" target="_blank">LauanAmorim</a>
+        <a href="https://github.com/ZZHow1024" target="_blank">ZZHow1024</a>
       </td>
     </tr>
     <tr>
-      <td align="center">2107</td>
+      <td align="center">2111</td>
       <td align="center">
-        <a href="https://github.com/armurox" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/114303348?u=391d5217d05738b7cc43d48579b9664600443d86&v=4" alt="armurox" width="40" height="40"/>
+        <a href="https://github.com/draprar" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/123900991?u=6c2bd6cea5e9556e12d57ff8f2c95bc672abffe1&v=4" alt="draprar" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/armurox" target="_blank">armurox</a>
+        <a href="https://github.com/draprar" target="_blank">draprar</a>
       </td>
     </tr>
     <tr>
-      <td align="center">2108</td>
+      <td align="center">2112</td>
       <td align="center">
-        <a href="https://github.com/bogosla" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/61813748?u=c3eb82d53f4a83eadc2b743d58d2d435b625de32&v=4" alt="bogosla" width="40" height="40"/>
+        <a href="https://github.com/Safeya-Yasien" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/110609863?v=4" alt="Safeya-Yasien" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/bogosla" target="_blank">bogosla</a>
+        <a href="https://github.com/Safeya-Yasien" target="_blank">Safeya-Yasien</a>
       </td>
     </tr>
     <tr>
-      <td align="center">2109</td>
+      <td align="center">2113</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -790,4 +790,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.227s on Wed Aug 7 at 15:12</p>
+<p align="right">Generated in 0.236s on Wed Aug 7 at 15:18</p>
