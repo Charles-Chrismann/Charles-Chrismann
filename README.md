@@ -107,12 +107,12 @@
     <tr>
       <td align="center">1722</td>
       <td align="center">
-        <a href="https://github.com/Eduward55" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/116577124?v=4" alt="Eduward55" width="40" height="40"/>
+        <a href="https://github.com/DenielCordeiro" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/73249323?u=e57ff510c02ea50f0b12c5962bfcc694ddb9daa6&v=4" alt="DenielCordeiro" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/Eduward55" target="_blank">Eduward55</a>
+        <a href="https://github.com/DenielCordeiro" target="_blank">DenielCordeiro</a>
       </td>
     </tr>
     <tr>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.359s on Wed Aug 7 at 0:25</p>
+<p align="right">Generated in 0.297s on Wed Aug 7 at 0:26</p>
