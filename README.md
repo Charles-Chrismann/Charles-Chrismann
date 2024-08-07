@@ -83,29 +83,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">2222</td>
-      <td align="center">
-        <a href="https://github.com/OseOliv" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/126169147?u=c07adfab6e5691c435faab67519af97fd89f41d3&v=4" alt="OseOliv" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/OseOliv" target="_blank">OseOliv</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">2223</td>
-      <td align="center">
-        <a href="https://github.com/Taimisson" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/100889845?u=a15e41cb2b56dee35cf4d2ff6ba133df99392eff&v=4" alt="Taimisson" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Taimisson" target="_blank">Taimisson</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">2224</td>
       <td align="center">
         <a href="https://github.com/P3R43L3" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/110961267?v=4" alt="P3R43L3" width="40" height="40"/>
@@ -116,7 +94,29 @@
       </td>
     </tr>
     <tr>
+      <td align="center">2224</td>
+      <td align="center">
+        <a href="https://github.com/Bleu-Yves-Sopoude" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/101183454?u=a3643f1818ceef7738b3c32076c72415d7f2ff48&v=4" alt="Bleu-Yves-Sopoude" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Bleu-Yves-Sopoude" target="_blank">Bleu-Yves-Sopoude</a>
+      </td>
+    </tr>
+    <tr>
       <td align="center">2225</td>
+      <td align="center">
+        <a href="https://github.com/elhassan-othman" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/138313335?u=899c36e75f7d1ee23693fb98b5a97235cbdeafe2&v=4" alt="elhassan-othman" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/elhassan-othman" target="_blank">elhassan-othman</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">2226</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -801,4 +801,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.315s on Wed Aug 7 at 18:53</p>
+<p align="right">Generated in 0.263s on Wed Aug 7 at 18:59</p>
