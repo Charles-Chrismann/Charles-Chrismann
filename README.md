@@ -83,7 +83,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">2076</td>
+      <td align="center">2077</td>
       <td align="center">
         <a href="https://github.com/Nitrovenom" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/82306740?u=14caae54a13bb9f7b378a72ecef739bc5263644d&v=4" alt="Nitrovenom" width="40" height="40"/>
@@ -94,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">2077</td>
+      <td align="center">2078</td>
       <td align="center">
         <a href="https://github.com/ABDELRAHMAN-ELRAYES" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/125469704?u=a31f375c9afa12a8fb8a51e700fa0b7c06ec76ce&v=4" alt="ABDELRAHMAN-ELRAYES" width="40" height="40"/>
@@ -105,7 +105,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">2078</td>
+      <td align="center">2079</td>
       <td align="center">
         <a href="https://github.com/Joaommsp" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/103619024?u=e3d43f0fa226d37879176fb5bdafd76ea6d26bf0&v=4" alt="Joaommsp" width="40" height="40"/>
@@ -116,7 +116,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">2079</td>
+      <td align="center">2080</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -806,4 +806,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.276s on Wed Aug 7 at 14:21</p>
+<p align="right">Generated in 0.335s on Wed Aug 7 at 14:22</p>
