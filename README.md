@@ -85,17 +85,6 @@
     <tr>
       <td align="center">2196</td>
       <td align="center">
-        <a href="https://github.com/Mayank-wen" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/115919938?u=a61c4cbcc43ea473eea64c2bb0f8761f303a44e3&v=4" alt="Mayank-wen" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Mayank-wen" target="_blank">Mayank-wen</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">2197</td>
-      <td align="center">
         <a href="https://github.com/Fredasante" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/106752945?v=4" alt="Fredasante" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">2198</td>
+      <td align="center">2197</td>
       <td align="center">
         <a href="https://github.com/1elmomento" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/95254408?v=4" alt="1elmomento" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/1elmomento" target="_blank">1elmomento</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">2198</td>
+      <td align="center">
+        <a href="https://github.com/skshm-verma" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/106864834?u=e2580204ed8ee3b21309beb984c8d6177381b779&v=4" alt="skshm-verma" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/skshm-verma" target="_blank">skshm-verma</a>
       </td>
     </tr>
     <tr>
