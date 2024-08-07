@@ -85,17 +85,6 @@
     <tr>
       <td align="center">1994</td>
       <td align="center">
-        <a href="https://github.com/Louis-Finegan" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/118827082?u=94cfca8f633b9d525fc2fcea6ce32d7fd0b86665&v=4" alt="Louis-Finegan" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Louis-Finegan" target="_blank">Louis-Finegan</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">1995</td>
-      <td align="center">
         <a href="https://github.com/Bokza" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/107051648?u=bfb219da5871629b6dccbbe9a39b9e9c9a934d14&v=4" alt="Bokza" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">1996</td>
+      <td align="center">1995</td>
       <td align="center">
         <a href="https://github.com/aguennoune" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/53190841?u=a5a4b793760f5b3bd7451c19b64b9e4dda54529e&v=4" alt="aguennoune" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/aguennoune" target="_blank">aguennoune</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1996</td>
+      <td align="center">
+        <a href="https://github.com/Necoo33" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/105949709?u=6567d0f63f3116f8dc5a7f908ab74cfc0d45255e&v=4" alt="Necoo33" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Necoo33" target="_blank">Necoo33</a>
       </td>
     </tr>
     <tr>
@@ -750,4 +750,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.365s on Wed Aug 7 at 12:14</p>
+<p align="right">Generated in 2.181s on Wed Aug 7 at 12:14</p>
