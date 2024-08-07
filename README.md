@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">2077</td>
-      <td align="center">
-        <a href="https://github.com/Nitrovenom" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/82306740?u=14caae54a13bb9f7b378a72ecef739bc5263644d&v=4" alt="Nitrovenom" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Nitrovenom" target="_blank">Nitrovenom</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">2078</td>
       <td align="center">
         <a href="https://github.com/ABDELRAHMAN-ELRAYES" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">2080</td>
+      <td align="center">
+        <a href="https://github.com/Epaphrus" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/83645259?u=3189474cdf0832b23debb4f076ed5e7ca1b998f1&v=4" alt="Epaphrus" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Epaphrus" target="_blank">Epaphrus</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">2081</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -806,4 +806,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.335s on Wed Aug 7 at 14:22</p>
+<p align="right">Generated in 0.277s on Wed Aug 7 at 14:22</p>
