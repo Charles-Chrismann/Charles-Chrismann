@@ -83,7 +83,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">1947</td>
+      <td align="center">1946</td>
       <td align="center">
         <a href="https://github.com/federicorex" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/114136314?u=daa5eb577c254690d29524e382041f713fe78880&v=4" alt="federicorex" width="40" height="40"/>
@@ -94,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">1948</td>
+      <td align="center">1947</td>
       <td align="center">
         <a href="https://github.com/TomekPolomski" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/122450388?v=4" alt="TomekPolomski" width="40" height="40"/>
@@ -105,7 +105,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">1949</td>
+      <td align="center">1948</td>
       <td align="center">
         <a href="https://github.com/aminelebrini" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/113290995?u=ff8f5b5f0f3cb5dbbc89b42f8ce747c313a95834&v=4" alt="aminelebrini" width="40" height="40"/>
@@ -116,7 +116,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">1950</td>
+      <td align="center">1949</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -445,7 +445,7 @@
   <span>:one:</span>
   <span>:one:</span>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=8&y=9">:black_large_square:</a>
-  <span>:two:</span>
+  <a href="https://o.charles-chrismann.fr/minesweeper/click?x=9&y=9">:black_large_square:</a>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=10&y=9">:black_large_square:</a>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=11&y=9">:black_large_square:</a>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=12&y=9">:black_large_square:</a>
@@ -806,4 +806,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.266s on Wed Aug 7 at 10:44</p>
+<p align="right">Generated in 0.239s on Wed Aug 7 at 10:43</p>
