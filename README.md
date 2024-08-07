@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">2161</td>
-      <td align="center">
-        <a href="https://github.com/TalitaVentura16" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/118145909?u=fdcb75fe370a5c7f6bb4cd9768172356f36f2417&v=4" alt="TalitaVentura16" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/TalitaVentura16" target="_blank">TalitaVentura16</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">2162</td>
       <td align="center">
         <a href="https://github.com/jefflima11" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">2164</td>
+      <td align="center">
+        <a href="https://github.com/Ankit-can-ctrl" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/128883341?u=a54ecb19d347ef289194f4579de02bdc5839d4e4&v=4" alt="Ankit-can-ctrl" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Ankit-can-ctrl" target="_blank">Ankit-can-ctrl</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">2165</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -789,4 +789,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.26s on Wed Aug 7 at 17:04</p>
+<p align="right">Generated in 0.378s on Wed Aug 7 at 17:05</p>
