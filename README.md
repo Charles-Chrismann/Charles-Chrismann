@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">2026</td>
-      <td align="center">
-        <a href="https://github.com/anti-duhring" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/99638905?u=db2351605047b1c91cb2f21d6c58cbf626a641bd&v=4" alt="anti-duhring" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/anti-duhring" target="_blank">anti-duhring</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">2027</td>
       <td align="center">
         <a href="https://github.com/robitussin" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">2029</td>
+      <td align="center">
+        <a href="https://github.com/AdrianGerman" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/107493996?u=5f28e3e3cd47ae6715c6676097bc617f2ce46ec8&v=4" alt="AdrianGerman" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/AdrianGerman" target="_blank">AdrianGerman</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">2030</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -750,4 +750,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.393s on Wed Aug 7 at 13:05</p>
+<p align="right">Generated in 0.397s on Wed Aug 7 at 13:06</p>
