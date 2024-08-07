@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">1735</td>
-      <td align="center">
-        <a href="https://github.com/anthrofax" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/106667642?u=c6902a701293f9d87a610971df5e5f1ebb714bf3&v=4" alt="anthrofax" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/anthrofax" target="_blank">anthrofax</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">1736</td>
       <td align="center">
         <a href="https://github.com/CodewithSegNet" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">1738</td>
+      <td align="center">
+        <a href="https://github.com/Kobra-soft" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/112418998?u=0a52f3485f95b7025357cece9f1398cf1a2463f4&v=4" alt="Kobra-soft" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Kobra-soft" target="_blank">Kobra-soft</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1739</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -807,4 +807,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.499s on Wed Aug 7 at 1:20</p>
+<p align="right">Generated in 0.443s on Wed Aug 7 at 1:20</p>
