@@ -83,40 +83,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">2039</td>
-      <td align="center">
-        <a href="https://github.com/vertefra" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/63065831?u=c74aa27b35a6fb32bb0a224c1228b5d23e239e43&v=4" alt="vertefra" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/vertefra" target="_blank">vertefra</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">2040</td>
-      <td align="center">
-        <a href="https://github.com/Luispupuis" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/119443877?u=db239c1f043d2cceadec0ff20665d1a9d7e9679d&v=4" alt="Luispupuis" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Luispupuis" target="_blank">Luispupuis</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">2041</td>
-      <td align="center">
-        <a href="https://github.com/Meriem1551" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/127052650?u=a32285b08f7e88c9fe3959caf5dffb41c017c23a&v=4" alt="Meriem1551" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Meriem1551" target="_blank">Meriem1551</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">2042</td>
+      <td align="center">
+        <a href="https://github.com/alexspurlock25" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/53146098?u=42b646df56016207f33b94ca67c865dbabd6ef5e&v=4" alt="alexspurlock25" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/alexspurlock25" target="_blank">alexspurlock25</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">2043</td>
+      <td align="center">
+        <a href="https://github.com/nguardo24" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/111257495?u=ea328196d34736da4da5465735e983a741bec3c4&v=4" alt="nguardo24" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/nguardo24" target="_blank">nguardo24</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">2044</td>
+      <td align="center">
+        <a href="https://github.com/erpiyushmishra" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/126646088?v=4" alt="erpiyushmishra" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/erpiyushmishra" target="_blank">erpiyushmishra</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">2045</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.436s on Wed Aug 7 at 13:22</p>
+<p align="right">Generated in 0.309s on Wed Aug 7 at 13:23</p>
