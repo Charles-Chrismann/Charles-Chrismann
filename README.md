@@ -85,17 +85,6 @@
     <tr>
       <td align="center">1748</td>
       <td align="center">
-        <a href="https://github.com/Arthurrfreire" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/109997626?u=443e7834cd25b02a1d4a408b1250eb5092a6cd5c&v=4" alt="Arthurrfreire" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Arthurrfreire" target="_blank">Arthurrfreire</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">1749</td>
-      <td align="center">
         <a href="https://github.com/AmirulAndalib" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/86344856?v=4" alt="AmirulAndalib" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">1750</td>
+      <td align="center">1749</td>
       <td align="center">
         <a href="https://github.com/Hongyoosung" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/101240036?v=4" alt="Hongyoosung" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/Hongyoosung" target="_blank">Hongyoosung</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1750</td>
+      <td align="center">
+        <a href="https://github.com/AgoniseDemise" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/105160904?u=9fd41edd3082f0cb9e160fe76a52aa20a41aaa06&v=4" alt="AgoniseDemise" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/AgoniseDemise" target="_blank">AgoniseDemise</a>
       </td>
     </tr>
     <tr>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.221s on Wed Aug 7 at 1:49</p>
+<p align="right">Generated in 0.24s on Wed Aug 7 at 1:52</p>
