@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">1925</td>
-      <td align="center">
-        <a href="https://github.com/burak-albayrak" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/99337723?u=2e0941e0e634ed37c0c8379b7fae52340105d289&v=4" alt="burak-albayrak" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/burak-albayrak" target="_blank">burak-albayrak</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">1926</td>
       <td align="center">
         <a href="https://github.com/marcusluccas" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">1928</td>
+      <td align="center">
+        <a href="https://github.com/devansh-kc" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/99194285?v=4" alt="devansh-kc" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/devansh-kc" target="_blank">devansh-kc</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1929</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -803,4 +803,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.245s on Wed Aug 7 at 10:11</p>
+<p align="right">Generated in 0.244s on Wed Aug 7 at 10:13</p>
