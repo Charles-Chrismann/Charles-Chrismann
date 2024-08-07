@@ -83,29 +83,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">2042</td>
-      <td align="center">
-        <a href="https://github.com/alexspurlock25" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/53146098?u=42b646df56016207f33b94ca67c865dbabd6ef5e&v=4" alt="alexspurlock25" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/alexspurlock25" target="_blank">alexspurlock25</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">2043</td>
-      <td align="center">
-        <a href="https://github.com/nguardo24" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/111257495?u=ea328196d34736da4da5465735e983a741bec3c4&v=4" alt="nguardo24" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/nguardo24" target="_blank">nguardo24</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">2044</td>
       <td align="center">
         <a href="https://github.com/erpiyushmishra" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/126646088?v=4" alt="erpiyushmishra" width="40" height="40"/>
@@ -116,7 +94,29 @@
       </td>
     </tr>
     <tr>
+      <td align="center">2044</td>
+      <td align="center">
+        <a href="https://github.com/TangyOrigami" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/108907681?u=0e4e5aef82a242e6cb8bd6ca4b27485e134fdcbf&v=4" alt="TangyOrigami" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/TangyOrigami" target="_blank">TangyOrigami</a>
+      </td>
+    </tr>
+    <tr>
       <td align="center">2045</td>
+      <td align="center">
+        <a href="https://github.com/MarioTudon" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/90724520?u=47a1d157a25fb6056697ef4c70590cab6b7db339&v=4" alt="MarioTudon" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/MarioTudon" target="_blank">MarioTudon</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">2046</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -790,4 +790,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.452s on Wed Aug 7 at 13:24</p>
+<p align="right">Generated in 0.325s on Wed Aug 7 at 13:26</p>
