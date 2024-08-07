@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">2045</td>
-      <td align="center">
-        <a href="https://github.com/TangyOrigami" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/108907681?u=0e4e5aef82a242e6cb8bd6ca4b27485e134fdcbf&v=4" alt="TangyOrigami" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/TangyOrigami" target="_blank">TangyOrigami</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">2046</td>
       <td align="center">
         <a href="https://github.com/MarioTudon" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">2048</td>
+      <td align="center">
+        <a href="https://github.com/milo20i" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/62311664?u=9f00279cd974b7c56c45cd0f99e6141103bcd22e&v=4" alt="milo20i" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/milo20i" target="_blank">milo20i</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">2049</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -790,4 +790,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.323s on Wed Aug 7 at 13:26</p>
+<p align="right">Generated in 0.323s on Wed Aug 7 at 13:27</p>
