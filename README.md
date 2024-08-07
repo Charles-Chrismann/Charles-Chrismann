@@ -83,40 +83,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">1977</td>
+      <td align="center">1981</td>
       <td align="center">
-        <a href="https://github.com/MahdiAnvarii" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/125554535?u=08521aac31ae05f54bc233ce2682b7100655a24f&v=4" alt="MahdiAnvarii" width="40" height="40"/>
+        <a href="https://github.com/Alansaji2003" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/117252157?u=1477cadcbf428b1aecb90c1d1b547f947128f20b&v=4" alt="Alansaji2003" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/MahdiAnvarii" target="_blank">MahdiAnvarii</a>
+        <a href="https://github.com/Alansaji2003" target="_blank">Alansaji2003</a>
       </td>
     </tr>
     <tr>
-      <td align="center">1978</td>
+      <td align="center">1982</td>
       <td align="center">
-        <a href="https://github.com/JuanLir4" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/118481412?u=a84ea0250caaa1818937dec69f28a79e16bcf051&v=4" alt="JuanLir4" width="40" height="40"/>
+        <a href="https://github.com/GuilhermeNobrega" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/100214869?u=9b0b7d1fa96b41c2cb861d5861cce8ec2320698b&v=4" alt="GuilhermeNobrega" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/JuanLir4" target="_blank">JuanLir4</a>
+        <a href="https://github.com/GuilhermeNobrega" target="_blank">GuilhermeNobrega</a>
       </td>
     </tr>
     <tr>
-      <td align="center">1979</td>
+      <td align="center">1983</td>
       <td align="center">
-        <a href="https://github.com/greatxrider" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/122143538?u=c36f8a8263ea401cdc660fb539300c9ac024f43b&v=4" alt="greatxrider" width="40" height="40"/>
+        <a href="https://github.com/medazza" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/118252819?u=4aa8e1b0862aa2310657587a131b6d6cbbf530c3&v=4" alt="medazza" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/greatxrider" target="_blank">greatxrider</a>
+        <a href="https://github.com/medazza" target="_blank">medazza</a>
       </td>
     </tr>
     <tr>
-      <td align="center">1980</td>
+      <td align="center">1984</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.269s on Wed Aug 7 at 11:46</p>
+<p align="right">Generated in 0.217s on Wed Aug 7 at 11:49</p>
