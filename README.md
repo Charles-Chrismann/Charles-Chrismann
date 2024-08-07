@@ -83,18 +83,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">1955</td>
-      <td align="center">
-        <a href="https://github.com/addu2612" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/117341727?u=ad936b3a532e4ac6c292d7318636746f04f6a2e6&v=4" alt="addu2612" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/addu2612" target="_blank">addu2612</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">1956</td>
+      <td align="center">1957</td>
       <td align="center">
         <a href="https://github.com/dfedyachkina" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/119018481?v=4" alt="dfedyachkina" width="40" height="40"/>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">1957</td>
+      <td align="center">1958</td>
       <td align="center">
         <a href="https://github.com/minho511" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/57162448?u=b346cc13c05200723423421a11253aba9d8ac9a0&v=4" alt="minho511" width="40" height="40"/>
@@ -116,7 +105,18 @@
       </td>
     </tr>
     <tr>
-      <td align="center">1958</td>
+      <td align="center">1959</td>
+      <td align="center">
+        <a href="https://github.com/zenziski" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/102815010?u=889a9d5b1665f9da43439f191a3fbdf5d36e8e09&v=4" alt="zenziski" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/zenziski" target="_blank">zenziski</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1960</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -814,4 +814,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.302s on Wed Aug 7 at 11:02</p>
+<p align="right">Generated in 0.306s on Wed Aug 7 at 11:03</p>
