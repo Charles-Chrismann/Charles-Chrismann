@@ -83,40 +83,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">2250</td>
-      <td align="center">
-        <a href="https://github.com/elizadoltu" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/66266646?u=b6b8b4a952c27fc8c10ce39649ec5ad499c6bd36&v=4" alt="elizadoltu" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/elizadoltu" target="_blank">elizadoltu</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">2251</td>
-      <td align="center">
-        <a href="https://github.com/kalumwe" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/113726686?u=e3260e117f9f115371823628c05300a6416406f2&v=4" alt="kalumwe" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/kalumwe" target="_blank">kalumwe</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">2252</td>
-      <td align="center">
-        <a href="https://github.com/sirjoaogoncalves" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/125701497?u=03a249fd8705297ddcb357adcccfaaff642a368f&v=4" alt="sirjoaogoncalves" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/sirjoaogoncalves" target="_blank">sirjoaogoncalves</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">2253</td>
+      <td align="center">
+        <a href="https://github.com/mateushlsilva" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/85410926?u=1843c65d2fbc1b49087ab7e61c0e5fa5ae6dc523&v=4" alt="mateushlsilva" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/mateushlsilva" target="_blank">mateushlsilva</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">2254</td>
+      <td align="center">
+        <a href="https://github.com/sumit-raghukant-soni" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/128374634?u=5119ade5e02be7fd89f35c457d7f1d3bb154e858&v=4" alt="sumit-raghukant-soni" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/sumit-raghukant-soni" target="_blank">sumit-raghukant-soni</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">2255</td>
+      <td align="center">
+        <a href="https://github.com/ademclk" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/90575399?u=bbb03fce23c4372411d898482fcda35c62ae71cb&v=4" alt="ademclk" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/ademclk" target="_blank">ademclk</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">2256</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.245s on Wed Aug 7 at 20:32</p>
+<p align="right">Generated in 0.253s on Wed Aug 7 at 20:37</p>
