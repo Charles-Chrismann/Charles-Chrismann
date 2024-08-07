@@ -85,17 +85,6 @@
     <tr>
       <td align="center">2048</td>
       <td align="center">
-        <a href="https://github.com/milo20i" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/62311664?u=9f00279cd974b7c56c45cd0f99e6141103bcd22e&v=4" alt="milo20i" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/milo20i" target="_blank">milo20i</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">2049</td>
-      <td align="center">
         <a href="https://github.com/freshposh-code" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/118695864?u=bc07eeba05b5d144b596c58d53935b1264cf94c7&v=4" alt="freshposh-code" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">2050</td>
+      <td align="center">2049</td>
       <td align="center">
         <a href="https://github.com/liangtie" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/65127095?u=682ed08f33bd738e52606ef6532efbc1b2fb88c5&v=4" alt="liangtie" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/liangtie" target="_blank">liangtie</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">2050</td>
+      <td align="center">
+        <a href="https://github.com/Kuma-Leta" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/118393748?u=d778ac9387158ad1657e9ec1f6ca75cb5d56bd9e&v=4" alt="Kuma-Leta" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Kuma-Leta" target="_blank">Kuma-Leta</a>
       </td>
     </tr>
     <tr>
@@ -790,4 +790,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.328s on Wed Aug 7 at 13:29</p>
+<p align="right">Generated in 0.326s on Wed Aug 7 at 13:31</p>
