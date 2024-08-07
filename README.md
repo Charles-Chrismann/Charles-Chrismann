@@ -83,18 +83,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">2125</td>
-      <td align="center">
-        <a href="https://github.com/Timdev0x" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/78181495?u=c41c571e291747cc5e2a9bcb8633ad56c677151e&v=4" alt="Timdev0x" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Timdev0x" target="_blank">Timdev0x</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">2126</td>
+      <td align="center">2127</td>
       <td align="center">
         <a href="https://github.com/apollw" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/11621697?u=47ed1b0688205321835e15ad0994453720f6208f&v=4" alt="apollw" width="40" height="40"/>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">2127</td>
+      <td align="center">2128</td>
       <td align="center">
         <a href="https://github.com/HotShot003" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/121120034?u=c8097ebc5743505b74c4f4600846834f2ce19169&v=4" alt="HotShot003" width="40" height="40"/>
@@ -116,7 +105,18 @@
       </td>
     </tr>
     <tr>
-      <td align="center">2128</td>
+      <td align="center">2129</td>
+      <td align="center">
+        <a href="https://github.com/paulosergiocf" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/49497668?u=f2917c62832f104742739acb64921e2f13cfb54b&v=4" alt="paulosergiocf" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/paulosergiocf" target="_blank">paulosergiocf</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">2130</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
