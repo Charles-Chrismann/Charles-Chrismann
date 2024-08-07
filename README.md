@@ -83,28 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">1828</td>
-      <td align="center">
-        <a href="https://github.com/Cleve-codes" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/105583380?u=e2218269fed56cdee0f757304e822e93768c2555&v=4" alt="Cleve-codes" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Cleve-codes" target="_blank">Cleve-codes</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">1829</td>
-      <td align="center">
-        <a href="https://github.com/farzan-alaei" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/89784994?u=9056ee4e30694058bb9082f4a9d119509fe9085e&v=4" alt="farzan-alaei" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/farzan-alaei" target="_blank">farzan-alaei</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">1830</td>
       <td align="center">
         <a href="https://github.com/husreo" target="_blank">
@@ -117,6 +95,28 @@
     </tr>
     <tr>
       <td align="center">1831</td>
+      <td align="center">
+        <a href="https://github.com/mervekeser" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/119412056?u=82a0d7a981c12dd8ea2b79cf57e390b76ef22545&v=4" alt="mervekeser" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/mervekeser" target="_blank">mervekeser</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1832</td>
+      <td align="center">
+        <a href="https://github.com/Candle-Electric" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/109983451?u=317ae20f588046f208b7fdb583b2a874472b8b2d&v=4" alt="Candle-Electric" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Candle-Electric" target="_blank">Candle-Electric</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1833</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -806,4 +806,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.422s on Wed Aug 7 at 6:51</p>
+<p align="right">Generated in 0.358s on Wed Aug 7 at 6:54</p>
