@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">2226</td>
-      <td align="center">
-        <a href="https://github.com/alabora" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/42248335?u=32f8a9e9c38e5ba82b3efc6abca59bc99f6841fe&v=4" alt="alabora" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/alabora" target="_blank">alabora</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">2227</td>
       <td align="center">
         <a href="https://github.com/miniloda" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">2229</td>
+      <td align="center">
+        <a href="https://github.com/Doroooh" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/50845913?v=4" alt="Doroooh" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Doroooh" target="_blank">Doroooh</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">2230</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -789,4 +789,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.245s on Wed Aug 7 at 19:08</p>
+<p align="right">Generated in 0.243s on Wed Aug 7 at 19:09</p>
