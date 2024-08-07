@@ -83,40 +83,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">1967</td>
-      <td align="center">
-        <a href="https://github.com/B00rges" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/123204710?u=2e80738f0c599c952ef9d758845dd646da95e882&v=4" alt="B00rges" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/B00rges" target="_blank">B00rges</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">1968</td>
-      <td align="center">
-        <a href="https://github.com/abdurrahmanbulut" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/55740554?u=5927224c8079bc2c3d2e2cb78615942d5092fb8a&v=4" alt="abdurrahmanbulut" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/abdurrahmanbulut" target="_blank">abdurrahmanbulut</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">1969</td>
-      <td align="center">
-        <a href="https://github.com/sara-be" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/118105055?u=816ce335a938e816f3d94b79819b68fe7a911281&v=4" alt="sara-be" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/sara-be" target="_blank">sara-be</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">1970</td>
+      <td align="center">
+        <a href="https://github.com/rom4kov" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/102757050?u=3dcb1455f3c650f61e3768e8466ae9a59d1040a1&v=4" alt="rom4kov" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/rom4kov" target="_blank">rom4kov</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1971</td>
+      <td align="center">
+        <a href="https://github.com/VictorMonterisi" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/100084221?u=9800c44abefb7cb978682b8cf6a3c60ee2e1e28b&v=4" alt="VictorMonterisi" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/VictorMonterisi" target="_blank">VictorMonterisi</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1972</td>
+      <td align="center">
+        <a href="https://github.com/brettkromkamp" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/160078?u=1182979640715dad9f88e3e57e36b085d1ae4d7e&v=4" alt="brettkromkamp" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/brettkromkamp" target="_blank">brettkromkamp</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1973</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.345s on Wed Aug 7 at 11:31</p>
+<p align="right">Generated in 0.222s on Wed Aug 7 at 11:34</p>
