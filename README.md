@@ -85,17 +85,6 @@
     <tr>
       <td align="center">1976</td>
       <td align="center">
-        <a href="https://github.com/AflaxCade" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/116007622?u=4f267d3e0a46b1c39f394041a19c6dbe673412b1&v=4" alt="AflaxCade" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/AflaxCade" target="_blank">AflaxCade</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">1977</td>
-      <td align="center">
         <a href="https://github.com/MahdiAnvarii" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/125554535?u=08521aac31ae05f54bc233ce2682b7100655a24f&v=4" alt="MahdiAnvarii" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">1978</td>
+      <td align="center">1977</td>
       <td align="center">
         <a href="https://github.com/JuanLir4" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/118481412?u=a84ea0250caaa1818937dec69f28a79e16bcf051&v=4" alt="JuanLir4" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/JuanLir4" target="_blank">JuanLir4</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1978</td>
+      <td align="center">
+        <a href="https://github.com/greatxrider" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/122143538?u=c36f8a8263ea401cdc660fb539300c9ac024f43b&v=4" alt="greatxrider" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/greatxrider" target="_blank">greatxrider</a>
       </td>
     </tr>
     <tr>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.217s on Wed Aug 7 at 11:44</p>
+<p align="right">Generated in 0.222s on Wed Aug 7 at 11:45</p>
