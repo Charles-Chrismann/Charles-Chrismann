@@ -83,40 +83,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">1919</td>
-      <td align="center">
-        <a href="https://github.com/stevewoz1234567890" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/87572213?u=133288e9a98b8502e5367e4099d0dc0dac8f470f&v=4" alt="stevewoz1234567890" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/stevewoz1234567890" target="_blank">stevewoz1234567890</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">1920</td>
-      <td align="center">
-        <a href="https://github.com/marua15" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/114522463?u=270539d5eb3dc17d6aae3d681c3a40ae26a07b89&v=4" alt="marua15" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/marua15" target="_blank">marua15</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">1921</td>
-      <td align="center">
-        <a href="https://github.com/RDifault" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/95353094?u=86c583f0437f0c20778ca94a08abe97847edcdfc&v=4" alt="RDifault" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/RDifault" target="_blank">RDifault</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">1922</td>
+      <td align="center">
+        <a href="https://github.com/Oluwaseg" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/107188941?u=d837986f41c0e18949725d0af12674348c14c0fc&v=4" alt="Oluwaseg" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Oluwaseg" target="_blank">Oluwaseg</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1923</td>
+      <td align="center">
+        <a href="https://github.com/pnzrkmpfwgn" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/61189367?u=b4f6a57c88e5e6ebd589572e4d5d4e40b4896530&v=4" alt="pnzrkmpfwgn" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/pnzrkmpfwgn" target="_blank">pnzrkmpfwgn</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1924</td>
+      <td align="center">
+        <a href="https://github.com/Digvijay1422" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/121427787?v=4" alt="Digvijay1422" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Digvijay1422" target="_blank">Digvijay1422</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1925</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.286s on Wed Aug 7 at 9:56</p>
+<p align="right">Generated in 0.221s on Wed Aug 7 at 9:58</p>
