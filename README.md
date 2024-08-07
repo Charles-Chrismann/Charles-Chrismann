@@ -83,28 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">1911</td>
-      <td align="center">
-        <a href="https://github.com/orgamiryazdani" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/100785957?u=bcc3bdaef0a369ff77af5d590d0b8370d13cdea5&v=4" alt="orgamiryazdani" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/orgamiryazdani" target="_blank">orgamiryazdani</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">1912</td>
-      <td align="center">
-        <a href="https://github.com/e-lifee" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/93757539?u=1dc942f5eb18eef06608d9d6140c3775270b904a&v=4" alt="e-lifee" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/e-lifee" target="_blank">e-lifee</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">1913</td>
       <td align="center">
         <a href="https://github.com/Linf0rd" target="_blank">
@@ -117,6 +95,28 @@
     </tr>
     <tr>
       <td align="center">1914</td>
+      <td align="center">
+        <a href="https://github.com/Eyobs-droid" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/109045880?u=b88527e044cf5ac0640b0422dfbfccd7e15b5b5c&v=4" alt="Eyobs-droid" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Eyobs-droid" target="_blank">Eyobs-droid</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1915</td>
+      <td align="center">
+        <a href="https://github.com/samuelldmj" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/117239080?u=433fd904f8edbd1c0700bef1617dfafd02585702&v=4" alt="samuelldmj" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/samuelldmj" target="_blank">samuelldmj</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1916</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.348s on Wed Aug 7 at 9:47</p>
+<p align="right">Generated in 0.217s on Wed Aug 7 at 9:47</p>
