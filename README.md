@@ -83,40 +83,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">2261</td>
+      <td align="center">2265</td>
       <td align="center">
-        <a href="https://github.com/RafaeL-Malaquias" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/91689939?u=c8a1967c66aac352cc28bc7e6958dc1b6be40573&v=4" alt="RafaeL-Malaquias" width="40" height="40"/>
+        <a href="https://github.com/rfcho322" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/98252280?u=904b8feb81870ccf48252d2c8c03e9a9502fcb54&v=4" alt="rfcho322" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/RafaeL-Malaquias" target="_blank">RafaeL-Malaquias</a>
+        <a href="https://github.com/rfcho322" target="_blank">rfcho322</a>
       </td>
     </tr>
     <tr>
-      <td align="center">2262</td>
+      <td align="center">2266</td>
       <td align="center">
-        <a href="https://github.com/laurymesa01" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/100161327?v=4" alt="laurymesa01" width="40" height="40"/>
+        <a href="https://github.com/MohammedMazher1" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/121592398?u=9641e0a2e529a67222b013fd83e6d2d7178296e7&v=4" alt="MohammedMazher1" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/laurymesa01" target="_blank">laurymesa01</a>
+        <a href="https://github.com/MohammedMazher1" target="_blank">MohammedMazher1</a>
       </td>
     </tr>
     <tr>
-      <td align="center">2263</td>
+      <td align="center">2267</td>
       <td align="center">
-        <a href="https://github.com/jvc-byte" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/124209737?u=91c6b38772c555b601cc3fa9a251ddc27d6e0620&v=4" alt="jvc-byte" width="40" height="40"/>
+        <a href="https://github.com/Szabolcs888" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/86359456?v=4" alt="Szabolcs888" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/jvc-byte" target="_blank">jvc-byte</a>
+        <a href="https://github.com/Szabolcs888" target="_blank">Szabolcs888</a>
       </td>
     </tr>
     <tr>
-      <td align="center">2264</td>
+      <td align="center">2268</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -817,4 +817,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.265s on Wed Aug 7 at 21:05</p>
+<p align="right">Generated in 0.317s on Wed Aug 7 at 21:20</p>
