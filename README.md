@@ -83,40 +83,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">2017</td>
+      <td align="center">2022</td>
       <td align="center">
-        <a href="https://github.com/sammainahkinya1404" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/109862311?u=7c565f37ba772079d33441e4f57a0ab7eaf01134&v=4" alt="sammainahkinya1404" width="40" height="40"/>
+        <a href="https://github.com/lmagdanello" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/47561599?u=710aa0871dbdcf5c324c279880c740108623bb87&v=4" alt="lmagdanello" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/sammainahkinya1404" target="_blank">sammainahkinya1404</a>
+        <a href="https://github.com/lmagdanello" target="_blank">lmagdanello</a>
       </td>
     </tr>
     <tr>
-      <td align="center">2018</td>
+      <td align="center">2023</td>
       <td align="center">
-        <a href="https://github.com/IbroTao" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/137963603?u=b5aff86c58ee9ac9ff0facd6ce39b5e2c9dc9c67&v=4" alt="IbroTao" width="40" height="40"/>
+        <a href="https://github.com/mondalsurojit" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/114282267?u=b1f31692c15f4da5953e285ef99f23de3a3682ee&v=4" alt="mondalsurojit" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/IbroTao" target="_blank">IbroTao</a>
+        <a href="https://github.com/mondalsurojit" target="_blank">mondalsurojit</a>
       </td>
     </tr>
     <tr>
-      <td align="center">2019</td>
+      <td align="center">2024</td>
       <td align="center">
-        <a href="https://github.com/Marcee09" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/117458667?u=b7c6a5d5edc3590ff7dd70ce3fbfa2d9807aa11f&v=4" alt="Marcee09" width="40" height="40"/>
+        <a href="https://github.com/NadaMesbah" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/115350875?u=1e91c1c1ff119565a4bbd5cc82d86c59d581aac8&v=4" alt="NadaMesbah" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/Marcee09" target="_blank">Marcee09</a>
+        <a href="https://github.com/NadaMesbah" target="_blank">NadaMesbah</a>
       </td>
     </tr>
     <tr>
-      <td align="center">2020</td>
+      <td align="center">2025</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -750,4 +750,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.314s on Wed Aug 7 at 12:51</p>
+<p align="right">Generated in 0.322s on Wed Aug 7 at 12:59</p>
