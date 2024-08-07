@@ -83,40 +83,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">1730</td>
-      <td align="center">
-        <a href="https://github.com/IgorRampazo" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/112408056?u=b6dacb86b4a6e9663c8509d4497105d9946ff52f&v=4" alt="IgorRampazo" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/IgorRampazo" target="_blank">IgorRampazo</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">1731</td>
-      <td align="center">
-        <a href="https://github.com/luminahi" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/105571305?u=97da18a0d031452ed591c5de5be558edfc58b8f7&v=4" alt="luminahi" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/luminahi" target="_blank">luminahi</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">1732</td>
-      <td align="center">
-        <a href="https://github.com/bugbounted" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/104225186?u=dd2b20572aa4f94d2f5c195bbd5fed3717d249b4&v=4" alt="bugbounted" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/bugbounted" target="_blank">bugbounted</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">1733</td>
+      <td align="center">
+        <a href="https://github.com/mdprana" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/95018619?u=6caa0adda614b3adbae8b696d5995751b6f96e68&v=4" alt="mdprana" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/mdprana" target="_blank">mdprana</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1734</td>
+      <td align="center">
+        <a href="https://github.com/thezedwards" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/24527326?v=4" alt="thezedwards" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/thezedwards" target="_blank">thezedwards</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1735</td>
+      <td align="center">
+        <a href="https://github.com/anthrofax" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/106667642?u=c6902a701293f9d87a610971df5e5f1ebb714bf3&v=4" alt="anthrofax" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/anthrofax" target="_blank">anthrofax</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1736</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.399s on Wed Aug 7 at 1:09</p>
+<p align="right">Generated in 0.404s on Wed Aug 7 at 1:15</p>
