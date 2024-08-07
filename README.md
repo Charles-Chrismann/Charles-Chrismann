@@ -85,17 +85,6 @@
     <tr>
       <td align="center">2256</td>
       <td align="center">
-        <a href="https://github.com/aminal22" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/114859285?v=4" alt="aminal22" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/aminal22" target="_blank">aminal22</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">2257</td>
-      <td align="center">
         <a href="https://github.com/pkoopongithub" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/94432949?u=201d87a8d5dd396e7ed3363eaf0df55cd2fe4906&v=4" alt="pkoopongithub" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">2258</td>
+      <td align="center">2257</td>
       <td align="center">
         <a href="https://github.com/HMByteSensei" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/127348494?v=4" alt="HMByteSensei" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/HMByteSensei" target="_blank">HMByteSensei</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">2258</td>
+      <td align="center">
+        <a href="https://github.com/Daniel-Alvarenga" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/128755697?u=4173dc450e450b7a0545683148795df7e0e9e4ee&v=4" alt="Daniel-Alvarenga" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Daniel-Alvarenga" target="_blank">Daniel-Alvarenga</a>
       </td>
     </tr>
     <tr>
@@ -790,4 +790,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.315s on Wed Aug 7 at 20:50</p>
+<p align="right">Generated in 0.304s on Wed Aug 7 at 20:50</p>
