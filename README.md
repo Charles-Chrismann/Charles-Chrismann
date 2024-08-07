@@ -83,29 +83,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">1887</td>
-      <td align="center">
-        <a href="https://github.com/gitover22" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/83172922?u=7577ba3a2404385c27c3829b63493747c213268e&v=4" alt="gitover22" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/gitover22" target="_blank">gitover22</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">1888</td>
-      <td align="center">
-        <a href="https://github.com/Ghassen-Hizem" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/89670714?u=00de0bf37e7c5be5e7f2e5f0e98022858889ac32&v=4" alt="Ghassen-Hizem" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Ghassen-Hizem" target="_blank">Ghassen-Hizem</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">1889</td>
+      <td align="center">1890</td>
       <td align="center">
         <a href="https://github.com/Bubhux" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/110377006?u=ab731f991c4da2b88fdaf893a425d31ae3b524a6&v=4" alt="Bubhux" width="40" height="40"/>
@@ -116,7 +94,29 @@
       </td>
     </tr>
     <tr>
-      <td align="center">1890</td>
+      <td align="center">1891</td>
+      <td align="center">
+        <a href="https://github.com/Neomatrix0" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/107904365?v=4" alt="Neomatrix0" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Neomatrix0" target="_blank">Neomatrix0</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1892</td>
+      <td align="center">
+        <a href="https://github.com/Fortune-Ndlovu" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/109510679?u=5837ea7e9fc7635f7b058285b2aa2a03f31a7a1e&v=4" alt="Fortune-Ndlovu" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Fortune-Ndlovu" target="_blank">Fortune-Ndlovu</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1893</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -806,4 +806,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.255s on Wed Aug 7 at 8:59</p>
+<p align="right">Generated in 0.264s on Wed Aug 7 at 9:01</p>
