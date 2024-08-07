@@ -83,40 +83,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">1790</td>
-      <td align="center">
-        <a href="https://github.com/AlirezaNoor" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/60356807?u=5e2ae0541ff3575df80e18bf93b2a962fea0fdf1&v=4" alt="AlirezaNoor" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/AlirezaNoor" target="_blank">AlirezaNoor</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">1791</td>
-      <td align="center">
-        <a href="https://github.com/JRVSimhaChandra" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/115426753?u=c7ed1bdc749ea5e172210a9e46ae9c9aece7d4d3&v=4" alt="JRVSimhaChandra" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/JRVSimhaChandra" target="_blank">JRVSimhaChandra</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">1792</td>
-      <td align="center">
-        <a href="https://github.com/Jaipal-003" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/116094548?u=c59265f1d6a304eda0b59c4a32a799cdd4f821cd&v=4" alt="Jaipal-003" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Jaipal-003" target="_blank">Jaipal-003</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">1793</td>
+      <td align="center">
+        <a href="https://github.com/Pequanta" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/96361630?u=c4a8f25a45e5a1a332f004789e15901986c36a0a&v=4" alt="Pequanta" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Pequanta" target="_blank">Pequanta</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1794</td>
+      <td align="center">
+        <a href="https://github.com/rudrabhikadiya3" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/99029749?u=84bc5b11274dd2bdc6fe66a25b9da19d5a0ac36a&v=4" alt="rudrabhikadiya3" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/rudrabhikadiya3" target="_blank">rudrabhikadiya3</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1795</td>
+      <td align="center">
+        <a href="https://github.com/Dantechdevs" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/56880881?u=8e856c0e3469a6a61d7ce4d018e3739445a71a7b&v=4" alt="Dantechdevs" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Dantechdevs" target="_blank">Dantechdevs</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1796</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -786,4 +786,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.25s on Wed Aug 7 at 4:57</p>
+<p align="right">Generated in 0.242s on Wed Aug 7 at 5:06</p>
