@@ -83,40 +83,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">1913</td>
-      <td align="center">
-        <a href="https://github.com/Linf0rd" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/122806756?u=ef4b3a8a80bb57f01763bdeb8e5ca9c22b0df604&v=4" alt="Linf0rd" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Linf0rd" target="_blank">Linf0rd</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">1914</td>
-      <td align="center">
-        <a href="https://github.com/Eyobs-droid" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/109045880?u=b88527e044cf5ac0640b0422dfbfccd7e15b5b5c&v=4" alt="Eyobs-droid" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Eyobs-droid" target="_blank">Eyobs-droid</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">1915</td>
-      <td align="center">
-        <a href="https://github.com/samuelldmj" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/117239080?u=433fd904f8edbd1c0700bef1617dfafd02585702&v=4" alt="samuelldmj" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/samuelldmj" target="_blank">samuelldmj</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">1916</td>
+      <td align="center">
+        <a href="https://github.com/tientq64" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/15934554?u=0e8cb2299f1b0ee1ec4c248a2f205d230d8f6ef0&v=4" alt="tientq64" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/tientq64" target="_blank">tientq64</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1917</td>
+      <td align="center">
+        <a href="https://github.com/Amayuru1999" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/116435706?u=daa9948bdebdcf49f157780f494b8656a608b03a&v=4" alt="Amayuru1999" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Amayuru1999" target="_blank">Amayuru1999</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1918</td>
+      <td align="center">
+        <a href="https://github.com/fkoler" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/116383431?u=55296c622450a83125840b3636c19bdeaf646276&v=4" alt="fkoler" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/fkoler" target="_blank">fkoler</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1919</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.217s on Wed Aug 7 at 9:47</p>
+<p align="right">Generated in 0.22s on Wed Aug 7 at 9:49</p>
