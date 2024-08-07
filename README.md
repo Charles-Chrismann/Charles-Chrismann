@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">1866</td>
-      <td align="center">
-        <a href="https://github.com/CYBki" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/115028081?v=4" alt="CYBki" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/CYBki" target="_blank">CYBki</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">1867</td>
       <td align="center">
         <a href="https://github.com/BAslani" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">1869</td>
+      <td align="center">
+        <a href="https://github.com/Stilic" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/63605602?u=6662329db31f63d8bbf4c7755a1c5de99cf54f3b&v=4" alt="Stilic" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Stilic" target="_blank">Stilic</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1870</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.223s on Wed Aug 7 at 8:20</p>
+<p align="right">Generated in 0.218s on Wed Aug 7 at 8:23</p>
