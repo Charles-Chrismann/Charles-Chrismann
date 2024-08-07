@@ -83,7 +83,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">2063</td>
+      <td align="center">2064</td>
       <td align="center">
         <a href="https://github.com/atso-cs" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/108704072?u=b1d58f3653102386ee9dca1e55e3591206391f1b&v=4" alt="atso-cs" width="40" height="40"/>
@@ -94,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">2064</td>
+      <td align="center">2065</td>
       <td align="center">
         <a href="https://github.com/MekongDelta-mind" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/47595700?u=0b309a640486267cbdcad299ed25cfd4f4bcd567&v=4" alt="MekongDelta-mind" width="40" height="40"/>
@@ -105,7 +105,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">2065</td>
+      <td align="center">2066</td>
       <td align="center">
         <a href="https://github.com/Nedal-Esrar" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/113736086?u=81d6e45c8ce05290a332c13bf9c5dd820a2e476e&v=4" alt="Nedal-Esrar" width="40" height="40"/>
@@ -116,7 +116,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">2066</td>
+      <td align="center">2067</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.19s on Wed Aug 7 at 14:03</p>
+<p align="right">Generated in 0.222s on Wed Aug 7 at 14:03</p>
