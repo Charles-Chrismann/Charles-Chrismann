@@ -83,28 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">1970</td>
-      <td align="center">
-        <a href="https://github.com/rom4kov" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/102757050?u=3dcb1455f3c650f61e3768e8466ae9a59d1040a1&v=4" alt="rom4kov" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/rom4kov" target="_blank">rom4kov</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">1971</td>
-      <td align="center">
-        <a href="https://github.com/VictorMonterisi" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/100084221?u=9800c44abefb7cb978682b8cf6a3c60ee2e1e28b&v=4" alt="VictorMonterisi" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/VictorMonterisi" target="_blank">VictorMonterisi</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">1972</td>
       <td align="center">
         <a href="https://github.com/brettkromkamp" target="_blank">
@@ -117,6 +95,28 @@
     </tr>
     <tr>
       <td align="center">1973</td>
+      <td align="center">
+        <a href="https://github.com/Jakkapan-a" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/67558529?u=b75afd848563be0feca17add3b3202fb1605761a&v=4" alt="Jakkapan-a" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Jakkapan-a" target="_blank">Jakkapan-a</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1974</td>
+      <td align="center">
+        <a href="https://github.com/romiardanaputra" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/96555338?u=ec40b768cb87d458ad3cbfcbfe00e81602b0c66e&v=4" alt="romiardanaputra" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/romiardanaputra" target="_blank">romiardanaputra</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">1975</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.222s on Wed Aug 7 at 11:34</p>
+<p align="right">Generated in 0.221s on Wed Aug 7 at 11:37</p>
