@@ -85,17 +85,6 @@
     <tr>
       <td align="center">2514</td>
       <td align="center">
-        <a href="https://github.com/arindalestari" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/81221549?u=633a661e06c28079dcbf0cb042430f413e56d483&v=4" alt="arindalestari" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/arindalestari" target="_blank">arindalestari</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">2515</td>
-      <td align="center">
         <a href="https://github.com/semiheimer" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/105430937?u=b8a300ac85449332837749513e27e0cd32170654&v=4" alt="semiheimer" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">2516</td>
+      <td align="center">2515</td>
       <td align="center">
         <a href="https://github.com/Lionel-Rocha" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/111009073?u=7044ef02c462ad53d5f16eb4ea4dbd2623c2eb91&v=4" alt="Lionel-Rocha" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/Lionel-Rocha" target="_blank">Lionel-Rocha</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">2516</td>
+      <td align="center">
+        <a href="https://github.com/ali-hasrat" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/106477102?v=4" alt="ali-hasrat" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/ali-hasrat" target="_blank">ali-hasrat</a>
       </td>
     </tr>
     <tr>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.258s on Thu Aug 8 at 13:25</p>
+<p align="right">Generated in 0.26s on Thu Aug 8 at 13:28</p>
