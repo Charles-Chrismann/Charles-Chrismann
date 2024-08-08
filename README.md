@@ -437,7 +437,7 @@
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=17&y=8">:black_large_square:</a>
   <br>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=0&y=9">:black_large_square:</a>
-  <a href="https://o.charles-chrismann.fr/minesweeper/click?x=1&y=9">:black_large_square:</a>
+  <span>:three:</span>
   <span>:one:</span>
   <span>:white_large_square:</span>
   <span>:one:</span>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.284s on Thu Aug 8 at 18:36</p>
+<p align="right">Generated in 0.32s on Thu Aug 8 at 18:36</p>
