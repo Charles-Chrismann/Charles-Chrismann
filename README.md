@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">2531</td>
-      <td align="center">
-        <a href="https://github.com/KPMGE" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/46900633?u=b1964feba444c2bb49f32d2a59abbc0cc94e15d0&v=4" alt="KPMGE" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/KPMGE" target="_blank">KPMGE</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">2532</td>
       <td align="center">
         <a href="https://github.com/JordanSerafini" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">2534</td>
+      <td align="center">
+        <a href="https://github.com/serpeza" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/109828240?v=4" alt="serpeza" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/serpeza" target="_blank">serpeza</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">2535</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -809,4 +809,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.315s on Thu Aug 8 at 14:07</p>
+<p align="right">Generated in 0.314s on Thu Aug 8 at 14:08</p>
