@@ -85,17 +85,6 @@
     <tr>
       <td align="center">2490</td>
       <td align="center">
-        <a href="https://github.com/confidentmeerkat" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/111148350?u=ad84eeed1ab083c9cbb24d533d38b74dbea15a9e&v=4" alt="confidentmeerkat" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/confidentmeerkat" target="_blank">confidentmeerkat</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">2491</td>
-      <td align="center">
         <a href="https://github.com/naradashen" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/109290698?u=33224096d6d9d4cd21cd3d7ce6d1bf2593b21b84&v=4" alt="naradashen" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">2492</td>
+      <td align="center">2491</td>
       <td align="center">
         <a href="https://github.com/TechLord05" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/132861160?u=752d16704a6015d6cbb3d36506b6a87bfa189bb8&v=4" alt="TechLord05" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/TechLord05" target="_blank">TechLord05</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">2492</td>
+      <td align="center">
+        <a href="https://github.com/jr20xx" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/72922477?u=c2946fe5664b5ffaecc22a1c0515309dcdc7ba01&v=4" alt="jr20xx" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/jr20xx" target="_blank">jr20xx</a>
       </td>
     </tr>
     <tr>
@@ -814,4 +814,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.415s on Thu Aug 8 at 12:34</p>
+<p align="right">Generated in 0.42s on Thu Aug 8 at 12:36</p>
