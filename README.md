@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">2583</td>
-      <td align="center">
-        <a href="https://github.com/Ismedom" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/127710222?u=567ceac23046d133cd9dceb80de91fa5440bedc6&v=4" alt="Ismedom" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Ismedom" target="_blank">Ismedom</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">2584</td>
       <td align="center">
         <a href="https://github.com/Nhazlipse" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">2586</td>
+      <td align="center">
+        <a href="https://github.com/ChevrierDev" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/134308009?u=16fba44889cdeb51fb5779736b12edc982e7576a&v=4" alt="ChevrierDev" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/ChevrierDev" target="_blank">ChevrierDev</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">2587</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -794,4 +794,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.287s on Thu Aug 8 at 16:03</p>
+<p align="right">Generated in 0.302s on Thu Aug 8 at 16:07</p>
