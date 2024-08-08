@@ -85,17 +85,6 @@
     <tr>
       <td align="center">2532</td>
       <td align="center">
-        <a href="https://github.com/JordanSerafini" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/131240361?v=4" alt="JordanSerafini" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/JordanSerafini" target="_blank">JordanSerafini</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">2533</td>
-      <td align="center">
         <a href="https://github.com/jucarata" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/83429985?u=b558d0ee5ddd7d456691244af84cd0f62a9614d3&v=4" alt="jucarata" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">2534</td>
+      <td align="center">2533</td>
       <td align="center">
         <a href="https://github.com/serpeza" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/109828240?v=4" alt="serpeza" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/serpeza" target="_blank">serpeza</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">2534</td>
+      <td align="center">
+        <a href="https://github.com/MrAz18485" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/78279324?v=4" alt="MrAz18485" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/MrAz18485" target="_blank">MrAz18485</a>
       </td>
     </tr>
     <tr>
@@ -809,4 +809,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.314s on Thu Aug 8 at 14:08</p>
+<p align="right">Generated in 0.316s on Thu Aug 8 at 14:12</p>
