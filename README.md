@@ -83,40 +83,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">2395</td>
+      <td align="center">2399</td>
       <td align="center">
-        <a href="https://github.com/ByeongHunKim" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/82696921?u=6e7a6ee78a6377aa0dac4ebcb0a1dd94e2b71022&v=4" alt="ByeongHunKim" width="40" height="40"/>
+        <a href="https://github.com/tata7772" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/78535604?u=027ab3874eb77076224f80c85ae90e79ca3c3b1d&v=4" alt="tata7772" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/ByeongHunKim" target="_blank">ByeongHunKim</a>
+        <a href="https://github.com/tata7772" target="_blank">tata7772</a>
       </td>
     </tr>
     <tr>
-      <td align="center">2396</td>
+      <td align="center">2400</td>
       <td align="center">
-        <a href="https://github.com/utku-guclu" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/34550887?u=8cadc85ad792ba52ebf9ebbd98a527b4c182ddb1&v=4" alt="utku-guclu" width="40" height="40"/>
+        <a href="https://github.com/Hridxyz" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/96878347?u=de8ad1ebeddceac9331fc5981de71b467cbef3f6&v=4" alt="Hridxyz" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/utku-guclu" target="_blank">utku-guclu</a>
+        <a href="https://github.com/Hridxyz" target="_blank">Hridxyz</a>
       </td>
     </tr>
     <tr>
-      <td align="center">2397</td>
+      <td align="center">2401</td>
       <td align="center">
-        <a href="https://github.com/AnSannikova" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/104262582?u=d5ef4396a8e2f239aa7ed02a64b24f1103905165&v=4" alt="AnSannikova" width="40" height="40"/>
+        <a href="https://github.com/nicoleweathers" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/108811197?v=4" alt="nicoleweathers" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/AnSannikova" target="_blank">AnSannikova</a>
+        <a href="https://github.com/nicoleweathers" target="_blank">nicoleweathers</a>
       </td>
     </tr>
     <tr>
-      <td align="center">2398</td>
+      <td align="center">2402</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.328s on Thu Aug 8 at 6:58</p>
+<p align="right">Generated in 0.272s on Thu Aug 8 at 7:02</p>
