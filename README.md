@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">2664</td>
-      <td align="center">
-        <a href="https://github.com/luadebug" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/109693307?u=848d649408c77640dff7b259e274cc1706e9cb12&v=4" alt="luadebug" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/luadebug" target="_blank">luadebug</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">2665</td>
       <td align="center">
         <a href="https://github.com/Dodesimo" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">2667</td>
+      <td align="center">
+        <a href="https://github.com/Zafer343" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/132786135?v=4" alt="Zafer343" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Zafer343" target="_blank">Zafer343</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">2668</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -789,4 +789,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.328s on Thu Aug 8 at 19:48</p>
+<p align="right">Generated in 0.327s on Thu Aug 8 at 19:48</p>
