@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">2339</td>
-      <td align="center">
-        <a href="https://github.com/x3ric" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/93117440?u=2351c3a819574bfca92ae9dc76fbb6de9e1d698d&v=4" alt="x3ric" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/x3ric" target="_blank">x3ric</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">2340</td>
       <td align="center">
         <a href="https://github.com/panicoro" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">2342</td>
+      <td align="center">
+        <a href="https://github.com/Mudhya19" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/88097504?v=4" alt="Mudhya19" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Mudhya19" target="_blank">Mudhya19</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">2343</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.205s on Thu Aug 8 at 2:31</p>
+<p align="right">Generated in 0.214s on Thu Aug 8 at 2:35</p>
