@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">2377</td>
-      <td align="center">
-        <a href="https://github.com/AdityaJani616" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/108350583?u=a7d86aa32d9fd3180087de51c925aa32f82d84f1&v=4" alt="AdityaJani616" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/AdityaJani616" target="_blank">AdityaJani616</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">2378</td>
       <td align="center">
         <a href="https://github.com/Saurabh-2003" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">2380</td>
+      <td align="center">
+        <a href="https://github.com/satwikrprabhu" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/105852091?u=772c03506720812ff9b8ea8ef397f617f12d711c&v=4" alt="satwikrprabhu" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/satwikrprabhu" target="_blank">satwikrprabhu</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">2381</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
