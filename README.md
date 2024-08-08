@@ -85,17 +85,6 @@
     <tr>
       <td align="center">2400</td>
       <td align="center">
-        <a href="https://github.com/Hridxyz" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/96878347?u=de8ad1ebeddceac9331fc5981de71b467cbef3f6&v=4" alt="Hridxyz" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Hridxyz" target="_blank">Hridxyz</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">2401</td>
-      <td align="center">
         <a href="https://github.com/nicoleweathers" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/108811197?v=4" alt="nicoleweathers" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">2402</td>
+      <td align="center">2401</td>
       <td align="center">
         <a href="https://github.com/Zukhrik" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/67275391?u=61e169c3f4832b847ce0ed5e6bd5578079edd774&v=4" alt="Zukhrik" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/Zukhrik" target="_blank">Zukhrik</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">2402</td>
+      <td align="center">
+        <a href="https://github.com/Csaba79-coder" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/77699103?u=55a482c93777d58c533b5adeb13e82abeba34d36&v=4" alt="Csaba79-coder" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Csaba79-coder" target="_blank">Csaba79-coder</a>
       </td>
     </tr>
     <tr>
@@ -789,4 +789,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.443s on Thu Aug 8 at 7:08</p>
+<p align="right">Generated in 0.338s on Thu Aug 8 at 7:09</p>
