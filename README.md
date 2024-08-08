@@ -83,40 +83,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">2520</td>
+      <td align="center">2524</td>
       <td align="center">
-        <a href="https://github.com/runtime-error786" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/123109871?u=c468537af326b454e24a73b053de3757e48ed6c4&v=4" alt="runtime-error786" width="40" height="40"/>
+        <a href="https://github.com/brazilianscriptguy" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/24796636?u=acdf5d8a058767d0edfd43dd4de4b2bd1bccadc5&v=4" alt="brazilianscriptguy" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/runtime-error786" target="_blank">runtime-error786</a>
+        <a href="https://github.com/brazilianscriptguy" target="_blank">brazilianscriptguy</a>
       </td>
     </tr>
     <tr>
-      <td align="center">2521</td>
+      <td align="center">2525</td>
       <td align="center">
-        <a href="https://github.com/tamk1n" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/109694582?v=4" alt="tamk1n" width="40" height="40"/>
+        <a href="https://github.com/NatanVieira" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/45432891?u=766bcea8cb07b5537cab62d6c29693ac190b3732&v=4" alt="NatanVieira" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/tamk1n" target="_blank">tamk1n</a>
+        <a href="https://github.com/NatanVieira" target="_blank">NatanVieira</a>
       </td>
     </tr>
     <tr>
-      <td align="center">2522</td>
+      <td align="center">2526</td>
       <td align="center">
-        <a href="https://github.com/Fresh-Teacher" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/98003374?u=5ccc30b4201d7fb41b12ce2e79981ec475bd7d13&v=4" alt="Fresh-Teacher" width="40" height="40"/>
+        <a href="https://github.com/AmandaLaureano" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/105324266?u=fe4d7061f506943897c5c9bbe6cba7d666278d33&v=4" alt="AmandaLaureano" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/Fresh-Teacher" target="_blank">Fresh-Teacher</a>
+        <a href="https://github.com/AmandaLaureano" target="_blank">AmandaLaureano</a>
       </td>
     </tr>
     <tr>
-      <td align="center">2523</td>
+      <td align="center">2527</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -805,4 +805,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.279s on Thu Aug 8 at 13:43</p>
+<p align="right">Generated in 0.296s on Thu Aug 8 at 13:46</p>
