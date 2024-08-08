@@ -83,29 +83,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">2470</td>
-      <td align="center">
-        <a href="https://github.com/joaopedro7423" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/40705431?u=cd72790058e4e370639b08935271913754a389b6&v=4" alt="joaopedro7423" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/joaopedro7423" target="_blank">joaopedro7423</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">2471</td>
-      <td align="center">
-        <a href="https://github.com/YaqutVerdiyeva" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/126706440?u=6e262788cc5e1a0e96f0f4bfe8ed61fb25cdf335&v=4" alt="YaqutVerdiyeva" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/YaqutVerdiyeva" target="_blank">YaqutVerdiyeva</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">2472</td>
+      <td align="center">2473</td>
       <td align="center">
         <a href="https://github.com/maanimis" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/106465992?u=f4423ba0ac49a57c76e978b555f826e980daa0a5&v=4" alt="maanimis" width="40" height="40"/>
@@ -116,7 +94,29 @@
       </td>
     </tr>
     <tr>
-      <td align="center">2473</td>
+      <td align="center">2474</td>
+      <td align="center">
+        <a href="https://github.com/Doug16Yanc" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/129301271?u=1286792378ff980e49c92d436399bd2e49b373e6&v=4" alt="Doug16Yanc" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Doug16Yanc" target="_blank">Doug16Yanc</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">2475</td>
+      <td align="center">
+        <a href="https://github.com/leonard-sanya" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/122167294?u=6ada7cbb4a2f338322b94dcf1267a1c2635cc650&v=4" alt="leonard-sanya" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/leonard-sanya" target="_blank">leonard-sanya</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">2476</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -813,4 +813,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.301s on Thu Aug 8 at 11:17</p>
+<p align="right">Generated in 2.128s on Thu Aug 8 at 11:26</p>
