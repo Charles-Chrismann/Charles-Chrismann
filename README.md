@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">2463</td>
-      <td align="center">
-        <a href="https://github.com/jakubsheldonn" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/119635425?u=5e33c73c1f0d9f2b537709267c97a6ba7aa7ad8b&v=4" alt="jakubsheldonn" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/jakubsheldonn" target="_blank">jakubsheldonn</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">2464</td>
       <td align="center">
         <a href="https://github.com/Nikagagua" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">2466</td>
+      <td align="center">
+        <a href="https://github.com/Brick-C" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/93069783?u=7cfbb409d55587daa28d100100b32fbc820eb1bd&v=4" alt="Brick-C" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Brick-C" target="_blank">Brick-C</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">2467</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -812,4 +812,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.289s on Thu Aug 8 at 10:36</p>
+<p align="right">Generated in 0.286s on Thu Aug 8 at 10:55</p>
