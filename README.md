@@ -83,40 +83,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">2328</td>
+      <td align="center">2332</td>
       <td align="center">
-        <a href="https://github.com/coderhariexpert" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/96340194?u=d437b13c5041477892ee51b6d489da8922614489&v=4" alt="coderhariexpert" width="40" height="40"/>
+        <a href="https://github.com/Julio-Caio" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/101609625?u=273751031b93c7ab8634a6234573071364bad13f&v=4" alt="Julio-Caio" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/coderhariexpert" target="_blank">coderhariexpert</a>
+        <a href="https://github.com/Julio-Caio" target="_blank">Julio-Caio</a>
       </td>
     </tr>
     <tr>
-      <td align="center">2329</td>
+      <td align="center">2333</td>
       <td align="center">
-        <a href="https://github.com/polcaronet" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/66381597?u=d2c927ac5df8b05d39d0bf24dd12e15eac6d394a&v=4" alt="polcaronet" width="40" height="40"/>
+        <a href="https://github.com/m4rc310RCP" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/1664608?u=ebfae11efd29aa06efce07549f016ac608386cd0&v=4" alt="m4rc310RCP" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/polcaronet" target="_blank">polcaronet</a>
+        <a href="https://github.com/m4rc310RCP" target="_blank">m4rc310RCP</a>
       </td>
     </tr>
     <tr>
-      <td align="center">2330</td>
+      <td align="center">2334</td>
       <td align="center">
-        <a href="https://github.com/MichaelWaruiru" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/128427671?v=4" alt="MichaelWaruiru" width="40" height="40"/>
+        <a href="https://github.com/ca1af" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/117057567?u=b90529f5fc28df57082ea44e31077a5313b5917d&v=4" alt="ca1af" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/MichaelWaruiru" target="_blank">MichaelWaruiru</a>
+        <a href="https://github.com/ca1af" target="_blank">ca1af</a>
       </td>
     </tr>
     <tr>
-      <td align="center">2331</td>
+      <td align="center">2335</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.561s on Thu Aug 8 at 1:45</p>
+<p align="right">Generated in 0.494s on Thu Aug 8 at 1:58</p>
