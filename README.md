@@ -83,18 +83,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">2400</td>
-      <td align="center">
-        <a href="https://github.com/nicoleweathers" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/108811197?v=4" alt="nicoleweathers" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/nicoleweathers" target="_blank">nicoleweathers</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">2401</td>
+      <td align="center">2402</td>
       <td align="center">
         <a href="https://github.com/Zukhrik" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/67275391?u=61e169c3f4832b847ce0ed5e6bd5578079edd774&v=4" alt="Zukhrik" width="40" height="40"/>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">2402</td>
+      <td align="center">2403</td>
       <td align="center">
         <a href="https://github.com/Csaba79-coder" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/77699103?u=55a482c93777d58c533b5adeb13e82abeba34d36&v=4" alt="Csaba79-coder" width="40" height="40"/>
@@ -116,7 +105,18 @@
       </td>
     </tr>
     <tr>
-      <td align="center">2403</td>
+      <td align="center">2404</td>
+      <td align="center">
+        <a href="https://github.com/madfauzy" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/95717485?u=e9e7fe7878a9a241d5f80d49ddf494f52b1ede6c&v=4" alt="madfauzy" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/madfauzy" target="_blank">madfauzy</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">2405</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -789,4 +789,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.338s on Thu Aug 8 at 7:09</p>
+<p align="right">Generated in 0.29s on Thu Aug 8 at 7:14</p>
