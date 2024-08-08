@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">2464</td>
-      <td align="center">
-        <a href="https://github.com/Nikagagua" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/97543752?u=48ca3052f4905f24e5e0433a95bd4a3b394cf3df&v=4" alt="Nikagagua" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Nikagagua" target="_blank">Nikagagua</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">2465</td>
       <td align="center">
         <a href="https://github.com/artaabedi" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">2467</td>
+      <td align="center">
+        <a href="https://github.com/rizkiwijanarko" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/89372476?u=70fbce834f79584103462e9df26e740dfe4dda7f&v=4" alt="rizkiwijanarko" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/rizkiwijanarko" target="_blank">rizkiwijanarko</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">2468</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
