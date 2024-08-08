@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">2499</td>
-      <td align="center">
-        <a href="https://github.com/WiiWake3101" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/113228802?u=23f833f51e46efab611f134ea86e7dcb434014dd&v=4" alt="WiiWake3101" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/WiiWake3101" target="_blank">WiiWake3101</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">2500</td>
       <td align="center">
         <a href="https://github.com/shadatr" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">2502</td>
+      <td align="center">
+        <a href="https://github.com/techguru536" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/176954804?u=1c25045dec578bdd197c369c13b7bb53df9aac29&v=4" alt="techguru536" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/techguru536" target="_blank">techguru536</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">2503</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -808,4 +808,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.286s on Thu Aug 8 at 13:06</p>
+<p align="right">Generated in 0.287s on Thu Aug 8 at 13:07</p>
