@@ -85,17 +85,6 @@
     <tr>
       <td align="center">2436</td>
       <td align="center">
-        <a href="https://github.com/theHoracle" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/86533112?u=42620605edd1c3fcf8233a8c6b25ba382d2c6994&v=4" alt="theHoracle" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/theHoracle" target="_blank">theHoracle</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">2437</td>
-      <td align="center">
         <a href="https://github.com/Runa-Chin" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/104977353?u=371ef94ef0539120cccf9252f3f80538a05f8c83&v=4" alt="Runa-Chin" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">2438</td>
+      <td align="center">2437</td>
       <td align="center">
         <a href="https://github.com/rgd01sh" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/128194619?u=fd9eb187ff752781ea57b5ac88b7276363ebce8a&v=4" alt="rgd01sh" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/rgd01sh" target="_blank">rgd01sh</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">2438</td>
+      <td align="center">
+        <a href="https://github.com/FahadKHAN-4" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/82701358?v=4" alt="FahadKHAN-4" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/FahadKHAN-4" target="_blank">FahadKHAN-4</a>
       </td>
     </tr>
     <tr>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.222s on Thu Aug 8 at 8:44</p>
+<p align="right">Generated in 0.227s on Thu Aug 8 at 8:46</p>
