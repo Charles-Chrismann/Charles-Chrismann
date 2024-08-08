@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">2710</td>
-      <td align="center">
-        <a href="https://github.com/seclist" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/120759453?u=00474c5693b8df897490c43c6a4ddabd25d992cd&v=4" alt="seclist" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/seclist" target="_blank">seclist</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">2711</td>
       <td align="center">
         <a href="https://github.com/cfrBernard" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">2713</td>
+      <td align="center">
+        <a href="https://github.com/turri21" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/154733583?u=a9a6c90feffd6f81b7629113cea1c92c91bab191&v=4" alt="turri21" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/turri21" target="_blank">turri21</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">2714</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.327s on Thu Aug 8 at 22:35</p>
+<p align="right">Generated in 0.264s on Thu Aug 8 at 22:36</p>
