@@ -83,40 +83,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">2320</td>
-      <td align="center">
-        <a href="https://github.com/rosyanxone" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/73805258?u=74e37e414a0b717d18b0cf4b16f4de1b9063790f&v=4" alt="rosyanxone" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/rosyanxone" target="_blank">rosyanxone</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">2321</td>
-      <td align="center">
-        <a href="https://github.com/BEATRIZ158" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/122581873?u=0f8d6e83c2e7f585041fd150a990df04434f59cc&v=4" alt="BEATRIZ158" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/BEATRIZ158" target="_blank">BEATRIZ158</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">2322</td>
-      <td align="center">
-        <a href="https://github.com/AbhishekX2004" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/125259923?v=4" alt="AbhishekX2004" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/AbhishekX2004" target="_blank">AbhishekX2004</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">2323</td>
+      <td align="center">
+        <a href="https://github.com/venkateshchapalamadugu27" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/96712283?u=7709899f331e3f5bea3d36133998e4a883da9aed&v=4" alt="venkateshchapalamadugu27" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/venkateshchapalamadugu27" target="_blank">venkateshchapalamadugu27</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">2324</td>
+      <td align="center">
+        <a href="https://github.com/sanu151" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/68671274?u=b03f08bd4ab230915f25f31aac66812fc66f2a38&v=4" alt="sanu151" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/sanu151" target="_blank">sanu151</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">2325</td>
+      <td align="center">
+        <a href="https://github.com/ekiira" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/57687166?u=fd39376c9e06365620d4ac30c3b1e18f3d8efce2&v=4" alt="ekiira" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/ekiira" target="_blank">ekiira</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">2326</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.558s on Thu Aug 8 at 1:27</p>
+<p align="right">Generated in 0.483s on Thu Aug 8 at 1:28</p>
