@@ -83,40 +83,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">2551</td>
-      <td align="center">
-        <a href="https://github.com/yagoar45" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/99808679?u=3f846b18cc8e96b934a34d4c2dd433769028a260&v=4" alt="yagoar45" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/yagoar45" target="_blank">yagoar45</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">2552</td>
-      <td align="center">
-        <a href="https://github.com/tobias-barakaa" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/103282432?u=4b5ca98f9a27281860f5c2f522fc500cf26d0de0&v=4" alt="tobias-barakaa" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/tobias-barakaa" target="_blank">tobias-barakaa</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">2553</td>
-      <td align="center">
-        <a href="https://github.com/bisre1921" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/129043122?v=4" alt="bisre1921" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/bisre1921" target="_blank">bisre1921</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">2554</td>
+      <td align="center">
+        <a href="https://github.com/neelalohith" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/98219059?u=ef04ba22b1873541f043c9ce0bf29452701a644c&v=4" alt="neelalohith" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/neelalohith" target="_blank">neelalohith</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">2555</td>
+      <td align="center">
+        <a href="https://github.com/Jyoti-52" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/129689030?v=4" alt="Jyoti-52" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Jyoti-52" target="_blank">Jyoti-52</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">2556</td>
+      <td align="center">
+        <a href="https://github.com/Sphoorti18" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/109842862?u=6ba11c30db2d36d20c5233b95e9543b03c25bf2e&v=4" alt="Sphoorti18" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Sphoorti18" target="_blank">Sphoorti18</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">2557</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -812,4 +812,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.555s on Thu Aug 8 at 14:44</p>
+<p align="right">Generated in 0.329s on Thu Aug 8 at 14:45</p>
