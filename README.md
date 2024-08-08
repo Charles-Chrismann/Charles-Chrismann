@@ -83,18 +83,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">2705</td>
-      <td align="center">
-        <a href="https://github.com/ChielokaCode" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/147743243?u=4380f636c687aee1162733016789ffbc898eab78&v=4" alt="ChielokaCode" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/ChielokaCode" target="_blank">ChielokaCode</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">2706</td>
+      <td align="center">2707</td>
       <td align="center">
         <a href="https://github.com/romeshl" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/150778333?u=03770173c1eff0aa0dbb87da51844e8f971a2dc1&v=4" alt="romeshl" width="40" height="40"/>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">2707</td>
+      <td align="center">2708</td>
       <td align="center">
         <a href="https://github.com/Koshlensky" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/148648516?u=01f36f94f3c0e16f68d297338ca6b7c0be371357&v=4" alt="Koshlensky" width="40" height="40"/>
@@ -116,7 +105,18 @@
       </td>
     </tr>
     <tr>
-      <td align="center">2708</td>
+      <td align="center">2709</td>
+      <td align="center">
+        <a href="https://github.com/Gbangbolaoluwagbemiga" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/104629140?u=aa8b18013ae6f6d187d05fd7b92bdcf6db2699cd&v=4" alt="Gbangbolaoluwagbemiga" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Gbangbolaoluwagbemiga" target="_blank">Gbangbolaoluwagbemiga</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">2710</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -791,4 +791,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.319s on Thu Aug 8 at 22:11</p>
+<p align="right">Generated in 0.253s on Thu Aug 8 at 22:13</p>
