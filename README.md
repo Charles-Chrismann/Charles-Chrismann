@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">2374</td>
-      <td align="center">
-        <a href="https://github.com/datlearner" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/112308111?u=202c7e5befe1ff923c16cad0a9524f36f1c6c211&v=4" alt="datlearner" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/datlearner" target="_blank">datlearner</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">2375</td>
       <td align="center">
         <a href="https://github.com/NITIN-VERMA-afk" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">2377</td>
+      <td align="center">
+        <a href="https://github.com/AdityaJani616" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/108350583?u=a7d86aa32d9fd3180087de51c925aa32f82d84f1&v=4" alt="AdityaJani616" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/AdityaJani616" target="_blank">AdityaJani616</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">2378</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -806,4 +806,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.247s on Thu Aug 8 at 5:33</p>
+<p align="right">Generated in 0.239s on Thu Aug 8 at 5:34</p>
