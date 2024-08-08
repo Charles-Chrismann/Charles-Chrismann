@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">2353</td>
-      <td align="center">
-        <a href="https://github.com/rsresta07" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/111293816?u=79ec036e694781669e474e199743e51a13d34c1d&v=4" alt="rsresta07" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/rsresta07" target="_blank">rsresta07</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">2354</td>
       <td align="center">
         <a href="https://github.com/androidacvtivity" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">2356</td>
+      <td align="center">
+        <a href="https://github.com/GiftMothusi" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/123647561?u=b4d11da58fbb83e0845560f9eae065b72a8a2b4e&v=4" alt="GiftMothusi" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/GiftMothusi" target="_blank">GiftMothusi</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">2357</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.257s on Thu Aug 8 at 3:46</p>
+<p align="right">Generated in 0.27s on Thu Aug 8 at 3:53</p>
