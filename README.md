@@ -85,17 +85,6 @@
     <tr>
       <td align="center">2307</td>
       <td align="center">
-        <a href="https://github.com/otav-o" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/60331508?u=56249a5caa27d2e86e79101415ce70c18628d51f&v=4" alt="otav-o" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/otav-o" target="_blank">otav-o</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">2308</td>
-      <td align="center">
         <a href="https://github.com/Alidantech" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/117439552?u=293eeebdc910375cc1f9703396df30510c245a38&v=4" alt="Alidantech" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">2309</td>
+      <td align="center">2308</td>
       <td align="center">
         <a href="https://github.com/CrisNakamura" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/76737557?u=4dcf23897d48fd7dd35813f9dc86ea7eaf80885a&v=4" alt="CrisNakamura" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/CrisNakamura" target="_blank">CrisNakamura</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">2309</td>
+      <td align="center">
+        <a href="https://github.com/jaylee518" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/122968273?u=8890ac732ea5b5bf6d4bff6978f3f4897e867a10&v=4" alt="jaylee518" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/jaylee518" target="_blank">jaylee518</a>
       </td>
     </tr>
     <tr>
@@ -814,4 +814,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.79s on Thu Aug 8 at 0:35</p>
+<p align="right">Generated in 0.54s on Thu Aug 8 at 0:36</p>
