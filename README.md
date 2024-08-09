@@ -83,18 +83,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">2742</td>
-      <td align="center">
-        <a href="https://github.com/gnoronha42" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/54219252?u=f18339296755d55b1d36392ecdedb3d377d8296d&v=4" alt="gnoronha42" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/gnoronha42" target="_blank">gnoronha42</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">2743</td>
+      <td align="center">2744</td>
       <td align="center">
         <a href="https://github.com/germainelee" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/118464031?u=4bc9a936344de02239e56fe606e602050a86fc13&v=4" alt="germainelee" width="40" height="40"/>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">2744</td>
+      <td align="center">2745</td>
       <td align="center">
         <a href="https://github.com/py-master-dev" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/155134402?u=c36102ff93068ac37bb3edaf764bfdef766691b9&v=4" alt="py-master-dev" width="40" height="40"/>
@@ -116,7 +105,18 @@
       </td>
     </tr>
     <tr>
-      <td align="center">2745</td>
+      <td align="center">2746</td>
+      <td align="center">
+        <a href="https://github.com/vinayakkankanwadi" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/1323738?u=1d3d3049e7b964de3a5b5514f803a6146a444ae9&v=4" alt="vinayakkankanwadi" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/vinayakkankanwadi" target="_blank">vinayakkankanwadi</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">2747</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.31s on Fri Aug 9 at 0:36</p>
+<p align="right">Generated in 0.244s on Fri Aug 9 at 0:37</p>
