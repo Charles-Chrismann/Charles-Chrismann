@@ -85,17 +85,6 @@
     <tr>
       <td align="center">2981</td>
       <td align="center">
-        <a href="https://github.com/Farid-Karimi" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/118434072?u=4ddfc07e9db0079816410cc716f1553fbfb2e126&v=4" alt="Farid-Karimi" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Farid-Karimi" target="_blank">Farid-Karimi</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">2982</td>
-      <td align="center">
         <a href="https://github.com/Rashidkhan1234567" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/156903496?u=62cde2e2dab6eba6478dd104f8f10fdc1af1033f&v=4" alt="Rashidkhan1234567" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">2983</td>
+      <td align="center">2982</td>
       <td align="center">
         <a href="https://github.com/Wil-JC-Pimenta" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/125089895?u=ba608f00c92fe08264b21e54170338c290436b9c&v=4" alt="Wil-JC-Pimenta" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/Wil-JC-Pimenta" target="_blank">Wil-JC-Pimenta</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">2983</td>
+      <td align="center">
+        <a href="https://github.com/Talent106" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/172748479?u=6bf5339ff7d0b0d7942ea4c319f89e106622fccc&v=4" alt="Talent106" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Talent106" target="_blank">Talent106</a>
       </td>
     </tr>
     <tr>
@@ -804,4 +804,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.476s on Fri Aug 9 at 14:04</p>
+<p align="right">Generated in 0.488s on Fri Aug 9 at 14:04</p>
