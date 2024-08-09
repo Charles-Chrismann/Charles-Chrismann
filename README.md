@@ -108,7 +108,7 @@
       <td align="center">2750</td>
       <td align="center">
         <a href="https://github.com/SquirrelsAtARave" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/130194770?v=4" alt="SquirrelsAtARave" width="40" height="40"/>
+          <img src="https://avatars.githubusercontent.com/u/130194770?u=04e9e51273149a3a87678044fce4bfd2893f0a0c&v=4" alt="SquirrelsAtARave" width="40" height="40"/>
         </a>
       </td>
       <td>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.348s on Fri Aug 9 at 0:46</p>
+<p align="right">Generated in 0.271s on Fri Aug 9 at 0:46</p>
