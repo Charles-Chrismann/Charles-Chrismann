@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">3000</td>
-      <td align="center">
-        <a href="https://github.com/multifix" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/38093951?v=4" alt="multifix" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/multifix" target="_blank">multifix</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">3001</td>
       <td align="center">
         <a href="https://github.com/SanaTameem" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">3003</td>
+      <td align="center">
+        <a href="https://github.com/Endekalu-Zemenu" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/155809658?u=785459e6f1b0c02bb4e243a5a5f3c07e8611a7b0&v=4" alt="Endekalu-Zemenu" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Endekalu-Zemenu" target="_blank">Endekalu-Zemenu</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">3004</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -803,4 +803,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.564s on Fri Aug 9 at 14:32</p>
+<p align="right">Generated in 0.508s on Fri Aug 9 at 14:33</p>
