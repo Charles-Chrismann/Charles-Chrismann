@@ -83,40 +83,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">2744</td>
-      <td align="center">
-        <a href="https://github.com/germainelee" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/118464031?u=4bc9a936344de02239e56fe606e602050a86fc13&v=4" alt="germainelee" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/germainelee" target="_blank">germainelee</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">2745</td>
-      <td align="center">
-        <a href="https://github.com/py-master-dev" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/155134402?u=c36102ff93068ac37bb3edaf764bfdef766691b9&v=4" alt="py-master-dev" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/py-master-dev" target="_blank">py-master-dev</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">2746</td>
-      <td align="center">
-        <a href="https://github.com/vinayakkankanwadi" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/1323738?u=1d3d3049e7b964de3a5b5514f803a6146a444ae9&v=4" alt="vinayakkankanwadi" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/vinayakkankanwadi" target="_blank">vinayakkankanwadi</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">2747</td>
+      <td align="center">
+        <a href="https://github.com/abdoulkarim20" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/85187164?u=6c7ced89eb86e5a7eb3422e0842a2b6f28c8c6b0&v=4" alt="abdoulkarim20" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/abdoulkarim20" target="_blank">abdoulkarim20</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">2748</td>
+      <td align="center">
+        <a href="https://github.com/helson-lin" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/84565447?u=b57247e6f7356b0e72544127f36d59064db4500b&v=4" alt="helson-lin" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/helson-lin" target="_blank">helson-lin</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">2749</td>
+      <td align="center">
+        <a href="https://github.com/jose-ithalo" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/99818324?v=4" alt="jose-ithalo" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/jose-ithalo" target="_blank">jose-ithalo</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">2750</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.254s on Fri Aug 9 at 0:42</p>
+<p align="right">Generated in 0.245s on Fri Aug 9 at 0:43</p>
