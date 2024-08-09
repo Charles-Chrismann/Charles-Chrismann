@@ -85,17 +85,6 @@
     <tr>
       <td align="center">3171</td>
       <td align="center">
-        <a href="https://github.com/Wesley00s" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/130418293?u=a243b9e75e803b4b5384d872b82499ab71c0efb6&v=4" alt="Wesley00s" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Wesley00s" target="_blank">Wesley00s</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">3172</td>
-      <td align="center">
         <a href="https://github.com/thiagonees" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/163309161?u=00e733072f7ff8ee8d589cac2eba25328efc2d86&v=4" alt="thiagonees" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">3173</td>
+      <td align="center">3172</td>
       <td align="center">
         <a href="https://github.com/ahmedembeddedxx" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/175879344?u=9937327393df0de9855cc99f185cea1d07d299ac&v=4" alt="ahmedembeddedxx" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/ahmedembeddedxx" target="_blank">ahmedembeddedxx</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">3173</td>
+      <td align="center">
+        <a href="https://github.com/steve601" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/112956208?u=90017b9b0b79b213eeb4e5fa1c8627d150894448&v=4" alt="steve601" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/steve601" target="_blank">steve601</a>
       </td>
     </tr>
     <tr>
@@ -803,4 +803,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.24s on Fri Aug 9 at 20:14</p>
+<p align="right">Generated in 0.244s on Fri Aug 9 at 20:15</p>
