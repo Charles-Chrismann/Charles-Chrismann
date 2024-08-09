@@ -85,17 +85,6 @@
     <tr>
       <td align="center">2737</td>
       <td align="center">
-        <a href="https://github.com/gulnurdadak" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/26023671?u=5e4709f1a261290edb9337e88c8a2d142902a44f&v=4" alt="gulnurdadak" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/gulnurdadak" target="_blank">gulnurdadak</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">2738</td>
-      <td align="center">
         <a href="https://github.com/JusticeJatau" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/69175551?v=4" alt="JusticeJatau" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">2739</td>
+      <td align="center">2738</td>
       <td align="center">
         <a href="https://github.com/LintangDev" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/92625668?u=fc370ada3b573559a7b3a618fe96d0772bf5c708&v=4" alt="LintangDev" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/LintangDev" target="_blank">LintangDev</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">2739</td>
+      <td align="center">
+        <a href="https://github.com/kookiiedough" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/109049286?v=4" alt="kookiiedough" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/kookiiedough" target="_blank">kookiiedough</a>
       </td>
     </tr>
     <tr>
@@ -813,4 +813,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 4.12s on Fri Aug 9 at 0:11</p>
+<p align="right">Generated in 0.341s on Fri Aug 9 at 0:16</p>
