@@ -83,40 +83,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">3137</td>
-      <td align="center">
-        <a href="https://github.com/gbzenobi" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/100087484?u=f2caa1d185a92dec9fc33f8b66ca73d77a04fb91&v=4" alt="gbzenobi" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/gbzenobi" target="_blank">gbzenobi</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">3138</td>
-      <td align="center">
-        <a href="https://github.com/TheMendoza" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/166516083?u=574ece56db5d6edf60ddf687cc4d7dfe5ebfe1a1&v=4" alt="TheMendoza" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/TheMendoza" target="_blank">TheMendoza</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">3139</td>
-      <td align="center">
-        <a href="https://github.com/Legendary9000" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/173949229?u=08e2a48a8630ac59f3773af91768ad4709adcfea&v=4" alt="Legendary9000" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Legendary9000" target="_blank">Legendary9000</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">3140</td>
+      <td align="center">
+        <a href="https://github.com/souzafe13" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/139915350?u=79c2aaecaa8a8891a891dc4cf7305449a2966386&v=4" alt="souzafe13" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/souzafe13" target="_blank">souzafe13</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">3141</td>
+      <td align="center">
+        <a href="https://github.com/felipebocajr" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/67701352?u=baf080783227bcd57764591c55f227b76280c0d1&v=4" alt="felipebocajr" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/felipebocajr" target="_blank">felipebocajr</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">3142</td>
+      <td align="center">
+        <a href="https://github.com/vinifranco48" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/118564955?u=a54ba6899d0324d66bd537690847c5a5e187378d&v=4" alt="vinifranco48" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/vinifranco48" target="_blank">vinifranco48</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">3143</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.25s on Fri Aug 9 at 19:04</p>
+<p align="right">Generated in 0.267s on Fri Aug 9 at 19:06</p>
