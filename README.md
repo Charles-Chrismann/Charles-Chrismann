@@ -83,28 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">3122</td>
-      <td align="center">
-        <a href="https://github.com/Wanjira-Faith" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/135022589?v=4" alt="Wanjira-Faith" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Wanjira-Faith" target="_blank">Wanjira-Faith</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">3123</td>
-      <td align="center">
-        <a href="https://github.com/Patrick776" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/75255193?u=318ab156009749fba66ac419cfd942cdc28d4da0&v=4" alt="Patrick776" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Patrick776" target="_blank">Patrick776</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">3124</td>
       <td align="center">
         <a href="https://github.com/BuildDream18" target="_blank">
@@ -117,6 +95,28 @@
     </tr>
     <tr>
       <td align="center">3125</td>
+      <td align="center">
+        <a href="https://github.com/bearjobsniper" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/173254869?u=8f1bbcc11384ed8bdda4d94c9914e20c8a600ccc&v=4" alt="bearjobsniper" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/bearjobsniper" target="_blank">bearjobsniper</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">3126</td>
+      <td align="center">
+        <a href="https://github.com/agha-naveed" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/162593072?u=d99b32921a666d0e35407d9eb91aecec7a50efc5&v=4" alt="agha-naveed" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/agha-naveed" target="_blank">agha-naveed</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">3127</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.209s on Fri Aug 9 at 18:34</p>
+<p align="right">Generated in 0.21s on Fri Aug 9 at 18:35</p>
