@@ -83,40 +83,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">3130</td>
-      <td align="center">
-        <a href="https://github.com/KidiIT" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/146373396?u=1c74c62cfa5a5c2da77c24d65b7605cc21449265&v=4" alt="KidiIT" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/KidiIT" target="_blank">KidiIT</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">3131</td>
-      <td align="center">
-        <a href="https://github.com/bhargav-borah" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/100614703?u=670f159f7cce978930a4009b67de5b7ef178f6b4&v=4" alt="bhargav-borah" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/bhargav-borah" target="_blank">bhargav-borah</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">3132</td>
-      <td align="center">
-        <a href="https://github.com/Caiobaldudev" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/170136798?u=6461de916130cb6f4c535a4670c7d326c25a23eb&v=4" alt="Caiobaldudev" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Caiobaldudev" target="_blank">Caiobaldudev</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">3133</td>
+      <td align="center">
+        <a href="https://github.com/Heir-of-God" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/140493860?u=992a209f54058a7ab9622903f8ed488c385f5275&v=4" alt="Heir-of-God" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Heir-of-God" target="_blank">Heir-of-God</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">3134</td>
+      <td align="center">
+        <a href="https://github.com/lalan21j" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/14109534?u=ea1c81e98f40422bb0b9a0f538e058267674d7cf&v=4" alt="lalan21j" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/lalan21j" target="_blank">lalan21j</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">3135</td>
+      <td align="center">
+        <a href="https://github.com/semanurozcal" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/108893972?u=5e857ef626d704ebaebd3e583508c739c631ae4e&v=4" alt="semanurozcal" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/semanurozcal" target="_blank">semanurozcal</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">3136</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.254s on Fri Aug 9 at 18:48</p>
+<p align="right">Generated in 0.202s on Fri Aug 9 at 18:48</p>
