@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">2991</td>
-      <td align="center">
-        <a href="https://github.com/BrunoEzekiel" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/130883029?u=f002d5e14cbda6fca0ac222ef645d4b8538b9f4c&v=4" alt="BrunoEzekiel" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/BrunoEzekiel" target="_blank">BrunoEzekiel</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">2992</td>
       <td align="center">
         <a href="https://github.com/max-ray001" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">2994</td>
+      <td align="center">
+        <a href="https://github.com/traveling-frontender" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/62702483?u=7a1e629e9fe4e00c9ac664f856be6440799f8399&v=4" alt="traveling-frontender" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/traveling-frontender" target="_blank">traveling-frontender</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">2995</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -799,4 +799,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.479s on Fri Aug 9 at 14:19</p>
+<p align="right">Generated in 0.476s on Fri Aug 9 at 14:19</p>
