@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">2755</td>
-      <td align="center">
-        <a href="https://github.com/wasupon0" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/135480540?u=aa8c4d2b95ba1f310a4b38774f4074398564dd23&v=4" alt="wasupon0" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/wasupon0" target="_blank">wasupon0</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">2756</td>
       <td align="center">
         <a href="https://github.com/OrochiDesign" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">2758</td>
+      <td align="center">
+        <a href="https://github.com/Banukaiw" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/89258445?v=4" alt="Banukaiw" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Banukaiw" target="_blank">Banukaiw</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">2759</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -801,4 +801,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.325s on Fri Aug 9 at 1:14</p>
+<p align="right">Generated in 0.335s on Fri Aug 9 at 1:15</p>
