@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">2766</td>
-      <td align="center">
-        <a href="https://github.com/Daniel10091" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/80278044?u=e34d63ea2efb86b49a5689218233572098d12e55&v=4" alt="Daniel10091" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Daniel10091" target="_blank">Daniel10091</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">2767</td>
       <td align="center">
         <a href="https://github.com/SuzanaILIEVA" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">2769</td>
+      <td align="center">
+        <a href="https://github.com/lingbopro" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/148617407?u=74d85b1cfc9e4cd2c9e7b5fc12b8e6e9656cb8b4&v=4" alt="lingbopro" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/lingbopro" target="_blank">lingbopro</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">2770</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -815,4 +815,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.418s on Fri Aug 9 at 1:45</p>
+<p align="right">Generated in 0.361s on Fri Aug 9 at 1:48</p>
