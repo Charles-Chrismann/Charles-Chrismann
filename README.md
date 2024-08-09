@@ -85,17 +85,6 @@
     <tr>
       <td align="center">2828</td>
       <td align="center">
-        <a href="https://github.com/NandanRavi" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/70919673?u=402b38977494683b930198903f460ac9880d3188&v=4" alt="NandanRavi" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/NandanRavi" target="_blank">NandanRavi</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">2829</td>
-      <td align="center">
         <a href="https://github.com/RaphaelDamico" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/142269053?u=09165500703e5bf03e1f68edbf6ee3618978d58f&v=4" alt="RaphaelDamico" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">2830</td>
+      <td align="center">2829</td>
       <td align="center">
         <a href="https://github.com/NekoMirra" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/48759390?u=6d67804e6a2087efc4d5de56a88b0e928cfda4e9&v=4" alt="NekoMirra" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/NekoMirra" target="_blank">NekoMirra</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">2830</td>
+      <td align="center">
+        <a href="https://github.com/Naizil-Francis" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/112805712?v=4" alt="Naizil-Francis" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Naizil-Francis" target="_blank">Naizil-Francis</a>
       </td>
     </tr>
     <tr>
@@ -789,4 +789,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.264s on Fri Aug 9 at 5:58</p>
+<p align="right">Generated in 0.281s on Fri Aug 9 at 5:59</p>
