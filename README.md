@@ -83,40 +83,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">2916</td>
+      <td align="center">2921</td>
       <td align="center">
-        <a href="https://github.com/EDGI9" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/24766085?u=e0ba2b2129f2f833dad96f1dbae971a58dfd630e&v=4" alt="EDGI9" width="40" height="40"/>
+        <a href="https://github.com/sedenkaplan" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/175847979?v=4" alt="sedenkaplan" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/EDGI9" target="_blank">EDGI9</a>
+        <a href="https://github.com/sedenkaplan" target="_blank">sedenkaplan</a>
       </td>
     </tr>
     <tr>
-      <td align="center">2917</td>
+      <td align="center">2922</td>
       <td align="center">
-        <a href="https://github.com/pranavagrawal321" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/60977233?u=9d1ca78c31576f12cfa173ad905d4251e3546453&v=4" alt="pranavagrawal321" width="40" height="40"/>
+        <a href="https://github.com/ayberklevendoglu" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/96116475?u=80a55610586afbce21fde90f0840eff063caf6c3&v=4" alt="ayberklevendoglu" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/pranavagrawal321" target="_blank">pranavagrawal321</a>
+        <a href="https://github.com/ayberklevendoglu" target="_blank">ayberklevendoglu</a>
       </td>
     </tr>
     <tr>
-      <td align="center">2918</td>
+      <td align="center">2923</td>
       <td align="center">
-        <a href="https://github.com/KipletingEdwin" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/104434473?u=7a337151b7dd32f86dbe297e1b57871ba8fb93fe&v=4" alt="KipletingEdwin" width="40" height="40"/>
+        <a href="https://github.com/RezaHori" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/161148196?v=4" alt="RezaHori" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/KipletingEdwin" target="_blank">KipletingEdwin</a>
+        <a href="https://github.com/RezaHori" target="_blank">RezaHori</a>
       </td>
     </tr>
     <tr>
-      <td align="center">2919</td>
+      <td align="center">2924</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -782,4 +782,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.18s on Fri Aug 9 at 11:03</p>
+<p align="right">Generated in 0.197s on Fri Aug 9 at 11:19</p>
