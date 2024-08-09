@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">3111</td>
-      <td align="center">
-        <a href="https://github.com/kaydacoder" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/125496831?v=4" alt="kaydacoder" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/kaydacoder" target="_blank">kaydacoder</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">3112</td>
       <td align="center">
         <a href="https://github.com/gianbdev" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">3114</td>
+      <td align="center">
+        <a href="https://github.com/LuffyKudo" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/172978826?v=4" alt="LuffyKudo" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/LuffyKudo" target="_blank">LuffyKudo</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">3115</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -785,4 +785,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.25s on Fri Aug 9 at 18:04</p>
+<p align="right">Generated in 0.28s on Fri Aug 9 at 18:05</p>
