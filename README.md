@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">3034</td>
-      <td align="center">
-        <a href="https://github.com/BANKOLEDO" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/99953808?v=4" alt="BANKOLEDO" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/BANKOLEDO" target="_blank">BANKOLEDO</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">3035</td>
       <td align="center">
         <a href="https://github.com/billyjacksone" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">3037</td>
+      <td align="center">
+        <a href="https://github.com/vannella" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/111094787?u=1909085eae30b282be1bd90175c0dace97f9a888&v=4" alt="vannella" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/vannella" target="_blank">vannella</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">3038</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -786,4 +786,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.263s on Fri Aug 9 at 15:21</p>
+<p align="right">Generated in 0.256s on Fri Aug 9 at 15:22</p>
