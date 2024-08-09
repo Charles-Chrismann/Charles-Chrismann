@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">2736</td>
-      <td align="center">
-        <a href="https://github.com/Imranelaf" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/110747482?v=4" alt="Imranelaf" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Imranelaf" target="_blank">Imranelaf</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">2737</td>
       <td align="center">
         <a href="https://github.com/gulnurdadak" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">2739</td>
+      <td align="center">
+        <a href="https://github.com/LintangDev" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/92625668?u=fc370ada3b573559a7b3a618fe96d0772bf5c708&v=4" alt="LintangDev" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/LintangDev" target="_blank">LintangDev</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">2740</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -813,4 +813,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.593s on Fri Aug 9 at 0:10</p>
+<p align="right">Generated in 4.12s on Fri Aug 9 at 0:11</p>
