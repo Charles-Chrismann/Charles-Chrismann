@@ -83,28 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">3279</td>
-      <td align="center">
-        <a href="https://github.com/takeshiumemoto" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/162948529?v=4" alt="takeshiumemoto" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/takeshiumemoto" target="_blank">takeshiumemoto</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">3280</td>
-      <td align="center">
-        <a href="https://github.com/geosynapse" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/5288943?u=5ddf0c276fe5673a8222e437c826d3f0a695cc3c&v=4" alt="geosynapse" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/geosynapse" target="_blank">geosynapse</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">3281</td>
       <td align="center">
         <a href="https://github.com/CodClever" target="_blank">
@@ -117,6 +95,28 @@
     </tr>
     <tr>
       <td align="center">3282</td>
+      <td align="center">
+        <a href="https://github.com/mio-dokuhaki" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/97223678?v=4" alt="mio-dokuhaki" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/mio-dokuhaki" target="_blank">mio-dokuhaki</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">3283</td>
+      <td align="center">
+        <a href="https://github.com/soopeach" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/90144041?u=bd62c934abc0e99a65b9b7327d69806ed70664b4&v=4" alt="soopeach" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/soopeach" target="_blank">soopeach</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">3284</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -803,4 +803,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 1.478s on Sat Aug 10 at 4:57</p>
+<p align="right">Generated in 1.434s on Sat Aug 10 at 5:07</p>
