@@ -83,40 +83,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">3450</td>
-      <td align="center">
-        <a href="https://github.com/emanuelsantoz" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/167258436?u=63817dd96ca174aa14da9836ab272172ccc3038d&v=4" alt="emanuelsantoz" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/emanuelsantoz" target="_blank">emanuelsantoz</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">3451</td>
-      <td align="center">
-        <a href="https://github.com/vikasp07" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/155407261?u=4b66a5a6e0bd2501accf1f19b9c29beb869cba51&v=4" alt="vikasp07" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/vikasp07" target="_blank">vikasp07</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">3452</td>
-      <td align="center">
-        <a href="https://github.com/Msanidi-Abdul" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/162371871?v=4" alt="Msanidi-Abdul" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Msanidi-Abdul" target="_blank">Msanidi-Abdul</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">3453</td>
+      <td align="center">
+        <a href="https://github.com/Darkelf2024" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/174353864?u=d71c474b4662674e9d99052b15aca751de60fde7&v=4" alt="Darkelf2024" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Darkelf2024" target="_blank">Darkelf2024</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">3454</td>
+      <td align="center">
+        <a href="https://github.com/mdev-repos" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/168182203?u=d079b3c7383a3a7daacf7eed2ec3ea7b08e27ad8&v=4" alt="mdev-repos" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/mdev-repos" target="_blank">mdev-repos</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">3455</td>
+      <td align="center">
+        <a href="https://github.com/bandbazi" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/165799173?u=cfe5a64d359725d17c52e02ca3a6f863f522f16e&v=4" alt="bandbazi" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/bandbazi" target="_blank">bandbazi</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">3456</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.462s on Sat Aug 10 at 15:26</p>
+<p align="right">Generated in 0.42s on Sat Aug 10 at 15:32</p>
