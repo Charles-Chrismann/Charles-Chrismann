@@ -85,17 +85,6 @@
     <tr>
       <td align="center">3299</td>
       <td align="center">
-        <a href="https://github.com/akm-coding" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/115795473?u=41a52cda29e90e121aaa0b20f458c03a90f19685&v=4" alt="akm-coding" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/akm-coding" target="_blank">akm-coding</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">3300</td>
-      <td align="center">
         <a href="https://github.com/cyrolux123" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/141636899?u=2fee18fe37999db85f0457a6121cfc165f043fe0&v=4" alt="cyrolux123" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">3301</td>
+      <td align="center">3300</td>
       <td align="center">
         <a href="https://github.com/Eagle-dev01" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/159149206?u=74f5d6f2ab00e09ad068e63b9fb5a1451d36a702&v=4" alt="Eagle-dev01" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/Eagle-dev01" target="_blank">Eagle-dev01</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">3301</td>
+      <td align="center">
+        <a href="https://github.com/SedrAlex" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/145951659?u=3ef8654f857d2ec5e40218a58c680c219439d061&v=4" alt="SedrAlex" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/SedrAlex" target="_blank">SedrAlex</a>
       </td>
     </tr>
     <tr>
@@ -798,4 +798,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.344s on Sat Aug 10 at 6:41</p>
+<p align="right">Generated in 0.34s on Sat Aug 10 at 6:42</p>
