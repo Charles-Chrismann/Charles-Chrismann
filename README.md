@@ -85,17 +85,6 @@
     <tr>
       <td align="center">3293</td>
       <td align="center">
-        <a href="https://github.com/Ahzaaa16" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/112927710?u=266260f8394af3754ab4da98b59d01b6799ca163&v=4" alt="Ahzaaa16" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Ahzaaa16" target="_blank">Ahzaaa16</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">3294</td>
-      <td align="center">
         <a href="https://github.com/Francis-Mwaniki" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/105497998?u=fc537351f3017e06d5b5e455b301522150ab355a&v=4" alt="Francis-Mwaniki" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">3295</td>
+      <td align="center">3294</td>
       <td align="center">
         <a href="https://github.com/Rev0x1337" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/163394237?u=773ffb152e86fc10a5b3ecb15c59070bfb1ebd99&v=4" alt="Rev0x1337" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/Rev0x1337" target="_blank">Rev0x1337</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">3295</td>
+      <td align="center">
+        <a href="https://github.com/MianMohsinFarrukh" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/164783660?u=edffec49434254d404fb0fe09bb954ebb898d4cc&v=4" alt="MianMohsinFarrukh" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/MianMohsinFarrukh" target="_blank">MianMohsinFarrukh</a>
       </td>
     </tr>
     <tr>
@@ -814,4 +814,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.374s on Sat Aug 10 at 6:20</p>
+<p align="right">Generated in 0.345s on Sat Aug 10 at 6:23</p>
