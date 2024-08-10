@@ -85,17 +85,6 @@
     <tr>
       <td align="center">3400</td>
       <td align="center">
-        <a href="https://github.com/LikhonTheCreator" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/178017745?u=36d6b0d23faf0b3f84eb7f4d592efc76853e166e&v=4" alt="LikhonTheCreator" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/LikhonTheCreator" target="_blank">LikhonTheCreator</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">3401</td>
-      <td align="center">
         <a href="https://github.com/Canal-Desenvolvendo-e-Aprendendo" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/168236316?u=a952f0edda496ee7936927f17210b5c978250aa2&v=4" alt="Canal-Desenvolvendo-e-Aprendendo" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">3402</td>
+      <td align="center">3401</td>
       <td align="center">
         <a href="https://github.com/Ebibeck" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/92293938?u=44cc6e2ac94166a4bac67aaa690af2819d2fdce3&v=4" alt="Ebibeck" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/Ebibeck" target="_blank">Ebibeck</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">3402</td>
+      <td align="center">
+        <a href="https://github.com/emirkaanozdemr" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/155099794?v=4" alt="emirkaanozdemr" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/emirkaanozdemr" target="_blank">emirkaanozdemr</a>
       </td>
     </tr>
     <tr>
@@ -805,4 +805,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.219s on Sat Aug 10 at 12:45</p>
+<p align="right">Generated in 0.26s on Sat Aug 10 at 12:46</p>
