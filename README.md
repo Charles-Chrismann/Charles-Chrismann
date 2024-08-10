@@ -83,40 +83,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">3372</td>
+      <td align="center">3378</td>
       <td align="center">
-        <a href="https://github.com/softking0503" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/169594722?u=413fa60792380419d1a709a81aaf69b8c5f0c95d&v=4" alt="softking0503" width="40" height="40"/>
+        <a href="https://github.com/Tuyisenge2" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/159807244?v=4" alt="Tuyisenge2" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/softking0503" target="_blank">softking0503</a>
+        <a href="https://github.com/Tuyisenge2" target="_blank">Tuyisenge2</a>
       </td>
     </tr>
     <tr>
-      <td align="center">3373</td>
+      <td align="center">3379</td>
       <td align="center">
-        <a href="https://github.com/barishaxxer" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/176945513?v=4" alt="barishaxxer" width="40" height="40"/>
+        <a href="https://github.com/ShauryaRawat10" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/89695248?u=82ac1a803a616152d7b630101bb1d0c9aa2529b3&v=4" alt="ShauryaRawat10" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/barishaxxer" target="_blank">barishaxxer</a>
+        <a href="https://github.com/ShauryaRawat10" target="_blank">ShauryaRawat10</a>
       </td>
     </tr>
     <tr>
-      <td align="center">3374</td>
+      <td align="center">3380</td>
       <td align="center">
-        <a href="https://github.com/PatrykIA" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/173186412?u=da42f2a0c49b29d06d1410a44ab26cf7397e43c1&v=4" alt="PatrykIA" width="40" height="40"/>
+        <a href="https://github.com/NargesZn" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/161164588?v=4" alt="NargesZn" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/PatrykIA" target="_blank">PatrykIA</a>
+        <a href="https://github.com/NargesZn" target="_blank">NargesZn</a>
       </td>
     </tr>
     <tr>
-      <td align="center">3375</td>
+      <td align="center">3381</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -790,4 +790,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.28s on Sat Aug 10 at 11:42</p>
+<p align="right">Generated in 0.266s on Sat Aug 10 at 11:48</p>
