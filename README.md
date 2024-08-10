@@ -83,29 +83,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">3289</td>
-      <td align="center">
-        <a href="https://github.com/crimsonyash9012" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/151176007?u=7277d5033e6a3a9123df7dac2617daacda981ce0&v=4" alt="crimsonyash9012" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/crimsonyash9012" target="_blank">crimsonyash9012</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">3290</td>
-      <td align="center">
-        <a href="https://github.com/Coding-Yasaru-Deneh" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/175038252?u=332b32d10b263f72afc46697d6cf8426ad6c9954&v=4" alt="Coding-Yasaru-Deneh" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Coding-Yasaru-Deneh" target="_blank">Coding-Yasaru-Deneh</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">3291</td>
       <td align="center">
         <a href="https://github.com/Cyber-Finn" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/146375585?u=9243d8977608e5bbe7ff3a1efee374cd0f33c44a&v=4" alt="Cyber-Finn" width="40" height="40"/>
@@ -116,7 +94,29 @@
       </td>
     </tr>
     <tr>
+      <td align="center">3291</td>
+      <td align="center">
+        <a href="https://github.com/Ahzaaa16" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/112927710?u=266260f8394af3754ab4da98b59d01b6799ca163&v=4" alt="Ahzaaa16" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Ahzaaa16" target="_blank">Ahzaaa16</a>
+      </td>
+    </tr>
+    <tr>
       <td align="center">3292</td>
+      <td align="center">
+        <a href="https://github.com/Francis-Mwaniki" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/105497998?u=fc537351f3017e06d5b5e455b301522150ab355a&v=4" alt="Francis-Mwaniki" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Francis-Mwaniki" target="_blank">Francis-Mwaniki</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">3293</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -814,4 +814,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.386s on Sat Aug 10 at 6:10</p>
+<p align="right">Generated in 0.362s on Sat Aug 10 at 6:16</p>
