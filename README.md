@@ -83,29 +83,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">3448</td>
-      <td align="center">
-        <a href="https://github.com/biruk1122" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/97092282?u=e4af75239b6a64e600c282fc0924b9b4b1fe6eb3&v=4" alt="biruk1122" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/biruk1122" target="_blank">biruk1122</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">3449</td>
-      <td align="center">
-        <a href="https://github.com/Ojuolloh" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/151160408?u=02eed827095217445fb96f6cf0f0fb2ef900493a&v=4" alt="Ojuolloh" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Ojuolloh" target="_blank">Ojuolloh</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">3450</td>
       <td align="center">
         <a href="https://github.com/emanuelsantoz" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/167258436?u=63817dd96ca174aa14da9836ab272172ccc3038d&v=4" alt="emanuelsantoz" width="40" height="40"/>
@@ -116,7 +94,29 @@
       </td>
     </tr>
     <tr>
+      <td align="center">3450</td>
+      <td align="center">
+        <a href="https://github.com/vikasp07" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/155407261?u=4b66a5a6e0bd2501accf1f19b9c29beb869cba51&v=4" alt="vikasp07" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/vikasp07" target="_blank">vikasp07</a>
+      </td>
+    </tr>
+    <tr>
       <td align="center">3451</td>
+      <td align="center">
+        <a href="https://github.com/Msanidi-Abdul" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/162371871?v=4" alt="Msanidi-Abdul" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Msanidi-Abdul" target="_blank">Msanidi-Abdul</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">3452</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.413s on Sat Aug 10 at 15:17</p>
+<p align="right">Generated in 0.397s on Sat Aug 10 at 15:18</p>
