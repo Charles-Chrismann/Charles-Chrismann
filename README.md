@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">3446</td>
-      <td align="center">
-        <a href="https://github.com/Intelligence12" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/122282622?v=4" alt="Intelligence12" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Intelligence12" target="_blank">Intelligence12</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">3447</td>
       <td align="center">
         <a href="https://github.com/MrlolDev" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">3449</td>
+      <td align="center">
+        <a href="https://github.com/Ojuolloh" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/151160408?u=02eed827095217445fb96f6cf0f0fb2ef900493a&v=4" alt="Ojuolloh" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Ojuolloh" target="_blank">Ojuolloh</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">3450</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.402s on Sat Aug 10 at 15:05</p>
+<p align="right">Generated in 0.412s on Sat Aug 10 at 15:13</p>
