@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">3506</td>
-      <td align="center">
-        <a href="https://github.com/djivacoin" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/155917879?u=19b7cbc142f1c3e70c216cbb565d609e0b076a55&v=4" alt="djivacoin" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/djivacoin" target="_blank">djivacoin</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">3507</td>
       <td align="center">
         <a href="https://github.com/Valey113" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">3509</td>
+      <td align="center">
+        <a href="https://github.com/NoodleTaco" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/73668443?u=697d7cc0b52a31752f5a284659638d5a775a35ca&v=4" alt="NoodleTaco" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/NoodleTaco" target="_blank">NoodleTaco</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">3510</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -802,4 +802,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.255s on Sat Aug 10 at 19:11</p>
+<p align="right">Generated in 0.252s on Sat Aug 10 at 19:12</p>
