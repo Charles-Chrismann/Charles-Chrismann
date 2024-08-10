@@ -83,40 +83,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">3324</td>
+      <td align="center">3329</td>
       <td align="center">
-        <a href="https://github.com/phutrong8386" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/164278099?u=7ccb061ed971c44e76576f12b8e3b22a80abb140&v=4" alt="phutrong8386" width="40" height="40"/>
+        <a href="https://github.com/AkshaayDev" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/163286127?v=4" alt="AkshaayDev" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/phutrong8386" target="_blank">phutrong8386</a>
+        <a href="https://github.com/AkshaayDev" target="_blank">AkshaayDev</a>
       </td>
     </tr>
     <tr>
-      <td align="center">3325</td>
+      <td align="center">3330</td>
       <td align="center">
-        <a href="https://github.com/angillaf" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/170198761?u=a94e588aaee5cb3eec2c78a6e146ff99ea7bccd7&v=4" alt="angillaf" width="40" height="40"/>
+        <a href="https://github.com/hongphat1368" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/163711098?u=91efa590b029688ff7b30d0f5bd2f722f04202f3&v=4" alt="hongphat1368" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/angillaf" target="_blank">angillaf</a>
+        <a href="https://github.com/hongphat1368" target="_blank">hongphat1368</a>
       </td>
     </tr>
     <tr>
-      <td align="center">3326</td>
+      <td align="center">3331</td>
       <td align="center">
-        <a href="https://github.com/malathi-shetty" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/113874244?v=4" alt="malathi-shetty" width="40" height="40"/>
+        <a href="https://github.com/zgcharaf" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/87652738?u=3981fadb35087ee0e7208fbe213c4e66af0820f1&v=4" alt="zgcharaf" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/malathi-shetty" target="_blank">malathi-shetty</a>
+        <a href="https://github.com/zgcharaf" target="_blank">zgcharaf</a>
       </td>
     </tr>
     <tr>
-      <td align="center">3327</td>
+      <td align="center">3332</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -801,4 +801,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.442s on Sat Aug 10 at 8:43</p>
+<p align="right">Generated in 0.38s on Sat Aug 10 at 8:48</p>
