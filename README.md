@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">3556</td>
-      <td align="center">
-        <a href="https://github.com/it4ban" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/164876811?u=8048b13a24853985c0af9ace927659b837c6900b&v=4" alt="it4ban" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/it4ban" target="_blank">it4ban</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">3557</td>
       <td align="center">
         <a href="https://github.com/shutjs" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">3559</td>
+      <td align="center">
+        <a href="https://github.com/michel-bittencourt" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/59713262?u=0f02a430a800544caa04063660186cca6082bc2d&v=4" alt="michel-bittencourt" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/michel-bittencourt" target="_blank">michel-bittencourt</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">3560</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -789,4 +789,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.227s on Sat Aug 10 at 23:26</p>
+<p align="right">Generated in 0.217s on Sat Aug 10 at 23:26</p>
