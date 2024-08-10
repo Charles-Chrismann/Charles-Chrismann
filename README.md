@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">3342</td>
-      <td align="center">
-        <a href="https://github.com/Samcoding5854" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/115227741?v=4" alt="Samcoding5854" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Samcoding5854" target="_blank">Samcoding5854</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">3343</td>
       <td align="center">
         <a href="https://github.com/motuncoded" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">3345</td>
+      <td align="center">
+        <a href="https://github.com/zea17" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/93328643?u=61ee1bad78a2988aed3171e78a1f50eee11c3762&v=4" alt="zea17" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/zea17" target="_blank">zea17</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">3346</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -801,4 +801,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.309s on Sat Aug 10 at 9:22</p>
+<p align="right">Generated in 0.349s on Sat Aug 10 at 9:23</p>
