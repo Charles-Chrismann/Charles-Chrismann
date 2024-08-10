@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">3246</td>
-      <td align="center">
-        <a href="https://github.com/Nadilson-IFPE" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/11899797?u=ccad68ae9d8bc33c07d3fa4bf54dc0fad5ad942a&v=4" alt="Nadilson-IFPE" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Nadilson-IFPE" target="_blank">Nadilson-IFPE</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">3247</td>
       <td align="center">
         <a href="https://github.com/alejandrozamoraaz" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">3249</td>
+      <td align="center">
+        <a href="https://github.com/yuriiest" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/174188343?u=b7105d4401f73b58405c193637fd6c99a194da1b&v=4" alt="yuriiest" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/yuriiest" target="_blank">yuriiest</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">3250</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -811,4 +811,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.338s on Sat Aug 10 at 1:35</p>
+<p align="right">Generated in 0.338s on Sat Aug 10 at 1:40</p>
