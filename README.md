@@ -108,7 +108,7 @@
       <td align="center">3268</td>
       <td align="center">
         <a href="https://github.com/F-777" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/170189880?u=2c927b6002c524083f32a207d5ce77821a4a0d75&v=4" alt="F-777" width="40" height="40"/>
+          <img src="https://avatars.githubusercontent.com/u/170189880?u=8ba63a8590c3f9b2f302563f9a10c4932c01d67c&v=4" alt="F-777" width="40" height="40"/>
         </a>
       </td>
       <td>
@@ -803,4 +803,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 1.296s on Sat Aug 10 at 3:54</p>
+<p align="right">Generated in 1.285s on Sat Aug 10 at 3:54</p>
