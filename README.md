@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">3729</td>
-      <td align="center">
-        <a href="https://github.com/gorilla-code" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/178093994?v=4" alt="gorilla-code" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/gorilla-code" target="_blank">gorilla-code</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">3730</td>
       <td align="center">
         <a href="https://github.com/danmaster01" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">3732</td>
+      <td align="center">
+        <a href="https://github.com/Jalaveyan" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/144580568?v=4" alt="Jalaveyan" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Jalaveyan" target="_blank">Jalaveyan</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">3733</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -806,4 +806,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.291s on Sun Aug 11 at 15:34</p>
+<p align="right">Generated in 6.872s on Sun Aug 11 at 15:35</p>
