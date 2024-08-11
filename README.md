@@ -83,18 +83,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">3762</td>
-      <td align="center">
-        <a href="https://github.com/balpars" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/89816332?v=4" alt="balpars" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/balpars" target="_blank">balpars</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">3763</td>
+      <td align="center">3764</td>
       <td align="center">
         <a href="https://github.com/Tintswalo-Bilankulu" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/167874836?u=e121353cd894231f22bd8ac47e27d2bdfba3bc77&v=4" alt="Tintswalo-Bilankulu" width="40" height="40"/>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">3764</td>
+      <td align="center">3765</td>
       <td align="center">
         <a href="https://github.com/Pleniluner" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/96653762?u=edbde475eaa8ebe9caec315a61e37217d4b2abfa&v=4" alt="Pleniluner" width="40" height="40"/>
@@ -116,7 +105,18 @@
       </td>
     </tr>
     <tr>
-      <td align="center">3765</td>
+      <td align="center">3766</td>
+      <td align="center">
+        <a href="https://github.com/waywooKwong" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/141756962?u=7685fb1ff688842d41213ae591cbd3ac255bbf4a&v=4" alt="waywooKwong" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/waywooKwong" target="_blank">waywooKwong</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">3767</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -817,4 +817,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.339s on Sun Aug 11 at 18:30</p>
+<p align="right">Generated in 0.334s on Sun Aug 11 at 18:32</p>
