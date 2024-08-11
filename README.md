@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">3761</td>
-      <td align="center">
-        <a href="https://github.com/tshepop" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/7701842?u=d5110bdaec2f65e14fdcd7a50e122bf0f0875b8a&v=4" alt="tshepop" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/tshepop" target="_blank">tshepop</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">3762</td>
       <td align="center">
         <a href="https://github.com/Finternetcafe" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">3764</td>
+      <td align="center">
+        <a href="https://github.com/Tintswalo-Bilankulu" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/167874836?u=e121353cd894231f22bd8ac47e27d2bdfba3bc77&v=4" alt="Tintswalo-Bilankulu" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Tintswalo-Bilankulu" target="_blank">Tintswalo-Bilankulu</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">3765</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -817,4 +817,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.323s on Sun Aug 11 at 18:25</p>
+<p align="right">Generated in 0.336s on Sun Aug 11 at 18:28</p>
