@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">3726</td>
-      <td align="center">
-        <a href="https://github.com/Narayan2206" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/116633349?u=11fcb2ca6b6b6668d5b35e3ae244fcb121bdcb73&v=4" alt="Narayan2206" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Narayan2206" target="_blank">Narayan2206</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">3727</td>
       <td align="center">
         <a href="https://github.com/Joh221105" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">3729</td>
+      <td align="center">
+        <a href="https://github.com/gorilla-code" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/178093994?v=4" alt="gorilla-code" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/gorilla-code" target="_blank">gorilla-code</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">3730</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -806,4 +806,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.295s on Sun Aug 11 at 15:24</p>
+<p align="right">Generated in 0.299s on Sun Aug 11 at 15:27</p>
