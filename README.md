@@ -85,34 +85,34 @@
     <tr>
       <td align="center">3778</td>
       <td align="center">
-        <a href="https://github.com/GulAkberova" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/101654597?u=75117b7e88e983d798c012b858ae48c411fd3803&v=4" alt="GulAkberova" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/GulAkberova" target="_blank">GulAkberova</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">3779</td>
-      <td align="center">
-        <a href="https://github.com/trixxmanaty" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/51027081?u=060c8353d8d2fd852689713388814bfd1759bf33&v=4" alt="trixxmanaty" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/trixxmanaty" target="_blank">trixxmanaty</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">3780</td>
-      <td align="center">
         <a href="https://github.com/KachuriruDayo" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/142791202?u=26369145cdc67e501e95bbbe79cfdec6497142da&v=4" alt="KachuriruDayo" width="40" height="40"/>
         </a>
       </td>
       <td>
         <a href="https://github.com/KachuriruDayo" target="_blank">KachuriruDayo</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">3779</td>
+      <td align="center">
+        <a href="https://github.com/Rimon83" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/111208690?v=4" alt="Rimon83" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Rimon83" target="_blank">Rimon83</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">3780</td>
+      <td align="center">
+        <a href="https://github.com/RKIsuru" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/142790046?u=b290bb197484b08b155b9c9a9a24f072034277cf&v=4" alt="RKIsuru" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/RKIsuru" target="_blank">RKIsuru</a>
       </td>
     </tr>
     <tr>
@@ -796,4 +796,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.289s on Sun Aug 11 at 19:35</p>
+<p align="right">Generated in 0.289s on Sun Aug 11 at 19:36</p>
