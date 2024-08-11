@@ -107,12 +107,12 @@
     <tr>
       <td align="center">3612</td>
       <td align="center">
-        <a href="https://github.com/VarunDamodaran" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/147832056?u=c44401cd90cb12b0125d13c22981aef77b839a97&v=4" alt="VarunDamodaran" width="40" height="40"/>
+        <a href="https://github.com/RomanServetnyk" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/171319129?v=4" alt="RomanServetnyk" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/VarunDamodaran" target="_blank">VarunDamodaran</a>
+        <a href="https://github.com/RomanServetnyk" target="_blank">RomanServetnyk</a>
       </td>
     </tr>
     <tr>
@@ -807,4 +807,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.31s on Sun Aug 11 at 6:26</p>
+<p align="right">Generated in 0.326s on Sun Aug 11 at 6:27</p>
