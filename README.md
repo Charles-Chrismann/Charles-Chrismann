@@ -83,40 +83,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">3581</td>
-      <td align="center">
-        <a href="https://github.com/shinevue" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/135434950?u=c16d1a0f5ed6f96cdf55d226d329ba7638ef22a2&v=4" alt="shinevue" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/shinevue" target="_blank">shinevue</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">3582</td>
-      <td align="center">
-        <a href="https://github.com/cristianemm96" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/49408281?u=9f6f795082445ee0e12985ea2f4905b4376717c7&v=4" alt="cristianemm96" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/cristianemm96" target="_blank">cristianemm96</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">3583</td>
-      <td align="center">
-        <a href="https://github.com/ChifuyuArabelio" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/161991303?u=32608d9b598e4df1295eb17f15ff677681dbfce9&v=4" alt="ChifuyuArabelio" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/ChifuyuArabelio" target="_blank">ChifuyuArabelio</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">3584</td>
+      <td align="center">
+        <a href="https://github.com/lucasgm18" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/127359287?u=2ca712de0ed04829c5d7ad64dfb3b796742b365b&v=4" alt="lucasgm18" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/lucasgm18" target="_blank">lucasgm18</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">3585</td>
+      <td align="center">
+        <a href="https://github.com/Ayyoub-Kasmi" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/54249023?v=4" alt="Ayyoub-Kasmi" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Ayyoub-Kasmi" target="_blank">Ayyoub-Kasmi</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">3586</td>
+      <td align="center">
+        <a href="https://github.com/devv-robert" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/174581120?u=ab77818eabc048d71a2555635185d0521f2948b5&v=4" alt="devv-robert" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/devv-robert" target="_blank">devv-robert</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">3587</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -800,4 +800,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.301s on Sun Aug 11 at 2:48</p>
+<p align="right">Generated in 0.299s on Sun Aug 11 at 2:48</p>
