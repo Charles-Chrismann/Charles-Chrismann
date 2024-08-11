@@ -85,17 +85,6 @@
     <tr>
       <td align="center">3809</td>
       <td align="center">
-        <a href="https://github.com/timoteidumitru" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/35012587?u=426c78f35eac02fb9c1074b229a4236a3b52248c&v=4" alt="timoteidumitru" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/timoteidumitru" target="_blank">timoteidumitru</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">3810</td>
-      <td align="center">
         <a href="https://github.com/wilmaximodev" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/133241450?u=c933e17457aee2a571cd72fd73f68daef5c27a92&v=4" alt="wilmaximodev" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">3811</td>
+      <td align="center">3810</td>
       <td align="center">
         <a href="https://github.com/mmd-web" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/132480413?u=fa9cbb987c4fbbb011713a51f1eed0d87b8b11f4&v=4" alt="mmd-web" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/mmd-web" target="_blank">mmd-web</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">3811</td>
+      <td align="center">
+        <a href="https://github.com/Guilherme-silva-teixeira" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/132455461?u=f1943442cc3ae85cd11ea44b3d03a2c6ffcf7b01&v=4" alt="Guilherme-silva-teixeira" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Guilherme-silva-teixeira" target="_blank">Guilherme-silva-teixeira</a>
       </td>
     </tr>
     <tr>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.248s on Sun Aug 11 at 22:54</p>
+<p align="right">Generated in 0.295s on Sun Aug 11 at 22:54</p>
