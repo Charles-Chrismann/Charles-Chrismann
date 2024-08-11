@@ -83,40 +83,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">3754</td>
-      <td align="center">
-        <a href="https://github.com/feder-cr" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/85809106?u=3856599b073f377b3a5cad264598ee62fc784890&v=4" alt="feder-cr" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/feder-cr" target="_blank">feder-cr</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">3755</td>
-      <td align="center">
-        <a href="https://github.com/ombima56" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/149178815?u=7c5e92920e6bef205dab080a678a15d1a116d70e&v=4" alt="ombima56" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/ombima56" target="_blank">ombima56</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">3756</td>
-      <td align="center">
-        <a href="https://github.com/JhonatanResende" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/117542212?u=8f5c2c52d654a517bc69add276bd2886c5c17d77&v=4" alt="JhonatanResende" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/JhonatanResende" target="_blank">JhonatanResende</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">3757</td>
+      <td align="center">
+        <a href="https://github.com/mauro-rojas" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/72986825?u=078a9c6f28b2eb7839d0ca08621c36aa2ef98547&v=4" alt="mauro-rojas" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/mauro-rojas" target="_blank">mauro-rojas</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">3758</td>
+      <td align="center">
+        <a href="https://github.com/DamarisM87" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/105594371?u=f3e2ea05c54efde57446e5ae0957bb8b4f7b826e&v=4" alt="DamarisM87" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/DamarisM87" target="_blank">DamarisM87</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">3759</td>
+      <td align="center">
+        <a href="https://github.com/Mathbull" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/120128873?u=cd7fb1ab163ac4fc2b0fdba72527b393419dd557&v=4" alt="Mathbull" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Mathbull" target="_blank">Mathbull</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">3760</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -790,4 +790,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.384s on Sun Aug 11 at 17:47</p>
+<p align="right">Generated in 0.336s on Sun Aug 11 at 17:57</p>
