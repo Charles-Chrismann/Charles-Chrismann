@@ -83,40 +83,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">4045</td>
+      <td align="center">4049</td>
       <td align="center">
-        <a href="https://github.com/andrewlod" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/39911925?u=6ee5817367552bdb94c69598d2ed7869f72e66ac&v=4" alt="andrewlod" width="40" height="40"/>
+        <a href="https://github.com/Yupiter78" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/70598683?u=b0b77e044246a3134af36f2dcb96fa721ffaf556&v=4" alt="Yupiter78" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/andrewlod" target="_blank">andrewlod</a>
+        <a href="https://github.com/Yupiter78" target="_blank">Yupiter78</a>
       </td>
     </tr>
     <tr>
-      <td align="center">4046</td>
+      <td align="center">4050</td>
       <td align="center">
-        <a href="https://github.com/LucasFigueiredoDEV" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/123035444?u=ff98d12858f9dd31d391b34fb18a5341dbc86936&v=4" alt="LucasFigueiredoDEV" width="40" height="40"/>
+        <a href="https://github.com/Superman1359" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/122964642?u=aeee2f04214a651eb7a60e53606ba4bb5a440fc9&v=4" alt="Superman1359" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/LucasFigueiredoDEV" target="_blank">LucasFigueiredoDEV</a>
+        <a href="https://github.com/Superman1359" target="_blank">Superman1359</a>
       </td>
     </tr>
     <tr>
-      <td align="center">4047</td>
+      <td align="center">4051</td>
       <td align="center">
-        <a href="https://github.com/AloofAli" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/154345431?v=4" alt="AloofAli" width="40" height="40"/>
+        <a href="https://github.com/NicoACloutier" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/109252777?u=e3eaa7c6a7725b67451ca24ba8bda895ca010002&v=4" alt="NicoACloutier" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/AloofAli" target="_blank">AloofAli</a>
+        <a href="https://github.com/NicoACloutier" target="_blank">NicoACloutier</a>
       </td>
     </tr>
     <tr>
-      <td align="center">4048</td>
+      <td align="center">4052</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -843,4 +843,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.309s on Mon Aug 12 at 21:07</p>
+<p align="right">Generated in 0.263s on Mon Aug 12 at 21:10</p>
