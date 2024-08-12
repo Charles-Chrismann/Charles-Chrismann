@@ -83,28 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">3876</td>
-      <td align="center">
-        <a href="https://github.com/fawwazalifiofarsa" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/88119082?u=7c09b1e5b5d23a18f175efd446f8beee1b16b9c2&v=4" alt="fawwazalifiofarsa" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/fawwazalifiofarsa" target="_blank">fawwazalifiofarsa</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">3877</td>
-      <td align="center">
-        <a href="https://github.com/Griffoo91" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/104443656?u=0c7d441d6ceee20bf2e528402b03a38c46c15e31&v=4" alt="Griffoo91" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Griffoo91" target="_blank">Griffoo91</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">3878</td>
       <td align="center">
         <a href="https://github.com/asaletaati" target="_blank">
@@ -117,6 +95,28 @@
     </tr>
     <tr>
       <td align="center">3879</td>
+      <td align="center">
+        <a href="https://github.com/OmkarSolat" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/153934829?u=634bddd7c6209dd79572e918ded9616023070795&v=4" alt="OmkarSolat" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/OmkarSolat" target="_blank">OmkarSolat</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">3880</td>
+      <td align="center">
+        <a href="https://github.com/Cyberoctane29" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/109916456?u=5824b9481882670c5df80397701e87f9dd8fd8ba&v=4" alt="Cyberoctane29" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Cyberoctane29" target="_blank">Cyberoctane29</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">3881</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.234s on Mon Aug 12 at 7:29</p>
+<p align="right">Generated in 0.226s on Mon Aug 12 at 7:31</p>
