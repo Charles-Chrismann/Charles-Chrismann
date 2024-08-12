@@ -83,18 +83,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">3898</td>
-      <td align="center">
-        <a href="https://github.com/theBraveCoderGH" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/107674492?v=4" alt="theBraveCoderGH" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/theBraveCoderGH" target="_blank">theBraveCoderGH</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">3899</td>
+      <td align="center">3900</td>
       <td align="center">
         <a href="https://github.com/vdumitraskovic" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/6537892?v=4" alt="vdumitraskovic" width="40" height="40"/>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">3900</td>
+      <td align="center">3901</td>
       <td align="center">
         <a href="https://github.com/Mark-andrew7" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/111731460?v=4" alt="Mark-andrew7" width="40" height="40"/>
@@ -116,7 +105,18 @@
       </td>
     </tr>
     <tr>
-      <td align="center">3901</td>
+      <td align="center">3902</td>
+      <td align="center">
+        <a href="https://github.com/tofetpuzo" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/54607597?u=c5e3dc0249014eb92f42775ee820ac36f159473d&v=4" alt="tofetpuzo" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/tofetpuzo" target="_blank">tofetpuzo</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">3903</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -822,4 +822,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.223s on Mon Aug 12 at 9:30</p>
+<p align="right">Generated in 0.215s on Mon Aug 12 at 9:32</p>
