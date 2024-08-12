@@ -83,40 +83,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">3973</td>
+      <td align="center">3978</td>
       <td align="center">
-        <a href="https://github.com/Orlandini-Sebastien" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/145380885?u=bcaed3f767262dbaac7ae84ad04f2bb5757b406e&v=4" alt="Orlandini-Sebastien" width="40" height="40"/>
+        <a href="https://github.com/oyabun-dev" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/122393408?u=401a79824ca3e21e97b4aa65349ea55e3f1c4a4b&v=4" alt="oyabun-dev" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/Orlandini-Sebastien" target="_blank">Orlandini-Sebastien</a>
+        <a href="https://github.com/oyabun-dev" target="_blank">oyabun-dev</a>
       </td>
     </tr>
     <tr>
-      <td align="center">3974</td>
+      <td align="center">3979</td>
       <td align="center">
-        <a href="https://github.com/ruantiengo" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/54746504?u=60086ab95b25d8ce32e92fd42dd604a419c7bb15&v=4" alt="ruantiengo" width="40" height="40"/>
+        <a href="https://github.com/shridharbhardwaj" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/57531390?u=40a18c382eec5378c0901c054e5f5e75e7ef8d6d&v=4" alt="shridharbhardwaj" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/ruantiengo" target="_blank">ruantiengo</a>
+        <a href="https://github.com/shridharbhardwaj" target="_blank">shridharbhardwaj</a>
       </td>
     </tr>
     <tr>
-      <td align="center">3975</td>
+      <td align="center">3980</td>
       <td align="center">
-        <a href="https://github.com/gonzalomelov" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/1372744?u=9686632e0fd47cabc3c5303f423e65e22fa58944&v=4" alt="gonzalomelov" width="40" height="40"/>
+        <a href="https://github.com/CokeBeliever" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/53466645?u=3cda7e06d4d2e0ce04052cde1f6cf785fbe71ff7&v=4" alt="CokeBeliever" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/gonzalomelov" target="_blank">gonzalomelov</a>
+        <a href="https://github.com/CokeBeliever" target="_blank">CokeBeliever</a>
       </td>
     </tr>
     <tr>
-      <td align="center">3976</td>
+      <td align="center">3981</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -839,4 +839,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.324s on Mon Aug 12 at 15:10</p>
+<p align="right">Generated in 0.265s on Mon Aug 12 at 15:14</p>
