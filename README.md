@@ -83,28 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">4043</td>
-      <td align="center">
-        <a href="https://github.com/HSM-Akiramenai" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/115085023?v=4" alt="HSM-Akiramenai" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/HSM-Akiramenai" target="_blank">HSM-Akiramenai</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">4044</td>
-      <td align="center">
-        <a href="https://github.com/moalimirinfinity" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/167340366?u=5ff172b4adc6319919e313995fa640aa553a00ac&v=4" alt="moalimirinfinity" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/moalimirinfinity" target="_blank">moalimirinfinity</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">4045</td>
       <td align="center">
         <a href="https://github.com/andrewlod" target="_blank">
@@ -117,6 +95,28 @@
     </tr>
     <tr>
       <td align="center">4046</td>
+      <td align="center">
+        <a href="https://github.com/LucasFigueiredoDEV" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/123035444?u=ff98d12858f9dd31d391b34fb18a5341dbc86936&v=4" alt="LucasFigueiredoDEV" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/LucasFigueiredoDEV" target="_blank">LucasFigueiredoDEV</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">4047</td>
+      <td align="center">
+        <a href="https://github.com/AloofAli" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/154345431?v=4" alt="AloofAli" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/AloofAli" target="_blank">AloofAli</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">4048</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -837,4 +837,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.242s on Mon Aug 12 at 20:51</p>
+<p align="right">Generated in 0.231s on Mon Aug 12 at 20:53</p>
