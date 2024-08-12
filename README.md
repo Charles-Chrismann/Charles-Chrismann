@@ -85,17 +85,6 @@
     <tr>
       <td align="center">4067</td>
       <td align="center">
-        <a href="https://github.com/StellSword" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/142059934?u=f6dbdd3b36b9fb19b367bffe57055800c060e250&v=4" alt="StellSword" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/StellSword" target="_blank">StellSword</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">4068</td>
-      <td align="center">
         <a href="https://github.com/rebbieduarte" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/99067618?u=be595dae7680dab8cbd94ce8deccfcceea507c5f&v=4" alt="rebbieduarte" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">4069</td>
+      <td align="center">4068</td>
       <td align="center">
         <a href="https://github.com/andr-ch" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/137656757?u=e0ca1f06d4565620e96a722a5aaf343fbaf0df52&v=4" alt="andr-ch" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/andr-ch" target="_blank">andr-ch</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">4069</td>
+      <td align="center">
+        <a href="https://github.com/Web3-League" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/92599124?u=0e6de30f33fb8f7b75101b86893041a356aa8b83&v=4" alt="Web3-League" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Web3-League" target="_blank">Web3-League</a>
       </td>
     </tr>
     <tr>
@@ -801,4 +801,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.325s on Mon Aug 12 at 23:04</p>
+<p align="right">Generated in 0.337s on Mon Aug 12 at 23:06</p>
