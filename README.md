@@ -83,40 +83,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">3926</td>
+      <td align="center">3931</td>
       <td align="center">
-        <a href="https://github.com/wandabi-gs" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/80783170?u=2346a8726f5d75abb3728a753bdd1ee71eea860e&v=4" alt="wandabi-gs" width="40" height="40"/>
+        <a href="https://github.com/jweedoof" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/163445695?u=85feb926a7f2da84e16353dee14198a4d5441d9a&v=4" alt="jweedoof" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/wandabi-gs" target="_blank">wandabi-gs</a>
+        <a href="https://github.com/jweedoof" target="_blank">jweedoof</a>
       </td>
     </tr>
     <tr>
-      <td align="center">3927</td>
+      <td align="center">3932</td>
       <td align="center">
-        <a href="https://github.com/gabrixlfernando" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/139890007?u=f082c409dde31eeb0597bf5c0b8507e95317db7d&v=4" alt="gabrixlfernando" width="40" height="40"/>
+        <a href="https://github.com/BUTCH4BUTCH" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/172919129?u=88d6a146eb7b52b245ed992a0a6852826b16d0b6&v=4" alt="BUTCH4BUTCH" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/gabrixlfernando" target="_blank">gabrixlfernando</a>
+        <a href="https://github.com/BUTCH4BUTCH" target="_blank">BUTCH4BUTCH</a>
       </td>
     </tr>
     <tr>
-      <td align="center">3928</td>
+      <td align="center">3933</td>
       <td align="center">
-        <a href="https://github.com/CS50Aish" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/104483659?v=4" alt="CS50Aish" width="40" height="40"/>
+        <a href="https://github.com/angel4156" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/168684641?v=4" alt="angel4156" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/CS50Aish" target="_blank">CS50Aish</a>
+        <a href="https://github.com/angel4156" target="_blank">angel4156</a>
       </td>
     </tr>
     <tr>
-      <td align="center">3929</td>
+      <td align="center">3934</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -836,4 +836,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.572s on Mon Aug 12 at 12:12</p>
+<p align="right">Generated in 0.346s on Mon Aug 12 at 12:15</p>
