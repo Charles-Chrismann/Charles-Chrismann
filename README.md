@@ -83,40 +83,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">4059</td>
+      <td align="center">4063</td>
       <td align="center">
-        <a href="https://github.com/sdmwd" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/46287850?u=044e1372a34391bd3e19ddabd72b032985e7b603&v=4" alt="sdmwd" width="40" height="40"/>
+        <a href="https://github.com/MayraTstrella" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/88332591?u=ca560ec8631064498ca14d5a3034017c540245d2&v=4" alt="MayraTstrella" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/sdmwd" target="_blank">sdmwd</a>
+        <a href="https://github.com/MayraTstrella" target="_blank">MayraTstrella</a>
       </td>
     </tr>
     <tr>
-      <td align="center">4060</td>
+      <td align="center">4064</td>
       <td align="center">
-        <a href="https://github.com/Nigel-Moes" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/68500902?u=2f1d02ffe98d42726f95735bef8c37cc65373391&v=4" alt="Nigel-Moes" width="40" height="40"/>
+        <a href="https://github.com/StarlitVienna" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/86577602?u=8f1bf14448d63fb5f4e422a02444f98892ee1e65&v=4" alt="StarlitVienna" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/Nigel-Moes" target="_blank">Nigel-Moes</a>
+        <a href="https://github.com/StarlitVienna" target="_blank">StarlitVienna</a>
       </td>
     </tr>
     <tr>
-      <td align="center">4061</td>
+      <td align="center">4065</td>
       <td align="center">
-        <a href="https://github.com/kunaljtamhane" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/170779504?u=8def281ec8b53068bfd3d2133d95a428d9c5549b&v=4" alt="kunaljtamhane" width="40" height="40"/>
+        <a href="https://github.com/Afsantiago" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/106445075?u=3c9ac39bf982dbde81ceb2fae92d84c265d87eaa&v=4" alt="Afsantiago" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/kunaljtamhane" target="_blank">kunaljtamhane</a>
+        <a href="https://github.com/Afsantiago" target="_blank">Afsantiago</a>
       </td>
     </tr>
     <tr>
-      <td align="center">4062</td>
+      <td align="center">4066</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -801,4 +801,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.564s on Mon Aug 12 at 22:31</p>
+<p align="right">Generated in 0.325s on Mon Aug 12 at 22:32</p>
