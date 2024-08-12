@@ -83,29 +83,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">4051</td>
-      <td align="center">
-        <a href="https://github.com/dougkalash" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/149725576?u=9963c1c7eb889010cb4880b3ace4363194d8811c&v=4" alt="dougkalash" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/dougkalash" target="_blank">dougkalash</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">4052</td>
-      <td align="center">
-        <a href="https://github.com/AkashDeep1234455" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/118648099?u=44458901f9c548ea086e3e889da85fca8af1149f&v=4" alt="AkashDeep1234455" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/AkashDeep1234455" target="_blank">AkashDeep1234455</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">4053</td>
       <td align="center">
         <a href="https://github.com/AmnaKhalil96" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/165512173?v=4" alt="AmnaKhalil96" width="40" height="40"/>
@@ -116,7 +94,29 @@
       </td>
     </tr>
     <tr>
+      <td align="center">4053</td>
+      <td align="center">
+        <a href="https://github.com/Olatoyan" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/120045252?v=4" alt="Olatoyan" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Olatoyan" target="_blank">Olatoyan</a>
+      </td>
+    </tr>
+    <tr>
       <td align="center">4054</td>
+      <td align="center">
+        <a href="https://github.com/renad-lab" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/150928706?u=946b641e2a4507f3b7a89f97fcc3f46ba62649cc&v=4" alt="renad-lab" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/renad-lab" target="_blank">renad-lab</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">4055</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -838,4 +838,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.451s on Mon Aug 12 at 21:35</p>
+<p align="right">Generated in 0.323s on Mon Aug 12 at 21:37</p>
