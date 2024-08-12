@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">3978</td>
-      <td align="center">
-        <a href="https://github.com/oyabun-dev" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/122393408?u=401a79824ca3e21e97b4aa65349ea55e3f1c4a4b&v=4" alt="oyabun-dev" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/oyabun-dev" target="_blank">oyabun-dev</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">3979</td>
       <td align="center">
         <a href="https://github.com/shridharbhardwaj" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">3981</td>
+      <td align="center">
+        <a href="https://github.com/Eddking-QS" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/170239327?u=7fce5eb05bbc4fea28b46ab962d4a6326b8a4061&v=4" alt="Eddking-QS" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Eddking-QS" target="_blank">Eddking-QS</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">3982</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -839,4 +839,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.265s on Mon Aug 12 at 15:14</p>
+<p align="right">Generated in 0.275s on Mon Aug 12 at 15:15</p>
