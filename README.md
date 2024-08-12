@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">3931</td>
-      <td align="center">
-        <a href="https://github.com/jweedoof" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/163445695?u=85feb926a7f2da84e16353dee14198a4d5441d9a&v=4" alt="jweedoof" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/jweedoof" target="_blank">jweedoof</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">3932</td>
       <td align="center">
         <a href="https://github.com/BUTCH4BUTCH" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">3934</td>
+      <td align="center">
+        <a href="https://github.com/LuckyTycoon" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/144485411?v=4" alt="LuckyTycoon" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/LuckyTycoon" target="_blank">LuckyTycoon</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">3935</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -836,4 +836,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.346s on Mon Aug 12 at 12:15</p>
+<p align="right">Generated in 0.344s on Mon Aug 12 at 12:19</p>
