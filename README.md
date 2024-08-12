@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">3934</td>
-      <td align="center">
-        <a href="https://github.com/LuckyTycoon" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/144485411?v=4" alt="LuckyTycoon" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/LuckyTycoon" target="_blank">LuckyTycoon</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">3935</td>
       <td align="center">
         <a href="https://github.com/tobi-awolaju-21" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">3937</td>
+      <td align="center">
+        <a href="https://github.com/leoo-tech" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/59695785?v=4" alt="leoo-tech" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/leoo-tech" target="_blank">leoo-tech</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">3938</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -836,4 +836,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.344s on Mon Aug 12 at 12:26</p>
+<p align="right">Generated in 0.337s on Mon Aug 12 at 12:28</p>
