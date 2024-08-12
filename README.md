@@ -740,46 +740,6 @@
   </thead>
   <tbody>
     <tr>
-      <td>$\text{\color{orange}{C}}$</td>
-      <td>$\text{\color{white}{R}}$</td>
-      <td>$\text{\color{white}{A}}$</td>
-      <td>$\text{\color{orange}{N}}$</td>
-      <td>$\text{\color{white}{E}}$</td>
-      <td>
-        <a href="https://github.com/Foword5">@Foword5</a>
-      </td>
-    </tr>
-    <tr>
-      <td>$\text{\color{lightgreen}{S}}$</td>
-      <td>$\text{\color{white}{T}}$</td>
-      <td>$\text{\color{lightgreen}{I}}$</td>
-      <td>$\text{\color{orange}{C}}$</td>
-      <td>$\text{\color{white}{K}}$</td>
-      <td>
-        <a href="https://github.com/Charles-Chrismann">@Charles-Chrismann</a>
-      </td>
-    </tr>
-    <tr>
-      <td>$\text{\color{red}{S}}$</td>
-      <td>$\text{\color{red}{N}}$</td>
-      <td>$\text{\color{red}{I}}$</td>
-      <td>$\text{\color{red}{C}}$</td>
-      <td>$\text{\color{red}{S}}$</td>
-      <td>
-        <a href="https://github.com/Foword5">@Foword5</a>
-      </td>
-    </tr>
-    <tr>
-      <td>$\text{\color{lightgreen}{S}}$</td>
-      <td>$\text{\color{lightgreen}{C}}$</td>
-      <td>$\text{\color{lightgreen}{I}}$</td>
-      <td>$\text{\color{lightgreen}{O}}$</td>
-      <td>$\text{\color{lightgreen}{N}}$</td>
-      <td>
-        <a href="https://github.com/Foword5">@Foword5</a>
-      </td>
-    </tr>
-    <tr>
       <td>‎ </td>
       <td>‎ </td>
       <td>‎ </td>
@@ -841,4 +801,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.31s on Mon Aug 12 at 21:59</p>
+<p align="right">Generated in 0.335s on Mon Aug 12 at 22:00</p>
