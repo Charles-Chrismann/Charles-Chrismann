@@ -83,40 +83,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">3946</td>
-      <td align="center">
-        <a href="https://github.com/brunnocostam" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/13888868?u=dbdb3b3474a8f7fafc1767a73f3031d54da2281f&v=4" alt="brunnocostam" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/brunnocostam" target="_blank">brunnocostam</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">3947</td>
-      <td align="center">
-        <a href="https://github.com/Bhedil" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/76995178?u=dbb68f4288d0c157dbb336458ca2b9c385911c75&v=4" alt="Bhedil" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Bhedil" target="_blank">Bhedil</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">3948</td>
-      <td align="center">
-        <a href="https://github.com/ether-genius" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/174391642?u=19487e007f265822a7a2d7ea99767ab9c51eef96&v=4" alt="ether-genius" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/ether-genius" target="_blank">ether-genius</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">3949</td>
+      <td align="center">
+        <a href="https://github.com/joydeep049" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/113792434?u=09154f8f6b296d91f5b514073081e7828588e97a&v=4" alt="joydeep049" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/joydeep049" target="_blank">joydeep049</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">3950</td>
+      <td align="center">
+        <a href="https://github.com/Narsiskh" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/141551734?u=d1363fa676fc61b901cfd1faf6783605d980db0f&v=4" alt="Narsiskh" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Narsiskh" target="_blank">Narsiskh</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">3951</td>
+      <td align="center">
+        <a href="https://github.com/Kauan-Luiz" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/160810368?u=e4b98b9efc9a5fa4dcedcabce5d7f946a7739bb2&v=4" alt="Kauan-Luiz" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Kauan-Luiz" target="_blank">Kauan-Luiz</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">3952</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -842,4 +842,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.359s on Mon Aug 12 at 13:23</p>
+<p align="right">Generated in 0.354s on Mon Aug 12 at 13:23</p>
