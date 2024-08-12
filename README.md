@@ -83,40 +83,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">3817</td>
+      <td align="center">3822</td>
       <td align="center">
-        <a href="https://github.com/Shimada127" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/178094675?v=4" alt="Shimada127" width="40" height="40"/>
+        <a href="https://github.com/GDIATTA" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/147615966?u=68599569a16a8338891fdaad317b75875534123e&v=4" alt="GDIATTA" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/Shimada127" target="_blank">Shimada127</a>
+        <a href="https://github.com/GDIATTA" target="_blank">GDIATTA</a>
       </td>
     </tr>
     <tr>
-      <td align="center">3818</td>
+      <td align="center">3823</td>
       <td align="center">
-        <a href="https://github.com/seu1a" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/95991567?u=de9dcc904d82d9adea002c8b9dbb9c02e1a3d701&v=4" alt="seu1a" width="40" height="40"/>
+        <a href="https://github.com/filipe-augusto" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/67299107?u=374fad7850831f30a5d8d839e4c44b443780a074&v=4" alt="filipe-augusto" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/seu1a" target="_blank">seu1a</a>
+        <a href="https://github.com/filipe-augusto" target="_blank">filipe-augusto</a>
       </td>
     </tr>
     <tr>
-      <td align="center">3819</td>
+      <td align="center">3824</td>
       <td align="center">
-        <a href="https://github.com/Luke5080" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/102625601?u=675b438713b6ce0e13f2fdc59ae3761404984465&v=4" alt="Luke5080" width="40" height="40"/>
+        <a href="https://github.com/JustBobinAround" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/67753581?u=0dce26885ce334524224b441ea5b15bf95c082f1&v=4" alt="JustBobinAround" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/Luke5080" target="_blank">Luke5080</a>
+        <a href="https://github.com/JustBobinAround" target="_blank">JustBobinAround</a>
       </td>
     </tr>
     <tr>
-      <td align="center">3820</td>
+      <td align="center">3825</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -797,4 +797,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.488s on Sun Aug 11 at 23:56</p>
+<p align="right">Generated in 0.436s on Mon Aug 12 at 0:02</p>
