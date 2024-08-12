@@ -83,18 +83,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">4064</td>
-      <td align="center">
-        <a href="https://github.com/Afsantiago" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/106445075?u=3c9ac39bf982dbde81ceb2fae92d84c265d87eaa&v=4" alt="Afsantiago" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Afsantiago" target="_blank">Afsantiago</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">4065</td>
+      <td align="center">4066</td>
       <td align="center">
         <a href="https://github.com/AlexandraParra" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/96145566?u=fa3d6121d4eb2ffeb3c40486ee750f093f1d9712&v=4" alt="AlexandraParra" width="40" height="40"/>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">4066</td>
+      <td align="center">4067</td>
       <td align="center">
         <a href="https://github.com/StellSword" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/142059934?u=f6dbdd3b36b9fb19b367bffe57055800c060e250&v=4" alt="StellSword" width="40" height="40"/>
@@ -116,7 +105,18 @@
       </td>
     </tr>
     <tr>
-      <td align="center">4067</td>
+      <td align="center">4068</td>
+      <td align="center">
+        <a href="https://github.com/rebbieduarte" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/99067618?u=be595dae7680dab8cbd94ce8deccfcceea507c5f&v=4" alt="rebbieduarte" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/rebbieduarte" target="_blank">rebbieduarte</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">4069</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -801,4 +801,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.336s on Mon Aug 12 at 22:52</p>
+<p align="right">Generated in 0.34s on Mon Aug 12 at 23:00</p>
