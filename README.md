@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">4069</td>
-      <td align="center">
-        <a href="https://github.com/andr-ch" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/137656757?u=e0ca1f06d4565620e96a722a5aaf343fbaf0df52&v=4" alt="andr-ch" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/andr-ch" target="_blank">andr-ch</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">4070</td>
       <td align="center">
         <a href="https://github.com/Web3-League" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">4072</td>
+      <td align="center">
+        <a href="https://github.com/victorhugo-dba" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/174292520?u=622b4b37f32a97cd07ba5906574eedf418b60ea4&v=4" alt="victorhugo-dba" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/victorhugo-dba" target="_blank">victorhugo-dba</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">4073</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -801,4 +801,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.344s on Mon Aug 12 at 23:16</p>
+<p align="right">Generated in 0.328s on Mon Aug 12 at 23:18</p>
