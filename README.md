@@ -83,40 +83,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">3950</td>
-      <td align="center">
-        <a href="https://github.com/Narsiskh" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/141551734?u=d1363fa676fc61b901cfd1faf6783605d980db0f&v=4" alt="Narsiskh" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Narsiskh" target="_blank">Narsiskh</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">3951</td>
-      <td align="center">
-        <a href="https://github.com/Kauan-Luiz" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/160810368?u=e4b98b9efc9a5fa4dcedcabce5d7f946a7739bb2&v=4" alt="Kauan-Luiz" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Kauan-Luiz" target="_blank">Kauan-Luiz</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">3952</td>
-      <td align="center">
-        <a href="https://github.com/184588" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/169923201?v=4" alt="184588" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/184588" target="_blank">184588</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">3953</td>
+      <td align="center">
+        <a href="https://github.com/Mizerati" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/165900354?v=4" alt="Mizerati" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Mizerati" target="_blank">Mizerati</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">3954</td>
+      <td align="center">
+        <a href="https://github.com/ABHISHEK45-DOT" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/90972703?v=4" alt="ABHISHEK45-DOT" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/ABHISHEK45-DOT" target="_blank">ABHISHEK45-DOT</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">3955</td>
+      <td align="center">
+        <a href="https://github.com/GathaiKE" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/108400724?u=1e6b01151377a92a6ecdf36ff4467cde9a9db26c&v=4" alt="GathaiKE" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/GathaiKE" target="_blank">GathaiKE</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">3956</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -839,4 +839,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.367s on Mon Aug 12 at 13:30</p>
+<p align="right">Generated in 0.362s on Mon Aug 12 at 13:35</p>
