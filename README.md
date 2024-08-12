@@ -85,17 +85,6 @@
     <tr>
       <td align="center">3826</td>
       <td align="center">
-        <a href="https://github.com/YuVath" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/88346034?u=a56fdafbe2f3786b8b41302e5263fd68fa0999e8&v=4" alt="YuVath" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/YuVath" target="_blank">YuVath</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">3827</td>
-      <td align="center">
         <a href="https://github.com/SamiraCavalcanti" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/86758007?u=413344f2cc58a59f7e6ba4a84e69bc85d7b23ed8&v=4" alt="SamiraCavalcanti" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">3828</td>
+      <td align="center">3827</td>
       <td align="center">
         <a href="https://github.com/OliveLover" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/118647313?u=dedb8a877fb5de1efe40992ff1992b63b35daf39&v=4" alt="OliveLover" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/OliveLover" target="_blank">OliveLover</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">3828</td>
+      <td align="center">
+        <a href="https://github.com/carolinaemanuele" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/84878866?u=d7d816ee46eb35647a5207cbaa3ff9b0f1dbeeed&v=4" alt="carolinaemanuele" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/carolinaemanuele" target="_blank">carolinaemanuele</a>
       </td>
     </tr>
     <tr>
@@ -797,4 +797,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.422s on Mon Aug 12 at 0:32</p>
+<p align="right">Generated in 0.437s on Mon Aug 12 at 0:37</p>
