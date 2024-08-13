@@ -108,7 +108,7 @@
       <td align="center">4168</td>
       <td align="center">
         <a href="https://github.com/CodingCossack" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/108333654?u=2a3a7861ddaf7df80efab6786bc1a5c07e7d6141&v=4" alt="CodingCossack" width="40" height="40"/>
+          <img src="https://avatars.githubusercontent.com/u/108333654?v=4" alt="CodingCossack" width="40" height="40"/>
         </a>
       </td>
       <td>
@@ -808,4 +808,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.293s on Tue Aug 13 at 12:06</p>
+<p align="right">Generated in 0.319s on Tue Aug 13 at 12:07</p>
