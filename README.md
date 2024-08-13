@@ -83,40 +83,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">4083</td>
-      <td align="center">
-        <a href="https://github.com/royhankamil" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/114550416?u=96a6198c1d4306cc6d8ba607f1c13a9fe07b8bdc&v=4" alt="royhankamil" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/royhankamil" target="_blank">royhankamil</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">4084</td>
-      <td align="center">
-        <a href="https://github.com/PetersonPortella" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/109779768?u=25bd7f0ffc7d03653d7e858ab027fa075cb1bcd9&v=4" alt="PetersonPortella" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/PetersonPortella" target="_blank">PetersonPortella</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">4085</td>
-      <td align="center">
-        <a href="https://github.com/luisgabriells" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/175511995?u=f463368c410853ffce4340b5047006b1c0f98dbc&v=4" alt="luisgabriells" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/luisgabriells" target="_blank">luisgabriells</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">4086</td>
+      <td align="center">
+        <a href="https://github.com/VictorCardosoOl" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/105755943?u=ec42c23ee6fc7045553d8b440948ee507a94e550&v=4" alt="VictorCardosoOl" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/VictorCardosoOl" target="_blank">VictorCardosoOl</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">4087</td>
+      <td align="center">
+        <a href="https://github.com/xWhaler" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/171182799?v=4" alt="xWhaler" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/xWhaler" target="_blank">xWhaler</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">4088</td>
+      <td align="center">
+        <a href="https://github.com/Gabewingman" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/162821474?u=9e3ef52964dd21beee7bcbc13025bc8cf731d1f2&v=4" alt="Gabewingman" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Gabewingman" target="_blank">Gabewingman</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">4089</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -805,4 +805,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.421s on Tue Aug 13 at 1:01</p>
+<p align="right">Generated in 0.367s on Tue Aug 13 at 1:14</p>
