@@ -83,18 +83,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">4177</td>
-      <td align="center">
-        <a href="https://github.com/foscraft" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/39657169?u=c975e129591c82a0c3e0b5221964ec70a5f0d359&v=4" alt="foscraft" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/foscraft" target="_blank">foscraft</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">4178</td>
+      <td align="center">4179</td>
       <td align="center">
         <a href="https://github.com/khujamovcodes" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/151366013?u=148e31c262154268b18bb64839b8d28b1fe7e41c&v=4" alt="khujamovcodes" width="40" height="40"/>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">4179</td>
+      <td align="center">4180</td>
       <td align="center">
         <a href="https://github.com/JamesRTC" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/120014245?u=e8c1c3a5466e97620a9cc2e7cb72f6d2bc289dd1&v=4" alt="JamesRTC" width="40" height="40"/>
@@ -116,7 +105,18 @@
       </td>
     </tr>
     <tr>
-      <td align="center">4180</td>
+      <td align="center">4181</td>
+      <td align="center">
+        <a href="https://github.com/QasimWaheed" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/55226877?u=b6234333cc4be66e10d049b6af9f163622584ee5&v=4" alt="QasimWaheed" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/QasimWaheed" target="_blank">QasimWaheed</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">4182</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -798,4 +798,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.291s on Tue Aug 13 at 13:46</p>
+<p align="right">Generated in 0.278s on Tue Aug 13 at 13:48</p>
