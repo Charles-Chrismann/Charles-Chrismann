@@ -83,40 +83,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">4080</td>
-      <td align="center">
-        <a href="https://github.com/Abel-V-Pereira" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/173859598?u=dc2c1e69488ad115af0ca07d0fb89d774c61d0a8&v=4" alt="Abel-V-Pereira" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Abel-V-Pereira" target="_blank">Abel-V-Pereira</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">4081</td>
-      <td align="center">
-        <a href="https://github.com/GlaucieneLuminato" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/162189425?u=09f65cd4493abd670498a25eb8788d857534300c&v=4" alt="GlaucieneLuminato" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/GlaucieneLuminato" target="_blank">GlaucieneLuminato</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">4082</td>
-      <td align="center">
-        <a href="https://github.com/santiago2408" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/95543316?v=4" alt="santiago2408" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/santiago2408" target="_blank">santiago2408</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">4083</td>
+      <td align="center">
+        <a href="https://github.com/royhankamil" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/114550416?u=96a6198c1d4306cc6d8ba607f1c13a9fe07b8bdc&v=4" alt="royhankamil" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/royhankamil" target="_blank">royhankamil</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">4084</td>
+      <td align="center">
+        <a href="https://github.com/PetersonPortella" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/109779768?u=25bd7f0ffc7d03653d7e858ab027fa075cb1bcd9&v=4" alt="PetersonPortella" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/PetersonPortella" target="_blank">PetersonPortella</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">4085</td>
+      <td align="center">
+        <a href="https://github.com/luisgabriells" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/175511995?u=f463368c410853ffce4340b5047006b1c0f98dbc&v=4" alt="luisgabriells" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/luisgabriells" target="_blank">luisgabriells</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">4086</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -809,4 +809,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 1.388s on Tue Aug 13 at 0:45</p>
+<p align="right">Generated in 0.346s on Tue Aug 13 at 0:48</p>
