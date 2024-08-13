@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">4075</td>
-      <td align="center">
-        <a href="https://github.com/jlmsdev" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/59475371?u=a23d4d82e504c8c5c0711e9bb9e393e975ffa98f&v=4" alt="jlmsdev" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/jlmsdev" target="_blank">jlmsdev</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">4076</td>
       <td align="center">
         <a href="https://github.com/coding-with-lounas" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">4078</td>
+      <td align="center">
+        <a href="https://github.com/ThulaniMthembu" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/143551679?u=1ec597b4c41e37f462c3da1b3fcb0840d6d9d591&v=4" alt="ThulaniMthembu" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/ThulaniMthembu" target="_blank">ThulaniMthembu</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">4079</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -809,4 +809,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.357s on Mon Aug 12 at 23:57</p>
+<p align="right">Generated in 0.342s on Tue Aug 13 at 0:00</p>
