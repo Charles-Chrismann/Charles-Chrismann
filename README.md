@@ -83,40 +83,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">4257</td>
-      <td align="center">
-        <a href="https://github.com/marwamajdoub" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/144175713?u=74f7aec10d41c22c4afb56acc55232cb42bdfdda&v=4" alt="marwamajdoub" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/marwamajdoub" target="_blank">marwamajdoub</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">4258</td>
-      <td align="center">
-        <a href="https://github.com/anthonyGarciaa" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/170729847?u=487aa6ffba6bb7f36777f2c4310d019e62c8d014&v=4" alt="anthonyGarciaa" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/anthonyGarciaa" target="_blank">anthonyGarciaa</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">4259</td>
-      <td align="center">
-        <a href="https://github.com/SamuelTelesSilva" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/57865094?u=77f306799054da15033adaf30f79180fd59028b0&v=4" alt="SamuelTelesSilva" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/SamuelTelesSilva" target="_blank">SamuelTelesSilva</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">4260</td>
+      <td align="center">
+        <a href="https://github.com/mariahrucker" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/117225197?u=b038924ab9327bf7c3f97bed2d1d192f629b69f6&v=4" alt="mariahrucker" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/mariahrucker" target="_blank">mariahrucker</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">4261</td>
+      <td align="center">
+        <a href="https://github.com/themidnightmaniac" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/154273168?u=615e0d5f8677ef91d74c0baae728691b87aae41f&v=4" alt="themidnightmaniac" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/themidnightmaniac" target="_blank">themidnightmaniac</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">4262</td>
+      <td align="center">
+        <a href="https://github.com/MenelikBerhan" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/125494245?v=4" alt="MenelikBerhan" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/MenelikBerhan" target="_blank">MenelikBerhan</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">4263</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -799,4 +799,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.277s on Tue Aug 13 at 23:21</p>
+<p align="right">Generated in 0.26s on Tue Aug 13 at 23:24</p>
