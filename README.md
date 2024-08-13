@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">4168</td>
-      <td align="center">
-        <a href="https://github.com/CodingCossack" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/108333654?v=4" alt="CodingCossack" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/CodingCossack" target="_blank">CodingCossack</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">4169</td>
       <td align="center">
         <a href="https://github.com/Aftab-Ahmed-Soomro" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">4171</td>
+      <td align="center">
+        <a href="https://github.com/equitos" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/175251397?u=5333cb811256d59cf90517335f8d7855dda80172&v=4" alt="equitos" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/equitos" target="_blank">equitos</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">4172</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -808,4 +808,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.294s on Tue Aug 13 at 12:25</p>
+<p align="right">Generated in 0.288s on Tue Aug 13 at 12:29</p>
