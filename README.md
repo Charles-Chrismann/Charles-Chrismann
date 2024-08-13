@@ -83,40 +83,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">4076</td>
-      <td align="center">
-        <a href="https://github.com/coding-with-lounas" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/154364639?v=4" alt="coding-with-lounas" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/coding-with-lounas" target="_blank">coding-with-lounas</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">4077</td>
-      <td align="center">
-        <a href="https://github.com/supersett" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/92968138?u=ae7f653313011fc6c71e3ff670489499d5a55789&v=4" alt="supersett" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/supersett" target="_blank">supersett</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">4078</td>
-      <td align="center">
-        <a href="https://github.com/ThulaniMthembu" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/143551679?u=1ec597b4c41e37f462c3da1b3fcb0840d6d9d591&v=4" alt="ThulaniMthembu" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/ThulaniMthembu" target="_blank">ThulaniMthembu</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">4079</td>
+      <td align="center">
+        <a href="https://github.com/icl00ud" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/98751190?u=c14efbc95c03ae92ec58621d49173731e7976866&v=4" alt="icl00ud" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/icl00ud" target="_blank">icl00ud</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">4080</td>
+      <td align="center">
+        <a href="https://github.com/Arkhe55" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/99732759?u=51114a731820767d6a16988e293a0dddb60bc1c3&v=4" alt="Arkhe55" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Arkhe55" target="_blank">Arkhe55</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">4081</td>
+      <td align="center">
+        <a href="https://github.com/Abel-V-Pereira" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/173859598?u=dc2c1e69488ad115af0ca07d0fb89d774c61d0a8&v=4" alt="Abel-V-Pereira" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Abel-V-Pereira" target="_blank">Abel-V-Pereira</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">4082</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -809,4 +809,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.418s on Tue Aug 13 at 0:13</p>
+<p align="right">Generated in 0.333s on Tue Aug 13 at 0:13</p>
