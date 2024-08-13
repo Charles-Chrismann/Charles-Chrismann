@@ -83,28 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">4184</td>
-      <td align="center">
-        <a href="https://github.com/DeFi-Vandelay" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/173619575?u=4aa2396fb2f4de69041bc98c94125ea5df0a3591&v=4" alt="DeFi-Vandelay" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/DeFi-Vandelay" target="_blank">DeFi-Vandelay</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">4185</td>
-      <td align="center">
-        <a href="https://github.com/ayodejiades" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/93299337?u=c2f4a428e6142ca76a2d710831756b3485ec9e46&v=4" alt="ayodejiades" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/ayodejiades" target="_blank">ayodejiades</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">4186</td>
       <td align="center">
         <a href="https://github.com/nathfavour" target="_blank">
@@ -117,6 +95,28 @@
     </tr>
     <tr>
       <td align="center">4187</td>
+      <td align="center">
+        <a href="https://github.com/lunanfoldomics" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/170835934?u=572d7ac6c20882c3fe059defa8fd9b788855b9a0&v=4" alt="lunanfoldomics" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/lunanfoldomics" target="_blank">lunanfoldomics</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">4188</td>
+      <td align="center">
+        <a href="https://github.com/tugbabingol" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/78307511?v=4" alt="tugbabingol" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/tugbabingol" target="_blank">tugbabingol</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">4189</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -798,4 +798,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.38s on Tue Aug 13 at 14:22</p>
+<p align="right">Generated in 0.321s on Tue Aug 13 at 14:25</p>
