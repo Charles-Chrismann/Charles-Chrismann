@@ -85,34 +85,34 @@
     <tr>
       <td align="center">4242</td>
       <td align="center">
-        <a href="https://github.com/Aribaoni" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/178274584?u=82d9909fd8865468fed614417d6b43d250fc412c&v=4" alt="Aribaoni" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Aribaoni" target="_blank">Aribaoni</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">4243</td>
-      <td align="center">
-        <a href="https://github.com/jozef-javorsky-dodo" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/146547657?u=84338ad4c89f779d2dff0d18c5bf7fe21ea2eabd&v=4" alt="jozef-javorsky-dodo" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/jozef-javorsky-dodo" target="_blank">jozef-javorsky-dodo</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">4244</td>
-      <td align="center">
         <a href="https://github.com/DalyChouikh" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/82971271?u=36532cee9d01649f2f4b553192eefd22234de0d3&v=4" alt="DalyChouikh" width="40" height="40"/>
         </a>
       </td>
       <td>
         <a href="https://github.com/DalyChouikh" target="_blank">DalyChouikh</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">4243</td>
+      <td align="center">
+        <a href="https://github.com/federicorossifr" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/13318360?u=55e76b45d74aabdd76bda02eb6ed9a4e11e1110a&v=4" alt="federicorossifr" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/federicorossifr" target="_blank">federicorossifr</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">4244</td>
+      <td align="center">
+        <a href="https://github.com/KhaoulaElHattabi" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/92638641?v=4" alt="KhaoulaElHattabi" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/KhaoulaElHattabi" target="_blank">KhaoulaElHattabi</a>
       </td>
     </tr>
     <tr>
@@ -806,4 +806,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.255s on Tue Aug 13 at 20:06</p>
+<p align="right">Generated in 0.258s on Tue Aug 13 at 20:13</p>
