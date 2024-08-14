@@ -85,17 +85,6 @@
     <tr>
       <td align="center">4404</td>
       <td align="center">
-        <a href="https://github.com/devictor1" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/126830080?u=3f2b91dba921f2c4b036dbf1018be618e065afa7&v=4" alt="devictor1" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/devictor1" target="_blank">devictor1</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">4405</td>
-      <td align="center">
         <a href="https://github.com/SenZmaKi" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/90490506?u=5dcba661020ab3fb9f1b2bab4747a22cf2f8f3d8&v=4" alt="SenZmaKi" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">4406</td>
+      <td align="center">4405</td>
       <td align="center">
         <a href="https://github.com/M-Valentino" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/79779618?u=15e063ba7f2751b5f71ac4ba9a586fe296f569a8&v=4" alt="M-Valentino" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/M-Valentino" target="_blank">M-Valentino</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">4406</td>
+      <td align="center">
+        <a href="https://github.com/PatrickStar-code" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/89866722?v=4" alt="PatrickStar-code" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/PatrickStar-code" target="_blank">PatrickStar-code</a>
       </td>
     </tr>
     <tr>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.193s on Wed Aug 14 at 22:47</p>
+<p align="right">Generated in 0.185s on Wed Aug 14 at 22:48</p>
