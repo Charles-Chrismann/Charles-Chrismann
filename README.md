@@ -85,17 +85,6 @@
     <tr>
       <td align="center">4391</td>
       <td align="center">
-        <a href="https://github.com/Edimatic" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/133470647?u=d8cf3adf439bb8fb40c73bb4e34a7403824892e8&v=4" alt="Edimatic" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Edimatic" target="_blank">Edimatic</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">4392</td>
-      <td align="center">
         <a href="https://github.com/KrhystFerrari" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/102234632?u=b1aa74a5247fec2d12d3ab932290dce529b2e6ca&v=4" alt="KrhystFerrari" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">4393</td>
+      <td align="center">4392</td>
       <td align="center">
         <a href="https://github.com/carlargm" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/96596372?u=8dee044fb3e63b164f1766ea6002084893eff2ff&v=4" alt="carlargm" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/carlargm" target="_blank">carlargm</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">4393</td>
+      <td align="center">
+        <a href="https://github.com/rameshmane7218" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/101566080?u=cdd3b6aaa518a93726efa965cc2884b79cc5630b&v=4" alt="rameshmane7218" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/rameshmane7218" target="_blank">rameshmane7218</a>
       </td>
     </tr>
     <tr>
@@ -799,4 +799,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.353s on Wed Aug 14 at 19:18</p>
+<p align="right">Generated in 0.273s on Wed Aug 14 at 19:18</p>
