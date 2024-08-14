@@ -85,17 +85,6 @@
     <tr>
       <td align="center">4396</td>
       <td align="center">
-        <a href="https://github.com/Isaquehg" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/77072103?u=483ad64639c206b72519a586d0259f3b7afc511d&v=4" alt="Isaquehg" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Isaquehg" target="_blank">Isaquehg</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">4397</td>
-      <td align="center">
         <a href="https://github.com/LinoXsama" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/86131406?v=4" alt="LinoXsama" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">4398</td>
+      <td align="center">4397</td>
       <td align="center">
         <a href="https://github.com/marzball" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/133533776?u=738d911d5fc9337a51a3abd632ccfed74e0c2817&v=4" alt="marzball" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/marzball" target="_blank">marzball</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">4398</td>
+      <td align="center">
+        <a href="https://github.com/dadiosy" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/158790266?u=10a0b65206262bafccfc1cc41af5ce615f406aaa&v=4" alt="dadiosy" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/dadiosy" target="_blank">dadiosy</a>
       </td>
     </tr>
     <tr>
@@ -804,4 +804,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.382s on Wed Aug 14 at 20:03</p>
+<p align="right">Generated in 0.261s on Wed Aug 14 at 20:05</p>
