@@ -108,7 +108,7 @@
       <td align="center">4288</td>
       <td align="center">
         <a href="https://github.com/craftedmovie" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/151899574?u=d379481689c03b4d51c7afac4486ed044d8cb84a&v=4" alt="craftedmovie" width="40" height="40"/>
+          <img src="https://avatars.githubusercontent.com/u/151899574?u=37a0d6e5f94d48f8b67118a2b8a26191d7d616cc&v=4" alt="craftedmovie" width="40" height="40"/>
         </a>
       </td>
       <td>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.266s on Wed Aug 14 at 3:54</p>
+<p align="right">Generated in 0.242s on Wed Aug 14 at 4:04</p>
