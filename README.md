@@ -85,17 +85,6 @@
     <tr>
       <td align="center">4400</td>
       <td align="center">
-        <a href="https://github.com/d0ugui" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/63167055?u=fb918aae43b0a8c62a83313f99b574b67fdc4e49&v=4" alt="d0ugui" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/d0ugui" target="_blank">d0ugui</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">4401</td>
-      <td align="center">
         <a href="https://github.com/vhspicerosGitHub" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/130526443?u=19dd750c264da48b4b98ac7ef886869f726d2a9b&v=4" alt="vhspicerosGitHub" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">4402</td>
+      <td align="center">4401</td>
       <td align="center">
         <a href="https://github.com/analygin" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/83618783?u=19938a28991ec3503cf819716563fb2d9fcf43a2&v=4" alt="analygin" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/analygin" target="_blank">analygin</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">4402</td>
+      <td align="center">
+        <a href="https://github.com/D-codes-it" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/172121620?u=63311d0190385a0d2de943d8a2feceeaec481f0c&v=4" alt="D-codes-it" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/D-codes-it" target="_blank">D-codes-it</a>
       </td>
     </tr>
     <tr>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.205s on Wed Aug 14 at 22:11</p>
+<p align="right">Generated in 0.199s on Wed Aug 14 at 22:18</p>
