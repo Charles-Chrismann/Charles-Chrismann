@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">4352</td>
-      <td align="center">
-        <a href="https://github.com/cypriansakwa" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/175526299?u=5dfbb90fdf0f21e227bda9481cd95df697bdedd7&v=4" alt="cypriansakwa" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/cypriansakwa" target="_blank">cypriansakwa</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">4353</td>
       <td align="center">
         <a href="https://github.com/kintsugi-programmer" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">4355</td>
+      <td align="center">
+        <a href="https://github.com/Fadel-Dev" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/64317234?u=eb5ccb26c2dbcc4151dfe6821352e09de83de31f&v=4" alt="Fadel-Dev" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Fadel-Dev" target="_blank">Fadel-Dev</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">4356</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -790,4 +790,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.297s on Wed Aug 14 at 15:01</p>
+<p align="right">Generated in 0.291s on Wed Aug 14 at 15:05</p>
