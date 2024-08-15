@@ -83,18 +83,18 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">4510</td>
+      <td align="center">4509</td>
       <td align="center">
-        <a href="https://github.com/ascendantaditya" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/132193415?u=8fdd9e8ae7777735ff5ca3ff049fb9184cf8416a&v=4" alt="ascendantaditya" width="40" height="40"/>
+        <a href="https://github.com/laksfarrasvijaya" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/118181063?v=4" alt="laksfarrasvijaya" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/ascendantaditya" target="_blank">ascendantaditya</a>
+        <a href="https://github.com/laksfarrasvijaya" target="_blank">laksfarrasvijaya</a>
       </td>
     </tr>
     <tr>
-      <td align="center">4511</td>
+      <td align="center">4510</td>
       <td align="center">
         <a href="https://github.com/Devansh-Baghel" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/77718741?u=25bdb710cc9569edc1b62be3a9dbba57bc937a31&v=4" alt="Devansh-Baghel" width="40" height="40"/>
@@ -105,7 +105,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">4512</td>
+      <td align="center">4511</td>
       <td align="center">
         <a href="https://github.com/iiiiiuri" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/87621693?u=18580b3c1ddd167f770fb7bf77f9dbcf5d2b2f27&v=4" alt="iiiiiuri" width="40" height="40"/>
@@ -116,7 +116,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">4513</td>
+      <td align="center">4512</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -794,4 +794,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.462s on Thu Aug 15 at 14:22</p>
+<p align="right">Generated in 0.462s on Thu Aug 15 at 14:23</p>
