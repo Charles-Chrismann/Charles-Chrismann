@@ -83,18 +83,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">4467</td>
-      <td align="center">
-        <a href="https://github.com/SkynetLovesMalbolge" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/133457530?v=4" alt="SkynetLovesMalbolge" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/SkynetLovesMalbolge" target="_blank">SkynetLovesMalbolge</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">4468</td>
+      <td align="center">4469</td>
       <td align="center">
         <a href="https://github.com/MariamFarazi" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/145963696?u=f9bec1f619ab38fd4e0c19e8bbd2f9608fe1ae2b&v=4" alt="MariamFarazi" width="40" height="40"/>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">4469</td>
+      <td align="center">4470</td>
       <td align="center">
         <a href="https://github.com/Agfiras" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/74111285?u=6ad4dcc2b751b5c015d5b5f422db0320f4e3dba4&v=4" alt="Agfiras" width="40" height="40"/>
@@ -116,7 +105,18 @@
       </td>
     </tr>
     <tr>
-      <td align="center">4470</td>
+      <td align="center">4471</td>
+      <td align="center">
+        <a href="https://github.com/Nuraj250" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/76643804?v=4" alt="Nuraj250" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Nuraj250" target="_blank">Nuraj250</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">4472</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -779,4 +779,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.242s on Thu Aug 15 at 9:40</p>
+<p align="right">Generated in 0.253s on Thu Aug 15 at 9:40</p>
