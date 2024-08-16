@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">4633</td>
-      <td align="center">
-        <a href="https://github.com/rg-sys" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/167945024?u=9b6eaceb11b677f1e3f4715223410fb74b982625&v=4" alt="rg-sys" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/rg-sys" target="_blank">rg-sys</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">4634</td>
       <td align="center">
         <a href="https://github.com/SuhailJafrinmk" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">4636</td>
+      <td align="center">
+        <a href="https://github.com/Bistanium" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/63497549?u=9ab42b5bdfd6500db8c0c44d123755f22ac3a2c2&v=4" alt="Bistanium" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Bistanium" target="_blank">Bistanium</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">4637</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -795,4 +795,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.428s on Fri Aug 16 at 14:52</p>
+<p align="right">Generated in 0.225s on Fri Aug 16 at 14:55</p>
