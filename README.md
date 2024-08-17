@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">4715</td>
-      <td align="center">
-        <a href="https://github.com/TheVeryDarkness" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/50262419?v=4" alt="TheVeryDarkness" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/TheVeryDarkness" target="_blank">TheVeryDarkness</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">4716</td>
       <td align="center">
         <a href="https://github.com/OsawaKousei" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">4718</td>
+      <td align="center">
+        <a href="https://github.com/Pinta365" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/19735646?u=7738af63635223bcf20d3d248d2b77629e047a44&v=4" alt="Pinta365" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Pinta365" target="_blank">Pinta365</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">4719</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -790,4 +790,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.355s on Sat Aug 17 at 6:58</p>
+<p align="right">Generated in 0.425s on Sat Aug 17 at 7:01</p>
