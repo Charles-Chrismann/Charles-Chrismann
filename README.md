@@ -85,17 +85,6 @@
     <tr>
       <td align="center">4759</td>
       <td align="center">
-        <a href="https://github.com/russkyc" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/32549126?u=012a6320720daa345414c72301771741a5f17e0b&v=4" alt="russkyc" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/russkyc" target="_blank">russkyc</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">4760</td>
-      <td align="center">
         <a href="https://github.com/jess-ar" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/140429716?u=bd9972eb9a1674007f0c37aa0e6cc7f32dc5739c&v=4" alt="jess-ar" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">4761</td>
+      <td align="center">4760</td>
       <td align="center">
         <a href="https://github.com/ehdbs0903" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/82309982?u=568fbbe516560eeecedf53d3853da5a10adea98f&v=4" alt="ehdbs0903" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/ehdbs0903" target="_blank">ehdbs0903</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">4761</td>
+      <td align="center">
+        <a href="https://github.com/Ugurcansu" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/156699289?v=4" alt="Ugurcansu" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Ugurcansu" target="_blank">Ugurcansu</a>
       </td>
     </tr>
     <tr>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.184s on Sat Aug 17 at 13:07</p>
+<p align="right">Generated in 0.189s on Sat Aug 17 at 13:13</p>
