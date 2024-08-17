@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">4713</td>
-      <td align="center">
-        <a href="https://github.com/tylerfft" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/12198276?v=4" alt="tylerfft" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/tylerfft" target="_blank">tylerfft</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">4714</td>
       <td align="center">
         <a href="https://github.com/AlanBReis" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">4716</td>
+      <td align="center">
+        <a href="https://github.com/OsawaKousei" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/127647758?u=1cb842c7792fada35f94208918009db09d558682&v=4" alt="OsawaKousei" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/OsawaKousei" target="_blank">OsawaKousei</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">4717</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -790,4 +790,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.382s on Sat Aug 17 at 6:27</p>
+<p align="right">Generated in 0.383s on Sat Aug 17 at 6:58</p>
