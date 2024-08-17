@@ -83,28 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">4716</td>
-      <td align="center">
-        <a href="https://github.com/OsawaKousei" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/127647758?u=1cb842c7792fada35f94208918009db09d558682&v=4" alt="OsawaKousei" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/OsawaKousei" target="_blank">OsawaKousei</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">4717</td>
-      <td align="center">
-        <a href="https://github.com/obrien-k" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/27719893?u=842e3dac894afbeed6165f78ca90e6b4a8c0ef34&v=4" alt="obrien-k" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/obrien-k" target="_blank">obrien-k</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">4718</td>
       <td align="center">
         <a href="https://github.com/Pinta365" target="_blank">
@@ -117,6 +95,28 @@
     </tr>
     <tr>
       <td align="center">4719</td>
+      <td align="center">
+        <a href="https://github.com/PRATIK-AVATE" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/95911859?u=25facedf542d80d6d7055e72399b84e50dc6096b&v=4" alt="PRATIK-AVATE" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/PRATIK-AVATE" target="_blank">PRATIK-AVATE</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">4720</td>
+      <td align="center">
+        <a href="https://github.com/KStar-coder" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/76698402?u=49b6cdcb3ee0479134f3e18b8c47fcb311ee228b&v=4" alt="KStar-coder" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/KStar-coder" target="_blank">KStar-coder</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">4721</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -807,4 +807,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.508s on Sat Aug 17 at 7:06</p>
+<p align="right">Generated in 0.407s on Sat Aug 17 at 7:10</p>
