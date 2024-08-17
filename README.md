@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">4774</td>
-      <td align="center">
-        <a href="https://github.com/ai-in-pm" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/36999549?u=13bbc0093d81259760dd6a509296b678b5c6f357&v=4" alt="ai-in-pm" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/ai-in-pm" target="_blank">ai-in-pm</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">4775</td>
       <td align="center">
         <a href="https://github.com/arthurpc02" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">4777</td>
+      <td align="center">
+        <a href="https://github.com/tegarsbl" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/162599090?u=e403a950632e2753e33ac9c541db58fb178ceb16&v=4" alt="tegarsbl" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/tegarsbl" target="_blank">tegarsbl</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">4778</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.253s on Sat Aug 17 at 15:49</p>
+<p align="right">Generated in 0.287s on Sat Aug 17 at 15:50</p>
