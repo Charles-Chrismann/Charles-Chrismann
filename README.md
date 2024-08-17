@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">4743</td>
-      <td align="center">
-        <a href="https://github.com/Ari-o12code" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/106239992?u=01b7a0bef8d0830993009c9c324fe45069c0b6d2&v=4" alt="Ari-o12code" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Ari-o12code" target="_blank">Ari-o12code</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">4744</td>
       <td align="center">
         <a href="https://github.com/mwarcc" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">4746</td>
+      <td align="center">
+        <a href="https://github.com/valentimarco" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/26926690?u=dce12dcba29eed8a27f36e1f8fa32f4fae0f4e00&v=4" alt="valentimarco" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/valentimarco" target="_blank">valentimarco</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">4747</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -797,4 +797,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.232s on Sat Aug 17 at 10:59</p>
+<p align="right">Generated in 1.843s on Sat Aug 17 at 11:00</p>
