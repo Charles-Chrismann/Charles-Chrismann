@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">4719</td>
-      <td align="center">
-        <a href="https://github.com/KStar-coder" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/76698402?u=49b6cdcb3ee0479134f3e18b8c47fcb311ee228b&v=4" alt="KStar-coder" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/KStar-coder" target="_blank">KStar-coder</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">4720</td>
       <td align="center">
         <a href="https://github.com/lm9204" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">4722</td>
+      <td align="center">
+        <a href="https://github.com/ddetommaso" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/3440640?u=decacac4c26550d0a8f73343a085d5efee7a63df&v=4" alt="ddetommaso" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/ddetommaso" target="_blank">ddetommaso</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">4723</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -815,4 +815,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.379s on Sat Aug 17 at 7:42</p>
+<p align="right">Generated in 0.316s on Sat Aug 17 at 7:45</p>
