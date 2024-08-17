@@ -83,7 +83,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">4718</td>
+      <td align="center">4717</td>
       <td align="center">
         <a href="https://github.com/Pinta365" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/19735646?u=7738af63635223bcf20d3d248d2b77629e047a44&v=4" alt="Pinta365" width="40" height="40"/>
@@ -94,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">4719</td>
+      <td align="center">4718</td>
       <td align="center">
         <a href="https://github.com/PRATIK-AVATE" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/95911859?u=25facedf542d80d6d7055e72399b84e50dc6096b&v=4" alt="PRATIK-AVATE" width="40" height="40"/>
@@ -105,7 +105,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">4720</td>
+      <td align="center">4719</td>
       <td align="center">
         <a href="https://github.com/KStar-coder" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/76698402?u=49b6cdcb3ee0479134f3e18b8c47fcb311ee228b&v=4" alt="KStar-coder" width="40" height="40"/>
@@ -116,7 +116,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">4721</td>
+      <td align="center">4720</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -807,4 +807,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.407s on Sat Aug 17 at 7:10</p>
+<p align="right">Generated in 0.363s on Sat Aug 17 at 7:17</p>
