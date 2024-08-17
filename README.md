@@ -83,18 +83,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">4679</td>
-      <td align="center">
-        <a href="https://github.com/haimerb" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/6827210?u=5ee3a5095ad90febb467cb17b4598a14a4a93b1d&v=4" alt="haimerb" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/haimerb" target="_blank">haimerb</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">4680</td>
+      <td align="center">4681</td>
       <td align="center">
         <a href="https://github.com/FionaVrt" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/105992651?u=8e77cde753bebc2a66c93260e9f71bafbf002fd9&v=4" alt="FionaVrt" width="40" height="40"/>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">4681</td>
+      <td align="center">4682</td>
       <td align="center">
         <a href="https://github.com/eremohn" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/12514260?u=911ebdda108a41fa4232f6aa6436ea95813a1329&v=4" alt="eremohn" width="40" height="40"/>
@@ -116,7 +105,18 @@
       </td>
     </tr>
     <tr>
-      <td align="center">4682</td>
+      <td align="center">4683</td>
+      <td align="center">
+        <a href="https://github.com/DataDaimon" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/65102975?u=62989fa9ba53b11c2632681ddde8f656ec391baa&v=4" alt="DataDaimon" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/DataDaimon" target="_blank">DataDaimon</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">4684</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -807,4 +807,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.335s on Sat Aug 17 at 0:27</p>
+<p align="right">Generated in 0.27s on Sat Aug 17 at 0:27</p>
