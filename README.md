@@ -85,17 +85,6 @@
     <tr>
       <td align="center">4946</td>
       <td align="center">
-        <a href="https://github.com/Bolu1" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/68053657?v=4" alt="Bolu1" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Bolu1" target="_blank">Bolu1</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">4947</td>
-      <td align="center">
         <a href="https://github.com/HinnMachache" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/70755555?v=4" alt="HinnMachache" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">4948</td>
+      <td align="center">4947</td>
       <td align="center">
         <a href="https://github.com/Zafer-Vrcic" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/143911287?u=39b8ca54f5e2dd96599150a03a5ab307a2e24bea&v=4" alt="Zafer-Vrcic" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/Zafer-Vrcic" target="_blank">Zafer-Vrcic</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">4948</td>
+      <td align="center">
+        <a href="https://github.com/fcruzlopes" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/55503243?u=90d8668eac0bc24a0266dac9ecf33b57978296cf&v=4" alt="fcruzlopes" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/fcruzlopes" target="_blank">fcruzlopes</a>
       </td>
     </tr>
     <tr>
@@ -782,4 +782,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.183s on Sun Aug 18 at 14:58</p>
+<p align="right">Generated in 0.174s on Sun Aug 18 at 14:59</p>
