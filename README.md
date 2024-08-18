@@ -265,9 +265,9 @@
 <h1 align="center">Flex Zone</h1>
 <h3 align="center">A classic Minesweeper</h3>
 <p align="center">
-  <span>:white_large_square:</span>
-  <span>:white_large_square:</span>
-  <span>:two:</span>
+  <a href="https://o.charles-chrismann.fr/minesweeper/click?x=0&y=0">:black_large_square:</a>
+  <a href="https://o.charles-chrismann.fr/minesweeper/click?x=1&y=0">:black_large_square:</a>
+  <a href="https://o.charles-chrismann.fr/minesweeper/click?x=2&y=0">:black_large_square:</a>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=3&y=0">:black_large_square:</a>
   <span>:two:</span>
   <span>:white_large_square:</span>
@@ -284,9 +284,9 @@
   <span>:white_large_square:</span>
   <span>:white_large_square:</span>
   <br>
-  <span>:white_large_square:</span>
-  <span>:white_large_square:</span>
-  <span>:three:</span>
+  <a href="https://o.charles-chrismann.fr/minesweeper/click?x=0&y=1">:black_large_square:</a>
+  <a href="https://o.charles-chrismann.fr/minesweeper/click?x=1&y=1">:black_large_square:</a>
+  <a href="https://o.charles-chrismann.fr/minesweeper/click?x=2&y=1">:black_large_square:</a>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=3&y=1">:black_large_square:</a>
   <span>:three:</span>
   <span>:one:</span>
@@ -303,9 +303,9 @@
   <span>:white_large_square:</span>
   <span>:white_large_square:</span>
   <br>
-  <span>:one:</span>
-  <span>:one:</span>
-  <span>:two:</span>
+  <a href="https://o.charles-chrismann.fr/minesweeper/click?x=0&y=2">:black_large_square:</a>
+  <a href="https://o.charles-chrismann.fr/minesweeper/click?x=1&y=2">:black_large_square:</a>
+  <a href="https://o.charles-chrismann.fr/minesweeper/click?x=2&y=2">:black_large_square:</a>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=3&y=2">:black_large_square:</a>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=4&y=2">:black_large_square:</a>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=5&y=2">:black_large_square:</a>
@@ -794,4 +794,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.232s on Sun Aug 18 at 17:36</p>
+<p align="right">Generated in 0.398s on Sun Aug 18 at 17:36</p>
