@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">4890</td>
-      <td align="center">
-        <a href="https://github.com/HystonKayange" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/45289813?u=c36040ed680527df9a23e03e18da8abf4a15d451&v=4" alt="HystonKayange" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/HystonKayange" target="_blank">HystonKayange</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">4891</td>
       <td align="center">
         <a href="https://github.com/ANThonyRix" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">4893</td>
+      <td align="center">
+        <a href="https://github.com/kamolacoder" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/157982260?v=4" alt="kamolacoder" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/kamolacoder" target="_blank">kamolacoder</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">4894</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -785,4 +785,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.251s on Sun Aug 18 at 9:12</p>
+<p align="right">Generated in 0.253s on Sun Aug 18 at 9:19</p>
