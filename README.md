@@ -85,17 +85,6 @@
     <tr>
       <td align="center">5012</td>
       <td align="center">
-        <a href="https://github.com/DolenDeori" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/83525238?u=7cb2bc9b6cb351536a85de8f0a91d7e6e2180e46&v=4" alt="DolenDeori" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/DolenDeori" target="_blank">DolenDeori</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">5013</td>
-      <td align="center">
         <a href="https://github.com/berrymot" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/50974538?v=4" alt="berrymot" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">5014</td>
+      <td align="center">5013</td>
       <td align="center">
         <a href="https://github.com/Fatemeh-Rezaei" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/112179380?u=248a7a809c2534d108b7c2a1bdafa70bf92056d4&v=4" alt="Fatemeh-Rezaei" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/Fatemeh-Rezaei" target="_blank">Fatemeh-Rezaei</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">5014</td>
+      <td align="center">
+        <a href="https://github.com/the-bald-lad" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/79758367?u=60f27935c4a38a49cd232058ba28b337141497fa&v=4" alt="the-bald-lad" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/the-bald-lad" target="_blank">the-bald-lad</a>
       </td>
     </tr>
     <tr>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.495s on Sun Aug 18 at 20:22</p>
+<p align="right">Generated in 0.37s on Sun Aug 18 at 20:23</p>
