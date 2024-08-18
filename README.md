@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">4985</td>
-      <td align="center">
-        <a href="https://github.com/G-MAKROGLOU" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/40071184?u=a8b569eaba34495186b0a74032122769111ba4aa&v=4" alt="G-MAKROGLOU" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/G-MAKROGLOU" target="_blank">G-MAKROGLOU</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">4986</td>
       <td align="center">
         <a href="https://github.com/mumugisha" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">4988</td>
+      <td align="center">
+        <a href="https://github.com/Hikaruya9" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/71945882?u=a09a10a165204d7f816423fa7d26d6d47044ce46&v=4" alt="Hikaruya9" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Hikaruya9" target="_blank">Hikaruya9</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">4989</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -332,7 +332,7 @@
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=7&y=3">:black_large_square:</a>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=8&y=3">:black_large_square:</a>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=9&y=3">:black_large_square:</a>
-  <a href="https://o.charles-chrismann.fr/minesweeper/click?x=10&y=3">:black_large_square:</a>
+  <span>:one:</span>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=11&y=3">:black_large_square:</a>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=12&y=3">:black_large_square:</a>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=13&y=3">:black_large_square:</a>
@@ -794,4 +794,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.31s on Sun Aug 18 at 18:09</p>
+<p align="right">Generated in 0.323s on Sun Aug 18 at 18:09</p>
