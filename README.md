@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">4999</td>
-      <td align="center">
-        <a href="https://github.com/beinjamin" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/83965708?u=b03c291973f5d96419157110a068fc6f14c84fac&v=4" alt="beinjamin" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/beinjamin" target="_blank">beinjamin</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">5000</td>
       <td align="center">
         <a href="https://github.com/whitedragon3257" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">5002</td>
+      <td align="center">
+        <a href="https://github.com/adataschultz" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/67765135?v=4" alt="adataschultz" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/adataschultz" target="_blank">adataschultz</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">5003</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -288,7 +288,7 @@
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=1&y=1">:black_large_square:</a>
   <span>:two:</span>
   <span>:one:</span>
-  <a href="https://o.charles-chrismann.fr/minesweeper/click?x=4&y=1">:black_large_square:</a>
+  <span>:one:</span>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=5&y=1">:black_large_square:</a>
   <span>:one:</span>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=7&y=1">:black_large_square:</a>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.002s on Sun Aug 18 at 18:57</p>
+<p align="right">Generated in 1.332s on Sun Aug 18 at 18:58</p>
