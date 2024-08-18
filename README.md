@@ -85,6 +85,17 @@
     <tr>
       <td align="center">4908</td>
       <td align="center">
+        <a href="https://github.com/yigitfindikli" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/19997575?u=2e4e598bce46ff451be9e5162cc85f213dc14f92&v=4" alt="yigitfindikli" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/yigitfindikli" target="_blank">yigitfindikli</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">4909</td>
+      <td align="center">
         <a href="https://github.com/xanzzz12" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/122360582?v=4" alt="xanzzz12" width="40" height="40"/>
         </a>
@@ -94,7 +105,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">4909</td>
+      <td align="center">4910</td>
       <td align="center">
         <a href="https://github.com/MohamedHNoor" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/97671133?u=e91c46c34eeff618363a553fa7703b5f54c57255&v=4" alt="MohamedHNoor" width="40" height="40"/>
@@ -102,17 +113,6 @@
       </td>
       <td>
         <a href="https://github.com/MohamedHNoor" target="_blank">MohamedHNoor</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">4910</td>
-      <td align="center">
-        <a href="https://github.com/AlenVelocity" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/66544823?u=3474c82ed52dc7aee01f1cae057709f2cc5e9110&v=4" alt="AlenVelocity" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/AlenVelocity" target="_blank">AlenVelocity</a>
       </td>
     </tr>
     <tr>
@@ -794,4 +794,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.246s on Sun Aug 18 at 11:03</p>
+<p align="right">Generated in 0.238s on Sun Aug 18 at 11:03</p>
