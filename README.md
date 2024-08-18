@@ -83,29 +83,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">4918</td>
-      <td align="center">
-        <a href="https://github.com/ThalisFernandes" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/106416519?u=145f0b8b9ad78f434b9fd640cbef222a0325a217&v=4" alt="ThalisFernandes" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/ThalisFernandes" target="_blank">ThalisFernandes</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">4919</td>
-      <td align="center">
-        <a href="https://github.com/meryemarpaci" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/51757833?u=e1429c61cdda30f4bca4a454b9d59a27eb736b2e&v=4" alt="meryemarpaci" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/meryemarpaci" target="_blank">meryemarpaci</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">4920</td>
       <td align="center">
         <a href="https://github.com/Henrykioko" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/132352158?v=4" alt="Henrykioko" width="40" height="40"/>
@@ -116,7 +94,29 @@
       </td>
     </tr>
     <tr>
+      <td align="center">4920</td>
+      <td align="center">
+        <a href="https://github.com/chi1180" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/143685104?u=a7a2449325b339480d12db4baef5d956bcecb8f7&v=4" alt="chi1180" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/chi1180" target="_blank">chi1180</a>
+      </td>
+    </tr>
+    <tr>
       <td align="center">4921</td>
+      <td align="center">
+        <a href="https://github.com/muladz3gio" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/153388774?u=5faf8494822166f4679c82c5e8e2828e67d3568f&v=4" alt="muladz3gio" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/muladz3gio" target="_blank">muladz3gio</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">4922</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -786,4 +786,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.239s on Sun Aug 18 at 12:11</p>
+<p align="right">Generated in 0.234s on Sun Aug 18 at 12:13</p>
