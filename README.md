@@ -108,7 +108,7 @@
       <td align="center">4847</td>
       <td align="center">
         <a href="https://github.com/FKKuser" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/30369822?v=4" alt="FKKuser" width="40" height="40"/>
+          <img src="https://avatars.githubusercontent.com/u/30369822?u=c24f5eba9745bdb017f80035918b83c2aabbd802&v=4" alt="FKKuser" width="40" height="40"/>
         </a>
       </td>
       <td>
@@ -817,4 +817,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.34s on Sun Aug 18 at 0:46</p>
+<p align="right">Generated in 0.277s on Sun Aug 18 at 0:46</p>
