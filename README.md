@@ -85,17 +85,6 @@
     <tr>
       <td align="center">4891</td>
       <td align="center">
-        <a href="https://github.com/ANThonyRix" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/126322048?u=061e6e6e49c4b0e80bfc53181931e5e612487b0f&v=4" alt="ANThonyRix" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/ANThonyRix" target="_blank">ANThonyRix</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">4892</td>
-      <td align="center">
         <a href="https://github.com/kyborq" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/52314985?u=9be2c21d64b6bc4c6416b89e76da2b534bcf1bcf&v=4" alt="kyborq" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">4893</td>
+      <td align="center">4892</td>
       <td align="center">
         <a href="https://github.com/kamolacoder" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/157982260?v=4" alt="kamolacoder" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/kamolacoder" target="_blank">kamolacoder</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">4893</td>
+      <td align="center">
+        <a href="https://github.com/flavioscg" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/67764234?u=bd53cceda01f3f036a523f942398c2d4ec6afd60&v=4" alt="flavioscg" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/flavioscg" target="_blank">flavioscg</a>
       </td>
     </tr>
     <tr>
@@ -788,4 +788,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.364s on Sun Aug 18 at 9:24</p>
+<p align="right">Generated in 0.24s on Sun Aug 18 at 9:24</p>
