@@ -108,7 +108,7 @@
       <td align="center">4848</td>
       <td align="center">
         <a href="https://github.com/blockchainBard101" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/171518503?u=9b671d3859807be4c89c037f64071e20354079c4&v=4" alt="blockchainBard101" width="40" height="40"/>
+          <img src="https://avatars.githubusercontent.com/u/171518503?u=05b19735204d3918a6a1db4f5c5c04f42e099c9b&v=4" alt="blockchainBard101" width="40" height="40"/>
         </a>
       </td>
       <td>
@@ -817,4 +817,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.28s on Sun Aug 18 at 1:32</p>
+<p align="right">Generated in 0.276s on Sun Aug 18 at 1:34</p>
