@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">5263</td>
-      <td align="center">
-        <a href="https://github.com/jrgdiaz" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/17464377?u=6a818553f3ffb91445e813bbf905005db9708f61&v=4" alt="jrgdiaz" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/jrgdiaz" target="_blank">jrgdiaz</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">5264</td>
       <td align="center">
         <a href="https://github.com/gabrielgvss" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">5266</td>
+      <td align="center">
+        <a href="https://github.com/Nevrit" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/72528877?v=4" alt="Nevrit" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Nevrit" target="_blank">Nevrit</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">5267</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.239s on Mon Aug 19 at 13:53</p>
+<p align="right">Generated in 0.224s on Mon Aug 19 at 13:54</p>
