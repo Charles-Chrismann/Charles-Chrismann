@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">5266</td>
-      <td align="center">
-        <a href="https://github.com/Nevrit" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/72528877?v=4" alt="Nevrit" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Nevrit" target="_blank">Nevrit</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">5267</td>
       <td align="center">
         <a href="https://github.com/WinnieAtieno" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">5269</td>
+      <td align="center">
+        <a href="https://github.com/leoocavalcanti" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/98703816?u=b589473bc830fb073779ee7f51b42bd752278b99&v=4" alt="leoocavalcanti" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/leoocavalcanti" target="_blank">leoocavalcanti</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">5270</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.222s on Mon Aug 19 at 14:00</p>
+<p align="right">Generated in 0.21s on Mon Aug 19 at 14:00</p>
