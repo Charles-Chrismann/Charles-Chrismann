@@ -85,17 +85,6 @@
     <tr>
       <td align="center">5324</td>
       <td align="center">
-        <a href="https://github.com/tafariak" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/173389926?u=5a582d11c1b5c290408a2eb99b5062f3c1a1dd51&v=4" alt="tafariak" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/tafariak" target="_blank">tafariak</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">5325</td>
-      <td align="center">
         <a href="https://github.com/MrSmiler" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/34868070?u=7e92f4481885ed77ebb575e297854baef160d509&v=4" alt="MrSmiler" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">5326</td>
+      <td align="center">5325</td>
       <td align="center">
         <a href="https://github.com/Kushagra-Borse" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/91583360?v=4" alt="Kushagra-Borse" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/Kushagra-Borse" target="_blank">Kushagra-Borse</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">5326</td>
+      <td align="center">
+        <a href="https://github.com/tinashef" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/173449922?u=05deea7aef2870737b9385bab926c62c69ba3714&v=4" alt="tinashef" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/tinashef" target="_blank">tinashef</a>
       </td>
     </tr>
     <tr>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.294s on Mon Aug 19 at 16:41</p>
+<p align="right">Generated in 0.33s on Mon Aug 19 at 16:42</p>
