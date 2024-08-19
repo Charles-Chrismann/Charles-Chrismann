@@ -85,6 +85,17 @@
     <tr>
       <td align="center">5234</td>
       <td align="center">
+        <a href="https://github.com/lucielcastro" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/93848647?u=aea3b898fb58425d7de2d2457c1f8041623de94b&v=4" alt="lucielcastro" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/lucielcastro" target="_blank">lucielcastro</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">5235</td>
+      <td align="center">
         <a href="https://github.com/iskocc" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/170264058?u=e61af6659282bfee513610b484af4b819cf365b2&v=4" alt="iskocc" width="40" height="40"/>
         </a>
@@ -94,7 +105,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">5235</td>
+      <td align="center">5236</td>
       <td align="center">
         <a href="https://github.com/WhiteArct1c" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/99517221?u=13d0d45ba6de0c2850ee6685d357ced953d05374&v=4" alt="WhiteArct1c" width="40" height="40"/>
@@ -102,17 +113,6 @@
       </td>
       <td>
         <a href="https://github.com/WhiteArct1c" target="_blank">WhiteArct1c</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">5236</td>
-      <td align="center">
-        <a href="https://github.com/Asterrizz" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/142826831?u=b16d013eee7fdbb74c21017c154398ec022910f2&v=4" alt="Asterrizz" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Asterrizz" target="_blank">Asterrizz</a>
       </td>
     </tr>
     <tr>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.226s on Mon Aug 19 at 12:39</p>
+<p align="right">Generated in 0.225s on Mon Aug 19 at 12:39</p>
