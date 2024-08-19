@@ -107,12 +107,12 @@
     <tr>
       <td align="center">5154</td>
       <td align="center">
-        <a href="https://github.com/farshed" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/23633421?u=fd51c9c903f985a6de07255dcfc878f7938aec73&v=4" alt="farshed" width="40" height="40"/>
+        <a href="https://github.com/bugrahansimsek" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/161358846?u=cc7ee255d06c6e98bbbb0161c0db97fc75814e78&v=4" alt="bugrahansimsek" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/farshed" target="_blank">farshed</a>
+        <a href="https://github.com/bugrahansimsek" target="_blank">bugrahansimsek</a>
       </td>
     </tr>
     <tr>
@@ -799,4 +799,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.227s on Mon Aug 19 at 8:37</p>
+<p align="right">Generated in 0.224s on Mon Aug 19 at 8:39</p>
