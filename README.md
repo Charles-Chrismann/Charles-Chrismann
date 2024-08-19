@@ -85,17 +85,6 @@
     <tr>
       <td align="center">5197</td>
       <td align="center">
-        <a href="https://github.com/Ayo-1" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/52506241?v=4" alt="Ayo-1" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Ayo-1" target="_blank">Ayo-1</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">5198</td>
-      <td align="center">
         <a href="https://github.com/LucasFeliciano02" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/90653345?u=048fcfe69a1461ecef94bff4e02fc6bfa85b608f&v=4" alt="LucasFeliciano02" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">5199</td>
+      <td align="center">5198</td>
       <td align="center">
         <a href="https://github.com/Rafaelmdcarneiro" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/20961091?u=de5563f3585618f0ebf56c4aee24deff42cfd5c4&v=4" alt="Rafaelmdcarneiro" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/Rafaelmdcarneiro" target="_blank">Rafaelmdcarneiro</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">5199</td>
+      <td align="center">
+        <a href="https://github.com/Laurenz19" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/96655416?u=b897eba4c1f0572535487936362c331c7593ff03&v=4" alt="Laurenz19" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Laurenz19" target="_blank">Laurenz19</a>
       </td>
     </tr>
     <tr>
@@ -804,4 +804,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.244s on Mon Aug 19 at 11:20</p>
+<p align="right">Generated in 0.237s on Mon Aug 19 at 11:20</p>
