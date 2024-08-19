@@ -83,29 +83,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">5065</td>
-      <td align="center">
-        <a href="https://github.com/cydlos" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/42797266?u=37e3b2d659aedca6bab81f0103f72b14a47e898c&v=4" alt="cydlos" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/cydlos" target="_blank">cydlos</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">5066</td>
-      <td align="center">
-        <a href="https://github.com/jwilson529" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/11369965?u=d2353718993da3ecc8705c1b02cfae554fb1ed1f&v=4" alt="jwilson529" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/jwilson529" target="_blank">jwilson529</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">5067</td>
       <td align="center">
         <a href="https://github.com/ManarHelmi" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/171727342?u=aca7dec644778a3e5f0c6e13ecb626f920688415&v=4" alt="ManarHelmi" width="40" height="40"/>
@@ -116,7 +94,29 @@
       </td>
     </tr>
     <tr>
+      <td align="center">5067</td>
+      <td align="center">
+        <a href="https://github.com/David-Ackerman" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/54602228?u=f83589933fa382ff202a34ed5d6a16e70f62df82&v=4" alt="David-Ackerman" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/David-Ackerman" target="_blank">David-Ackerman</a>
+      </td>
+    </tr>
+    <tr>
       <td align="center">5068</td>
+      <td align="center">
+        <a href="https://github.com/GustaAltF4" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/176166923?u=5c190b139c94cd36627490e44b8f3763b189ee64&v=4" alt="GustaAltF4" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/GustaAltF4" target="_blank">GustaAltF4</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">5069</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.22s on Mon Aug 19 at 1:33</p>
+<p align="right">Generated in 0.206s on Mon Aug 19 at 1:35</p>
