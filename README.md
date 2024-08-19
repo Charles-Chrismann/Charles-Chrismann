@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">5078</td>
-      <td align="center">
-        <a href="https://github.com/Yudis-bit" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/85178972?u=09ccfc2348333dbe4f58edf199138e0fbd194a26&v=4" alt="Yudis-bit" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Yudis-bit" target="_blank">Yudis-bit</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">5079</td>
       <td align="center">
         <a href="https://github.com/virtual-designer" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">5081</td>
+      <td align="center">
+        <a href="https://github.com/rinvii" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/76126859?u=52c98067174c57523954336ee0474d8edb39fe57&v=4" alt="rinvii" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/rinvii" target="_blank">rinvii</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">5082</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.178s on Mon Aug 19 at 2:53</p>
+<p align="right">Generated in 0.193s on Mon Aug 19 at 2:55</p>
