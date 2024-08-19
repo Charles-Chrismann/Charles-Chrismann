@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">5118</td>
-      <td align="center">
-        <a href="https://github.com/WhiteSymmetry" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/5471497?u=788d5ec0b1869f2cdf1928b2816adcc5e2127d9c&v=4" alt="WhiteSymmetry" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/WhiteSymmetry" target="_blank">WhiteSymmetry</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">5119</td>
       <td align="center">
         <a href="https://github.com/mbagh3ri" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">5121</td>
+      <td align="center">
+        <a href="https://github.com/sedrac-slc" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/57668040?v=4" alt="sedrac-slc" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/sedrac-slc" target="_blank">sedrac-slc</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">5122</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -487,7 +487,7 @@
   <span>:one:</span>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=11&y=11">:black_large_square:</a>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=12&y=11">:black_large_square:</a>
-  <a href="https://o.charles-chrismann.fr/minesweeper/click?x=13&y=11">:black_large_square:</a>
+  <span>:four:</span>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=14&y=11">:black_large_square:</a>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=15&y=11">:black_large_square:</a>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=16&y=11">:black_large_square:</a>
@@ -804,4 +804,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.296s on Mon Aug 19 at 6:30</p>
+<p align="right">Generated in 0.941s on Mon Aug 19 at 6:36</p>
