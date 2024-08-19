@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">5077</td>
-      <td align="center">
-        <a href="https://github.com/Ripwords" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/58784686?u=4f4f695753ee3433007046c9ef56f40b8354dfd5&v=4" alt="Ripwords" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Ripwords" target="_blank">Ripwords</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">5078</td>
       <td align="center">
         <a href="https://github.com/Yudis-bit" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">5080</td>
+      <td align="center">
+        <a href="https://github.com/diwakarcs50" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/85155726?u=bc520b5c01f3f6226fa749fd7e3436b874ddc60a&v=4" alt="diwakarcs50" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/diwakarcs50" target="_blank">diwakarcs50</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">5081</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.371s on Mon Aug 19 at 2:49</p>
+<p align="right">Generated in 0.364s on Mon Aug 19 at 2:49</p>
