@@ -85,34 +85,34 @@
     <tr>
       <td align="center">5324</td>
       <td align="center">
-        <a href="https://github.com/elecbug" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/81972855?u=7aa393fbd725ce1d5e0b67f90f06f31ef302b40b&v=4" alt="elecbug" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/elecbug" target="_blank">elecbug</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">5325</td>
-      <td align="center">
-        <a href="https://github.com/anirudh-hegde" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/105560839?u=798d1255300d41514289867ccca4209d1c9f88a1&v=4" alt="anirudh-hegde" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/anirudh-hegde" target="_blank">anirudh-hegde</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">5326</td>
-      <td align="center">
         <a href="https://github.com/tafariak" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/173389926?u=5a582d11c1b5c290408a2eb99b5062f3c1a1dd51&v=4" alt="tafariak" width="40" height="40"/>
         </a>
       </td>
       <td>
         <a href="https://github.com/tafariak" target="_blank">tafariak</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">5325</td>
+      <td align="center">
+        <a href="https://github.com/MrSmiler" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/34868070?u=7e92f4481885ed77ebb575e297854baef160d509&v=4" alt="MrSmiler" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/MrSmiler" target="_blank">MrSmiler</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">5326</td>
+      <td align="center">
+        <a href="https://github.com/Kushagra-Borse" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/91583360?v=4" alt="Kushagra-Borse" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Kushagra-Borse" target="_blank">Kushagra-Borse</a>
       </td>
     </tr>
     <tr>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.275s on Mon Aug 19 at 16:38</p>
+<p align="right">Generated in 0.294s on Mon Aug 19 at 16:41</p>
