@@ -108,7 +108,7 @@
       <td align="center">5345</td>
       <td align="center">
         <a href="https://github.com/ravindrasinghh" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/51900358?v=4" alt="ravindrasinghh" width="40" height="40"/>
+          <img src="https://avatars.githubusercontent.com/u/51900358?u=c355f37ac06f57f223a015f5c22b3acb258f9fa4&v=4" alt="ravindrasinghh" width="40" height="40"/>
         </a>
       </td>
       <td>
@@ -804,4 +804,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 3.926s on Mon Aug 19 at 17:20</p>
+<p align="right">Generated in 0.213s on Mon Aug 19 at 17:21</p>
