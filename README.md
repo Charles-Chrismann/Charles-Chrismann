@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">5076</td>
-      <td align="center">
-        <a href="https://github.com/weekenthralling" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/42287098?u=6a720b060800fa4ff6e01c75a6f44bc5eeaffced&v=4" alt="weekenthralling" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/weekenthralling" target="_blank">weekenthralling</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">5077</td>
       <td align="center">
         <a href="https://github.com/Ripwords" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">5079</td>
+      <td align="center">
+        <a href="https://github.com/virtual-designer" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/68149013?u=4cbd824914489b198836f281da7eb95faa596472&v=4" alt="virtual-designer" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/virtual-designer" target="_blank">virtual-designer</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">5080</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -789,4 +789,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.46s on Mon Aug 19 at 2:45</p>
+<p align="right">Generated in 0.418s on Mon Aug 19 at 2:48</p>
