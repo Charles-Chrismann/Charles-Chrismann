@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">5166</td>
-      <td align="center">
-        <a href="https://github.com/Yedboy33k" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/150866155?u=2a486b84e0e3604bc1a812225df80abb88236c3f&v=4" alt="Yedboy33k" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Yedboy33k" target="_blank">Yedboy33k</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">5167</td>
       <td align="center">
         <a href="https://github.com/younggg1" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">5169</td>
+      <td align="center">
+        <a href="https://github.com/Chaupatil" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/21153720?v=4" alt="Chaupatil" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Chaupatil" target="_blank">Chaupatil</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">5170</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.253s on Mon Aug 19 at 10:03</p>
+<p align="right">Generated in 0.241s on Mon Aug 19 at 10:05</p>
