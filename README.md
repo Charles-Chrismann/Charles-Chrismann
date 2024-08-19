@@ -85,17 +85,6 @@
     <tr>
       <td align="center">5409</td>
       <td align="center">
-        <a href="https://github.com/TalyLisboa" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/169401983?u=b31278f6234d1f36f193d55e561795ba487cf583&v=4" alt="TalyLisboa" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/TalyLisboa" target="_blank">TalyLisboa</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">5410</td>
-      <td align="center">
         <a href="https://github.com/newmersedez" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/74685734?u=2bfd33b22494ebad3ca6ab88f2b2124414ef9b8d&v=4" alt="newmersedez" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">5411</td>
+      <td align="center">5410</td>
       <td align="center">
         <a href="https://github.com/JohnMwendwa" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/72663882?u=805073cc702701b4ad6c56a60dc0bdae9ccac964&v=4" alt="JohnMwendwa" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/JohnMwendwa" target="_blank">JohnMwendwa</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">5411</td>
+      <td align="center">
+        <a href="https://github.com/juliana15paak" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/112185575?u=ec4c69e10c14a47803ab6d3f6018d36743d30189&v=4" alt="juliana15paak" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/juliana15paak" target="_blank">juliana15paak</a>
       </td>
     </tr>
     <tr>
@@ -803,4 +803,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.235s on Mon Aug 19 at 20:52</p>
+<p align="right">Generated in 0.272s on Mon Aug 19 at 20:55</p>
