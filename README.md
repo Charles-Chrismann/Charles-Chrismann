@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">5347</td>
-      <td align="center">
-        <a href="https://github.com/setografi" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/103815100?u=8f3ca0b6bff5c16105dc1666dfc8a741f3a32b68&v=4" alt="setografi" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/setografi" target="_blank">setografi</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">5348</td>
       <td align="center">
         <a href="https://github.com/libertus21" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">5350</td>
+      <td align="center">
+        <a href="https://github.com/yungdavo" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/113898608?v=4" alt="yungdavo" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/yungdavo" target="_blank">yungdavo</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">5351</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -803,4 +803,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.708s on Mon Aug 19 at 17:31</p>
+<p align="right">Generated in 0.532s on Mon Aug 19 at 17:33</p>
