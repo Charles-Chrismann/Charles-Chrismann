@@ -83,40 +83,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">5732</td>
+      <td align="center">5736</td>
       <td align="center">
-        <a href="https://github.com/bialger" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/42319615?u=dbdfe78c7347b08ecb2b752c2fd2233c9d54b88f&v=4" alt="bialger" width="40" height="40"/>
+        <a href="https://github.com/barbosarafael" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/44044829?u=7ffaba6843b806d5731f7d7cab541ea09fb1d538&v=4" alt="barbosarafael" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/bialger" target="_blank">bialger</a>
+        <a href="https://github.com/barbosarafael" target="_blank">barbosarafael</a>
       </td>
     </tr>
     <tr>
-      <td align="center">5733</td>
+      <td align="center">5737</td>
       <td align="center">
-        <a href="https://github.com/danielle-sousa" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/43586917?u=1ead59b2251e98914c3348464998c6dd66e0227e&v=4" alt="danielle-sousa" width="40" height="40"/>
+        <a href="https://github.com/northvenv" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/110907532?u=e7897463f1752fec8b86b43817cec15221acec6a&v=4" alt="northvenv" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/danielle-sousa" target="_blank">danielle-sousa</a>
+        <a href="https://github.com/northvenv" target="_blank">northvenv</a>
       </td>
     </tr>
     <tr>
-      <td align="center">5734</td>
+      <td align="center">5738</td>
       <td align="center">
-        <a href="https://github.com/Sapiosonic" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/56330517?u=7af1eb113e748b2d8c9fb72ee44b8f5a2203ac52&v=4" alt="Sapiosonic" width="40" height="40"/>
+        <a href="https://github.com/lynnkathomi" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/114350976?u=e81da433c04c94943d6e42a585891dbb262a100f&v=4" alt="lynnkathomi" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/Sapiosonic" target="_blank">Sapiosonic</a>
+        <a href="https://github.com/lynnkathomi" target="_blank">lynnkathomi</a>
       </td>
     </tr>
     <tr>
-      <td align="center">5735</td>
+      <td align="center">5739</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -810,4 +810,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.376s on Tue Aug 20 at 18:02</p>
+<p align="right">Generated in 0.375s on Tue Aug 20 at 18:04</p>
