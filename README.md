@@ -85,17 +85,6 @@
     <tr>
       <td align="center">5599</td>
       <td align="center">
-        <a href="https://github.com/sat0ro" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/147773080?v=4" alt="sat0ro" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/sat0ro" target="_blank">sat0ro</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">5600</td>
-      <td align="center">
         <a href="https://github.com/GTBelini22" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/117125736?u=42a0f5b2b07c229daa55917f2d7441d6ed1fd685&v=4" alt="GTBelini22" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">5601</td>
+      <td align="center">5600</td>
       <td align="center">
         <a href="https://github.com/pholiveiradev" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/112017421?u=83175830c992abc49ce50a6d706acee25e5ba251&v=4" alt="pholiveiradev" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/pholiveiradev" target="_blank">pholiveiradev</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">5601</td>
+      <td align="center">
+        <a href="https://github.com/JohnMwendwa" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/72663882?u=805073cc702701b4ad6c56a60dc0bdae9ccac964&v=4" alt="JohnMwendwa" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/JohnMwendwa" target="_blank">JohnMwendwa</a>
       </td>
     </tr>
     <tr>
@@ -812,4 +812,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.264s on Tue Aug 20 at 10:44</p>
+<p align="right">Generated in 0.261s on Tue Aug 20 at 10:46</p>
