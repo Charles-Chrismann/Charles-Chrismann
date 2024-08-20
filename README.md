@@ -795,6 +795,16 @@
       </td>
     </tr>
     <tr>
+      <td>$\text{\color{orange}{L}}$</td>
+      <td>$\text{\color{lightgreen}{I}}$</td>
+      <td>$\text{\color{white}{G}}$</td>
+      <td>$\text{\color{orange}{H}}$</td>
+      <td>$\text{\color{orange}{T}}$</td>
+      <td>
+        <a href="https://github.com/Foword5">@Foword5</a>
+      </td>
+    </tr>
+    <tr>
       <td>‎ </td>
       <td>‎ </td>
       <td>‎ </td>
