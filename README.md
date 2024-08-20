@@ -83,40 +83,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">5646</td>
-      <td align="center">
-        <a href="https://github.com/jkatyam52" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/40218748?u=f1c8568055aa5e901e470b814a25ec6dc3467947&v=4" alt="jkatyam52" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/jkatyam52" target="_blank">jkatyam52</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">5647</td>
-      <td align="center">
-        <a href="https://github.com/cholmaster" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/168180007?u=591f765d6bd5eb0458471d27e167185e6b38b84c&v=4" alt="cholmaster" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/cholmaster" target="_blank">cholmaster</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">5648</td>
-      <td align="center">
-        <a href="https://github.com/emirakinci" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/98558882?u=96e4d0b4aa3885d54769be8dc3ded1fac63dc5f9&v=4" alt="emirakinci" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/emirakinci" target="_blank">emirakinci</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">5649</td>
+      <td align="center">
+        <a href="https://github.com/AnthonySarzuri" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/88399326?u=c68d355eb81e20c46264ba09674934c9a571d95c&v=4" alt="AnthonySarzuri" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/AnthonySarzuri" target="_blank">AnthonySarzuri</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">5650</td>
+      <td align="center">
+        <a href="https://github.com/ngochan8888" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/141137521?u=3b486434ddc64c34ebcdb0416f8505c637b9617a&v=4" alt="ngochan8888" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/ngochan8888" target="_blank">ngochan8888</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">5651</td>
+      <td align="center">
+        <a href="https://github.com/danielvieira95" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/59611852?u=fa0d4e16f7806701d5e3de007b938a69c30a472e&v=4" alt="danielvieira95" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/danielvieira95" target="_blank">danielvieira95</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">5652</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -883,4 +883,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.978s on Tue Aug 20 at 13:26</p>
+<p align="right">Generated in 0.871s on Tue Aug 20 at 13:36</p>
