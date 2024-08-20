@@ -85,17 +85,6 @@
     <tr>
       <td align="center">5660</td>
       <td align="center">
-        <a href="https://github.com/mahmut-Abi" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/96514873?u=345c576210f72ac15f0ff56f9b00693b0497e4e2&v=4" alt="mahmut-Abi" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/mahmut-Abi" target="_blank">mahmut-Abi</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">5661</td>
-      <td align="center">
         <a href="https://github.com/Nex-DoT" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/123931213?u=93b901d47c50fd6833e953620d0bdb388da874b4&v=4" alt="Nex-DoT" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">5662</td>
+      <td align="center">5661</td>
       <td align="center">
         <a href="https://github.com/DataEraserC" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/102341238?u=63230523b86ae01850e99c88e24b08efad01de37&v=4" alt="DataEraserC" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/DataEraserC" target="_blank">DataEraserC</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">5662</td>
+      <td align="center">
+        <a href="https://github.com/Gabriel-Bastos-Rabelo" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/114198251?u=d40555781f543f331f0177cc6e02834f0332a6d5&v=4" alt="Gabriel-Bastos-Rabelo" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Gabriel-Bastos-Rabelo" target="_blank">Gabriel-Bastos-Rabelo</a>
       </td>
     </tr>
     <tr>
@@ -864,4 +864,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.939s on Tue Aug 20 at 14:09</p>
+<p align="right">Generated in 0.937s on Tue Aug 20 at 14:12</p>
