@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">5506</td>
-      <td align="center">
-        <a href="https://github.com/LinuxProgramador" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/154765747?v=4" alt="LinuxProgramador" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/LinuxProgramador" target="_blank">LinuxProgramador</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">5507</td>
       <td align="center">
         <a href="https://github.com/puspalalnewar" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">5509</td>
+      <td align="center">
+        <a href="https://github.com/YuriGUs" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/53576600?u=d2912aca6f4fa071e3529f508f60bda71f6519bd&v=4" alt="YuriGUs" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/YuriGUs" target="_blank">YuriGUs</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">5510</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -802,4 +802,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 1.555s on Tue Aug 20 at 4:15</p>
+<p align="right">Generated in 1.587s on Tue Aug 20 at 4:15</p>
