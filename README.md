@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">5766</td>
-      <td align="center">
-        <a href="https://github.com/ktaller" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/115089517?v=4" alt="ktaller" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/ktaller" target="_blank">ktaller</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">5767</td>
       <td align="center">
         <a href="https://github.com/alejandroponce00" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">5769</td>
+      <td align="center">
+        <a href="https://github.com/AbdulkerimMutlu" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/174211111?v=4" alt="AbdulkerimMutlu" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/AbdulkerimMutlu" target="_blank">AbdulkerimMutlu</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">5770</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -868,4 +868,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.201s on Tue Aug 20 at 20:52</p>
+<p align="right">Generated in 0.185s on Tue Aug 20 at 20:54</p>
