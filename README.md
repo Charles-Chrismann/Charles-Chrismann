@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">5786</td>
-      <td align="center">
-        <a href="https://github.com/Depredador-cloud" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/63932523?u=e811c7eff88bd9a6bd51e5c967607e9b4b31b375&v=4" alt="Depredador-cloud" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Depredador-cloud" target="_blank">Depredador-cloud</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">5787</td>
       <td align="center">
         <a href="https://github.com/DaviCoene" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">5789</td>
+      <td align="center">
+        <a href="https://github.com/AlexandrinoMaranhao" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/78682655?u=176f246c146659ca52da5360df4acbc0dd333ed3&v=4" alt="AlexandrinoMaranhao" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/AlexandrinoMaranhao" target="_blank">AlexandrinoMaranhao</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">5790</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -806,4 +806,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.409s on Tue Aug 20 at 23:06</p>
+<p align="right">Generated in 0.247s on Tue Aug 20 at 23:07</p>
