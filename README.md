@@ -83,28 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">5458</td>
-      <td align="center">
-        <a href="https://github.com/Unstablemental" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/111853245?u=533bd0a837cccea4b3b3c6adb5a6ab485eda19dd&v=4" alt="Unstablemental" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Unstablemental" target="_blank">Unstablemental</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">5459</td>
-      <td align="center">
-        <a href="https://github.com/yellowgnuoy" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/116864621?u=b6f505664b3fb76ef2b9c769a613888dc010af90&v=4" alt="yellowgnuoy" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/yellowgnuoy" target="_blank">yellowgnuoy</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">5460</td>
       <td align="center">
         <a href="https://github.com/DanielCruz12" target="_blank">
@@ -117,6 +95,28 @@
     </tr>
     <tr>
       <td align="center">5461</td>
+      <td align="center">
+        <a href="https://github.com/OpenSource-For-Freedom" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/92951498?u=531190ac44fc695733c3d984d78a492b55b195ab&v=4" alt="OpenSource-For-Freedom" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/OpenSource-For-Freedom" target="_blank">OpenSource-For-Freedom</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">5462</td>
+      <td align="center">
+        <a href="https://github.com/Eniola011" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/84015129?u=3eb4673dba17681807ab4c8ae2f154f574127a44&v=4" alt="Eniola011" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Eniola011" target="_blank">Eniola011</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">5463</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -314,7 +314,7 @@
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=8&y=2">:black_large_square:</a>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=9&y=2">:black_large_square:</a>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=10&y=2">:black_large_square:</a>
-  <a href="https://o.charles-chrismann.fr/minesweeper/click?x=11&y=2">:black_large_square:</a>
+  <span>:two:</span>
   <span>:two:</span>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=13&y=2">:black_large_square:</a>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=14&y=2">:black_large_square:</a>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.266s on Tue Aug 20 at 0:33</p>
+<p align="right">Generated in 0.31s on Tue Aug 20 at 0:34</p>
