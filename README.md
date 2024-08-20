@@ -85,17 +85,6 @@
     <tr>
       <td align="center">5545</td>
       <td align="center">
-        <a href="https://github.com/stefanfreitag" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/10981698?u=4460a070a9b556e23f90b5a4bc1ddd1e3cba52a3&v=4" alt="stefanfreitag" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/stefanfreitag" target="_blank">stefanfreitag</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">5546</td>
-      <td align="center">
         <a href="https://github.com/susuje" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/115439373?v=4" alt="susuje" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">5547</td>
+      <td align="center">5546</td>
       <td align="center">
         <a href="https://github.com/yoonju977" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/64734436?u=802892f1e89163a916257a920c06a7ef24c359b2&v=4" alt="yoonju977" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/yoonju977" target="_blank">yoonju977</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">5547</td>
+      <td align="center">
+        <a href="https://github.com/tesa-klebeband" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/121752399?u=70fb1a87a3c038d4d2e1f1c12a4c8dbb4de1aca3&v=4" alt="tesa-klebeband" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/tesa-klebeband" target="_blank">tesa-klebeband</a>
       </td>
     </tr>
     <tr>
@@ -809,4 +809,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.488s on Tue Aug 20 at 7:13</p>
+<p align="right">Generated in 0.29s on Tue Aug 20 at 7:13</p>
