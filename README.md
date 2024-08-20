@@ -85,17 +85,6 @@
     <tr>
       <td align="center">5460</td>
       <td align="center">
-        <a href="https://github.com/OpenSource-For-Freedom" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/92951498?u=531190ac44fc695733c3d984d78a492b55b195ab&v=4" alt="OpenSource-For-Freedom" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/OpenSource-For-Freedom" target="_blank">OpenSource-For-Freedom</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">5461</td>
-      <td align="center">
         <a href="https://github.com/Eniola011" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/84015129?u=3eb4673dba17681807ab4c8ae2f154f574127a44&v=4" alt="Eniola011" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">5462</td>
+      <td align="center">5461</td>
       <td align="center">
         <a href="https://github.com/kurogee" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/115858350?u=da3d68b3677db4ed18e175681e4d226363ff6738&v=4" alt="kurogee" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/kurogee" target="_blank">kurogee</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">5462</td>
+      <td align="center">
+        <a href="https://github.com/lafayettegabe" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/99471382?u=68a46a4754b3bac0cb5b42545038d07e29b163dc&v=4" alt="lafayettegabe" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/lafayettegabe" target="_blank">lafayettegabe</a>
       </td>
     </tr>
     <tr>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.301s on Tue Aug 20 at 0:44</p>
+<p align="right">Generated in 0.344s on Tue Aug 20 at 0:56</p>
