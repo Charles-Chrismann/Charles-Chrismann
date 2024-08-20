@@ -85,17 +85,6 @@
     <tr>
       <td align="center">5785</td>
       <td align="center">
-        <a href="https://github.com/kayketeixeira" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/55967749?u=c2df92449bbdf3c288804c58f8624629d14ba160&v=4" alt="kayketeixeira" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/kayketeixeira" target="_blank">kayketeixeira</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">5786</td>
-      <td align="center">
         <a href="https://github.com/LuyysHenriqueKuromi" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/121971847?u=008af55bd8afe893a07b8036f5f42bef812b8278&v=4" alt="LuyysHenriqueKuromi" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">5787</td>
+      <td align="center">5786</td>
       <td align="center">
         <a href="https://github.com/Depredador-cloud" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/63932523?u=e811c7eff88bd9a6bd51e5c967607e9b4b31b375&v=4" alt="Depredador-cloud" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/Depredador-cloud" target="_blank">Depredador-cloud</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">5787</td>
+      <td align="center">
+        <a href="https://github.com/DaviCoene" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/62859036?u=0c7e7be84309f50bbc72908109bbe394bca992a0&v=4" alt="DaviCoene" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/DaviCoene" target="_blank">DaviCoene</a>
       </td>
     </tr>
     <tr>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.255s on Tue Aug 20 at 23:02</p>
+<p align="right">Generated in 0.248s on Tue Aug 20 at 23:02</p>
