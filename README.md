@@ -83,40 +83,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">5744</td>
-      <td align="center">
-        <a href="https://github.com/levywanke" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/132353709?u=42094e6bb61d57b8a96086de063fa90a63d68527&v=4" alt="levywanke" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/levywanke" target="_blank">levywanke</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">5745</td>
-      <td align="center">
-        <a href="https://github.com/Tackx" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/40445940?u=4d2e8fb44867b5026a3d2a3033e93fd46c34cbe6&v=4" alt="Tackx" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Tackx" target="_blank">Tackx</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">5746</td>
-      <td align="center">
-        <a href="https://github.com/SahilKhan44" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/116485673?u=4d464698dc8829d28742470970eca87570896096&v=4" alt="SahilKhan44" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/SahilKhan44" target="_blank">SahilKhan44</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">5747</td>
+      <td align="center">
+        <a href="https://github.com/Nzube-ctrl" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/61067145?u=47cbc364429914218668018c3908055caefd7fb3&v=4" alt="Nzube-ctrl" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Nzube-ctrl" target="_blank">Nzube-ctrl</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">5748</td>
+      <td align="center">
+        <a href="https://github.com/galvisjuanc" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/62962472?u=b84685c67eae425150bfeb55423f05aeb6b0fc91&v=4" alt="galvisjuanc" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/galvisjuanc" target="_blank">galvisjuanc</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">5749</td>
+      <td align="center">
+        <a href="https://github.com/SKB-TECH" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/107865172?u=ea61fcfaaaec02ed009204979df2a725029c0401&v=4" alt="SKB-TECH" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/SKB-TECH" target="_blank">SKB-TECH</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">5750</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -810,4 +810,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.399s on Tue Aug 20 at 18:43</p>
+<p align="right">Generated in 0.377s on Tue Aug 20 at 18:45</p>
