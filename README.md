@@ -751,6 +751,16 @@
   </thead>
   <tbody>
     <tr>
+      <td>$\text{\color{white}{C}}$</td>
+      <td>$\text{\color{orange}{L}}$</td>
+      <td>$\text{\color{white}{E}}$</td>
+      <td>$\text{\color{white}{A}}$</td>
+      <td>$\text{\color{white}{R}}$</td>
+      <td>
+        <a href="https://github.com/KTorresgit">@KTorresgit</a>
+      </td>
+    </tr>
+    <tr>
       <td>‎ </td>
       <td>‎ </td>
       <td>‎ </td>
@@ -812,4 +822,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.226s on Tue Aug 20 at 12:09</p>
+<p align="right">Generated in 0.243s on Tue Aug 20 at 12:12</p>
