@@ -86,7 +86,7 @@
       <td align="center">5680</td>
       <td align="center">
         <a href="https://github.com/Pheonix747hs" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/94136752?v=4" alt="Pheonix747hs" width="40" height="40"/>
+          <img src="https://avatars.githubusercontent.com/u/94136752?u=9d44eed82ee21ccd6af7aebe1cfdfa8ab69e4930&v=4" alt="Pheonix747hs" width="40" height="40"/>
         </a>
       </td>
       <td>
@@ -878,4 +878,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.304s on Tue Aug 20 at 15:19</p>
+<p align="right">Generated in 0.312s on Tue Aug 20 at 15:20</p>
