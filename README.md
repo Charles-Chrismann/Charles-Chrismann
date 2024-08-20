@@ -85,17 +85,6 @@
     <tr>
       <td align="center">5476</td>
       <td align="center">
-        <a href="https://github.com/souza10v" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/71847472?u=4e8317f0a1b7b0f6b35bc2616491996a86819b8d&v=4" alt="souza10v" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/souza10v" target="_blank">souza10v</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">5477</td>
-      <td align="center">
         <a href="https://github.com/duketheduck1" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/104491261?u=d2b9422e5c8f621fab93a2312cf885eb54e42b18&v=4" alt="duketheduck1" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">5478</td>
+      <td align="center">5477</td>
       <td align="center">
         <a href="https://github.com/amonodrama" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/167640840?u=a0f0527a89591f07d2a23404caf57cf9e3fb2110&v=4" alt="amonodrama" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/amonodrama" target="_blank">amonodrama</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">5478</td>
+      <td align="center">
+        <a href="https://github.com/aurelioo29" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/109930573?u=989e4b5ab819af4d44b02377878a1bf6ad3312a1&v=4" alt="aurelioo29" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/aurelioo29" target="_blank">aurelioo29</a>
       </td>
     </tr>
     <tr>
@@ -806,4 +806,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.242s on Tue Aug 20 at 1:56</p>
+<p align="right">Generated in 0.237s on Tue Aug 20 at 1:59</p>
