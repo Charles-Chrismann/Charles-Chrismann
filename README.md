@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">5457</td>
-      <td align="center">
-        <a href="https://github.com/Takuma-ux" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/113284374?v=4" alt="Takuma-ux" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Takuma-ux" target="_blank">Takuma-ux</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">5458</td>
       <td align="center">
         <a href="https://github.com/Unstablemental" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">5460</td>
+      <td align="center">
+        <a href="https://github.com/DanielCruz12" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/94976934?u=3941236f0ba9a50bc379aa958474f43cd6b3f9ee&v=4" alt="DanielCruz12" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/DanielCruz12" target="_blank">DanielCruz12</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">5461</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -790,4 +790,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.377s on Tue Aug 20 at 0:28</p>
+<p align="right">Generated in 0.37s on Tue Aug 20 at 0:32</p>
