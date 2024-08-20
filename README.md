@@ -785,6 +785,16 @@
       </td>
     </tr>
     <tr>
+      <td>$\text{\color{orange}{I}}$</td>
+      <td>$\text{\color{white}{G}}$</td>
+      <td>$\text{\color{lightgreen}{L}}$</td>
+      <td>$\text{\color{white}{O}}$</td>
+      <td>$\text{\color{white}{O}}$</td>
+      <td>
+        <a href="https://github.com/Foword5">@Foword5</a>
+      </td>
+    </tr>
+    <tr>
       <td>‎ </td>
       <td>‎ </td>
       <td>‎ </td>
@@ -846,4 +856,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.379s on Tue Aug 20 at 12:25</p>
+<p align="right">Generated in 0.236s on Tue Aug 20 at 12:27</p>
