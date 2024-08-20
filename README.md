@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">5599</td>
-      <td align="center">
-        <a href="https://github.com/GTBelini22" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/117125736?u=42a0f5b2b07c229daa55917f2d7441d6ed1fd685&v=4" alt="GTBelini22" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/GTBelini22" target="_blank">GTBelini22</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">5600</td>
       <td align="center">
         <a href="https://github.com/pholiveiradev" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">5602</td>
+      <td align="center">
+        <a href="https://github.com/hack-with-ethics" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/111492120?u=ffec45c0667fd8e5d8b9f2aee90bacbe729a11cd&v=4" alt="hack-with-ethics" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/hack-with-ethics" target="_blank">hack-with-ethics</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">5603</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -812,4 +812,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.264s on Tue Aug 20 at 10:49</p>
+<p align="right">Generated in 0.265s on Tue Aug 20 at 10:53</p>
