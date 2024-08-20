@@ -85,17 +85,6 @@
     <tr>
       <td align="center">5475</td>
       <td align="center">
-        <a href="https://github.com/Starbow-Break" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/103927296?u=a06d25cd60e95df68072f8f432e9bdd9df88e9cb&v=4" alt="Starbow-Break" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Starbow-Break" target="_blank">Starbow-Break</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">5476</td>
-      <td align="center">
         <a href="https://github.com/SaraBioinformatics" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/115336007?u=de306ff9cd66a86ffb21f4e5403c950404dfeeb3&v=4" alt="SaraBioinformatics" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">5477</td>
+      <td align="center">5476</td>
       <td align="center">
         <a href="https://github.com/souza10v" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/71847472?u=4e8317f0a1b7b0f6b35bc2616491996a86819b8d&v=4" alt="souza10v" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/souza10v" target="_blank">souza10v</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">5477</td>
+      <td align="center">
+        <a href="https://github.com/duketheduck1" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/104491261?u=d2b9422e5c8f621fab93a2312cf885eb54e42b18&v=4" alt="duketheduck1" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/duketheduck1" target="_blank">duketheduck1</a>
       </td>
     </tr>
     <tr>
@@ -806,4 +806,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.236s on Tue Aug 20 at 1:52</p>
+<p align="right">Generated in 0.238s on Tue Aug 20 at 1:54</p>
