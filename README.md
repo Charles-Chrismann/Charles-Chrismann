@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">5727</td>
-      <td align="center">
-        <a href="https://github.com/adeliadev" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/106125277?u=cdd530ce01d94136a58f2a7636bca56b5c2ef021&v=4" alt="adeliadev" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/adeliadev" target="_blank">adeliadev</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">5728</td>
       <td align="center">
         <a href="https://github.com/shad-abdulsamad" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">5730</td>
+      <td align="center">
+        <a href="https://github.com/delrio12" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/46386070?u=c694a20399337865499619cd6ea38dee8c9965dd&v=4" alt="delrio12" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/delrio12" target="_blank">delrio12</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">5731</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -869,4 +869,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.263s on Tue Aug 20 at 17:48</p>
+<p align="right">Generated in 0.272s on Tue Aug 20 at 17:49</p>
