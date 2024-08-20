@@ -83,29 +83,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">5463</td>
-      <td align="center">
-        <a href="https://github.com/lafayettegabe" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/99471382?u=68a46a4754b3bac0cb5b42545038d07e29b163dc&v=4" alt="lafayettegabe" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/lafayettegabe" target="_blank">lafayettegabe</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">5464</td>
-      <td align="center">
-        <a href="https://github.com/bright-spark" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/5949436?u=f318eba4d03afa89a6069bc7610db8ee2291837e&v=4" alt="bright-spark" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/bright-spark" target="_blank">bright-spark</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">5465</td>
       <td align="center">
         <a href="https://github.com/AyoubHamou" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/118009978?u=cf9a003d9fa8d5e4df33c2a64f76efcea19471b9&v=4" alt="AyoubHamou" width="40" height="40"/>
@@ -116,7 +94,29 @@
       </td>
     </tr>
     <tr>
+      <td align="center">5465</td>
+      <td align="center">
+        <a href="https://github.com/jade-banares" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/83527821?u=d834b8db19af9a742def476ce6a2d317385b7c1d&v=4" alt="jade-banares" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/jade-banares" target="_blank">jade-banares</a>
+      </td>
+    </tr>
+    <tr>
       <td align="center">5466</td>
+      <td align="center">
+        <a href="https://github.com/HyoBN" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/50162252?u=e41ba7206cf6c2944418060621bf49041caf3820&v=4" alt="HyoBN" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/HyoBN" target="_blank">HyoBN</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">5467</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.299s on Tue Aug 20 at 1:00</p>
+<p align="right">Generated in 0.001s on Tue Aug 20 at 1:02</p>
