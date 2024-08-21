@@ -85,17 +85,6 @@
     <tr>
       <td align="center">5937</td>
       <td align="center">
-        <a href="https://github.com/sumeyyeburan" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/145922575?u=7bf23958053e78e1b3b7ffd32aa357456b038985&v=4" alt="sumeyyeburan" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/sumeyyeburan" target="_blank">sumeyyeburan</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">5938</td>
-      <td align="center">
         <a href="https://github.com/mernblockchainlover2019" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/150890118?u=8f6547856e2c4d2412ee1c6e723ca2a8a5a7457d&v=4" alt="mernblockchainlover2019" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">5939</td>
+      <td align="center">5938</td>
       <td align="center">
         <a href="https://github.com/fer-nando-machado" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/148105695?u=7a34d74e48d739e30a2884af9d75cdbc84a71dd5&v=4" alt="fer-nando-machado" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/fer-nando-machado" target="_blank">fer-nando-machado</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">5939</td>
+      <td align="center">
+        <a href="https://github.com/JohnMwendwa" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/72663882?u=805073cc702701b4ad6c56a60dc0bdae9ccac964&v=4" alt="JohnMwendwa" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/JohnMwendwa" target="_blank">JohnMwendwa</a>
       </td>
     </tr>
     <tr>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.154s on Wed Aug 21 at 11:47</p>
+<p align="right">Generated in 0.153s on Wed Aug 21 at 11:49</p>
