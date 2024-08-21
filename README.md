@@ -85,17 +85,6 @@
     <tr>
       <td align="center">5949</td>
       <td align="center">
-        <a href="https://github.com/myoann" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/5923702?u=1d38ee9811492c4eed001120b37c5927aa03e507&v=4" alt="myoann" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/myoann" target="_blank">myoann</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">5950</td>
-      <td align="center">
         <a href="https://github.com/ayalamouchi" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/151852115?u=2ef03249f8d64196c7d8655f17e8879cc681e988&v=4" alt="ayalamouchi" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">5951</td>
+      <td align="center">5950</td>
       <td align="center">
         <a href="https://github.com/Kei-K23" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/134714087?u=371950d9ecba772294e21216ffbbb885336dbcf0&v=4" alt="Kei-K23" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/Kei-K23" target="_blank">Kei-K23</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">5951</td>
+      <td align="center">
+        <a href="https://github.com/Lewi217" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/154617267?u=43cad38b464f52904c485051a537fe20804f4cb0&v=4" alt="Lewi217" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Lewi217" target="_blank">Lewi217</a>
       </td>
     </tr>
     <tr>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.73s on Wed Aug 21 at 12:18</p>
+<p align="right">Generated in 0.703s on Wed Aug 21 at 12:20</p>
