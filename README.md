@@ -83,29 +83,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">5918</td>
-      <td align="center">
-        <a href="https://github.com/MUSTAKIMSHAIKH2942" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/107025272?u=90764dd3d194634386ae18c6d90ae03f8b46a123&v=4" alt="MUSTAKIMSHAIKH2942" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/MUSTAKIMSHAIKH2942" target="_blank">MUSTAKIMSHAIKH2942</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">5919</td>
-      <td align="center">
-        <a href="https://github.com/JoshuaOmondi90" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/108691143?u=76608d7343e3e45349922d16786384fde5b8dfeb&v=4" alt="JoshuaOmondi90" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/JoshuaOmondi90" target="_blank">JoshuaOmondi90</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">5920</td>
       <td align="center">
         <a href="https://github.com/mhmdsrt" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/164398109?u=b847b66555ba2fe0cf8f72d243e20bf17cda3076&v=4" alt="mhmdsrt" width="40" height="40"/>
@@ -116,7 +94,29 @@
       </td>
     </tr>
     <tr>
+      <td align="center">5920</td>
+      <td align="center">
+        <a href="https://github.com/adudumayo" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/148616095?u=e67e6415a0d3d96edefe236bcf358705289530f4&v=4" alt="adudumayo" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/adudumayo" target="_blank">adudumayo</a>
+      </td>
+    </tr>
+    <tr>
       <td align="center">5921</td>
+      <td align="center">
+        <a href="https://github.com/rzvgHub" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/174440759?v=4" alt="rzvgHub" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/rzvgHub" target="_blank">rzvgHub</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">5922</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.293s on Wed Aug 21 at 10:55</p>
+<p align="right">Generated in 0.246s on Wed Aug 21 at 11:01</p>
