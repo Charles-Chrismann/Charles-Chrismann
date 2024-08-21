@@ -85,17 +85,6 @@
     <tr>
       <td align="center">6053</td>
       <td align="center">
-        <a href="https://github.com/anton-ovod" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/117489974?u=00448ddce5d5db83c8729b0bc647e2fe446389af&v=4" alt="anton-ovod" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/anton-ovod" target="_blank">anton-ovod</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">6054</td>
-      <td align="center">
         <a href="https://github.com/TorqueReborn" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/151865287?u=d4047fd2d3da547ed9b7428c3ba5873c0c2c476b&v=4" alt="TorqueReborn" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">6055</td>
+      <td align="center">6054</td>
       <td align="center">
         <a href="https://github.com/QMS85" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/72918619?v=4" alt="QMS85" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/QMS85" target="_blank">QMS85</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6055</td>
+      <td align="center">
+        <a href="https://github.com/ertugakmann" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/134059022?u=8036b8aa2446be1a8c413b7af88e8cd57be7cc94&v=4" alt="ertugakmann" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/ertugakmann" target="_blank">ertugakmann</a>
       </td>
     </tr>
     <tr>
@@ -839,4 +839,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.28s on Wed Aug 21 at 18:14</p>
+<p align="right">Generated in 0.271s on Wed Aug 21 at 18:16</p>
