@@ -85,17 +85,6 @@
     <tr>
       <td align="center">6031</td>
       <td align="center">
-        <a href="https://github.com/PolinaS0463" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/130823589?u=7f6aaa3ae11731bc3a553b4fe02cc0c8a4cc1449&v=4" alt="PolinaS0463" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/PolinaS0463" target="_blank">PolinaS0463</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">6032</td>
-      <td align="center">
         <a href="https://github.com/Iwamgad" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/101396418?u=eda3bb2b496fa2999c2f44035cdc69ebbf9cebf3&v=4" alt="Iwamgad" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">6033</td>
+      <td align="center">6032</td>
       <td align="center">
         <a href="https://github.com/fathimahamsa" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/155604778?u=e5f91c25fd449959cb57435e0bc50b939924b8f6&v=4" alt="fathimahamsa" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/fathimahamsa" target="_blank">fathimahamsa</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6033</td>
+      <td align="center">
+        <a href="https://github.com/VitorPio7" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/106124241?u=52e4a36e388dbe1b243f2c8fcb486a67f68675ac&v=4" alt="VitorPio7" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/VitorPio7" target="_blank">VitorPio7</a>
       </td>
     </tr>
     <tr>
@@ -823,4 +823,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.231s on Wed Aug 21 at 17:10</p>
+<p align="right">Generated in 0.252s on Wed Aug 21 at 17:17</p>
