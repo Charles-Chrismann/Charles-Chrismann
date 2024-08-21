@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">6041</td>
-      <td align="center">
-        <a href="https://github.com/DAObliterator" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/122558417?v=4" alt="DAObliterator" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/DAObliterator" target="_blank">DAObliterator</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">6042</td>
       <td align="center">
         <a href="https://github.com/adarsh-naik-2004" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">6044</td>
+      <td align="center">
+        <a href="https://github.com/WanderAmaral" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/113949850?u=8f181f29771f127bf718330f83c926680886781c&v=4" alt="WanderAmaral" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/WanderAmaral" target="_blank">WanderAmaral</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6045</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -824,4 +824,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.341s on Wed Aug 21 at 17:46</p>
+<p align="right">Generated in 0.28s on Wed Aug 21 at 17:48</p>
