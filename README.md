@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">6062</td>
-      <td align="center">
-        <a href="https://github.com/Shoola-dev" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/178967424?v=4" alt="Shoola-dev" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Shoola-dev" target="_blank">Shoola-dev</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">6063</td>
       <td align="center">
         <a href="https://github.com/fatima2003" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">6065</td>
+      <td align="center">
+        <a href="https://github.com/AnDev2804" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/162854881?u=fd9cb561f3caf6e5f68846611e5c93b5006be809&v=4" alt="AnDev2804" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/AnDev2804" target="_blank">AnDev2804</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6066</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -839,4 +839,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.399s on Wed Aug 21 at 19:01</p>
+<p align="right">Generated in 0.392s on Wed Aug 21 at 19:03</p>
