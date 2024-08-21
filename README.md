@@ -85,17 +85,6 @@
     <tr>
       <td align="center">5933</td>
       <td align="center">
-        <a href="https://github.com/DevFelipe0993" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/162763543?u=8f5615281837b17befc7e411ca5b02fa4777a280&v=4" alt="DevFelipe0993" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/DevFelipe0993" target="_blank">DevFelipe0993</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">5934</td>
-      <td align="center">
         <a href="https://github.com/Parsa-SadeghiAsl" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/101510809?u=770bf1af48e3991882b93aaa246ab084ca2e71c7&v=4" alt="Parsa-SadeghiAsl" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">5935</td>
+      <td align="center">5934</td>
       <td align="center">
         <a href="https://github.com/tsunufu" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/73733296?u=10d47c5d70164e8a0135920c17aff4366cac08f0&v=4" alt="tsunufu" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/tsunufu" target="_blank">tsunufu</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">5935</td>
+      <td align="center">
+        <a href="https://github.com/TheMagitian" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/127123012?u=a13dfa59350ec49f2d982e0c31665b86e9db3dc3&v=4" alt="TheMagitian" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/TheMagitian" target="_blank">TheMagitian</a>
       </td>
     </tr>
     <tr>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.336s on Wed Aug 21 at 11:33</p>
+<p align="right">Generated in 0.29s on Wed Aug 21 at 11:34</p>
