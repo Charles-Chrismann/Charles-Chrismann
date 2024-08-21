@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">6061</td>
-      <td align="center">
-        <a href="https://github.com/m-ayush-2004" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/69383891?v=4" alt="m-ayush-2004" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/m-ayush-2004" target="_blank">m-ayush-2004</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">6062</td>
       <td align="center">
         <a href="https://github.com/Shoola-dev" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">6064</td>
+      <td align="center">
+        <a href="https://github.com/artisahu68" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/113122854?v=4" alt="artisahu68" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/artisahu68" target="_blank">artisahu68</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6065</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -839,4 +839,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.439s on Wed Aug 21 at 19:00</p>
+<p align="right">Generated in 0.399s on Wed Aug 21 at 19:01</p>
