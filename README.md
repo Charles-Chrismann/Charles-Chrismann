@@ -85,17 +85,6 @@
     <tr>
       <td align="center">5955</td>
       <td align="center">
-        <a href="https://github.com/paulmagadi" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/99538101?u=7814d0c125f0c31e03c90544342f08707c4d8c35&v=4" alt="paulmagadi" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/paulmagadi" target="_blank">paulmagadi</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">5956</td>
-      <td align="center">
         <a href="https://github.com/GSM-Godwin" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/117585646?v=4" alt="GSM-Godwin" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">5957</td>
+      <td align="center">5956</td>
       <td align="center">
         <a href="https://github.com/MustafaGalaleldin" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/139247874?u=c35f4e1af89702d7390c1cd2cd509d67b0b9a2ae&v=4" alt="MustafaGalaleldin" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/MustafaGalaleldin" target="_blank">MustafaGalaleldin</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">5957</td>
+      <td align="center">
+        <a href="https://github.com/Takuma-ux" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/113284374?v=4" alt="Takuma-ux" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Takuma-ux" target="_blank">Takuma-ux</a>
       </td>
     </tr>
     <tr>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.711s on Wed Aug 21 at 12:35</p>
+<p align="right">Generated in 0.737s on Wed Aug 21 at 12:37</p>
