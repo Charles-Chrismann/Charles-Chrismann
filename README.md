@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">5955</td>
-      <td align="center">
-        <a href="https://github.com/GSM-Godwin" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/117585646?v=4" alt="GSM-Godwin" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/GSM-Godwin" target="_blank">GSM-Godwin</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">5956</td>
       <td align="center">
         <a href="https://github.com/MustafaGalaleldin" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">5958</td>
+      <td align="center">
+        <a href="https://github.com/tauanecustodio" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/134209894?u=f97a5bbb1833ac6f29769f4713d6493da11d77a3&v=4" alt="tauanecustodio" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/tauanecustodio" target="_blank">tauanecustodio</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">5959</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.714s on Wed Aug 21 at 12:44</p>
+<p align="right">Generated in 0.708s on Wed Aug 21 at 12:45</p>
