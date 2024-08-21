@@ -753,6 +753,16 @@
       </td>
     </tr>
     <tr>
+      <td>$\text{\color{lightgreen}{D}}$</td>
+      <td>$\text{\color{lightgreen}{E}}$</td>
+      <td>$\text{\color{lightgreen}{R}}$</td>
+      <td>$\text{\color{lightgreen}{B}}$</td>
+      <td>$\text{\color{lightgreen}{Y}}$</td>
+      <td>
+        <a href="https://github.com/Foword5">@Foword5</a>
+      </td>
+    </tr>
+    <tr>
       <td>‎ </td>
       <td>‎ </td>
       <td>‎ </td>
@@ -779,24 +789,24 @@
     <tr>
       <td align="center">1</td>
       <td align="center">
-        <a href="https://github.com/Charles-Chrismann">
-          <img src="https://avatars.githubusercontent.com/u/78157563?size=32">
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Charles-Chrismann">@Charles-Chrismann</a>
-      </td>
-      <td align="center">7</td>
-    </tr>
-    <tr>
-      <td align="center">2</td>
-      <td align="center">
         <a href="https://github.com/Foword5">
           <img src="https://avatars.githubusercontent.com/u/84903360?size=32">
         </a>
       </td>
       <td>
         <a href="https://github.com/Foword5">@Foword5</a>
+      </td>
+      <td align="center">8</td>
+    </tr>
+    <tr>
+      <td align="center">2</td>
+      <td align="center">
+        <a href="https://github.com/Charles-Chrismann">
+          <img src="https://avatars.githubusercontent.com/u/78157563?size=32">
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Charles-Chrismann">@Charles-Chrismann</a>
       </td>
       <td align="center">7</td>
     </tr>
@@ -814,4 +824,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.842s on Wed Aug 21 at 13:31</p>
+<p align="right">Generated in 0.71s on Wed Aug 21 at 13:32</p>
