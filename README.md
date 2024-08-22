@@ -83,18 +83,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">6277</td>
-      <td align="center">
-        <a href="https://github.com/Pekumiiix" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/113313095?v=4" alt="Pekumiiix" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Pekumiiix" target="_blank">Pekumiiix</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">6278</td>
+      <td align="center">6279</td>
       <td align="center">
         <a href="https://github.com/www3coder" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/174738453?u=48df8393b7dd856d2ad907e7931314108d3828f0&v=4" alt="www3coder" width="40" height="40"/>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">6279</td>
+      <td align="center">6280</td>
       <td align="center">
         <a href="https://github.com/Briankim254" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/91450029?u=14a908a79fec2bd3475dac6f57627b24cb63722c&v=4" alt="Briankim254" width="40" height="40"/>
@@ -116,7 +105,18 @@
       </td>
     </tr>
     <tr>
-      <td align="center">6280</td>
+      <td align="center">6281</td>
+      <td align="center">
+        <a href="https://github.com/webcoderwizard" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/174772032?u=08a0d9b60d54d27dc74625521db63292c9905bf8&v=4" alt="webcoderwizard" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/webcoderwizard" target="_blank">webcoderwizard</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6282</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -801,4 +801,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.304s on Thu Aug 22 at 18:25</p>
+<p align="right">Generated in 0.293s on Thu Aug 22 at 18:26</p>
