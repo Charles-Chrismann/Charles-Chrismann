@@ -83,18 +83,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">6231</td>
-      <td align="center">
-        <a href="https://github.com/AmineAdded" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/168238027?u=526bae00ee5e7bd9df47cd57e55c75a8a306f62a&v=4" alt="AmineAdded" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/AmineAdded" target="_blank">AmineAdded</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">6232</td>
+      <td align="center">6233</td>
       <td align="center">
         <a href="https://github.com/Phamminhhoangf3" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/91379212?v=4" alt="Phamminhhoangf3" width="40" height="40"/>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">6233</td>
+      <td align="center">6234</td>
       <td align="center">
         <a href="https://github.com/pquints25" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/173415916?u=b03c21e3193809746a27edbb18adf8461dc90ca4&v=4" alt="pquints25" width="40" height="40"/>
@@ -116,7 +105,18 @@
       </td>
     </tr>
     <tr>
-      <td align="center">6234</td>
+      <td align="center">6235</td>
+      <td align="center">
+        <a href="https://github.com/brusife" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/176951879?u=79fc0fa803816237fb04b9fbfbf4610e8842c818&v=4" alt="brusife" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/brusife" target="_blank">brusife</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6236</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -847,4 +847,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.343s on Thu Aug 22 at 14:19</p>
+<p align="right">Generated in 0.347s on Thu Aug 22 at 14:19</p>
