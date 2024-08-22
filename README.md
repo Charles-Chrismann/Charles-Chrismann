@@ -83,18 +83,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">6210</td>
-      <td align="center">
-        <a href="https://github.com/Mcdavid95" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/26982204?u=43e07ce001a8c704cf0ec60842ca87bedca9b704&v=4" alt="Mcdavid95" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Mcdavid95" target="_blank">Mcdavid95</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">6211</td>
+      <td align="center">6212</td>
       <td align="center">
         <a href="https://github.com/naman1608" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/74304916?u=387aff2ba4506dd0a9116ff83f4d8c6de9239ac2&v=4" alt="naman1608" width="40" height="40"/>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">6212</td>
+      <td align="center">6213</td>
       <td align="center">
         <a href="https://github.com/RaylineM" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/140107546?u=920810ffea29d7136ff7f2f0143a5a7acf1a560d&v=4" alt="RaylineM" width="40" height="40"/>
@@ -116,7 +105,18 @@
       </td>
     </tr>
     <tr>
-      <td align="center">6213</td>
+      <td align="center">6214</td>
+      <td align="center">
+        <a href="https://github.com/Z-eq" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/106398287?u=eeba15391fb5a7f7e7a5c4dc8446ea8bbdd6c701&v=4" alt="Z-eq" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Z-eq" target="_blank">Z-eq</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6215</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
