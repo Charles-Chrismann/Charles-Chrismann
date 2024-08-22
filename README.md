@@ -85,17 +85,6 @@
     <tr>
       <td align="center">6166</td>
       <td align="center">
-        <a href="https://github.com/jaykobw" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/164403806?u=8c29d1a952de942c6d235d2cfd1a44ab4efd78ef&v=4" alt="jaykobw" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/jaykobw" target="_blank">jaykobw</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">6167</td>
-      <td align="center">
         <a href="https://github.com/dllzar" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/52858360?u=1917fced853b2c4f0c3bece406a21dbed8bd76d9&v=4" alt="dllzar" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">6168</td>
+      <td align="center">6167</td>
       <td align="center">
         <a href="https://github.com/shimashfz7111" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/136511156?u=a46c792e9476f38a5f63d572e6570765cad8bc7f&v=4" alt="shimashfz7111" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/shimashfz7111" target="_blank">shimashfz7111</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6168</td>
+      <td align="center">
+        <a href="https://github.com/takaokakegawa-meridian" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/161799279?v=4" alt="takaokakegawa-meridian" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/takaokakegawa-meridian" target="_blank">takaokakegawa-meridian</a>
       </td>
     </tr>
     <tr>
@@ -791,4 +791,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.241s on Thu Aug 22 at 8:52</p>
+<p align="right">Generated in 0.235s on Thu Aug 22 at 8:52</p>
