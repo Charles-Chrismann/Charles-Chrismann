@@ -85,17 +85,6 @@
     <tr>
       <td align="center">6186</td>
       <td align="center">
-        <a href="https://github.com/andrelopes1" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/65914110?u=319a33e0c8372d787704338e9fc8560a6939cafc&v=4" alt="andrelopes1" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/andrelopes1" target="_blank">andrelopes1</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">6187</td>
-      <td align="center">
         <a href="https://github.com/khushal-chothani" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/108174281?v=4" alt="khushal-chothani" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">6188</td>
+      <td align="center">6187</td>
       <td align="center">
         <a href="https://github.com/FarruxUmarov" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/161553635?v=4" alt="FarruxUmarov" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/FarruxUmarov" target="_blank">FarruxUmarov</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6188</td>
+      <td align="center">
+        <a href="https://github.com/gamzezeren" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/49093217?v=4" alt="gamzezeren" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/gamzezeren" target="_blank">gamzezeren</a>
       </td>
     </tr>
     <tr>
@@ -795,4 +795,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.264s on Thu Aug 22 at 10:47</p>
+<p align="right">Generated in 0.255s on Thu Aug 22 at 10:48</p>
