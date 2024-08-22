@@ -83,7 +83,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">6291</td>
+      <td align="center">6290</td>
       <td align="center">
         <a href="https://github.com/KabeloDev" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/173686938?u=933bec60ffb17965ab6ac7eb97b04c53a2a5c0e8&v=4" alt="KabeloDev" width="40" height="40"/>
@@ -94,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">6292</td>
+      <td align="center">6291</td>
       <td align="center">
         <a href="https://github.com/Krish-Ramoliya" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/174011165?u=8134779a0af94a6ab3a056bda0ba075c0077153a&v=4" alt="Krish-Ramoliya" width="40" height="40"/>
@@ -105,7 +105,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">6293</td>
+      <td align="center">6292</td>
       <td align="center">
         <a href="https://github.com/IntelCore0607" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/168459417?u=5c85ca1a3b60cedc1cb35326fe324756866a27f9&v=4" alt="IntelCore0607" width="40" height="40"/>
@@ -116,7 +116,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">6294</td>
+      <td align="center">6293</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -841,4 +841,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.246s on Thu Aug 22 at 19:38</p>
+<p align="right">Generated in 0.245s on Thu Aug 22 at 19:38</p>
