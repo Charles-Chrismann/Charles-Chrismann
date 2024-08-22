@@ -85,17 +85,6 @@
     <tr>
       <td align="center">6308</td>
       <td align="center">
-        <a href="https://github.com/sandei-travolta" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/67733769?v=4" alt="sandei-travolta" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/sandei-travolta" target="_blank">sandei-travolta</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">6309</td>
-      <td align="center">
         <a href="https://github.com/Adam-Elmi" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/121925340?u=e8dbbc3ece0e70c8eedc6929a6f81eacfeda66c3&v=4" alt="Adam-Elmi" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">6310</td>
+      <td align="center">6309</td>
       <td align="center">
         <a href="https://github.com/Phoenix7290" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/87625308?u=14749ea4e9e3ee5cc9c9c96a95b6a7fbdd374f1a&v=4" alt="Phoenix7290" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/Phoenix7290" target="_blank">Phoenix7290</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6310</td>
+      <td align="center">
+        <a href="https://github.com/JohnMwendwa" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/72663882?u=805073cc702701b4ad6c56a60dc0bdae9ccac964&v=4" alt="JohnMwendwa" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/JohnMwendwa" target="_blank">JohnMwendwa</a>
       </td>
     </tr>
     <tr>
@@ -855,4 +855,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.271s on Thu Aug 22 at 21:48</p>
+<p align="right">Generated in 0.301s on Thu Aug 22 at 21:50</p>
