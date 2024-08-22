@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">6305</td>
-      <td align="center">
-        <a href="https://github.com/little-software-engineer" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/117362591?u=809c8544de84cda3a0e8e80058034d1d672a4326&v=4" alt="little-software-engineer" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/little-software-engineer" target="_blank">little-software-engineer</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">6306</td>
       <td align="center">
         <a href="https://github.com/captain-n3m0" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">6308</td>
+      <td align="center">
+        <a href="https://github.com/sandei-travolta" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/67733769?v=4" alt="sandei-travolta" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/sandei-travolta" target="_blank">sandei-travolta</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6309</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -846,4 +846,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.403s on Thu Aug 22 at 21:15</p>
+<p align="right">Generated in 0.273s on Thu Aug 22 at 21:16</p>
