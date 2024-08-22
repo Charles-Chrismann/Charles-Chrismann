@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">6291</td>
-      <td align="center">
-        <a href="https://github.com/IntelCore0607" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/168459417?u=5c85ca1a3b60cedc1cb35326fe324756866a27f9&v=4" alt="IntelCore0607" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/IntelCore0607" target="_blank">IntelCore0607</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">6292</td>
       <td align="center">
         <a href="https://github.com/tail-s" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">6294</td>
+      <td align="center">
+        <a href="https://github.com/ddmitov" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/3417920?u=ca91629f9fd6a2bc335c3d1aec8177d8ffb05886&v=4" alt="ddmitov" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/ddmitov" target="_blank">ddmitov</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6295</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -847,4 +847,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.332s on Thu Aug 22 at 19:47</p>
+<p align="right">Generated in 0.263s on Thu Aug 22 at 19:47</p>
