@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">6252</td>
-      <td align="center">
-        <a href="https://github.com/ramo-dev" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/136629650?u=1c96f7df24162b86f4245fdcc179550e09986ff6&v=4" alt="ramo-dev" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/ramo-dev" target="_blank">ramo-dev</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">6253</td>
       <td align="center">
         <a href="https://github.com/StAl15" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">6255</td>
+      <td align="center">
+        <a href="https://github.com/MeowSamaAWA" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/126253767?u=dcc685d2c899d63c0fa3dcbbcf668c9beaed427f&v=4" alt="MeowSamaAWA" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/MeowSamaAWA" target="_blank">MeowSamaAWA</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6256</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -862,4 +862,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.302s on Thu Aug 22 at 16:03</p>
+<p align="right">Generated in 0.304s on Thu Aug 22 at 16:04</p>
