@@ -85,17 +85,6 @@
     <tr>
       <td align="center">6236</td>
       <td align="center">
-        <a href="https://github.com/HH45137" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/52552476?u=d64390af74d277cc2f4c42380bbe0642b09d5809&v=4" alt="HH45137" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/HH45137" target="_blank">HH45137</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">6237</td>
-      <td align="center">
         <a href="https://github.com/JohnMwendwa" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/72663882?u=805073cc702701b4ad6c56a60dc0bdae9ccac964&v=4" alt="JohnMwendwa" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">6238</td>
+      <td align="center">6237</td>
       <td align="center">
         <a href="https://github.com/samintejas" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/77043624?u=f6bf03ca8976c3bfd218fb876680c579d1ba157f&v=4" alt="samintejas" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/samintejas" target="_blank">samintejas</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6238</td>
+      <td align="center">
+        <a href="https://github.com/khanyicode" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/141396685?u=baf19c15585b1ac9f04feab397fca191d2aa9c48&v=4" alt="khanyicode" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/khanyicode" target="_blank">khanyicode</a>
       </td>
     </tr>
     <tr>
@@ -866,4 +866,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.373s on Thu Aug 22 at 14:52</p>
+<p align="right">Generated in 0.377s on Thu Aug 22 at 14:53</p>
