@@ -85,17 +85,6 @@
     <tr>
       <td align="center">6284</td>
       <td align="center">
-        <a href="https://github.com/achiri-asma" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/122876581?u=4c5b1a8fc9d784067cb1398ab810d0add9b9c729&v=4" alt="achiri-asma" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/achiri-asma" target="_blank">achiri-asma</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">6285</td>
-      <td align="center">
         <a href="https://github.com/CollinsNyatundo" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/127786953?v=4" alt="CollinsNyatundo" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">6286</td>
+      <td align="center">6285</td>
       <td align="center">
         <a href="https://github.com/gr1ph" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/163816500?u=96c5af437e5429a365cfc1b727fc9aaecb3d37a0&v=4" alt="gr1ph" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/gr1ph" target="_blank">gr1ph</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6286</td>
+      <td align="center">
+        <a href="https://github.com/Joyfeelz" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/177573306?v=4" alt="Joyfeelz" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Joyfeelz" target="_blank">Joyfeelz</a>
       </td>
     </tr>
     <tr>
@@ -854,4 +854,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.219s on Thu Aug 22 at 19:16</p>
+<p align="right">Generated in 0.208s on Thu Aug 22 at 19:18</p>
