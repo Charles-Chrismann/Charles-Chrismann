@@ -107,12 +107,12 @@
     <tr>
       <td align="center">6252</td>
       <td align="center">
-        <a href="https://github.com/Deankinyua" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/115572271?u=5885e3a891d9309126a4f45cb5fb6f473eb4c53e&v=4" alt="Deankinyua" width="40" height="40"/>
+        <a href="https://github.com/ramo-dev" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/136629650?u=1c96f7df24162b86f4245fdcc179550e09986ff6&v=4" alt="ramo-dev" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/Deankinyua" target="_blank">Deankinyua</a>
+        <a href="https://github.com/ramo-dev" target="_blank">ramo-dev</a>
       </td>
     </tr>
     <tr>
@@ -842,4 +842,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.276s on Thu Aug 22 at 15:33</p>
+<p align="right">Generated in 0.337s on Thu Aug 22 at 15:34</p>
