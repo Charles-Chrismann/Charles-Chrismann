@@ -108,7 +108,7 @@
       <td align="center">6188</td>
       <td align="center">
         <a href="https://github.com/gamzezeren" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/49093217?u=2b6fa860f9768df65aedc2f278f922a93916ff44&v=4" alt="gamzezeren" width="40" height="40"/>
+          <img src="https://avatars.githubusercontent.com/u/49093217?v=4" alt="gamzezeren" width="40" height="40"/>
         </a>
       </td>
       <td>
@@ -804,4 +804,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.417s on Thu Aug 22 at 10:53</p>
+<p align="right">Generated in 0.413s on Thu Aug 22 at 10:53</p>
