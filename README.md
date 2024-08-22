@@ -96,23 +96,23 @@
     <tr>
       <td align="center">6171</td>
       <td align="center">
-        <a href="https://github.com/wylerror" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/152005435?u=832b303bbf80b79bb12f6806206b392ac79d9387&v=4" alt="wylerror" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/wylerror" target="_blank">wylerror</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">6172</td>
-      <td align="center">
         <a href="https://github.com/Rexhaif" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/5154447?v=4" alt="Rexhaif" width="40" height="40"/>
         </a>
       </td>
       <td>
         <a href="https://github.com/Rexhaif" target="_blank">Rexhaif</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6172</td>
+      <td align="center">
+        <a href="https://github.com/DerrickKirimi" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/81160030?u=58bc31cc8c2499eb4692f1a953797a0549d3a5bb&v=4" alt="DerrickKirimi" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/DerrickKirimi" target="_blank">DerrickKirimi</a>
       </td>
     </tr>
     <tr>
@@ -799,4 +799,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.363s on Thu Aug 22 at 9:23</p>
+<p align="right">Generated in 0.318s on Thu Aug 22 at 9:25</p>
