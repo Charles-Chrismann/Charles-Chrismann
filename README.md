@@ -85,17 +85,6 @@
     <tr>
       <td align="center">6316</td>
       <td align="center">
-        <a href="https://github.com/DevDaviSouza" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/84052100?u=814a25de8ebf1ab3ffa4b1976ef7742e5e105e3c&v=4" alt="DevDaviSouza" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/DevDaviSouza" target="_blank">DevDaviSouza</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">6317</td>
-      <td align="center">
         <a href="https://github.com/Joonald" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/109973683?u=fc68c3a02116d248e474c2051aede0de8d5945b2&v=4" alt="Joonald" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">6318</td>
+      <td align="center">6317</td>
       <td align="center">
         <a href="https://github.com/LuaRibeiro23" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/157900916?u=6934983ed4e052453dfe71bc244384d79963cd2b&v=4" alt="LuaRibeiro23" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/LuaRibeiro23" target="_blank">LuaRibeiro23</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6318</td>
+      <td align="center">
+        <a href="https://github.com/hems42" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/46299198?u=d3be798dc8b61df4c04828ff336406bd08d36c20&v=4" alt="hems42" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/hems42" target="_blank">hems42</a>
       </td>
     </tr>
     <tr>
@@ -783,4 +783,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.216s on Thu Aug 22 at 23:14</p>
+<p align="right">Generated in 0.225s on Thu Aug 22 at 23:15</p>
