@@ -85,17 +85,6 @@
     <tr>
       <td align="center">6193</td>
       <td align="center">
-        <a href="https://github.com/Kalutu" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/78742463?u=fef96ab76c04ed2ebea78eb824d875955b9a60e4&v=4" alt="Kalutu" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Kalutu" target="_blank">Kalutu</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">6194</td>
-      <td align="center">
         <a href="https://github.com/MuratAli003" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/120710970?u=870a473eeddec2b8050d54dd5226551d2749ba12&v=4" alt="MuratAli003" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">6195</td>
+      <td align="center">6194</td>
       <td align="center">
         <a href="https://github.com/dav-2" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/60890594?v=4" alt="dav-2" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/dav-2" target="_blank">dav-2</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6195</td>
+      <td align="center">
+        <a href="https://github.com/jsevitor" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/108138449?u=184a6f99c444b38d88dfcc58772636763333f1a6&v=4" alt="jsevitor" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/jsevitor" target="_blank">jsevitor</a>
       </td>
     </tr>
     <tr>
@@ -785,4 +785,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.375s on Thu Aug 22 at 11:32</p>
+<p align="right">Generated in 0.366s on Thu Aug 22 at 11:33</p>
