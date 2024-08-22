@@ -85,17 +85,6 @@
     <tr>
       <td align="center">6214</td>
       <td align="center">
-        <a href="https://github.com/Z-eq" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/106398287?u=eeba15391fb5a7f7e7a5c4dc8446ea8bbdd6c701&v=4" alt="Z-eq" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Z-eq" target="_blank">Z-eq</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">6215</td>
-      <td align="center">
         <a href="https://github.com/murilinhoPs" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/36513735?u=7e587d58333e859264eab0708b6a66d95166797c&v=4" alt="murilinhoPs" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">6216</td>
+      <td align="center">6215</td>
       <td align="center">
         <a href="https://github.com/Karan-Veer-Pal" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/171706004?u=45e5a9b8d987b34e1ab7636d0230180a21abae8f&v=4" alt="Karan-Veer-Pal" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/Karan-Veer-Pal" target="_blank">Karan-Veer-Pal</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6216</td>
+      <td align="center">
+        <a href="https://github.com/baadev" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/40759288?u=c22bf042d0f137da55d251e198052be432e892c3&v=4" alt="baadev" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/baadev" target="_blank">baadev</a>
       </td>
     </tr>
     <tr>
@@ -834,4 +834,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.335s on Thu Aug 22 at 13:17</p>
+<p align="right">Generated in 0.289s on Thu Aug 22 at 13:18</p>
