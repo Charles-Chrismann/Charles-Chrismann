@@ -97,7 +97,7 @@
       <td align="center">6188</td>
       <td align="center">
         <a href="https://github.com/gamzezeren" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/49093217?v=4" alt="gamzezeren" width="40" height="40"/>
+          <img src="https://avatars.githubusercontent.com/u/49093217?u=001c6808e0a78aed9db6c3a5f81b38324731f9b9&v=4" alt="gamzezeren" width="40" height="40"/>
         </a>
       </td>
       <td>
