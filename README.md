@@ -85,17 +85,6 @@
     <tr>
       <td align="center">6140</td>
       <td align="center">
-        <a href="https://github.com/swar-101" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/64254264?u=f13bd0534f01b2174b859c0f875af8b301b71a84&v=4" alt="swar-101" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/swar-101" target="_blank">swar-101</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">6141</td>
-      <td align="center">
         <a href="https://github.com/AlgorithmicPV" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/158988533?u=e19eb94747da6fcb815696f8b30a2c9d5964961a&v=4" alt="AlgorithmicPV" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">6142</td>
+      <td align="center">6141</td>
       <td align="center">
         <a href="https://github.com/Mach-web" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/111083110?u=b3688269d993a2ff4ae3280301351dae686dbd1a&v=4" alt="Mach-web" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/Mach-web" target="_blank">Mach-web</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6142</td>
+      <td align="center">
+        <a href="https://github.com/Thecode764" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/141347375?u=2a76b591c0db0945edec4030ae16bf50a2ac0fcb&v=4" alt="Thecode764" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Thecode764" target="_blank">Thecode764</a>
       </td>
     </tr>
     <tr>
@@ -745,4 +745,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.379s on Thu Aug 22 at 6:18</p>
+<p align="right">Generated in 0.369s on Thu Aug 22 at 6:20</p>
