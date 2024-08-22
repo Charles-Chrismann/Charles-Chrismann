@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">6195</td>
-      <td align="center">
-        <a href="https://github.com/jsevitor" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/108138449?u=184a6f99c444b38d88dfcc58772636763333f1a6&v=4" alt="jsevitor" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/jsevitor" target="_blank">jsevitor</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">6196</td>
       <td align="center">
         <a href="https://github.com/Gandalf-hash" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">6198</td>
+      <td align="center">
+        <a href="https://github.com/K-1303" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/114342842?v=4" alt="K-1303" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/K-1303" target="_blank">K-1303</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6199</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -785,4 +785,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.409s on Thu Aug 22 at 11:39</p>
+<p align="right">Generated in 0.366s on Thu Aug 22 at 11:39</p>
