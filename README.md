@@ -85,17 +85,6 @@
     <tr>
       <td align="center">6378</td>
       <td align="center">
-        <a href="https://github.com/Humble-Prince001" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/139231441?u=60d6883559fe2a29738b4b19e33233b75dd8f9b7&v=4" alt="Humble-Prince001" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Humble-Prince001" target="_blank">Humble-Prince001</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">6379</td>
-      <td align="center">
         <a href="https://github.com/Khensani-Lebese" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/136127865?v=4" alt="Khensani-Lebese" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">6380</td>
+      <td align="center">6379</td>
       <td align="center">
         <a href="https://github.com/pfres8" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/159630539?u=e5c18ac887300da7347a7a4e83a30fe7c72840f8&v=4" alt="pfres8" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/pfres8" target="_blank">pfres8</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6380</td>
+      <td align="center">
+        <a href="https://github.com/GitHubGoldUser1" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/165162257?u=c1591bc1fb005cf21a5c91756be73386eab85c05&v=4" alt="GitHubGoldUser1" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/GitHubGoldUser1" target="_blank">GitHubGoldUser1</a>
       </td>
     </tr>
     <tr>
@@ -806,4 +806,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.614s on Fri Aug 23 at 8:19</p>
+<p align="right">Generated in 0.342s on Fri Aug 23 at 8:19</p>
