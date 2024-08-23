@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">6503</td>
-      <td align="center">
-        <a href="https://github.com/CobrinhaDigital" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/109318981?u=df69f5137a97f1674b70f21c4d8810ccaab695a1&v=4" alt="CobrinhaDigital" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/CobrinhaDigital" target="_blank">CobrinhaDigital</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">6504</td>
       <td align="center">
         <a href="https://github.com/vatsal80085" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">6506</td>
+      <td align="center">
+        <a href="https://github.com/vrindger" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/58531716?v=4" alt="vrindger" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/vrindger" target="_blank">vrindger</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6507</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -818,4 +818,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.203s on Fri Aug 23 at 18:20</p>
+<p align="right">Generated in 0.198s on Fri Aug 23 at 18:26</p>
