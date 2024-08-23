@@ -83,29 +83,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">6335</td>
-      <td align="center">
-        <a href="https://github.com/Jean-Vertuoso" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/92880018?u=8f182d01a8f11944c2451f6f5c39d4d70a64a7cf&v=4" alt="Jean-Vertuoso" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Jean-Vertuoso" target="_blank">Jean-Vertuoso</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">6336</td>
-      <td align="center">
-        <a href="https://github.com/wooonderful" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/115449150?u=bb64719aa51bd62dd3f45a6e3bd4c66c4509b94a&v=4" alt="wooonderful" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/wooonderful" target="_blank">wooonderful</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">6337</td>
       <td align="center">
         <a href="https://github.com/web-cloudy" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/94797292?u=db094505e29dd7734ee07ffbae9e37bf02ab62d1&v=4" alt="web-cloudy" width="40" height="40"/>
@@ -116,7 +94,29 @@
       </td>
     </tr>
     <tr>
+      <td align="center">6337</td>
+      <td align="center">
+        <a href="https://github.com/jade-banares" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/83527821?u=d834b8db19af9a742def476ce6a2d317385b7c1d&v=4" alt="jade-banares" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/jade-banares" target="_blank">jade-banares</a>
+      </td>
+    </tr>
+    <tr>
       <td align="center">6338</td>
+      <td align="center">
+        <a href="https://github.com/pixelcodecrafter" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/12730848?u=6b9d37bcc906789e720d82cd27f27f4d9cb4842f&v=4" alt="pixelcodecrafter" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/pixelcodecrafter" target="_blank">pixelcodecrafter</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6339</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -791,4 +791,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.724s on Fri Aug 23 at 2:23</p>
+<p align="right">Generated in 0.536s on Fri Aug 23 at 2:27</p>
