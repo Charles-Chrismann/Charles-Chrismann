@@ -85,17 +85,6 @@
     <tr>
       <td align="center">6422</td>
       <td align="center">
-        <a href="https://github.com/KhurramSagoo" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/34654560?u=130cc130fa669b58ebeca64a845b33927698f604&v=4" alt="KhurramSagoo" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/KhurramSagoo" target="_blank">KhurramSagoo</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">6423</td>
-      <td align="center">
         <a href="https://github.com/neinAlkem" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/162673445?u=5f5feb3b48c24d31e264aef4ea6abc4db760265e&v=4" alt="neinAlkem" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">6424</td>
+      <td align="center">6423</td>
       <td align="center">
         <a href="https://github.com/ValCordDev" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/88210628?u=9b08a9b7cc6fd1da9b4d776181f64f0c90ea5012&v=4" alt="ValCordDev" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/ValCordDev" target="_blank">ValCordDev</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6424</td>
+      <td align="center">
+        <a href="https://github.com/stardev933" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/160421457?u=5b0f19bb8c983d4fd303f97a2770400fe51bc5a9&v=4" alt="stardev933" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/stardev933" target="_blank">stardev933</a>
       </td>
     </tr>
     <tr>
@@ -807,4 +807,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.302s on Fri Aug 23 at 11:36</p>
+<p align="right">Generated in 0.293s on Fri Aug 23 at 11:37</p>
