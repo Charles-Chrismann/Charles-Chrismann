@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">6455</td>
-      <td align="center">
-        <a href="https://github.com/edxploit" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/43484396?v=4" alt="edxploit" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/edxploit" target="_blank">edxploit</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">6456</td>
       <td align="center">
         <a href="https://github.com/muneneee" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">6458</td>
+      <td align="center">
+        <a href="https://github.com/vuk1011" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/70649666?u=956a4a31841e99d4f5681327d68ce75ef1245f99&v=4" alt="vuk1011" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/vuk1011" target="_blank">vuk1011</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6459</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -828,4 +828,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.427s on Fri Aug 23 at 14:44</p>
+<p align="right">Generated in 0.379s on Fri Aug 23 at 14:45</p>
