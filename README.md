@@ -83,18 +83,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">6461</td>
-      <td align="center">
-        <a href="https://github.com/Satwik1428" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/176324772?v=4" alt="Satwik1428" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Satwik1428" target="_blank">Satwik1428</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">6462</td>
+      <td align="center">6463</td>
       <td align="center">
         <a href="https://github.com/moufidagbannonde" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/173541009?u=2fec8dfc1660ad2d452d5d1811c9968d99dbab99&v=4" alt="moufidagbannonde" width="40" height="40"/>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">6463</td>
+      <td align="center">6464</td>
       <td align="center">
         <a href="https://github.com/AndersonDinizDev" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/113947327?u=8995074cb31cdd82aa1c327dd705aebe26560f56&v=4" alt="AndersonDinizDev" width="40" height="40"/>
@@ -116,7 +105,18 @@
       </td>
     </tr>
     <tr>
-      <td align="center">6464</td>
+      <td align="center">6465</td>
+      <td align="center">
+        <a href="https://github.com/CaioFD" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/105741319?u=118ae17a825cd8dd3f7dc93939c169911ee700f3&v=4" alt="CaioFD" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/CaioFD" target="_blank">CaioFD</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6466</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -832,4 +832,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.44s on Fri Aug 23 at 15:05</p>
+<p align="right">Generated in 0.445s on Fri Aug 23 at 15:05</p>
