@@ -85,17 +85,6 @@
     <tr>
       <td align="center">6502</td>
       <td align="center">
-        <a href="https://github.com/CodeBuzz-ML" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/114322929?u=d6027a62cfa421c408459f0a47aeb4e87cbfc9c0&v=4" alt="CodeBuzz-ML" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/CodeBuzz-ML" target="_blank">CodeBuzz-ML</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">6503</td>
-      <td align="center">
         <a href="https://github.com/VenusTokyo" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/66830887?u=c1d465fbd6503b76c2e7672c2b2b451b21b6045a&v=4" alt="VenusTokyo" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">6504</td>
+      <td align="center">6503</td>
       <td align="center">
         <a href="https://github.com/CobrinhaDigital" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/109318981?u=df69f5137a97f1674b70f21c4d8810ccaab695a1&v=4" alt="CobrinhaDigital" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/CobrinhaDigital" target="_blank">CobrinhaDigital</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6504</td>
+      <td align="center">
+        <a href="https://github.com/vatsal80085" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/168188372?u=ce90d68e124f6c285ed1257c0be7debf445ef76d&v=4" alt="vatsal80085" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/vatsal80085" target="_blank">vatsal80085</a>
       </td>
     </tr>
     <tr>
@@ -818,4 +818,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.25s on Fri Aug 23 at 18:12</p>
+<p align="right">Generated in 0.196s on Fri Aug 23 at 18:14</p>
