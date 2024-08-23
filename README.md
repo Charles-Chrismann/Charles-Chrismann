@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">6499</td>
-      <td align="center">
-        <a href="https://github.com/idver" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/173732896?u=745631e4ce8e8707efe61ea4e2215b277c4ebd5a&v=4" alt="idver" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/idver" target="_blank">idver</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">6500</td>
       <td align="center">
         <a href="https://github.com/melyssa270" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">6502</td>
+      <td align="center">
+        <a href="https://github.com/CodeBuzz-ML" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/114322929?u=d6027a62cfa421c408459f0a47aeb4e87cbfc9c0&v=4" alt="CodeBuzz-ML" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/CodeBuzz-ML" target="_blank">CodeBuzz-ML</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6503</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -831,4 +831,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.724s on Fri Aug 23 at 17:52</p>
+<p align="right">Generated in 0.707s on Fri Aug 23 at 17:55</p>
