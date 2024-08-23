@@ -83,40 +83,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">6337</td>
+      <td align="center">6342</td>
       <td align="center">
-        <a href="https://github.com/jade-banares" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/83527821?u=d834b8db19af9a742def476ce6a2d317385b7c1d&v=4" alt="jade-banares" width="40" height="40"/>
+        <a href="https://github.com/Shreyas9468" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/122095667?u=d37cd42b4bcf4d540abf1e303df386bfeaf94b6d&v=4" alt="Shreyas9468" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/jade-banares" target="_blank">jade-banares</a>
+        <a href="https://github.com/Shreyas9468" target="_blank">Shreyas9468</a>
       </td>
     </tr>
     <tr>
-      <td align="center">6338</td>
+      <td align="center">6343</td>
       <td align="center">
-        <a href="https://github.com/pixelcodecrafter" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/12730848?u=6b9d37bcc906789e720d82cd27f27f4d9cb4842f&v=4" alt="pixelcodecrafter" width="40" height="40"/>
+        <a href="https://github.com/davis0120" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/5423907?u=7714d25b08c0349c3b8a3365befb92ec085546ef&v=4" alt="davis0120" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/pixelcodecrafter" target="_blank">pixelcodecrafter</a>
+        <a href="https://github.com/davis0120" target="_blank">davis0120</a>
       </td>
     </tr>
     <tr>
-      <td align="center">6339</td>
+      <td align="center">6344</td>
       <td align="center">
-        <a href="https://github.com/kychole" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/176365958?u=862f8fa05fee4bd7dd640010918172df4a97b90f&v=4" alt="kychole" width="40" height="40"/>
+        <a href="https://github.com/JoseSoares01" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/169985376?u=6f6057e40214cb8f9d5acf4bead43230f988364d&v=4" alt="JoseSoares01" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/kychole" target="_blank">kychole</a>
+        <a href="https://github.com/JoseSoares01" target="_blank">JoseSoares01</a>
       </td>
     </tr>
     <tr>
-      <td align="center">6340</td>
+      <td align="center">6345</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -812,4 +812,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.6s on Fri Aug 23 at 3:02</p>
+<p align="right">Generated in 0.533s on Fri Aug 23 at 3:04</p>
