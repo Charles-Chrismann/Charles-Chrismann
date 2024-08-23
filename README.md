@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">6364</td>
-      <td align="center">
-        <a href="https://github.com/EternalVision-AI" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/171101052?u=390c9aecbc21d9d12be2d0cd2b9903abfafe57da&v=4" alt="EternalVision-AI" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/EternalVision-AI" target="_blank">EternalVision-AI</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">6365</td>
       <td align="center">
         <a href="https://github.com/sushantkr961" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">6367</td>
+      <td align="center">
+        <a href="https://github.com/Giau39" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/99528502?u=b8f2ef8a36ec78dea0eb9923429419a3e411c68f&v=4" alt="Giau39" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Giau39" target="_blank">Giau39</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6368</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.337s on Fri Aug 23 at 6:55</p>
+<p align="right">Generated in 0.33s on Fri Aug 23 at 6:59</p>
