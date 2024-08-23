@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">6354</td>
-      <td align="center">
-        <a href="https://github.com/itsparsh10" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/142775479?u=36e66b3c526881a7c43bfe2e49480aa8edbfb9ea&v=4" alt="itsparsh10" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/itsparsh10" target="_blank">itsparsh10</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">6355</td>
       <td align="center">
         <a href="https://github.com/PexArt-web" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">6357</td>
+      <td align="center">
+        <a href="https://github.com/nimodb" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/122856033?u=236ef2b24ab27e8acf046d1714626152e554618f&v=4" alt="nimodb" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/nimodb" target="_blank">nimodb</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6358</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -740,4 +740,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.454s on Fri Aug 23 at 5:40</p>
+<p align="right">Generated in 0.407s on Fri Aug 23 at 5:49</p>
