@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">6398</td>
-      <td align="center">
-        <a href="https://github.com/gambling-addict" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/179130175?u=6c212bc61282c766d063995ed41e796f56430c8d&v=4" alt="gambling-addict" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/gambling-addict" target="_blank">gambling-addict</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">6399</td>
       <td align="center">
         <a href="https://github.com/shailendrabt" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">6401</td>
+      <td align="center">
+        <a href="https://github.com/Riadh-Bouarroudj" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/170479714?u=67234d30cba7e4ed792f87d98619fd2fcf13f424&v=4" alt="Riadh-Bouarroudj" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Riadh-Bouarroudj" target="_blank">Riadh-Bouarroudj</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6402</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -790,4 +790,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.261s on Fri Aug 23 at 9:50</p>
+<p align="right">Generated in 0.304s on Fri Aug 23 at 9:51</p>
