@@ -85,17 +85,6 @@
     <tr>
       <td align="center">6515</td>
       <td align="center">
-        <a href="https://github.com/giftthomu" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/61695006?u=72b8544f41f0f4b2e8659e2149cf017f1ff9bd98&v=4" alt="giftthomu" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/giftthomu" target="_blank">giftthomu</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">6516</td>
-      <td align="center">
         <a href="https://github.com/wenceslau" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/286967?u=f1de5c1bc256c69ac5971f9f9ee85d3526975c9f&v=4" alt="wenceslau" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">6517</td>
+      <td align="center">6516</td>
       <td align="center">
         <a href="https://github.com/maxwelldeveloper7" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/37343503?u=e23fa2d784b255577ba884aa5797102a32acf4a6&v=4" alt="maxwelldeveloper7" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/maxwelldeveloper7" target="_blank">maxwelldeveloper7</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6517</td>
+      <td align="center">
+        <a href="https://github.com/JohnMwendwa" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/72663882?u=805073cc702701b4ad6c56a60dc0bdae9ccac964&v=4" alt="JohnMwendwa" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/JohnMwendwa" target="_blank">JohnMwendwa</a>
       </td>
     </tr>
     <tr>
@@ -818,4 +818,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.407s on Fri Aug 23 at 19:30</p>
+<p align="right">Generated in 0.351s on Fri Aug 23 at 19:31</p>
