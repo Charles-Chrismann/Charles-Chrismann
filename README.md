@@ -556,8 +556,10 @@
       <td align="center">
         <details>
           <summary>♚</summary>
+          <a href="https://o.charles-chrismann.fr/chess/move?x1=3&y1=0&x2=4&y2=0">e8</a>
           <a href="https://o.charles-chrismann.fr/chess/move?x1=3&y1=0&x2=2&y2=1">c7</a>
-          <a href="https://o.charles-chrismann.fr/chess/move?x1=3&y1=0&x2=3&y2=1">d7</a>
+          <br><a href="https://o.charles-chrismann.fr/chess/move?x1=3&y1=0&x2=3&y2=1">d7</a>
+          <a href="https://o.charles-chrismann.fr/chess/move?x1=3&y1=0&x2=4&y2=1">e7</a>
         </details>
       </td>
       <td align="center">‎       </td>
@@ -603,7 +605,7 @@
       <td align="center">‎       </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
-      <td align="center">‎       </td>
+      <td align="center">♕      </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
       <td align="center">♖      </td>
@@ -615,7 +617,7 @@
       <td align="center">‎       </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
-      <td align="center">♕      </td>
+      <td align="center">‎       </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
       <td align="center">♟      </td>
@@ -628,7 +630,7 @@
       <td align="center">‎       </td>
       <td align="center">‎       </td>
       <td align="center">♙      </td>
-      <td align="center">♜      </td>
+      <td align="center">‎       </td>
       <td align="center">‎       </td>
     </tr>
     <tr>
@@ -639,7 +641,7 @@
       <td align="center">‎       </td>
       <td align="center">♔      </td>
       <td align="center">‎       </td>
-      <td align="center">‎       </td>
+      <td align="center">♜      </td>
       <td align="center">‎       </td>
     </tr>
   <tr>
@@ -760,4 +762,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.233s on Fri Aug 23 at 21:27</p>
+<p align="right">Generated in 0.228s on Fri Aug 23 at 21:27</p>
