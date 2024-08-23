@@ -85,17 +85,6 @@
     <tr>
       <td align="center">6320</td>
       <td align="center">
-        <a href="https://github.com/Jordan-Iralde" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/173688848?u=f3aab98273a8cac992cfc810b0e08fbe2581fabb&v=4" alt="Jordan-Iralde" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Jordan-Iralde" target="_blank">Jordan-Iralde</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">6321</td>
-      <td align="center">
         <a href="https://github.com/EmersonDba84" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/140563230?u=4ae961b3d4bf863dd4a1ec5a848ba6d43bd30fe7&v=4" alt="EmersonDba84" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">6322</td>
+      <td align="center">6321</td>
       <td align="center">
         <a href="https://github.com/JGD-Devs" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/178332069?u=1a71e167674f7c6057ec2ea1ab122bdc04204701&v=4" alt="JGD-Devs" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/JGD-Devs" target="_blank">JGD-Devs</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6322</td>
+      <td align="center">
+        <a href="https://github.com/rmaculan" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/120978811?u=9cb875de03499ae4af1837958799af715a64b7a8&v=4" alt="rmaculan" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/rmaculan" target="_blank">rmaculan</a>
       </td>
     </tr>
     <tr>
@@ -622,4 +622,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.355s on Fri Aug 23 at 0:14</p>
+<p align="right">Generated in 0.373s on Fri Aug 23 at 0:15</p>
