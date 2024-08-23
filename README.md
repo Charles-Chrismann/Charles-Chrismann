@@ -85,17 +85,6 @@
     <tr>
       <td align="center">6357</td>
       <td align="center">
-        <a href="https://github.com/nimodb" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/122856033?u=236ef2b24ab27e8acf046d1714626152e554618f&v=4" alt="nimodb" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/nimodb" target="_blank">nimodb</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">6358</td>
-      <td align="center">
         <a href="https://github.com/ERICK-KRAMER" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/128937549?u=989c0cecd6b8b2a29d682e32c5093d3f0cdc3a99&v=4" alt="ERICK-KRAMER" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">6359</td>
+      <td align="center">6358</td>
       <td align="center">
         <a href="https://github.com/munenepeter" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/68741159?u=bc697cefac7ffb95fc04c6993213dd8f911fc217&v=4" alt="munenepeter" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/munenepeter" target="_blank">munenepeter</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6359</td>
+      <td align="center">
+        <a href="https://github.com/dinuka2001" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/50940541?u=ccb2b5862a68678f6039ac04ad10263d26a2dfa8&v=4" alt="dinuka2001" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/dinuka2001" target="_blank">dinuka2001</a>
       </td>
     </tr>
     <tr>
@@ -787,4 +787,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.426s on Fri Aug 23 at 6:08</p>
+<p align="right">Generated in 0.35s on Fri Aug 23 at 6:09</p>
