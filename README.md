@@ -85,17 +85,6 @@
     <tr>
       <td align="center">6348</td>
       <td align="center">
-        <a href="https://github.com/junio10" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/50469065?u=66a76a62564ef883e57bb1401f069d960e23da7f&v=4" alt="junio10" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/junio10" target="_blank">junio10</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">6349</td>
-      <td align="center">
         <a href="https://github.com/ismendoza" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/18213479?u=15a9bdffb153e4f4ef0ee9f63ba471dbe7de6747&v=4" alt="ismendoza" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">6350</td>
+      <td align="center">6349</td>
       <td align="center">
         <a href="https://github.com/Mario200212" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/98231075?u=d85d78d7e0210a4a0c71fdd0b9b7e3c5685e44e9&v=4" alt="Mario200212" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/Mario200212" target="_blank">Mario200212</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6350</td>
+      <td align="center">
+        <a href="https://github.com/jazAlonso" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/145226018?u=4432fe8728102c74203b78349945c05d12f1e1dc&v=4" alt="jazAlonso" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/jazAlonso" target="_blank">jazAlonso</a>
       </td>
     </tr>
     <tr>
@@ -740,4 +740,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.737s on Fri Aug 23 at 4:24</p>
+<p align="right">Generated in 0.538s on Fri Aug 23 at 4:25</p>
