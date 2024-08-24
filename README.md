@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">6600</td>
-      <td align="center">
-        <a href="https://github.com/deepteshrout" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/175794634?u=75c70a5d1013e8e71117007f84a791747efed5c0&v=4" alt="deepteshrout" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/deepteshrout" target="_blank">deepteshrout</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">6601</td>
       <td align="center">
         <a href="https://github.com/Raffael-Wagner" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">6603</td>
+      <td align="center">
+        <a href="https://github.com/Berolich" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/140347195?v=4" alt="Berolich" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Berolich" target="_blank">Berolich</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6604</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -794,4 +794,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.688s on Sat Aug 24 at 14:40</p>
+<p align="right">Generated in 0.613s on Sat Aug 24 at 14:43</p>
