@@ -83,40 +83,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">6647</td>
-      <td align="center">
-        <a href="https://github.com/JohnMwendwa" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/72663882?u=805073cc702701b4ad6c56a60dc0bdae9ccac964&v=4" alt="JohnMwendwa" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/JohnMwendwa" target="_blank">JohnMwendwa</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">6648</td>
-      <td align="center">
-        <a href="https://github.com/ENKI0311" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/152146815?u=db938e042794576ad35eaface3fb4c6bf408f401&v=4" alt="ENKI0311" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/ENKI0311" target="_blank">ENKI0311</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">6649</td>
-      <td align="center">
-        <a href="https://github.com/huseyinsanal" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/106207478?u=f0e5e0af59446e741e7ab427492cb7654614ba2e&v=4" alt="huseyinsanal" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/huseyinsanal" target="_blank">huseyinsanal</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">6650</td>
+      <td align="center">
+        <a href="https://github.com/Akuak-Mayen" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/132378777?u=99b2b529288c40d8c8f83a2f6481cb6af00ea23a&v=4" alt="Akuak-Mayen" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Akuak-Mayen" target="_blank">Akuak-Mayen</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6651</td>
+      <td align="center">
+        <a href="https://github.com/Asterrizz" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/142826831?u=b16d013eee7fdbb74c21017c154398ec022910f2&v=4" alt="Asterrizz" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Asterrizz" target="_blank">Asterrizz</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6652</td>
+      <td align="center">
+        <a href="https://github.com/likhon-xyz" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/178795664?u=6a3c4014572e29687135ba88046604aa8d483224&v=4" alt="likhon-xyz" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/likhon-xyz" target="_blank">likhon-xyz</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6653</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 2.329s on Sat Aug 24 at 21:48</p>
+<p align="right">Generated in 2.344s on Sat Aug 24 at 21:52</p>
