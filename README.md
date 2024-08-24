@@ -83,40 +83,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">6641</td>
-      <td align="center">
-        <a href="https://github.com/TuranAda" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/125216989?u=90ecba2d523559ebe4376c3309c9c11e7d9bddde&v=4" alt="TuranAda" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/TuranAda" target="_blank">TuranAda</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">6642</td>
-      <td align="center">
-        <a href="https://github.com/toxic-jannick" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/123766234?v=4" alt="toxic-jannick" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/toxic-jannick" target="_blank">toxic-jannick</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">6643</td>
-      <td align="center">
-        <a href="https://github.com/ozeerr" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/137641188?u=9c50ad70e24de0265cec545fc11d6b7a53d10dcc&v=4" alt="ozeerr" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/ozeerr" target="_blank">ozeerr</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">6644</td>
+      <td align="center">
+        <a href="https://github.com/Italloml" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/147522368?u=2b21515815d218e93b5900e1af00ef52c761b58d&v=4" alt="Italloml" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Italloml" target="_blank">Italloml</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6645</td>
+      <td align="center">
+        <a href="https://github.com/GabrielaOliveira27" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/178180198?u=4e0fb290aad82124df60962b2ba3c463b9a23696&v=4" alt="GabrielaOliveira27" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/GabrielaOliveira27" target="_blank">GabrielaOliveira27</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6646</td>
+      <td align="center">
+        <a href="https://github.com/milosm2000" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/91791339?u=40bad28d2c17aa6daeda465fa89b504f822dd98e&v=4" alt="milosm2000" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/milosm2000" target="_blank">milosm2000</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6647</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 2.148s on Sat Aug 24 at 20:58</p>
+<p align="right">Generated in 4.161s on Sat Aug 24 at 20:58</p>
