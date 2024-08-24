@@ -85,17 +85,6 @@
     <tr>
       <td align="center">6547</td>
       <td align="center">
-        <a href="https://github.com/joaopedrodevl" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/141358061?u=5ed51f3edc0a231201cca379dcdba512855a50eb&v=4" alt="joaopedrodevl" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/joaopedrodevl" target="_blank">joaopedrodevl</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">6548</td>
-      <td align="center">
         <a href="https://github.com/sonjibony" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/108391575?u=1cb66046900c3ae463d8e94a68d6f92f01951568&v=4" alt="sonjibony" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">6549</td>
+      <td align="center">6548</td>
       <td align="center">
         <a href="https://github.com/Redwindmh" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/89063019?u=6c9aea712c1bc3bc32236284c708037c5edcc5fd&v=4" alt="Redwindmh" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/Redwindmh" target="_blank">Redwindmh</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6549</td>
+      <td align="center">
+        <a href="https://github.com/nietojose10" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/39203886?v=4" alt="nietojose10" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/nietojose10" target="_blank">nietojose10</a>
       </td>
     </tr>
     <tr>
@@ -730,4 +730,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 1.145s on Sat Aug 24 at 1:48</p>
+<p align="right">Generated in 1.068s on Sat Aug 24 at 1:49</p>
