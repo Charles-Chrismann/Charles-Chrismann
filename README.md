@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">6644</td>
-      <td align="center">
-        <a href="https://github.com/Italloml" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/147522368?u=2b21515815d218e93b5900e1af00ef52c761b58d&v=4" alt="Italloml" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Italloml" target="_blank">Italloml</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">6645</td>
       <td align="center">
         <a href="https://github.com/GabrielaOliveira27" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">6647</td>
+      <td align="center">
+        <a href="https://github.com/Tricta" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/76655731?u=9e90656e738d8d71fff41f103356f1453893692f&v=4" alt="Tricta" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Tricta" target="_blank">Tricta</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6648</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 2.195s on Sat Aug 24 at 21:00</p>
+<p align="right">Generated in 2.123s on Sat Aug 24 at 21:02</p>
