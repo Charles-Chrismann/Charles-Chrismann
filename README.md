@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">6639</td>
-      <td align="center">
-        <a href="https://github.com/so-tha" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/75867936?u=137c54329fa13d25aa16292a1e04613581f58581&v=4" alt="so-tha" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/so-tha" target="_blank">so-tha</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">6640</td>
       <td align="center">
         <a href="https://github.com/gamemann" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">6642</td>
+      <td align="center">
+        <a href="https://github.com/toxic-jannick" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/123766234?v=4" alt="toxic-jannick" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/toxic-jannick" target="_blank">toxic-jannick</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6643</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 2.05s on Sat Aug 24 at 20:51</p>
+<p align="right">Generated in 2.051s on Sat Aug 24 at 20:51</p>
