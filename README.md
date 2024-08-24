@@ -85,17 +85,6 @@
     <tr>
       <td align="center">6656</td>
       <td align="center">
-        <a href="https://github.com/Abayo-UI" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/125644073?v=4" alt="Abayo-UI" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Abayo-UI" target="_blank">Abayo-UI</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">6657</td>
-      <td align="center">
         <a href="https://github.com/elhaqeeem" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/35244043?u=0d1e7c9e60588c3d1b59a8737ac9e2b60eabc00e&v=4" alt="elhaqeeem" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">6658</td>
+      <td align="center">6657</td>
       <td align="center">
         <a href="https://github.com/omerbozkurts" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/128372028?u=637b02a8be7e5fe4350a3110a81410936c0ad50e&v=4" alt="omerbozkurts" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/omerbozkurts" target="_blank">omerbozkurts</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6658</td>
+      <td align="center">
+        <a href="https://github.com/dmotts" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/30247770?u=84bf5625bc91a38fe744c70cc5d32f5754535d53&v=4" alt="dmotts" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/dmotts" target="_blank">dmotts</a>
       </td>
     </tr>
     <tr>
@@ -805,4 +805,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.418s on Sat Aug 24 at 22:48</p>
+<p align="right">Generated in 0.266s on Sat Aug 24 at 22:54</p>
