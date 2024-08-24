@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">6623</td>
-      <td align="center">
-        <a href="https://github.com/Preetiii30" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/111064816?u=b4a18d17950c4dce2621780e70e15ad2b01c3a24&v=4" alt="Preetiii30" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Preetiii30" target="_blank">Preetiii30</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">6624</td>
       <td align="center">
         <a href="https://github.com/DFOMULAR" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">6626</td>
+      <td align="center">
+        <a href="https://github.com/rexlx" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/23558766?u=4819f6064b2ff624a4d4670dbdb8e05f8c759b55&v=4" alt="rexlx" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/rexlx" target="_blank">rexlx</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6627</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -794,4 +794,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.431s on Sat Aug 24 at 18:28</p>
+<p align="right">Generated in 0.265s on Sat Aug 24 at 18:31</p>
