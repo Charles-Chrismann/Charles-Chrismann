@@ -85,17 +85,6 @@
     <tr>
       <td align="center">6558</td>
       <td align="center">
-        <a href="https://github.com/vinicioseazevedo" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/159719004?u=6ae1fb0386308af8bff509cfc8e351aeb71e4103&v=4" alt="vinicioseazevedo" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/vinicioseazevedo" target="_blank">vinicioseazevedo</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">6559</td>
-      <td align="center">
         <a href="https://github.com/oumaima-aarabe" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/111888559?u=5b73847241080166bf840ca050440c6dffc39cb6&v=4" alt="oumaima-aarabe" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">6560</td>
+      <td align="center">6559</td>
       <td align="center">
         <a href="https://github.com/BKTDCEO" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/178337806?u=6d6507079c8371a55e4ad770a74e9e47492e35c3&v=4" alt="BKTDCEO" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/BKTDCEO" target="_blank">BKTDCEO</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6560</td>
+      <td align="center">
+        <a href="https://github.com/ismaelpalmat" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/94765198?u=9c1f42e00e0c2ba498e4b9e961344dd2bd25b15d&v=4" alt="ismaelpalmat" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/ismaelpalmat" target="_blank">ismaelpalmat</a>
       </td>
     </tr>
     <tr>
@@ -790,4 +790,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.316s on Sat Aug 24 at 4:28</p>
+<p align="right">Generated in 0.313s on Sat Aug 24 at 4:28</p>
