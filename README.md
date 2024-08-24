@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">6659</td>
-      <td align="center">
-        <a href="https://github.com/thecollekta" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/163061224?v=4" alt="thecollekta" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/thecollekta" target="_blank">thecollekta</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">6660</td>
       <td align="center">
         <a href="https://github.com/euluisdev" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">6662</td>
+      <td align="center">
+        <a href="https://github.com/Bluebill365" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/158518773?v=4" alt="Bluebill365" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Bluebill365" target="_blank">Bluebill365</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6663</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -788,4 +788,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.24s on Sat Aug 24 at 23:46</p>
+<p align="right">Generated in 0.237s on Sat Aug 24 at 23:47</p>
