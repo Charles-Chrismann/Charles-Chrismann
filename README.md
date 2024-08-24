@@ -85,17 +85,6 @@
     <tr>
       <td align="center">6645</td>
       <td align="center">
-        <a href="https://github.com/GabrielaOliveira27" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/178180198?u=4e0fb290aad82124df60962b2ba3c463b9a23696&v=4" alt="GabrielaOliveira27" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/GabrielaOliveira27" target="_blank">GabrielaOliveira27</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">6646</td>
-      <td align="center">
         <a href="https://github.com/milosm2000" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/91791339?u=40bad28d2c17aa6daeda465fa89b504f822dd98e&v=4" alt="milosm2000" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">6647</td>
+      <td align="center">6646</td>
       <td align="center">
         <a href="https://github.com/Tricta" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/76655731?u=9e90656e738d8d71fff41f103356f1453893692f&v=4" alt="Tricta" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/Tricta" target="_blank">Tricta</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6647</td>
+      <td align="center">
+        <a href="https://github.com/JohnMwendwa" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/72663882?u=805073cc702701b4ad6c56a60dc0bdae9ccac964&v=4" alt="JohnMwendwa" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/JohnMwendwa" target="_blank">JohnMwendwa</a>
       </td>
     </tr>
     <tr>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 2.232s on Sat Aug 24 at 21:16</p>
+<p align="right">Generated in 2.193s on Sat Aug 24 at 21:19</p>
