@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">6646</td>
-      <td align="center">
-        <a href="https://github.com/Tricta" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/76655731?u=9e90656e738d8d71fff41f103356f1453893692f&v=4" alt="Tricta" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Tricta" target="_blank">Tricta</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">6647</td>
       <td align="center">
         <a href="https://github.com/JohnMwendwa" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">6649</td>
+      <td align="center">
+        <a href="https://github.com/huseyinsanal" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/106207478?u=f0e5e0af59446e741e7ab427492cb7654614ba2e&v=4" alt="huseyinsanal" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/huseyinsanal" target="_blank">huseyinsanal</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6650</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 2.248s on Sat Aug 24 at 21:28</p>
+<p align="right">Generated in 2.229s on Sat Aug 24 at 21:29</p>
