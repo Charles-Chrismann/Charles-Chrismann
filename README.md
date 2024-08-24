@@ -85,17 +85,6 @@
     <tr>
       <td align="center">6583</td>
       <td align="center">
-        <a href="https://github.com/Beterng" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/154446929?u=da68a25bc15d59d5833df39f95784617e79bd541&v=4" alt="Beterng" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Beterng" target="_blank">Beterng</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">6584</td>
-      <td align="center">
         <a href="https://github.com/bedantH" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/64542454?u=0828a7be73771205335bfa81ab70623ab3905d50&v=4" alt="bedantH" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">6585</td>
+      <td align="center">6584</td>
       <td align="center">
         <a href="https://github.com/OrryFrasetyo" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/126457746?u=bfaa49b1c4360539f3d6b4e06989160c6ebbfae4&v=4" alt="OrryFrasetyo" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/OrryFrasetyo" target="_blank">OrryFrasetyo</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6585</td>
+      <td align="center">
+        <a href="https://github.com/MAmin-y" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/99996222?v=4" alt="MAmin-y" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/MAmin-y" target="_blank">MAmin-y</a>
       </td>
     </tr>
     <tr>
@@ -737,4 +737,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.303s on Sat Aug 24 at 9:57</p>
+<p align="right">Generated in 0.302s on Sat Aug 24 at 9:58</p>
