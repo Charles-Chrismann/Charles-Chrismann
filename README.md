@@ -85,17 +85,6 @@
     <tr>
       <td align="center">6600</td>
       <td align="center">
-        <a href="https://github.com/FelipeAlmeida010" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/77369235?u=0f6103fb9199db5c3843a4491a78c8e475834b52&v=4" alt="FelipeAlmeida010" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/FelipeAlmeida010" target="_blank">FelipeAlmeida010</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">6601</td>
-      <td align="center">
         <a href="https://github.com/deepteshrout" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/175794634?u=75c70a5d1013e8e71117007f84a791747efed5c0&v=4" alt="deepteshrout" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">6602</td>
+      <td align="center">6601</td>
       <td align="center">
         <a href="https://github.com/Raffael-Wagner" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/127340538?u=84f01d88cf142f9ec750481aa2879855db03c1f5&v=4" alt="Raffael-Wagner" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/Raffael-Wagner" target="_blank">Raffael-Wagner</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6602</td>
+      <td align="center">
+        <a href="https://github.com/basaktepe" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/100874056?u=14b2575e1bb36b20abf4011a9bb8a23b34f766ab&v=4" alt="basaktepe" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/basaktepe" target="_blank">basaktepe</a>
       </td>
     </tr>
     <tr>
@@ -784,4 +784,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.596s on Sat Aug 24 at 14:36</p>
+<p align="right">Generated in 0.591s on Sat Aug 24 at 14:37</p>
