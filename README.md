@@ -83,28 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">6637</td>
-      <td align="center">
-        <a href="https://github.com/sedabasaran" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/58148544?u=7e3c8ca6eccfe233a55da60a0a76cd3688c56971&v=4" alt="sedabasaran" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/sedabasaran" target="_blank">sedabasaran</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">6638</td>
-      <td align="center">
-        <a href="https://github.com/yaseminyavuz" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/128582599?u=8f5627bd372fb897d8e006dc2ffa079895261742&v=4" alt="yaseminyavuz" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/yaseminyavuz" target="_blank">yaseminyavuz</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">6639</td>
       <td align="center">
         <a href="https://github.com/so-tha" target="_blank">
@@ -117,6 +95,28 @@
     </tr>
     <tr>
       <td align="center">6640</td>
+      <td align="center">
+        <a href="https://github.com/gamemann" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/6509565?u=f0a65cef15eea11cce9d61cd53d302332161bbaa&v=4" alt="gamemann" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/gamemann" target="_blank">gamemann</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6641</td>
+      <td align="center">
+        <a href="https://github.com/TuranAda" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/125216989?u=90ecba2d523559ebe4376c3309c9c11e7d9bddde&v=4" alt="TuranAda" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/TuranAda" target="_blank">TuranAda</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6642</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
