@@ -771,6 +771,16 @@
       </td>
     </tr>
     <tr>
+      <td>$\text{\color{lightgreen}{O}}$</td>
+      <td>$\text{\color{lightgreen}{P}}$</td>
+      <td>$\text{\color{lightgreen}{E}}$</td>
+      <td>$\text{\color{lightgreen}{R}}$</td>
+      <td>$\text{\color{lightgreen}{A}}$</td>
+      <td>
+        <a href="https://github.com/Charles-Chrismann">@Charles-Chrismann</a>
+      </td>
+    </tr>
+    <tr>
       <td>‎ </td>
       <td>‎ </td>
       <td>‎ </td>
@@ -816,7 +826,7 @@
       <td>
         <a href="https://github.com/Charles-Chrismann">@Charles-Chrismann</a>
       </td>
-      <td align="center">7</td>
+      <td align="center">8</td>
     </tr>
   </tbody>
 </table>
@@ -832,4 +842,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.257s on Sun Aug 25 at 20:32</p>
+<p align="right">Generated in 0.258s on Sun Aug 25 at 20:34</p>
