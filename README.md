@@ -83,17 +83,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">6719</td>
-      <td align="center">
-        <a href="https://github.com/Ochiponu-Awodi" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/175935679?v=4" alt="Ochiponu-Awodi" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Ochiponu-Awodi" target="_blank">Ochiponu-Awodi</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">6720</td>
       <td align="center">
         <a href="https://github.com/Gitmsnk" target="_blank">
@@ -117,6 +106,17 @@
     </tr>
     <tr>
       <td align="center">6722</td>
+      <td align="center">
+        <a href="https://github.com/Abi-newbie" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/157311183?v=4" alt="Abi-newbie" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Abi-newbie" target="_blank">Abi-newbie</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6723</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -813,4 +813,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.468s on Sun Aug 25 at 14:20</p>
+<p align="right">Generated in 0.292s on Sun Aug 25 at 14:22</p>
