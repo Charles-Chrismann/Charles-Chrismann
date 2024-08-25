@@ -81,29 +81,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">6755</td>
-      <td align="center">
-        <a href="https://github.com/Howard-P" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/152210081?u=91cd7175212b8c750640cd9f8fce5be3df631db9&v=4" alt="Howard-P" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Howard-P" target="_blank">Howard-P</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">6756</td>
-      <td align="center">
-        <a href="https://github.com/mertsparlak" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/123265338?u=60d53a48cd53476997da201e00b66f4bc0763d29&v=4" alt="mertsparlak" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/mertsparlak" target="_blank">mertsparlak</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">6757</td>
       <td align="center">
         <a href="https://github.com/haslan82" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/159720507?u=2e1f8eba8b21cddab6d94025f324d110f081e844&v=4" alt="haslan82" width="40" height="40"/>
@@ -114,7 +92,29 @@
       </td>
     </tr>
     <tr>
+      <td align="center">6757</td>
+      <td align="center">
+        <a href="https://github.com/ThokozaniMntambo" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/145574049?v=4" alt="ThokozaniMntambo" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/ThokozaniMntambo" target="_blank">ThokozaniMntambo</a>
+      </td>
+    </tr>
+    <tr>
       <td align="center">6758</td>
+      <td align="center">
+        <a href="https://github.com/darthblanc" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/107510378?u=b156774ec5548648d06f0f0b9b87f43ae557dbd8&v=4" alt="darthblanc" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/darthblanc" target="_blank">darthblanc</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6759</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -842,4 +842,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.257s on Sun Aug 25 at 20:51</p>
+<p align="right">Generated in 0.26s on Sun Aug 25 at 20:58</p>
