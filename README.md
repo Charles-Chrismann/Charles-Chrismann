@@ -1,4 +1,4 @@
-<h1>👋 - Hi visitor</h1>
+<h1>:wave: - Hi visitor</h1>
 <h3>I'm Charles Chrismann !</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Charles-Chrismann">
@@ -67,12 +67,14 @@
 
 <p>:dart: I have the ambition to become a respectable full stack js developer, currently grinding on it.</p>
 <p>Some facts:</p>
-<ul>  <li>:two_hearts: I automatically likes anything ending with -lang & -land</li>
+<ul>
+  <li>:two_hearts: I automatically likes anything ending with -lang & -land</li>
   <li>:book: I choose to learn a stack based on the fun of the name</li>
   <li>:cup_with_straw: Gin-Gonic just has the best name</li>
   <li>:sauropod: Deno is a better Node with a cut mascot</li>
   <li>:crab: & :otter: are better together (there is no gopher emoji and otters are cute)</li>
 </ul>
+<p>My discord: @kymono</p>
 <table align="center">
   <thead>
     <tr>
@@ -123,6 +125,9 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/charles-chrismann/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="40" />
+  </a>
+  <a href="https://www.instagram.com/charles.cmn?igsh=bG55YnM1cGZjbjhh" target="blank">
+    <img align="center" src="https://user-images.githubusercontent.com/24403355/33800842-566c09d8-dd17-11e7-88ff-be7f30481d67.png" alt="instagram" height="40" width="40" />
   </a>
 </p>
 <h1 align="center">Technical skills</h1>
@@ -548,9 +553,9 @@
       <td align="center">♜      </td>
       <td align="center">♞      </td>
       <td align="center">♝      </td>
-      <td align="center">♛      </td>
-      <td align="center">♚      </td>
-      <td align="center">♝      </td>
+      <td align="center">‎       </td>
+      <td align="center">‎       </td>
+      <td align="center">‎       </td>
       <td align="center">♞      </td>
       <td align="center">♜      </td>
     </tr>
@@ -558,10 +563,10 @@
       <td align="center">:seven:</td>
       <td align="center">♟      </td>
       <td align="center">♟      </td>
-      <td align="center">♟      </td>
-      <td align="center">♟      </td>
-      <td align="center">♟      </td>
-      <td align="center">♟      </td>
+      <td align="center">‎       </td>
+      <td align="center">‎       </td>
+      <td align="center">‎       </td>
+      <td align="center">‎       </td>
       <td align="center">♟      </td>
       <td align="center">♟      </td>
     </tr>
@@ -570,9 +575,9 @@
       <td align="center">‎       </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
+      <td align="center">♟      </td>
       <td align="center">‎       </td>
-      <td align="center">‎       </td>
-      <td align="center">‎       </td>
+      <td align="center">♛      </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
     </tr>
@@ -580,7 +585,7 @@
       <td align="center">:five:</td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
-      <td align="center">‎       </td>
+      <td align="center">♟      </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
@@ -591,75 +596,59 @@
       <td align="center">:four:</td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
+      <td align="center">♙      </td>
       <td align="center">‎       </td>
-      <td align="center">‎       </td>
-      <td align="center">‎       </td>
-      <td align="center">‎       </td>
+      <td align="center">♟      </td>
+      <td align="center">♟      </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
     </tr>
     <tr>
       <td align="center">:three:</td>
+      <td align="center">♝      </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
+      <td align="center">♚      </td>
       <td align="center">‎       </td>
-      <td align="center">‎       </td>
-      <td align="center">‎       </td>
-      <td align="center">‎       </td>
+      <td align="center">
+        <details>
+          <summary>♙</summary>
+          <a href="https://o.charles-chrismann.fr/chess/move?x1=6&y1=5&x2=6&y2=4">g4</a>
+          <a href="https://o.charles-chrismann.fr/chess/move?x1=6&y1=5&x2=5&y2=4">f4</a>
+        </details>
+      </td>
       <td align="center">‎       </td>
     </tr>
     <tr>
       <td align="center">:two:</td>
-      <td align="center">
-        <details>
-          <summary>♙</summary>
-          <a href="https://o.charles-chrismann.fr/chess/move?x1=0&y1=6&x2=0&y2=4">a4</a>
-          <a href="https://o.charles-chrismann.fr/chess/move?x1=0&y1=6&x2=0&y2=5">a3</a>
-        </details>
-      </td>
+      <td align="center">♙      </td>
       <td align="center">
         <details>
           <summary>♙</summary>
           <a href="https://o.charles-chrismann.fr/chess/move?x1=1&y1=6&x2=1&y2=4">b4</a>
           <a href="https://o.charles-chrismann.fr/chess/move?x1=1&y1=6&x2=1&y2=5">b3</a>
+          <br><a href="https://o.charles-chrismann.fr/chess/move?x1=1&y1=6&x2=0&y2=5">a3</a>
         </details>
       </td>
-      <td align="center">
-        <details>
-          <summary>♙</summary>
-          <a href="https://o.charles-chrismann.fr/chess/move?x1=2&y1=6&x2=2&y2=4">c4</a>
-          <a href="https://o.charles-chrismann.fr/chess/move?x1=2&y1=6&x2=2&y2=5">c3</a>
-        </details>
-      </td>
+      <td align="center">‎       </td>
       <td align="center">
         <details>
           <summary>♙</summary>
           <a href="https://o.charles-chrismann.fr/chess/move?x1=3&y1=6&x2=3&y2=4">d4</a>
           <a href="https://o.charles-chrismann.fr/chess/move?x1=3&y1=6&x2=3&y2=5">d3</a>
+          <br><a href="https://o.charles-chrismann.fr/chess/move?x1=3&y1=6&x2=4&y2=5">e3</a>
         </details>
       </td>
+      <td align="center">‎       </td>
       <td align="center">
         <details>
           <summary>♙</summary>
-          <a href="https://o.charles-chrismann.fr/chess/move?x1=4&y1=6&x2=4&y2=4">e4</a>
-          <a href="https://o.charles-chrismann.fr/chess/move?x1=4&y1=6&x2=4&y2=5">e3</a>
-        </details>
-      </td>
-      <td align="center">
-        <details>
-          <summary>♙</summary>
-          <a href="https://o.charles-chrismann.fr/chess/move?x1=5&y1=6&x2=5&y2=4">f4</a>
           <a href="https://o.charles-chrismann.fr/chess/move?x1=5&y1=6&x2=5&y2=5">f3</a>
+          <a href="https://o.charles-chrismann.fr/chess/move?x1=5&y1=6&x2=4&y2=5">e3</a>
         </details>
       </td>
-      <td align="center">
-        <details>
-          <summary>♙</summary>
-          <a href="https://o.charles-chrismann.fr/chess/move?x1=6&y1=6&x2=6&y2=4">g4</a>
-          <a href="https://o.charles-chrismann.fr/chess/move?x1=6&y1=6&x2=6&y2=5">g3</a>
-        </details>
-      </td>
+      <td align="center">‎       </td>
       <td align="center">
         <details>
           <summary>♙</summary>
@@ -670,7 +659,7 @@
     </tr>
     <tr>
       <td align="center">:one:</td>
-      <td align="center">♖      </td>
+      <td align="center">‎       </td>
       <td align="center">
         <details>
           <summary>♘</summary>
@@ -679,17 +668,25 @@
         </details>
       </td>
       <td align="center">♗      </td>
-      <td align="center">♕      </td>
+      <td align="center">♖      </td>
       <td align="center">♔      </td>
-      <td align="center">♗      </td>
       <td align="center">
         <details>
-          <summary>♘</summary>
-          <a href="https://o.charles-chrismann.fr/chess/move?x1=6&y1=7&x2=5&y2=5">f3</a>
-          <a href="https://o.charles-chrismann.fr/chess/move?x1=6&y1=7&x2=7&y2=5">h3</a>
+          <summary>♗</summary>
+          <a href="https://o.charles-chrismann.fr/chess/move?x1=5&y1=7&x2=4&y2=6">e2</a>
+          <a href="https://o.charles-chrismann.fr/chess/move?x1=5&y1=7&x2=3&y2=5">d3</a>
+          <br><a href="https://o.charles-chrismann.fr/chess/move?x1=5&y1=7&x2=6&y2=6">g2</a>
+          <a href="https://o.charles-chrismann.fr/chess/move?x1=5&y1=7&x2=7&y2=5">h3</a>
         </details>
       </td>
-      <td align="center">♖      </td>
+      <td align="center">
+        <details>
+          <summary>♖</summary>
+          <a href="https://o.charles-chrismann.fr/chess/move?x1=6&y1=7&x2=7&y2=7">h1</a>
+          <a href="https://o.charles-chrismann.fr/chess/move?x1=6&y1=7&x2=6&y2=6">g2</a>
+        </details>
+      </td>
+      <td align="center">‎       </td>
     </tr>
   <tr>
     <td align="center"></td>
@@ -718,6 +715,16 @@
   </thead>
   <tbody>
     <tr>
+      <td>$\text{\color{white}{C}}$</td>
+      <td>$\text{\color{white}{H}}$</td>
+      <td>$\text{\color{orange}{O}}$</td>
+      <td>$\text{\color{lightgreen}{R}}$</td>
+      <td>$\text{\color{orange}{E}}$</td>
+      <td>
+        <a href="https://github.com/FaltoGH">@FaltoGH</a>
+      </td>
+    </tr>
+    <tr>
       <td>‎ </td>
       <td>‎ </td>
       <td>‎ </td>
@@ -741,6 +748,30 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td align="center">1</td>
+      <td align="center">
+        <a href="https://github.com/Foword5">
+          <img src="https://avatars.githubusercontent.com/u/84903360?size=32">
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Foword5">@Foword5</a>
+      </td>
+      <td align="center">10</td>
+    </tr>
+    <tr>
+      <td align="center">2</td>
+      <td align="center">
+        <a href="https://github.com/Charles-Chrismann">
+          <img src="https://avatars.githubusercontent.com/u/78157563?size=32">
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Charles-Chrismann">@Charles-Chrismann</a>
+      </td>
+      <td align="center">7</td>
+    </tr>
   </tbody>
 </table>
 
@@ -755,4 +786,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.101s on Sun Aug 25 at 16:17</p>
+<p align="right">Generated in 0.23s on Sun Aug 25 at 16:18</p>
