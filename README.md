@@ -83,29 +83,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">6709</td>
-      <td align="center">
-        <a href="https://github.com/LyCecilion" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/141834038?u=dd45b4090fb1bfbb9892aa40053d5fdcc08fe58e&v=4" alt="LyCecilion" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/LyCecilion" target="_blank">LyCecilion</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">6710</td>
-      <td align="center">
-        <a href="https://github.com/Kelvinnambale" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/120830157?v=4" alt="Kelvinnambale" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Kelvinnambale" target="_blank">Kelvinnambale</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">6711</td>
       <td align="center">
         <a href="https://github.com/JohnMwendwa" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/72663882?u=805073cc702701b4ad6c56a60dc0bdae9ccac964&v=4" alt="JohnMwendwa" width="40" height="40"/>
@@ -116,7 +94,29 @@
       </td>
     </tr>
     <tr>
+      <td align="center">6711</td>
+      <td align="center">
+        <a href="https://github.com/Kobra-soft" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/112418998?u=0a52f3485f95b7025357cece9f1398cf1a2463f4&v=4" alt="Kobra-soft" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Kobra-soft" target="_blank">Kobra-soft</a>
+      </td>
+    </tr>
+    <tr>
       <td align="center">6712</td>
+      <td align="center">
+        <a href="https://github.com/Shafihu" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/128224571?u=1a7f512fde68e23946dfdf543d4c3bb56c10a21f&v=4" alt="Shafihu" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Shafihu" target="_blank">Shafihu</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6713</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -794,4 +794,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.278s on Sun Aug 25 at 13:22</p>
+<p align="right">Generated in 0.212s on Sun Aug 25 at 13:23</p>
