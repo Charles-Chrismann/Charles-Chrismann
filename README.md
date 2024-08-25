@@ -81,28 +81,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">6757</td>
-      <td align="center">
-        <a href="https://github.com/ThokozaniMntambo" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/145574049?v=4" alt="ThokozaniMntambo" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/ThokozaniMntambo" target="_blank">ThokozaniMntambo</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">6758</td>
-      <td align="center">
-        <a href="https://github.com/darthblanc" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/107510378?u=b156774ec5548648d06f0f0b9b87f43ae557dbd8&v=4" alt="darthblanc" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/darthblanc" target="_blank">darthblanc</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">6759</td>
       <td align="center">
         <a href="https://github.com/Barmadmim" target="_blank">
@@ -115,6 +93,28 @@
     </tr>
     <tr>
       <td align="center">6760</td>
+      <td align="center">
+        <a href="https://github.com/Catarina5551" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/143965988?u=976a5296745954c7d8adf046af151fb47463065b&v=4" alt="Catarina5551" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Catarina5551" target="_blank">Catarina5551</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6761</td>
+      <td align="center">
+        <a href="https://github.com/Mousta-Med" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/112891663?u=c32c9faa2a3c61731fd16d35a13d3cce7c2a59fe&v=4" alt="Mousta-Med" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Mousta-Med" target="_blank">Mousta-Med</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6762</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -855,4 +855,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.267s on Sun Aug 25 at 21:22</p>
+<p align="right">Generated in 0.149s on Sun Aug 25 at 21:26</p>
