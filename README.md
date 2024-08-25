@@ -108,7 +108,7 @@
       <td align="center">6722</td>
       <td align="center">
         <a href="https://github.com/Abi-newbie" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/157311183?v=4" alt="Abi-newbie" width="40" height="40"/>
+          <img src="https://avatars.githubusercontent.com/u/157311183?u=427ff82e5b2d5147bc56c7fed22449a340786ac7&v=4" alt="Abi-newbie" width="40" height="40"/>
         </a>
       </td>
       <td>
@@ -813,4 +813,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.302s on Sun Aug 25 at 14:24</p>
+<p align="right">Generated in 0.298s on Sun Aug 25 at 14:28</p>
