@@ -85,17 +85,6 @@
     <tr>
       <td align="center">6710</td>
       <td align="center">
-        <a href="https://github.com/JohnMwendwa" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/72663882?u=805073cc702701b4ad6c56a60dc0bdae9ccac964&v=4" alt="JohnMwendwa" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/JohnMwendwa" target="_blank">JohnMwendwa</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">6711</td>
-      <td align="center">
         <a href="https://github.com/Kobra-soft" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/112418998?u=0a52f3485f95b7025357cece9f1398cf1a2463f4&v=4" alt="Kobra-soft" width="40" height="40"/>
         </a>
@@ -105,7 +94,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">6712</td>
+      <td align="center">6711</td>
       <td align="center">
         <a href="https://github.com/Shafihu" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/128224571?u=1a7f512fde68e23946dfdf543d4c3bb56c10a21f&v=4" alt="Shafihu" width="40" height="40"/>
@@ -113,6 +102,17 @@
       </td>
       <td>
         <a href="https://github.com/Shafihu" target="_blank">Shafihu</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6712</td>
+      <td align="center">
+        <a href="https://github.com/marekbukoski" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/167747487?u=7014c4cba3f5c0afb120d9b7c160db5b4b45fa48&v=4" alt="marekbukoski" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/marekbukoski" target="_blank">marekbukoski</a>
       </td>
     </tr>
     <tr>
@@ -794,4 +794,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.307s on Sun Aug 25 at 13:28</p>
+<p align="right">Generated in 0.247s on Sun Aug 25 at 13:29</p>
