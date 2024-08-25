@@ -81,17 +81,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">6763</td>
-      <td align="center">
-        <a href="https://github.com/silas-wr" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/172210544?v=4" alt="silas-wr" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/silas-wr" target="_blank">silas-wr</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">6764</td>
       <td align="center">
         <a href="https://github.com/graffwritter" target="_blank">
@@ -115,6 +104,17 @@
     </tr>
     <tr>
       <td align="center">6766</td>
+      <td align="center">
+        <a href="https://github.com/sebashtioon" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/170680126?u=93951d70adef29028e440159415c6f4ae837befb&v=4" alt="sebashtioon" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/sebashtioon" target="_blank">sebashtioon</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6767</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -841,4 +841,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.288s on Sun Aug 25 at 21:52</p>
+<p align="right">Generated in 0.296s on Sun Aug 25 at 21:58</p>
