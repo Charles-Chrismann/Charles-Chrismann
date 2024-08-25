@@ -81,17 +81,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">6764</td>
-      <td align="center">
-        <a href="https://github.com/graffwritter" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/82271549?u=3f314f1421907465827ddf56fd0a4a414bd1b881&v=4" alt="graffwritter" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/graffwritter" target="_blank">graffwritter</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">6765</td>
       <td align="center">
         <a href="https://github.com/kayreginato" target="_blank">
@@ -115,6 +104,17 @@
     </tr>
     <tr>
       <td align="center">6767</td>
+      <td align="center">
+        <a href="https://github.com/sr2801x" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/157020533?v=4" alt="sr2801x" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/sr2801x" target="_blank">sr2801x</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6768</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -781,4 +781,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.278s on Sun Aug 25 at 22:00</p>
+<p align="right">Generated in 0.287s on Sun Aug 25 at 22:01</p>
