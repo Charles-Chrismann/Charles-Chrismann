@@ -83,17 +83,6 @@
     <tr>
       <td align="center">6759</td>
       <td align="center">
-        <a href="https://github.com/Barmadmim" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/176044194?u=bf6b7720b16b436ee640dec7619976ad64d68847&v=4" alt="Barmadmim" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Barmadmim" target="_blank">Barmadmim</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">6760</td>
-      <td align="center">
         <a href="https://github.com/Catarina5551" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/143965988?u=976a5296745954c7d8adf046af151fb47463065b&v=4" alt="Catarina5551" width="40" height="40"/>
         </a>
@@ -103,7 +92,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">6761</td>
+      <td align="center">6760</td>
       <td align="center">
         <a href="https://github.com/Mousta-Med" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/112891663?u=c32c9faa2a3c61731fd16d35a13d3cce7c2a59fe&v=4" alt="Mousta-Med" width="40" height="40"/>
@@ -111,6 +100,17 @@
       </td>
       <td>
         <a href="https://github.com/Mousta-Med" target="_blank">Mousta-Med</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6761</td>
+      <td align="center">
+        <a href="https://github.com/Josedoria93" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/174224951?u=9340c88f3dfd83b9b857a9b39d1202a0153cbc8d&v=4" alt="Josedoria93" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Josedoria93" target="_blank">Josedoria93</a>
       </td>
     </tr>
     <tr>
@@ -855,4 +855,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.288s on Sun Aug 25 at 21:26</p>
+<p align="right">Generated in 0.278s on Sun Aug 25 at 21:28</p>
