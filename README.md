@@ -108,7 +108,7 @@
       <td align="center">6725</td>
       <td align="center">
         <a href="https://github.com/amandasantos312" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/106448108?u=6e58492a18463e7d39648c6cf487b364bf427f82&v=4" alt="amandasantos312" width="40" height="40"/>
+          <img src="https://avatars.githubusercontent.com/u/106448108?v=4" alt="amandasantos312" width="40" height="40"/>
         </a>
       </td>
       <td>
@@ -812,4 +812,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.544s on Sun Aug 25 at 14:44</p>
+<p align="right">Generated in 0.34s on Sun Aug 25 at 14:47</p>
