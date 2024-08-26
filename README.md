@@ -81,17 +81,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">6786</td>
-      <td align="center">
-        <a href="https://github.com/bruh3112" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/106541093?u=d7136bea034036895ffe0d712d212386ceccacf7&v=4" alt="bruh3112" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/bruh3112" target="_blank">bruh3112</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">6787</td>
       <td align="center">
         <a href="https://github.com/xilinx-warrior" target="_blank">
@@ -115,6 +104,17 @@
     </tr>
     <tr>
       <td align="center">6789</td>
+      <td align="center">
+        <a href="https://github.com/NeroDCD" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/93488370?u=79f166a77daa92dd0904dea7527feca7e7f4c220&v=4" alt="NeroDCD" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/NeroDCD" target="_blank">NeroDCD</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6790</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -782,4 +782,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 1.019s on Mon Aug 26 at 4:32</p>
+<p align="right">Generated in 1.004s on Mon Aug 26 at 4:32</p>
