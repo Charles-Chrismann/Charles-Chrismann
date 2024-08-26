@@ -81,17 +81,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">6908</td>
-      <td align="center">
-        <a href="https://github.com/Mojo213" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/104395212?v=4" alt="Mojo213" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Mojo213" target="_blank">Mojo213</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">6909</td>
       <td align="center">
         <a href="https://github.com/cosminneaga" target="_blank">
@@ -115,6 +104,17 @@
     </tr>
     <tr>
       <td align="center">6911</td>
+      <td align="center">
+        <a href="https://github.com/parlange" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/554981?u=70c130193c1f35fa91aa3acec10a59285d81322c&v=4" alt="parlange" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/parlange" target="_blank">parlange</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6912</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -842,4 +842,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.146s on Mon Aug 26 at 18:04</p>
+<p align="right">Generated in 0.137s on Mon Aug 26 at 18:08</p>
