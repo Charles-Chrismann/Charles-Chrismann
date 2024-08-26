@@ -81,40 +81,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">6778</td>
-      <td align="center">
-        <a href="https://github.com/abdullahrpl" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/158121117?u=3168c135d90cfc17e2378f6b88cf618d725aa3ac&v=4" alt="abdullahrpl" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/abdullahrpl" target="_blank">abdullahrpl</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">6779</td>
-      <td align="center">
-        <a href="https://github.com/srijithyaparathna" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/125755221?u=de59e93078f610e1d99d5040bf0ef9dbab9bfa0a&v=4" alt="srijithyaparathna" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/srijithyaparathna" target="_blank">srijithyaparathna</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">6780</td>
-      <td align="center">
-        <a href="https://github.com/CristhianAC" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/93165832?u=86526169b57ce76414f21ccd9bf4a5d8c0d85861&v=4" alt="CristhianAC" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/CristhianAC" target="_blank">CristhianAC</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">6781</td>
+      <td align="center">
+        <a href="https://github.com/ChanukaWelagedara" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/139690214?v=4" alt="ChanukaWelagedara" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/ChanukaWelagedara" target="_blank">ChanukaWelagedara</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6782</td>
+      <td align="center">
+        <a href="https://github.com/slensoft" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/45162460?v=4" alt="slensoft" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/slensoft" target="_blank">slensoft</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6783</td>
+      <td align="center">
+        <a href="https://github.com/GabrielCastro1221" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/141979377?u=acc2720789eb815aff8a50be3cab9ff0bda794cd&v=4" alt="GabrielCastro1221" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/GabrielCastro1221" target="_blank">GabrielCastro1221</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6784</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -790,4 +790,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.378s on Mon Aug 26 at 3:21</p>
+<p align="right">Generated in 0.318s on Mon Aug 26 at 3:26</p>
