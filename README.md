@@ -106,7 +106,7 @@
       <td align="center">6846</td>
       <td align="center">
         <a href="https://github.com/RohanKhodade" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/143806019?v=4" alt="RohanKhodade" width="40" height="40"/>
+          <img src="https://avatars.githubusercontent.com/u/143806019?u=3d0777598efa97e794acae186154de0ae22afa9b&v=4" alt="RohanKhodade" width="40" height="40"/>
         </a>
       </td>
       <td>
@@ -872,4 +872,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.21s on Mon Aug 26 at 12:45</p>
+<p align="right">Generated in 0.31s on Mon Aug 26 at 12:45</p>
