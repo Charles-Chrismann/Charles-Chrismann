@@ -81,40 +81,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">6941</td>
-      <td align="center">
-        <a href="https://github.com/ouerghi01" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/124929993?v=4" alt="ouerghi01" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/ouerghi01" target="_blank">ouerghi01</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">6942</td>
-      <td align="center">
-        <a href="https://github.com/SuvadeepMukherjee" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/140864816?v=4" alt="SuvadeepMukherjee" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/SuvadeepMukherjee" target="_blank">SuvadeepMukherjee</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">6943</td>
-      <td align="center">
-        <a href="https://github.com/Inoue416" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/57441203?u=64bff432c09c6c5833f4a33b858241de6a801b8d&v=4" alt="Inoue416" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Inoue416" target="_blank">Inoue416</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">6944</td>
+      <td align="center">
+        <a href="https://github.com/andreskull2" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/134094989?u=891a44ec38e2618873422d64429b6c270aa7e014&v=4" alt="andreskull2" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/andreskull2" target="_blank">andreskull2</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6945</td>
+      <td align="center">
+        <a href="https://github.com/angebesson" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/160676736?u=a3daba3bf037b6111c8b4e28c08eaf434d536008&v=4" alt="angebesson" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/angebesson" target="_blank">angebesson</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6946</td>
+      <td align="center">
+        <a href="https://github.com/Naruto-62" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/179431240?u=936bbebd00e42fc2e077c32145a4c96d0257f4de&v=4" alt="Naruto-62" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Naruto-62" target="_blank">Naruto-62</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6947</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -833,4 +833,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.217s on Mon Aug 26 at 23:21</p>
+<p align="right">Generated in 0.222s on Mon Aug 26 at 23:27</p>
