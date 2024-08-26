@@ -81,17 +81,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">6820</td>
-      <td align="center">
-        <a href="https://github.com/harshjuly12" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/112745312?u=cdd26f6adc8b0c62d7093bdd57a25ab4ec114416&v=4" alt="harshjuly12" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/harshjuly12" target="_blank">harshjuly12</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">6821</td>
       <td align="center">
         <a href="https://github.com/Pinankh" target="_blank">
@@ -115,6 +104,17 @@
     </tr>
     <tr>
       <td align="center">6823</td>
+      <td align="center">
+        <a href="https://github.com/Warfight3r" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/94677348?v=4" alt="Warfight3r" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Warfight3r" target="_blank">Warfight3r</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6824</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -857,4 +857,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.35s on Mon Aug 26 at 9:45</p>
+<p align="right">Generated in 0.17s on Mon Aug 26 at 9:46</p>
