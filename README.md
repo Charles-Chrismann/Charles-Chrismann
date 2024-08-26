@@ -83,17 +83,6 @@
     <tr>
       <td align="center">6791</td>
       <td align="center">
-        <a href="https://github.com/KartiKChaudhary07" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/117715537?u=65fe41ba593257ff9ac9e04a77d8d3f2c02cc770&v=4" alt="KartiKChaudhary07" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/KartiKChaudhary07" target="_blank">KartiKChaudhary07</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">6792</td>
-      <td align="center">
         <a href="https://github.com/Misikirayu" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/139590950?u=cd290da2af0c47b70cc9b87781fecaadbf046f08&v=4" alt="Misikirayu" width="40" height="40"/>
         </a>
@@ -103,7 +92,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">6793</td>
+      <td align="center">6792</td>
       <td align="center">
         <a href="https://github.com/roy9495" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/98920199?u=96e8dc065473967659b215fa89e9b000eaecdff8&v=4" alt="roy9495" width="40" height="40"/>
@@ -111,6 +100,17 @@
       </td>
       <td>
         <a href="https://github.com/roy9495" target="_blank">roy9495</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6793</td>
+      <td align="center">
+        <a href="https://github.com/zipkaniar" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/166910983?u=c6ecd4026dee58bff22e4faab35aedf0d0bbf0ac&v=4" alt="zipkaniar" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/zipkaniar" target="_blank">zipkaniar</a>
       </td>
     </tr>
     <tr>
@@ -782,4 +782,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 1.049s on Mon Aug 26 at 5:47</p>
+<p align="right">Generated in 1.036s on Mon Aug 26 at 5:47</p>
