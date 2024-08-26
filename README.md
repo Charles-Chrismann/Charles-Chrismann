@@ -81,7 +81,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">6787</td>
+      <td align="center">6786</td>
       <td align="center">
         <a href="https://github.com/xilinx-warrior" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/34143630?u=2df7432dbd94c0cee3cd67281bb86dbe4c47b644&v=4" alt="xilinx-warrior" width="40" height="40"/>
@@ -92,7 +92,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">6788</td>
+      <td align="center">6787</td>
       <td align="center">
         <a href="https://github.com/cogito21g" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/76662639?u=1813ead1a87d3620fa844606254c5c2895b59168&v=4" alt="cogito21g" width="40" height="40"/>
@@ -103,7 +103,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">6789</td>
+      <td align="center">6788</td>
       <td align="center">
         <a href="https://github.com/NeroDCD" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/93488370?u=79f166a77daa92dd0904dea7527feca7e7f4c220&v=4" alt="NeroDCD" width="40" height="40"/>
@@ -114,7 +114,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">6790</td>
+      <td align="center">6789</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -782,4 +782,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 1.014s on Mon Aug 26 at 4:36</p>
+<p align="right">Generated in 1.023s on Mon Aug 26 at 4:50</p>
