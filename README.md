@@ -83,17 +83,6 @@
     <tr>
       <td align="center">6782</td>
       <td align="center">
-        <a href="https://github.com/slensoft" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/45162460?v=4" alt="slensoft" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/slensoft" target="_blank">slensoft</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">6783</td>
-      <td align="center">
         <a href="https://github.com/GabrielCastro1221" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/141979377?u=acc2720789eb815aff8a50be3cab9ff0bda794cd&v=4" alt="GabrielCastro1221" width="40" height="40"/>
         </a>
@@ -103,7 +92,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">6784</td>
+      <td align="center">6783</td>
       <td align="center">
         <a href="https://github.com/alfianfakhrudin2" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/85886441?u=2078fc03102c149c027e1109bb97174c61630f30&v=4" alt="alfianfakhrudin2" width="40" height="40"/>
@@ -111,6 +100,17 @@
       </td>
       <td>
         <a href="https://github.com/alfianfakhrudin2" target="_blank">alfianfakhrudin2</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6784</td>
+      <td align="center">
+        <a href="https://github.com/JhonSantt4na" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/173314790?u=fb1bae3a5d95310f276b882816291b4dbc65fdd2&v=4" alt="JhonSantt4na" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/JhonSantt4na" target="_blank">JhonSantt4na</a>
       </td>
     </tr>
     <tr>
@@ -782,4 +782,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.339s on Mon Aug 26 at 3:35</p>
+<p align="right">Generated in 0.281s on Mon Aug 26 at 3:48</p>
