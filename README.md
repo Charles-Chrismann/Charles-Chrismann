@@ -81,6 +81,17 @@
   </thead>
   <tbody>
     <tr>
+      <td align="center">6832</td>
+      <td align="center">
+        <a href="https://github.com/cubiwanjohi" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/119779435?u=4aabc98c9d4bdc46c19a22688f003efc3aef377a&v=4" alt="cubiwanjohi" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/cubiwanjohi" target="_blank">cubiwanjohi</a>
+      </td>
+    </tr>
+    <tr>
       <td align="center">6833</td>
       <td align="center">
         <a href="https://github.com/mrthakur30" target="_blank">
@@ -104,17 +115,6 @@
     </tr>
     <tr>
       <td align="center">6835</td>
-      <td align="center">
-        <a href="https://github.com/mayspiek" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/79992764?u=a59caed59081bf83c71900c87a644af020f36e77&v=4" alt="mayspiek" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/mayspiek" target="_blank">mayspiek</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">6836</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -263,7 +263,7 @@
 <h1 align="center">Flex Zone</h1>
 <h3 align="center">A classic Minesweeper</h3>
 <p align="center">
-  <span>:boom:</span>
+  <a href="https://o.charles-chrismann.fr/minesweeper/click?x=0&y=0">:black_large_square:</a>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=1&y=0">:black_large_square:</a>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=2&y=0">:black_large_square:</a>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=3&y=0">:black_large_square:</a>
@@ -278,15 +278,15 @@
   <span>:white_large_square:</span>
   <span>:white_large_square:</span>
   <span>:one:</span>
-  <span>:boom:</span>
-  <span>:boom:</span>
+  <a href="https://o.charles-chrismann.fr/minesweeper/click?x=15&y=0">:black_large_square:</a>
+  <a href="https://o.charles-chrismann.fr/minesweeper/click?x=16&y=0">:black_large_square:</a>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=17&y=0">:black_large_square:</a>
   <br>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=0&y=1">:black_large_square:</a>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=1&y=1">:black_large_square:</a>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=2&y=1">:black_large_square:</a>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=3&y=1">:black_large_square:</a>
-  <span>:boom:</span>
+  <a href="https://o.charles-chrismann.fr/minesweeper/click?x=4&y=1">:black_large_square:</a>
   <span>:one:</span>
   <span>:white_large_square:</span>
   <span>:white_large_square:</span>
@@ -318,9 +318,9 @@
   <span>:white_large_square:</span>
   <span>:one:</span>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=16&y=2">:black_large_square:</a>
-  <span>:boom:</span>
+  <a href="https://o.charles-chrismann.fr/minesweeper/click?x=17&y=2">:black_large_square:</a>
   <br>
-  <span>:boom:</span>
+  <a href="https://o.charles-chrismann.fr/minesweeper/click?x=0&y=3">:black_large_square:</a>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=1&y=3">:black_large_square:</a>
   <span>:one:</span>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=3&y=3">:black_large_square:</a>
@@ -332,20 +332,20 @@
   <span>:white_large_square:</span>
   <span>:white_large_square:</span>
   <span>:one:</span>
-  <span>:boom:</span>
+  <a href="https://o.charles-chrismann.fr/minesweeper/click?x=12&y=3">:black_large_square:</a>
   <span>:one:</span>
   <span>:one:</span>
   <span>:two:</span>
-  <span>:boom:</span>
-  <span>:boom:</span>
+  <a href="https://o.charles-chrismann.fr/minesweeper/click?x=16&y=3">:black_large_square:</a>
+  <a href="https://o.charles-chrismann.fr/minesweeper/click?x=17&y=3">:black_large_square:</a>
   <br>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=0&y=4">:black_large_square:</a>
-  <span>:boom:</span>
+  <a href="https://o.charles-chrismann.fr/minesweeper/click?x=1&y=4">:black_large_square:</a>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=2&y=4">:black_large_square:</a>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=3&y=4">:black_large_square:</a>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=4&y=4">:black_large_square:</a>
-  <span>:boom:</span>
-  <span>:boom:</span>
+  <a href="https://o.charles-chrismann.fr/minesweeper/click?x=5&y=4">:black_large_square:</a>
+  <a href="https://o.charles-chrismann.fr/minesweeper/click?x=6&y=4">:black_large_square:</a>
   <span>:one:</span>
   <span>:white_large_square:</span>
   <span>:white_large_square:</span>
@@ -354,16 +354,16 @@
   <span>:one:</span>
   <span>:one:</span>
   <span>:one:</span>
-  <span>:boom:</span>
+  <a href="https://o.charles-chrismann.fr/minesweeper/click?x=15&y=4">:black_large_square:</a>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=16&y=4">:black_large_square:</a>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=17&y=4">:black_large_square:</a>
   <br>
-  <span>:boom:</span>
+  <a href="https://o.charles-chrismann.fr/minesweeper/click?x=0&y=5">:black_large_square:</a>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=1&y=5">:black_large_square:</a>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=2&y=5">:black_large_square:</a>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=3&y=5">:black_large_square:</a>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=4&y=5">:black_large_square:</a>
-  <span>:boom:</span>
+  <a href="https://o.charles-chrismann.fr/minesweeper/click?x=5&y=5">:black_large_square:</a>
   <span>:three:</span>
   <span>:one:</span>
   <span>:white_large_square:</span>
@@ -392,7 +392,7 @@
   <span>:white_large_square:</span>
   <span>:white_large_square:</span>
   <span>:one:</span>
-  <span>:boom:</span>
+  <a href="https://o.charles-chrismann.fr/minesweeper/click?x=15&y=6">:black_large_square:</a>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=16&y=6">:black_large_square:</a>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=17&y=6">:black_large_square:</a>
   <br>
@@ -401,12 +401,12 @@
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=2&y=7">:black_large_square:</a>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=3&y=7">:black_large_square:</a>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=4&y=7">:black_large_square:</a>
-  <span>:boom:</span>
+  <a href="https://o.charles-chrismann.fr/minesweeper/click?x=5&y=7">:black_large_square:</a>
   <span>:one:</span>
   <span>:white_large_square:</span>
   <span>:white_large_square:</span>
   <span>:one:</span>
-  <span>:boom:</span>
+  <a href="https://o.charles-chrismann.fr/minesweeper/click?x=10&y=7">:black_large_square:</a>
   <span>:one:</span>
   <span>:white_large_square:</span>
   <span>:white_large_square:</span>
@@ -417,7 +417,7 @@
   <br>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=0&y=8">:black_large_square:</a>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=1&y=8">:black_large_square:</a>
-  <span>:boom:</span>
+  <a href="https://o.charles-chrismann.fr/minesweeper/click?x=2&y=8">:black_large_square:</a>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=3&y=8">:black_large_square:</a>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=4&y=8">:black_large_square:</a>
   <span>:one:</span>
@@ -432,10 +432,10 @@
   <span>:white_large_square:</span>
   <span>:one:</span>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=16&y=8">:black_large_square:</a>
-  <span>:boom:</span>
+  <a href="https://o.charles-chrismann.fr/minesweeper/click?x=17&y=8">:black_large_square:</a>
   <br>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=0&y=9">:black_large_square:</a>
-  <span>:boom:</span>
+  <a href="https://o.charles-chrismann.fr/minesweeper/click?x=1&y=9">:black_large_square:</a>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=2&y=9">:black_large_square:</a>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=3&y=9">:black_large_square:</a>
   <span>:one:</span>
@@ -450,14 +450,14 @@
   <span>:one:</span>
   <span>:white_large_square:</span>
   <span>:one:</span>
-  <span>:boom:</span>
+  <a href="https://o.charles-chrismann.fr/minesweeper/click?x=16&y=9">:black_large_square:</a>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=17&y=9">:black_large_square:</a>
   <br>
   <span>:one:</span>
   <span>:one:</span>
   <span>:one:</span>
   <span>:one:</span>
-  <span>:boom:</span>
+  <a href="https://o.charles-chrismann.fr/minesweeper/click?x=4&y=10">:black_large_square:</a>
   <span>:one:</span>
   <span>:white_large_square:</span>
   <span>:white_large_square:</span>
@@ -465,7 +465,7 @@
   <span>:white_large_square:</span>
   <span>:white_large_square:</span>
   <span>:one:</span>
-  <span>:boom:</span>
+  <a href="https://o.charles-chrismann.fr/minesweeper/click?x=12&y=10">:black_large_square:</a>
   <span>:one:</span>
   <span>:white_large_square:</span>
   <span>:one:</span>
@@ -529,7 +529,7 @@
   <span>:white_large_square:</span>
   <span>:white_large_square:</span>
 </p>
-<p align="center">You lost don't hesitate to try again</p>
+<p align="center">Keep clearing, there are still many mines left.</p>
 <p align="center">
   <img width="256" src="https://o.charles-chrismann.fr/minesweeper.gif" />
 </p>
@@ -842,4 +842,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.274s on Mon Aug 26 at 10:48</p>
+<p align="right">Generated in 0.125s on Mon Aug 26 at 10:48</p>
