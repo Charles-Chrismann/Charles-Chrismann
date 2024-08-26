@@ -81,40 +81,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">6815</td>
-      <td align="center">
-        <a href="https://github.com/Yab112" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/106923105?u=7158c2722a3b4722449f673254995dd847425135&v=4" alt="Yab112" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Yab112" target="_blank">Yab112</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">6816</td>
-      <td align="center">
-        <a href="https://github.com/MirkoRimac" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/86970883?u=875c93395a9757074134a5b335b941bc89394516&v=4" alt="MirkoRimac" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/MirkoRimac" target="_blank">MirkoRimac</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">6817</td>
       <td align="center">
-        <a href="https://github.com/ogak343" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/94511956?u=1aa48f7328b7cae80d79639c28d15371f083cc9d&v=4" alt="ogak343" width="40" height="40"/>
+        <a href="https://github.com/Stella-055" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/132064780?v=4" alt="Stella-055" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/ogak343" target="_blank">ogak343</a>
+        <a href="https://github.com/Stella-055" target="_blank">Stella-055</a>
       </td>
     </tr>
     <tr>
       <td align="center">6818</td>
+      <td align="center">
+        <a href="https://github.com/Layito96" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/50017226?v=4" alt="Layito96" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Layito96" target="_blank">Layito96</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6819</td>
+      <td align="center">
+        <a href="https://github.com/tobi-awolaju-21" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/120692959?u=243690d4e0e19adb3daca14057c8343935d3b8ef&v=4" alt="tobi-awolaju-21" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/tobi-awolaju-21" target="_blank">tobi-awolaju-21</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6820</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -857,4 +857,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.179s on Mon Aug 26 at 9:16</p>
+<p align="right">Generated in 0.318s on Mon Aug 26 at 9:22</p>
