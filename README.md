@@ -81,40 +81,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">6875</td>
-      <td align="center">
-        <a href="https://github.com/42andy" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/150129844?v=4" alt="42andy" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/42andy" target="_blank">42andy</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">6876</td>
-      <td align="center">
-        <a href="https://github.com/hosseinimh" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/10962058?u=6b87ec621c17fcd26ec6c9364100b30f73bffb49&v=4" alt="hosseinimh" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/hosseinimh" target="_blank">hosseinimh</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">6877</td>
-      <td align="center">
-        <a href="https://github.com/0xdefilover" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/13178177?u=3b7e4a9dab2aac4d3defb8021e5b8b9d55c35c0e&v=4" alt="0xdefilover" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/0xdefilover" target="_blank">0xdefilover</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">6878</td>
+      <td align="center">
+        <a href="https://github.com/ShaliniSJ" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/115527635?u=dbda71187f9b4005a50476c232aecd76ed0bb531&v=4" alt="ShaliniSJ" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/ShaliniSJ" target="_blank">ShaliniSJ</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6879</td>
+      <td align="center">
+        <a href="https://github.com/guim4dev" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/45672975?u=717d9608937fe51ad646ba1c351dfde6ddf92059&v=4" alt="guim4dev" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/guim4dev" target="_blank">guim4dev</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6880</td>
+      <td align="center">
+        <a href="https://github.com/ed-gar-k" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/109956677?u=ffd5e13c6ff9cf1694503eafa2f27b886a67f64a&v=4" alt="ed-gar-k" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/ed-gar-k" target="_blank">ed-gar-k</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6881</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -847,4 +847,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.144s on Mon Aug 26 at 14:58</p>
+<p align="right">Generated in 0.39s on Mon Aug 26 at 15:00</p>
