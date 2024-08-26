@@ -83,17 +83,6 @@
     <tr>
       <td align="center">6775</td>
       <td align="center">
-        <a href="https://github.com/deyvidwms" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/42892834?u=5c09a99a3523aac07c6d7fbc57215eb745bad69e&v=4" alt="deyvidwms" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/deyvidwms" target="_blank">deyvidwms</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">6776</td>
-      <td align="center">
         <a href="https://github.com/Victor-0rtiz" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/95834947?u=0b8089c48941c01da8f7ecf50d8e82fdd2e852c3&v=4" alt="Victor-0rtiz" width="40" height="40"/>
         </a>
@@ -103,7 +92,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">6777</td>
+      <td align="center">6776</td>
       <td align="center">
         <a href="https://github.com/brunadias3" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/89141910?u=17a66c966884cbcb1e5220012595f2a4b12c21b2&v=4" alt="brunadias3" width="40" height="40"/>
@@ -111,6 +100,17 @@
       </td>
       <td>
         <a href="https://github.com/brunadias3" target="_blank">brunadias3</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6777</td>
+      <td align="center">
+        <a href="https://github.com/juntaekHong" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/50249009?v=4" alt="juntaekHong" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/juntaekHong" target="_blank">juntaekHong</a>
       </td>
     </tr>
     <tr>
@@ -790,4 +790,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.171s on Mon Aug 26 at 1:25</p>
+<p align="right">Generated in 0.377s on Mon Aug 26 at 1:27</p>
