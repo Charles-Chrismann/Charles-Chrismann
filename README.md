@@ -81,17 +81,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">6884</td>
-      <td align="center">
-        <a href="https://github.com/farout101" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/94994299?u=de365d15f1939e3c9feaafe6eb088e10812badc9&v=4" alt="farout101" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/farout101" target="_blank">farout101</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">6885</td>
       <td align="center">
         <a href="https://github.com/NikolasGoulios" target="_blank">
@@ -115,6 +104,17 @@
     </tr>
     <tr>
       <td align="center">6887</td>
+      <td align="center">
+        <a href="https://github.com/DavidMacha" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/148528760?u=80aadafc9346edc3a32cd339fa31494102e3a41c&v=4" alt="DavidMacha" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/DavidMacha" target="_blank">DavidMacha</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6888</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -842,4 +842,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.119s on Mon Aug 26 at 15:25</p>
+<p align="right">Generated in 0.253s on Mon Aug 26 at 15:26</p>
