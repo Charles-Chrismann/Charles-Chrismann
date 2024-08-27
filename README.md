@@ -81,32 +81,10 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">6949</td>
-      <td align="center">
-        <a href="https://github.com/samuelt005" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/47163423?u=5edd4996dfecd6176600285bd0909e477ecaf9eb&v=4" alt="samuelt005" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/samuelt005" target="_blank">samuelt005</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">6950</td>
-      <td align="center">
-        <a href="https://github.com/nor1ntex" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/140723135?u=67e56aced81392d5c1730a0385a9ea0cbfd099eb&v=4" alt="nor1ntex" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/nor1ntex" target="_blank">nor1ntex</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">6951</td>
       <td align="center">
         <a href="https://github.com/AnimBadger" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/109007785?u=bb923b252d8ef17ee030d7bf1d061e9be0639252&v=4" alt="AnimBadger" width="40" height="40"/>
+          <img src="https://avatars.githubusercontent.com/u/109007785?u=6af72bb9ed8fef5e6a9fd0f297f79c55102aca60&v=4" alt="AnimBadger" width="40" height="40"/>
         </a>
       </td>
       <td>
@@ -115,6 +93,28 @@
     </tr>
     <tr>
       <td align="center">6952</td>
+      <td align="center">
+        <a href="https://github.com/omkarnaik713" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/76861864?v=4" alt="omkarnaik713" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/omkarnaik713" target="_blank">omkarnaik713</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6953</td>
+      <td align="center">
+        <a href="https://github.com/ek2740" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/179542604?v=4" alt="ek2740" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/ek2740" target="_blank">ek2740</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6954</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -876,4 +876,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.334s on Tue Aug 27 at 0:08</p>
+<p align="right">Generated in 0.34s on Tue Aug 27 at 0:24</p>
