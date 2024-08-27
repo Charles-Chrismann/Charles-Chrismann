@@ -81,17 +81,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">7040</td>
-      <td align="center">
-        <a href="https://github.com/TahaDataAlchemy" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/157484236?u=b742edc473e253b573ae12fd8a4972b131f2c894&v=4" alt="TahaDataAlchemy" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/TahaDataAlchemy" target="_blank">TahaDataAlchemy</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">7041</td>
       <td align="center">
         <a href="https://github.com/bernardoHeckler" target="_blank">
@@ -115,6 +104,17 @@
     </tr>
     <tr>
       <td align="center">7043</td>
+      <td align="center">
+        <a href="https://github.com/mandyfarrugia" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/107984232?u=9274103a551cd35092028970bfc5b6eeebe80ff9&v=4" alt="mandyfarrugia" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/mandyfarrugia" target="_blank">mandyfarrugia</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">7044</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -835,4 +835,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.313s on Tue Aug 27 at 13:15</p>
+<p align="right">Generated in 0.296s on Tue Aug 27 at 13:16</p>
