@@ -81,17 +81,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">6992</td>
-      <td align="center">
-        <a href="https://github.com/israel77-1995" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/69902386?v=4" alt="israel77-1995" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/israel77-1995" target="_blank">israel77-1995</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">6993</td>
       <td align="center">
         <a href="https://github.com/jamesray" target="_blank">
@@ -115,6 +104,17 @@
     </tr>
     <tr>
       <td align="center">6995</td>
+      <td align="center">
+        <a href="https://github.com/kennydop" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/66583052?u=3d7d8a48e932a915729a1a5ee42b94a6a6ea8805&v=4" alt="kennydop" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/kennydop" target="_blank">kennydop</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">6996</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -846,4 +846,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.362s on Tue Aug 27 at 8:13</p>
+<p align="right">Generated in 0.21s on Tue Aug 27 at 8:15</p>
