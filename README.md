@@ -83,17 +83,6 @@
     <tr>
       <td align="center">7020</td>
       <td align="center">
-        <a href="https://github.com/mealsOrder" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/44600477?v=4" alt="mealsOrder" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/mealsOrder" target="_blank">mealsOrder</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">7021</td>
-      <td align="center">
         <a href="https://github.com/mntc3434" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/148215622?u=91021e467b23399e0e9ea96bef489a203db8c935&v=4" alt="mntc3434" width="40" height="40"/>
         </a>
@@ -103,7 +92,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">7022</td>
+      <td align="center">7021</td>
       <td align="center">
         <a href="https://github.com/C-O-D-E-G-A-M-E-R" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/154326486?u=f1b70fc21f558dfe2c3f4739bfb78e6976c64b3d&v=4" alt="C-O-D-E-G-A-M-E-R" width="40" height="40"/>
@@ -111,6 +100,17 @@
       </td>
       <td>
         <a href="https://github.com/C-O-D-E-G-A-M-E-R" target="_blank">C-O-D-E-G-A-M-E-R</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">7022</td>
+      <td align="center">
+        <a href="https://github.com/JohnMwendwa" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/72663882?u=805073cc702701b4ad6c56a60dc0bdae9ccac964&v=4" alt="JohnMwendwa" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/JohnMwendwa" target="_blank">JohnMwendwa</a>
       </td>
     </tr>
     <tr>
@@ -843,4 +843,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.154s on Tue Aug 27 at 10:31</p>
+<p align="right">Generated in 0.147s on Tue Aug 27 at 10:31</p>
