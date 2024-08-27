@@ -81,17 +81,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">6998</td>
-      <td align="center">
-        <a href="https://github.com/ItChoi" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/30566443?u=e6720d463002cd57ee225a7bc9398affc222ce12&v=4" alt="ItChoi" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/ItChoi" target="_blank">ItChoi</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">6999</td>
       <td align="center">
         <a href="https://github.com/JayKim88" target="_blank">
@@ -115,6 +104,17 @@
     </tr>
     <tr>
       <td align="center">7001</td>
+      <td align="center">
+        <a href="https://github.com/kabuto-png" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/63934859?v=4" alt="kabuto-png" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/kabuto-png" target="_blank">kabuto-png</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">7002</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -851,4 +851,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.263s on Tue Aug 27 at 8:42</p>
+<p align="right">Generated in 0.192s on Tue Aug 27 at 8:46</p>
