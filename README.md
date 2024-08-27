@@ -81,17 +81,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">7086</td>
-      <td align="center">
-        <a href="https://github.com/Dosu04" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/87922887?u=1ccacd46e741661ba05dc67699cf432578130322&v=4" alt="Dosu04" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Dosu04" target="_blank">Dosu04</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">7087</td>
       <td align="center">
         <a href="https://github.com/JohnMwendwa" target="_blank">
@@ -115,6 +104,17 @@
     </tr>
     <tr>
       <td align="center">7089</td>
+      <td align="center">
+        <a href="https://github.com/edwinesco" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/168793822?v=4" alt="edwinesco" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/edwinesco" target="_blank">edwinesco</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">7090</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -782,4 +782,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.303s on Tue Aug 27 at 19:42</p>
+<p align="right">Generated in 0.18s on Tue Aug 27 at 19:46</p>
