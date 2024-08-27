@@ -81,17 +81,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">7029</td>
-      <td align="center">
-        <a href="https://github.com/SecretCodingStar" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/155701207?u=d447695700510d7efc9e3e76813d646383490b2b&v=4" alt="SecretCodingStar" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/SecretCodingStar" target="_blank">SecretCodingStar</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">7030</td>
       <td align="center">
         <a href="https://github.com/enthusiastdev121" target="_blank">
@@ -115,6 +104,17 @@
     </tr>
     <tr>
       <td align="center">7032</td>
+      <td align="center">
+        <a href="https://github.com/ryuu000" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/99164869?v=4" alt="ryuu000" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/ryuu000" target="_blank">ryuu000</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">7033</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -849,4 +849,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.349s on Tue Aug 27 at 11:31</p>
+<p align="right">Generated in 0.274s on Tue Aug 27 at 11:32</p>
