@@ -83,17 +83,6 @@
     <tr>
       <td align="center">7079</td>
       <td align="center">
-        <a href="https://github.com/Strayneko" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/110674466?u=76998165f51288242e8006b6d5f5e0e1a4240fe8&v=4" alt="Strayneko" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Strayneko" target="_blank">Strayneko</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">7080</td>
-      <td align="center">
         <a href="https://github.com/alissn" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/26966142?u=0f644dd87fb9bf8ade14e5884c909a91838ec23a&v=4" alt="alissn" width="40" height="40"/>
         </a>
@@ -103,7 +92,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">7081</td>
+      <td align="center">7080</td>
       <td align="center">
         <a href="https://github.com/ligiastalves" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/79613974?u=263e74eedcaa7522bef1198514831b2f46e2c1e3&v=4" alt="ligiastalves" width="40" height="40"/>
@@ -111,6 +100,17 @@
       </td>
       <td>
         <a href="https://github.com/ligiastalves" target="_blank">ligiastalves</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">7081</td>
+      <td align="center">
+        <a href="https://github.com/coolkei" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/158345883?u=be3866f6d2814d5311a4f745c5caf097883b4774&v=4" alt="coolkei" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/coolkei" target="_blank">coolkei</a>
       </td>
     </tr>
     <tr>
@@ -828,4 +828,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.148s on Tue Aug 27 at 17:53</p>
+<p align="right">Generated in 0.154s on Tue Aug 27 at 17:56</p>
