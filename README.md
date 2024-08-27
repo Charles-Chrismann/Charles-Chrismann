@@ -81,40 +81,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">7025</td>
-      <td align="center">
-        <a href="https://github.com/Istituto-freudinttheprodev" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/145545861?u=40d0a04e252cca06b98f2f6309fdb2d8662057f2&v=4" alt="Istituto-freudinttheprodev" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Istituto-freudinttheprodev" target="_blank">Istituto-freudinttheprodev</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">7026</td>
-      <td align="center">
-        <a href="https://github.com/MatteoMgr2008" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/145618533?u=638efa975f1da06301e75c0cf147ac70ce0d5eac&v=4" alt="MatteoMgr2008" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/MatteoMgr2008" target="_blank">MatteoMgr2008</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">7027</td>
-      <td align="center">
-        <a href="https://github.com/gelatoyeti" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/962770?u=40f5cec20d8197b03c98e5661d55f964253d36d6&v=4" alt="gelatoyeti" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/gelatoyeti" target="_blank">gelatoyeti</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">7028</td>
+      <td align="center">
+        <a href="https://github.com/aoaydin" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/13902421?u=241f290096e1f90971148c57336d9384e05656ac&v=4" alt="aoaydin" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/aoaydin" target="_blank">aoaydin</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">7029</td>
+      <td align="center">
+        <a href="https://github.com/deltadash653" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/138882222?u=88eb55f4bd509ff9078e92fccbf5262e629c19d2&v=4" alt="deltadash653" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/deltadash653" target="_blank">deltadash653</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">7030</td>
+      <td align="center">
+        <a href="https://github.com/c0rnch1p" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/126017578?u=74e5ba127893af168f9159be40d654d29aff9308&v=4" alt="c0rnch1p" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/c0rnch1p" target="_blank">c0rnch1p</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">7031</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -851,4 +851,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.29s on Tue Aug 27 at 11:11</p>
+<p align="right">Generated in 0.285s on Tue Aug 27 at 11:11</p>
