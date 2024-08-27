@@ -81,7 +81,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">7029</td>
+      <td align="center">7028</td>
       <td align="center">
         <a href="https://github.com/deltadash653" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/138882222?u=88eb55f4bd509ff9078e92fccbf5262e629c19d2&v=4" alt="deltadash653" width="40" height="40"/>
@@ -92,7 +92,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">7030</td>
+      <td align="center">7029</td>
       <td align="center">
         <a href="https://github.com/c0rnch1p" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/126017578?u=74e5ba127893af168f9159be40d654d29aff9308&v=4" alt="c0rnch1p" width="40" height="40"/>
@@ -103,7 +103,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">7031</td>
+      <td align="center">7030</td>
       <td align="center">
         <a href="https://github.com/SecretCodingStar" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/155701207?u=d447695700510d7efc9e3e76813d646383490b2b&v=4" alt="SecretCodingStar" width="40" height="40"/>
@@ -114,7 +114,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">7032</td>
+      <td align="center">7031</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -851,4 +851,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.288s on Tue Aug 27 at 11:15</p>
+<p align="right">Generated in 0.286s on Tue Aug 27 at 11:16</p>
