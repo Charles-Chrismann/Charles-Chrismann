@@ -416,7 +416,7 @@
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=17&y=7">:black_large_square:</a>
   <br>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=0&y=8">:black_large_square:</a>
-  <span>:one:</span>
+  <a href="https://o.charles-chrismann.fr/minesweeper/click?x=1&y=8">:black_large_square:</a>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=2&y=8">:black_large_square:</a>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=3&y=8">:black_large_square:</a>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=4&y=8">:black_large_square:</a>
@@ -569,7 +569,7 @@
       <td align="center">:seven:</td>
       <td align="center">♟      </td>
       <td align="center">♟      </td>
-      <td align="center">♜      </td>
+      <td align="center">‎       </td>
       <td align="center">♟      </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
@@ -596,7 +596,7 @@
       <td align="center">:five:</td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
-      <td align="center">‎       </td>
+      <td align="center">♜      </td>
       <td align="center">‎       </td>
       <td align="center">♟      </td>
       <td align="center">‎       </td>
@@ -707,13 +707,13 @@
           <br><a href="https://o.charles-chrismann.fr/chess/move?x1=5&y1=7&x2=2&y2=4">c4</a>
         </details>
       </td>
+      <td align="center">‎       </td>
       <td align="center">
         <details>
           <summary>♖</summary>
-          <a href="https://o.charles-chrismann.fr/chess/move?x1=6&y1=7&x2=7&y2=7">h1</a>
+          <a href="https://o.charles-chrismann.fr/chess/move?x1=7&y1=7&x2=6&y2=7">g1</a>
         </details>
       </td>
-      <td align="center">‎       </td>
     </tr>
   <tr>
     <td align="center"></td>
@@ -853,4 +853,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.162s on Tue Aug 27 at 6:44</p>
+<p align="right">Generated in 0s on Tue Aug 27 at 6:44</p>
