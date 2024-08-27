@@ -81,40 +81,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">7093</td>
-      <td align="center">
-        <a href="https://github.com/Rayan1088" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/66010947?u=f064f91d95c36a0e0a1cb67c0c21d3dd359b8364&v=4" alt="Rayan1088" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Rayan1088" target="_blank">Rayan1088</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">7094</td>
-      <td align="center">
-        <a href="https://github.com/itsZORAL1" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/118297724?u=9672577740a6bf8a7d1e68536ede8f62e766d354&v=4" alt="itsZORAL1" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/itsZORAL1" target="_blank">itsZORAL1</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">7095</td>
       <td align="center">
-        <a href="https://github.com/DanielSalvatierraSanchez" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/147101731?u=1d99e717d5800df7d89b1e109cc71598f1314da8&v=4" alt="DanielSalvatierraSanchez" width="40" height="40"/>
+        <a href="https://github.com/diclecakir0" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/76616002?u=ac7b6bd8eb3068264aef819ddd6f207c91270cb8&v=4" alt="diclecakir0" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/DanielSalvatierraSanchez" target="_blank">DanielSalvatierraSanchez</a>
+        <a href="https://github.com/diclecakir0" target="_blank">diclecakir0</a>
       </td>
     </tr>
     <tr>
       <td align="center">7096</td>
+      <td align="center">
+        <a href="https://github.com/paulmagadi" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/99538101?u=7814d0c125f0c31e03c90544342f08707c4d8c35&v=4" alt="paulmagadi" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/paulmagadi" target="_blank">paulmagadi</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">7097</td>
+      <td align="center">
+        <a href="https://github.com/NeVajnoKak" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/156511620?u=05ceed8329b059a8bba37d7219e697653ac712d8&v=4" alt="NeVajnoKak" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/NeVajnoKak" target="_blank">NeVajnoKak</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">7098</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -792,4 +792,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.408s on Tue Aug 27 at 21:33</p>
+<p align="right">Generated in 0.202s on Tue Aug 27 at 21:35</p>
