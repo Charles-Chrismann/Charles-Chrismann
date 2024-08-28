@@ -83,17 +83,6 @@
     <tr>
       <td align="center">7226</td>
       <td align="center">
-        <a href="https://github.com/Franzik99" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/177953969?u=f27e550fc4442734fe3a7b4660d3b943eb51035f&v=4" alt="Franzik99" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Franzik99" target="_blank">Franzik99</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">7227</td>
-      <td align="center">
         <a href="https://github.com/SergioGTF" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/128191710?u=98acf072e74505aa3f4a8cc2da8d2a653276624c&v=4" alt="SergioGTF" width="40" height="40"/>
         </a>
@@ -103,7 +92,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">7228</td>
+      <td align="center">7227</td>
       <td align="center">
         <a href="https://github.com/gustavo-ribeiro-santiago" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/142454616?u=6e045521ab0b319f2fa5f89ff955cb679ed01da4&v=4" alt="gustavo-ribeiro-santiago" width="40" height="40"/>
@@ -111,6 +100,17 @@
       </td>
       <td>
         <a href="https://github.com/gustavo-ribeiro-santiago" target="_blank">gustavo-ribeiro-santiago</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">7228</td>
+      <td align="center">
+        <a href="https://github.com/ghazi23-dev" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/72795729?v=4" alt="ghazi23-dev" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/ghazi23-dev" target="_blank">ghazi23-dev</a>
       </td>
     </tr>
     <tr>
@@ -787,4 +787,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.367s on Wed Aug 28 at 22:00</p>
+<p align="right">Generated in 0.134s on Wed Aug 28 at 22:04</p>
