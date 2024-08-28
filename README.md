@@ -81,28 +81,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">7136</td>
-      <td align="center">
-        <a href="https://github.com/laflechaenelaire" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/44955121?u=cf1b3b36491c19c8eca7065fc59a3cc918e57b97&v=4" alt="laflechaenelaire" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/laflechaenelaire" target="_blank">laflechaenelaire</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">7137</td>
-      <td align="center">
-        <a href="https://github.com/favor-ui" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/54090534?u=e773d9886c81afe22e450b888ceaa286a1a95584&v=4" alt="favor-ui" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/favor-ui" target="_blank">favor-ui</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">7138</td>
       <td align="center">
         <a href="https://github.com/mickeytech0217" target="_blank">
@@ -115,6 +93,28 @@
     </tr>
     <tr>
       <td align="center">7139</td>
+      <td align="center">
+        <a href="https://github.com/siyanhu" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/32626465?v=4" alt="siyanhu" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/siyanhu" target="_blank">siyanhu</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">7140</td>
+      <td align="center">
+        <a href="https://github.com/nyorusam" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/98428370?v=4" alt="nyorusam" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/nyorusam" target="_blank">nyorusam</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">7141</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -808,4 +808,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.282s on Wed Aug 28 at 7:51</p>
+<p align="right">Generated in 0.298s on Wed Aug 28 at 7:53</p>
