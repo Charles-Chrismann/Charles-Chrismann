@@ -726,26 +726,6 @@
   </thead>
   <tbody>
     <tr>
-      <td>$\text{\color{white}{C}}$</td>
-      <td>$\text{\color{white}{R}}$</td>
-      <td>$\text{\color{orange}{A}}$</td>
-      <td>$\text{\color{white}{N}}$</td>
-      <td>$\text{\color{white}{E}}$</td>
-      <td>
-        <a href="https://github.com/Foword5">@Foword5</a>
-      </td>
-    </tr>
-    <tr>
-      <td>$\text{\color{orange}{S}}$</td>
-      <td>$\text{\color{white}{K}}$</td>
-      <td>$\text{\color{white}{U}}$</td>
-      <td>$\text{\color{white}{L}}$</td>
-      <td>$\text{\color{white}{L}}$</td>
-      <td>
-        <a href="https://github.com/Foword5">@Foword5</a>
-      </td>
-    </tr>
-    <tr>
       <td>‎ </td>
       <td>‎ </td>
       <td>‎ </td>
@@ -807,4 +787,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.411s on Wed Aug 28 at 21:56</p>
+<p align="right">Generated in 0.367s on Wed Aug 28 at 22:00</p>
