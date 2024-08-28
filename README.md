@@ -95,7 +95,7 @@
       <td align="center">7194</td>
       <td align="center">
         <a href="https://github.com/jakearrr" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/110502556?v=4" alt="jakearrr" width="40" height="40"/>
+          <img src="https://avatars.githubusercontent.com/u/110502556?u=93c9c61bc45ce01638a00a819ef086b192c8a947&v=4" alt="jakearrr" width="40" height="40"/>
         </a>
       </td>
       <td>
@@ -819,4 +819,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.325s on Wed Aug 28 at 15:13</p>
+<p align="right">Generated in 0.193s on Wed Aug 28 at 15:15</p>
