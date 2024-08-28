@@ -81,17 +81,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">7192</td>
-      <td align="center">
-        <a href="https://github.com/New-pro125" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/88963866?v=4" alt="New-pro125" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/New-pro125" target="_blank">New-pro125</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">7193</td>
       <td align="center">
         <a href="https://github.com/Kalutu" target="_blank">
@@ -115,6 +104,17 @@
     </tr>
     <tr>
       <td align="center">7195</td>
+      <td align="center">
+        <a href="https://github.com/jakearrr" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/110502556?v=4" alt="jakearrr" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/jakearrr" target="_blank">jakearrr</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">7196</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -820,4 +820,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.365s on Wed Aug 28 at 15:07</p>
+<p align="right">Generated in 0.306s on Wed Aug 28 at 15:08</p>
