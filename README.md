@@ -81,28 +81,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">7146</td>
-      <td align="center">
-        <a href="https://github.com/liaojie1314" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/73300653?u=1035bca22fdac2cebb05a9cde2a89a15166edba2&v=4" alt="liaojie1314" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/liaojie1314" target="_blank">liaojie1314</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">7147</td>
-      <td align="center">
-        <a href="https://github.com/mwaidesu" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/71218152?v=4" alt="mwaidesu" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/mwaidesu" target="_blank">mwaidesu</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">7148</td>
       <td align="center">
         <a href="https://github.com/Cardkess" target="_blank">
@@ -115,6 +93,28 @@
     </tr>
     <tr>
       <td align="center">7149</td>
+      <td align="center">
+        <a href="https://github.com/Cardkess-SG" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/143350874?u=ab91f919c70ae3e57d3638eef651fbd915febce4&v=4" alt="Cardkess-SG" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Cardkess-SG" target="_blank">Cardkess-SG</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">7150</td>
+      <td align="center">
+        <a href="https://github.com/cosmasken" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/15275726?v=4" alt="cosmasken" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/cosmasken" target="_blank">cosmasken</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">7151</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -732,4 +732,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.271s on Wed Aug 28 at 8:55</p>
+<p align="right">Generated in 0.272s on Wed Aug 28 at 8:55</p>
