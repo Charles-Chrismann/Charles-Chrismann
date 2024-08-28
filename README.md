@@ -81,40 +81,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">7193</td>
-      <td align="center">
-        <a href="https://github.com/emrekaradag11" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/27977454?u=76be79c98ab725398bbf258ae7d05fb6b4243351&v=4" alt="emrekaradag11" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/emrekaradag11" target="_blank">emrekaradag11</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">7194</td>
-      <td align="center">
-        <a href="https://github.com/foxier25" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/55625655?u=62808aa16418280d557d669d51d5f363a1e40b2a&v=4" alt="foxier25" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/foxier25" target="_blank">foxier25</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">7195</td>
-      <td align="center">
-        <a href="https://github.com/david052j" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/58350244?u=7202c20b0b192c0efc15a377df165792ddd29796&v=4" alt="david052j" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/david052j" target="_blank">david052j</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">7196</td>
+      <td align="center">
+        <a href="https://github.com/MarioRivVal" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/111741869?u=7167a0bcb8a380b084400b51a25dea142076a050&v=4" alt="MarioRivVal" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/MarioRivVal" target="_blank">MarioRivVal</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">7197</td>
+      <td align="center">
+        <a href="https://github.com/georgerv85" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/137385184?u=77fe4a23c6d78d6a7c69dfb7ea71b654687d8587&v=4" alt="georgerv85" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/georgerv85" target="_blank">georgerv85</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">7198</td>
+      <td align="center">
+        <a href="https://github.com/Zakrok09" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/31936449?u=d828c33d2921b6dee745e8127e63c79da0646151&v=4" alt="Zakrok09" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Zakrok09" target="_blank">Zakrok09</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">7199</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -836,4 +836,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.364s on Wed Aug 28 at 15:47</p>
+<p align="right">Generated in 0.296s on Wed Aug 28 at 15:49</p>
