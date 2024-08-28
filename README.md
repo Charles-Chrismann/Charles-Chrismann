@@ -83,17 +83,6 @@
     <tr>
       <td align="center">7170</td>
       <td align="center">
-        <a href="https://github.com/itsolution405" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/141856824?u=d5d03d0c3d503b382310e382ef0ada1999a3648f&v=4" alt="itsolution405" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/itsolution405" target="_blank">itsolution405</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">7171</td>
-      <td align="center">
         <a href="https://github.com/marya563" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/62652076?u=60ed11173389e8febcc96d73ddcb0970f0da8cb6&v=4" alt="marya563" width="40" height="40"/>
         </a>
@@ -103,7 +92,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">7172</td>
+      <td align="center">7171</td>
       <td align="center">
         <a href="https://github.com/npm-run-test" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/161195843?u=3f8dcdf2d4577eded7ccdef3f0cab8c947c70031&v=4" alt="npm-run-test" width="40" height="40"/>
@@ -111,6 +100,17 @@
       </td>
       <td>
         <a href="https://github.com/npm-run-test" target="_blank">npm-run-test</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">7172</td>
+      <td align="center">
+        <a href="https://github.com/ManishKumar-ar" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/134220511?v=4" alt="ManishKumar-ar" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/ManishKumar-ar" target="_blank">ManishKumar-ar</a>
       </td>
     </tr>
     <tr>
@@ -802,4 +802,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.258s on Wed Aug 28 at 12:59</p>
+<p align="right">Generated in 0.259s on Wed Aug 28 at 13:02</p>
