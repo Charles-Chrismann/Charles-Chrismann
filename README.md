@@ -81,17 +81,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">7126</td>
-      <td align="center">
-        <a href="https://github.com/aquilesTrindade" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/147993300?u=4e6781995f84ffaddaf217d4f4d32bdf75d56a05&v=4" alt="aquilesTrindade" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/aquilesTrindade" target="_blank">aquilesTrindade</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">7127</td>
       <td align="center">
         <a href="https://github.com/blocage" target="_blank">
@@ -115,6 +104,17 @@
     </tr>
     <tr>
       <td align="center">7129</td>
+      <td align="center">
+        <a href="https://github.com/Tanwar-12" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/110081008?u=a1fd7c09db1d1d0e5befcda38bebd9ac20dd678e&v=4" alt="Tanwar-12" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Tanwar-12" target="_blank">Tanwar-12</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">7130</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -804,4 +804,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.274s on Wed Aug 28 at 4:56</p>
+<p align="right">Generated in 0.177s on Wed Aug 28 at 5:14</p>
