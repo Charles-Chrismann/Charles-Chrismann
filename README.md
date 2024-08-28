@@ -81,7 +81,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">7144</td>
+      <td align="center">7143</td>
       <td align="center">
         <a href="https://github.com/Mohamed3bdou" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/116263042?u=72946f9e2eaf29a08ff2888f307f73213cfa89d0&v=4" alt="Mohamed3bdou" width="40" height="40"/>
@@ -92,7 +92,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">7145</td>
+      <td align="center">7144</td>
       <td align="center">
         <a href="https://github.com/maytapi-com" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/167958942?u=6d5367a69111194eda9fefb058ba76b283f5d940&v=4" alt="maytapi-com" width="40" height="40"/>
@@ -103,7 +103,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">7146</td>
+      <td align="center">7145</td>
       <td align="center">
         <a href="https://github.com/Tejaswini-628" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/135339425?u=75de21e35bbec9da84e84d278673ce7d44e126fa&v=4" alt="Tejaswini-628" width="40" height="40"/>
@@ -114,7 +114,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">7147</td>
+      <td align="center">7146</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -543,7 +543,7 @@
 <p align="center">
   <img width="256" src="https://o.charles-chrismann.fr/board.png" />
 </p>
-<p align="center">It's Black's turn</p>
+<p align="center">It's White's turn</p>
 <table align="center">
   <tbody>
     <tr>
@@ -582,17 +582,7 @@
     <tr>
       <td align="center">:five:</td>
       <td align="center">‎       </td>
-      <td align="center">
-        <details>
-          <summary>♚</summary>
-          <a href="https://o.charles-chrismann.fr/chess/move?x1=1&y1=3&x2=0&y2=2">a6</a>
-          <a href="https://o.charles-chrismann.fr/chess/move?x1=1&y1=3&x2=1&y2=2">b6</a>
-          <a href="https://o.charles-chrismann.fr/chess/move?x1=1&y1=3&x2=2&y2=2">c6</a>
-          <br><a href="https://o.charles-chrismann.fr/chess/move?x1=1&y1=3&x2=2&y2=3">c5</a>
-          <a href="https://o.charles-chrismann.fr/chess/move?x1=1&y1=3&x2=0&y2=4">a4</a>
-          <a href="https://o.charles-chrismann.fr/chess/move?x1=1&y1=3&x2=2&y2=4">c4</a>
-        </details>
-      </td>
+      <td align="center">♚      </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
@@ -605,12 +595,7 @@
       <td align="center">♙      </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
-      <td align="center">
-        <details>
-          <summary>♛</summary>
-          <a href="https://o.charles-chrismann.fr/chess/move?x1=3&y1=4&x2=0&y2=4">a4</a>
-        </details>
-      </td>
+      <td align="center">‎       </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
@@ -642,9 +627,19 @@
       <td align="center">:one:</td>
       <td align="center">‎       </td>
       <td align="center">♘      </td>
-      <td align="center">♖      </td>
-      <td align="center">‎       </td>
-      <td align="center">♔      </td>
+      <td align="center">
+        <details>
+          <summary>♖</summary>
+          <a href="https://o.charles-chrismann.fr/chess/move?x1=2&y1=7&x2=3&y2=7">d1</a>
+        </details>
+      </td>
+      <td align="center">♛      </td>
+      <td align="center">
+        <details>
+          <summary>♔</summary>
+          <a href="https://o.charles-chrismann.fr/chess/move?x1=4&y1=7&x2=3&y2=7">d1</a>
+        </details>
+      </td>
       <td align="center">‎       </td>
       <td align="center">♘      </td>
       <td align="center">♖      </td>
@@ -737,4 +732,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.554s on Wed Aug 28 at 8:39</p>
+<p align="right">Generated in 0.225s on Wed Aug 28 at 8:39</p>
