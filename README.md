@@ -81,17 +81,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">7149</td>
-      <td align="center">
-        <a href="https://github.com/cosmasken" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/15275726?v=4" alt="cosmasken" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/cosmasken" target="_blank">cosmasken</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">7150</td>
       <td align="center">
         <a href="https://github.com/ianmaboi" target="_blank">
@@ -115,6 +104,17 @@
     </tr>
     <tr>
       <td align="center">7152</td>
+      <td align="center">
+        <a href="https://github.com/bom0320" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/167315197?u=da19df5c81427085d16f3fefb1d8c7bda6869ec5&v=4" alt="bom0320" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/bom0320" target="_blank">bom0320</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">7153</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -785,4 +785,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.149s on Wed Aug 28 at 9:22</p>
+<p align="right">Generated in 0.285s on Wed Aug 28 at 9:23</p>
