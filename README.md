@@ -81,40 +81,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">7271</td>
-      <td align="center">
-        <a href="https://github.com/Thuotracy" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/80819977?u=6a061c60326ba7e384bdb23e2896c2929bd9af98&v=4" alt="Thuotracy" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Thuotracy" target="_blank">Thuotracy</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">7272</td>
-      <td align="center">
-        <a href="https://github.com/Mri2707" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/147129299?v=4" alt="Mri2707" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Mri2707" target="_blank">Mri2707</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">7273</td>
-      <td align="center">
-        <a href="https://github.com/rajeshkumarojha-dev" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/177094906?u=273820f51d17f88806c6d93feb9c70ee5bb55c3b&v=4" alt="rajeshkumarojha-dev" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/rajeshkumarojha-dev" target="_blank">rajeshkumarojha-dev</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">7274</td>
+      <td align="center">1</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -935,4 +902,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.204s on Thu Aug 29 at 6:53</p>
+<p align="right">Generated in 0.154s on Thu Aug 29 at 6:56</p>
