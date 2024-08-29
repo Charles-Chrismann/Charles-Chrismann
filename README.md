@@ -84,17 +84,6 @@
     <tr>
       <td align="center">7314</td>
       <td align="center">
-        <a href="https://github.com/vhspicerosGitHub" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/130526443?u=19dd750c264da48b4b98ac7ef886869f726d2a9b&v=4" alt="vhspicerosGitHub" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/vhspicerosGitHub" target="_blank">vhspicerosGitHub</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">7315</td>
-      <td align="center">
         <a href="https://github.com/Dev-Dynammo" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/116804447?u=3e5d0729b4adef3258c2a0bad3d44fcd8e73398e&v=4" alt="Dev-Dynammo" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">7316</td>
+      <td align="center">7315</td>
       <td align="center">
         <a href="https://github.com/gramchelle" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/114879638?u=a2898113699bacccb8c1489d68818b2d957954d8&v=4" alt="gramchelle" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/gramchelle" target="_blank">gramchelle</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">7316</td>
+      <td align="center">
+        <a href="https://github.com/Dol-Desh" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/83882048?v=4" alt="Dol-Desh" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Dol-Desh" target="_blank">Dol-Desh</a>
       </td>
     </tr>
     <tr>
@@ -945,4 +945,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.192s on Thu Aug 29 at 14:11</p>
+<p align="right">Generated in 0.239s on Thu Aug 29 at 14:11</p>
