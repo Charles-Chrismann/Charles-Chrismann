@@ -81,17 +81,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">7243</td>
-      <td align="center">
-        <a href="https://github.com/IcaroD" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/137448580?v=4" alt="IcaroD" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/IcaroD" target="_blank">IcaroD</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">7244</td>
       <td align="center">
         <a href="https://github.com/matheusBraga10" target="_blank">
@@ -115,6 +104,17 @@
     </tr>
     <tr>
       <td align="center">7246</td>
+      <td align="center">
+        <a href="https://github.com/sellylima" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/71739592?u=086bc1a80651bf56131725308cfdae40fdbc7200&v=4" alt="sellylima" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/sellylima" target="_blank">sellylima</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">7247</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -946,4 +946,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.172s on Thu Aug 29 at 2:23</p>
+<p align="right">Generated in 0.178s on Thu Aug 29 at 2:36</p>
