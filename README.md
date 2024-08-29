@@ -84,17 +84,6 @@
     <tr>
       <td align="center">7294</td>
       <td align="center">
-        <a href="https://github.com/Loverutt4489" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/101999905?v=4" alt="Loverutt4489" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Loverutt4489" target="_blank">Loverutt4489</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">7295</td>
-      <td align="center">
         <a href="https://github.com/C42joseri" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/166393323?u=bda5e56a2ad85837b579c68e4ea617942af6971d&v=4" alt="C42joseri" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">7296</td>
+      <td align="center">7295</td>
       <td align="center">
         <a href="https://github.com/Idoia-Durana" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/175343388?u=303f6e6cfb098ee56c8c5478931394385030885d&v=4" alt="Idoia-Durana" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/Idoia-Durana" target="_blank">Idoia-Durana</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">7296</td>
+      <td align="center">
+        <a href="https://github.com/Ebejay95" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/50142954?u=dd511445a730bfdf04f051393e43eded194ff6b2&v=4" alt="Ebejay95" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Ebejay95" target="_blank">Ebejay95</a>
       </td>
     </tr>
     <tr>
@@ -940,4 +940,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.251s on Thu Aug 29 at 10:16</p>
+<p align="right">Generated in 0.25s on Thu Aug 29 at 10:20</p>
