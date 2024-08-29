@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">7320</td>
-      <td align="center">
-        <a href="https://github.com/rudeh1253" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/60085941?v=4" alt="rudeh1253" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/rudeh1253" target="_blank">rudeh1253</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">7321</td>
       <td align="center">
         <a href="https://github.com/thecodingrunner" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">7323</td>
+      <td align="center">
+        <a href="https://github.com/akramul-dev-react" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/175799499?u=f0230750d802b364da29506b7c77c463141b0f30&v=4" alt="akramul-dev-react" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/akramul-dev-react" target="_blank">akramul-dev-react</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">7324</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -925,4 +925,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.231s on Thu Aug 29 at 15:34</p>
+<p align="right">Generated in 0.235s on Thu Aug 29 at 15:36</p>
