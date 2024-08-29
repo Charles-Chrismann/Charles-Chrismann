@@ -81,17 +81,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">7271</td>
-      <td align="center">
-        <a href="https://github.com/Thuotracy" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/80819977?u=6a061c60326ba7e384bdb23e2896c2929bd9af98&v=4" alt="Thuotracy" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Thuotracy" target="_blank">Thuotracy</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">7272</td>
       <td align="center">
         <a href="https://github.com/Mri2707" target="_blank">
@@ -115,6 +104,17 @@
     </tr>
     <tr>
       <td align="center">7274</td>
+      <td align="center">
+        <a href="https://github.com/aminkrom599" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/168702393?v=4" alt="aminkrom599" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/aminkrom599" target="_blank">aminkrom599</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">7275</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -941,4 +941,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.312s on Thu Aug 29 at 7:11</p>
+<p align="right">Generated in 0.326s on Thu Aug 29 at 7:18</p>
