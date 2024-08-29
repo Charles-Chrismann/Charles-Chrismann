@@ -863,6 +863,16 @@
       </td>
     </tr>
     <tr>
+      <td>$\text{\color{lightgreen}{K}}$</td>
+      <td>$\text{\color{lightgreen}{N}}$</td>
+      <td>$\text{\color{lightgreen}{E}}$</td>
+      <td>$\text{\color{lightgreen}{L}}$</td>
+      <td>$\text{\color{lightgreen}{T}}$</td>
+      <td>
+        <a href="https://github.com/IcaroD">@IcaroD</a>
+      </td>
+    </tr>
+    <tr>
       <td>‎ </td>
       <td>‎ </td>
       <td>‎ </td>
@@ -910,6 +920,18 @@
       </td>
       <td align="center">9</td>
     </tr>
+    <tr>
+      <td align="center">3</td>
+      <td align="center">
+        <a href="https://github.com/IcaroD">
+          <img src="https://avatars.githubusercontent.com/u/137448580?size=32">
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/IcaroD">@IcaroD</a>
+      </td>
+      <td align="center">1</td>
+    </tr>
   </tbody>
 </table>
 
@@ -924,4 +946,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.225s on Thu Aug 29 at 1:32</p>
+<p align="right">Generated in 0.225s on Thu Aug 29 at 1:33</p>
