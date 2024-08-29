@@ -833,6 +833,16 @@
       </td>
     </tr>
     <tr>
+      <td>$\text{\color{white}{S}}$</td>
+      <td>$\text{\color{orange}{K}}$</td>
+      <td>$\text{\color{white}{U}}$</td>
+      <td>$\text{\color{lightgreen}{L}}$</td>
+      <td>$\text{\color{orange}{L}}$</td>
+      <td>
+        <a href="https://github.com/IcaroD">@IcaroD</a>
+      </td>
+    </tr>
+    <tr>
       <td>‎ </td>
       <td>‎ </td>
       <td>‎ </td>
@@ -894,4 +904,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.233s on Thu Aug 29 at 1:30</p>
+<p align="right">Generated in 0.275s on Thu Aug 29 at 1:30</p>
