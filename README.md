@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">7438</td>
-      <td align="center">
-        <a href="https://github.com/dedesyarif100" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/24432410?v=4" alt="dedesyarif100" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/dedesyarif100" target="_blank">dedesyarif100</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">7439</td>
       <td align="center">
         <a href="https://github.com/abdelghaniBensalih" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">7441</td>
+      <td align="center">
+        <a href="https://github.com/wahab-rubel" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/149505466?u=ed486205be2abccf47e9b3b97d30b342ffe0e72a&v=4" alt="wahab-rubel" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/wahab-rubel" target="_blank">wahab-rubel</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">7442</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -860,4 +860,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.186s on Fri Aug 30 at 20:26</p>
+<p align="right">Generated in 0.269s on Fri Aug 30 at 20:29</p>
