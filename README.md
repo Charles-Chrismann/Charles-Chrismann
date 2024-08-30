@@ -600,6 +600,16 @@
       </td>
     </tr>
     <tr>
+      <td>$\text{\color{lightgreen}{D}}$</td>
+      <td>$\text{\color{lightgreen}{E}}$</td>
+      <td>$\text{\color{lightgreen}{C}}$</td>
+      <td>$\text{\color{lightgreen}{A}}$</td>
+      <td>$\text{\color{lightgreen}{L}}$</td>
+      <td>
+        <a href="https://github.com/TohidEq">@TohidEq</a>
+      </td>
+    </tr>
+    <tr>
       <td>‎ </td>
       <td>‎ </td>
       <td>‎ </td>
@@ -659,6 +669,18 @@
       </td>
       <td align="center">1</td>
     </tr>
+    <tr>
+      <td align="center">4</td>
+      <td align="center">
+        <a href="https://github.com/TohidEq">
+          <img src="https://avatars.githubusercontent.com/u/85791540?size=32" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/TohidEq">@TohidEq</a>
+      </td>
+      <td align="center">1</td>
+    </tr>
   </tbody>
 </table>
 
@@ -673,4 +695,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.153s on Fri Aug 30 at 7:19</p>
+<p align="right">Generated in 0.152s on Fri Aug 30 at 7:22</p>
