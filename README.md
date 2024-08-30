@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">7383</td>
-      <td align="center">
-        <a href="https://github.com/VictoriaArg" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/63479442?u=1da62dfc2507e09a7530e2bf3449e125fe8c7178&v=4" alt="VictoriaArg" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/VictoriaArg" target="_blank">VictoriaArg</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">7384</td>
       <td align="center">
         <a href="https://github.com/fauzancodes" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">7386</td>
+      <td align="center">
+        <a href="https://github.com/koromoko10" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/136338615?u=09a5a265da4b119f46335c04fc9318dab2e60caf&v=4" alt="koromoko10" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/koromoko10" target="_blank">koromoko10</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">7387</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -673,4 +673,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.14s on Fri Aug 30 at 7:06</p>
+<p align="right">Generated in 0.157s on Fri Aug 30 at 7:12</p>
