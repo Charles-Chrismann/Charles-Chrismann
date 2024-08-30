@@ -106,12 +106,12 @@
     <tr>
       <td align="center">7402</td>
       <td align="center">
-        <a href="https://github.com/ValuabIe" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/173327670?u=0e951af4963c327196596426b0c00d47a19d62cd&v=4" alt="ValuabIe" width="40" height="40"/>
+        <a href="https://github.com/Clefford" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/173327670?u=0e951af4963c327196596426b0c00d47a19d62cd&v=4" alt="Clefford" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/ValuabIe" target="_blank">ValuabIe</a>
+        <a href="https://github.com/Clefford" target="_blank">Clefford</a>
       </td>
     </tr>
     <tr>
@@ -857,4 +857,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.336s on Fri Aug 30 at 9:33</p>
+<p align="right">Generated in 0.326s on Fri Aug 30 at 9:33</p>
