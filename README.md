@@ -84,17 +84,6 @@
     <tr>
       <td align="center">7373</td>
       <td align="center">
-        <a href="https://github.com/vhspicerosGitHub" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/130526443?u=19dd750c264da48b4b98ac7ef886869f726d2a9b&v=4" alt="vhspicerosGitHub" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/vhspicerosGitHub" target="_blank">vhspicerosGitHub</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">7374</td>
-      <td align="center">
         <a href="https://github.com/lenardjombo" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/158037209?u=83b264afa6bf9883d8a2bc99e3fda1e05e1f560c&v=4" alt="lenardjombo" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">7375</td>
+      <td align="center">7374</td>
       <td align="center">
         <a href="https://github.com/smokingwheels" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/11748913?u=97c74257a6ea6a485dca330c29cad8561e1b9843&v=4" alt="smokingwheels" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/smokingwheels" target="_blank">smokingwheels</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">7375</td>
+      <td align="center">
+        <a href="https://github.com/KevMartinsDev" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/80726740?u=6f66dd29b6c87af7f216cdc61fb0031dc58867b2&v=4" alt="KevMartinsDev" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/KevMartinsDev" target="_blank">KevMartinsDev</a>
       </td>
     </tr>
     <tr>
@@ -633,4 +633,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.299s on Fri Aug 30 at 3:56</p>
+<p align="right">Generated in 0.155s on Fri Aug 30 at 4:08</p>
