@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">7379</td>
-      <td align="center">
-        <a href="https://github.com/purity111" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/176758170?u=7eb5fc9fc9af60f5df5c5ba67f529272981a672b&v=4" alt="purity111" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/purity111" target="_blank">purity111</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">7380</td>
       <td align="center">
         <a href="https://github.com/Prabhakar1437" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">7382</td>
+      <td align="center">
+        <a href="https://github.com/NFTknight" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/117064821?u=c7e9b9653b18e0998e69dd7ee402ffbe9d189aab&v=4" alt="NFTknight" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/NFTknight" target="_blank">NFTknight</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">7383</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -633,4 +633,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.147s on Fri Aug 30 at 5:14</p>
+<p align="right">Generated in 0.205s on Fri Aug 30 at 6:00</p>
