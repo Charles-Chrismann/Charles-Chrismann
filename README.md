@@ -580,6 +580,16 @@
       </td>
     </tr>
     <tr>
+      <td>$\text{\color{orange}{C}}$</td>
+      <td>$\text{\color{white}{O}}$</td>
+      <td>$\text{\color{white}{U}}$</td>
+      <td>$\text{\color{orange}{L}}$</td>
+      <td>$\text{\color{orange}{D}}$</td>
+      <td>
+        <a href="https://github.com/TohidEq">@TohidEq</a>
+      </td>
+    </tr>
+    <tr>
       <td>‎ </td>
       <td>‎ </td>
       <td>‎ </td>
@@ -653,4 +663,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.203s on Fri Aug 30 at 6:58</p>
+<p align="right">Generated in 0.21s on Fri Aug 30 at 7:00</p>
