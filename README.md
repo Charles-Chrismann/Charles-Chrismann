@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">7429</td>
-      <td align="center">
-        <a href="https://github.com/fspofficial" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/94116695?u=4905b9faa377a31e00d700ce1882ad2f1274e7bd&v=4" alt="fspofficial" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/fspofficial" target="_blank">fspofficial</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">7430</td>
       <td align="center">
         <a href="https://github.com/azuk4r" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">7432</td>
+      <td align="center">
+        <a href="https://github.com/UWAMAHOR" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/122989529?u=571ba28e520fef67f5a3977f1d11f65da51dcebe&v=4" alt="UWAMAHOR" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/UWAMAHOR" target="_blank">UWAMAHOR</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">7433</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -857,4 +857,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.143s on Fri Aug 30 at 16:52</p>
+<p align="right">Generated in 0.247s on Fri Aug 30 at 17:04</p>
