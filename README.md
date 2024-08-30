@@ -82,29 +82,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">7370</td>
-      <td align="center">
-        <a href="https://github.com/GrapeBaBa" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/3657859?u=fc139d48e29d76a6e831eb99944bb8708f4f1d00&v=4" alt="GrapeBaBa" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/GrapeBaBa" target="_blank">GrapeBaBa</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">7371</td>
-      <td align="center">
-        <a href="https://github.com/verobega" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/60678832?u=99f36acf5274b9fc764248f167f4c81f6e59da44&v=4" alt="verobega" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/verobega" target="_blank">verobega</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">7372</td>
       <td align="center">
         <a href="https://github.com/kerrickchan" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/42406163?u=0b47acfa6de471ab3c38ce23a6b49de44a38c6d4&v=4" alt="kerrickchan" width="40" height="40"/>
@@ -115,7 +93,29 @@
       </td>
     </tr>
     <tr>
+      <td align="center">7372</td>
+      <td align="center">
+        <a href="https://github.com/myalt2335" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/118089796?v=4" alt="myalt2335" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/myalt2335" target="_blank">myalt2335</a>
+      </td>
+    </tr>
+    <tr>
       <td align="center">7373</td>
+      <td align="center">
+        <a href="https://github.com/VanthuirMaia" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/111533980?u=368d680837baf2684179a3b3a0a70e38f7778364&v=4" alt="VanthuirMaia" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/VanthuirMaia" target="_blank">VanthuirMaia</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">7374</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -633,4 +633,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.247s on Fri Aug 30 at 2:21</p>
+<p align="right">Generated in 0.156s on Fri Aug 30 at 2:39</p>
