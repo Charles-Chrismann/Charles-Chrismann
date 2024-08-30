@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">7384</td>
-      <td align="center">
-        <a href="https://github.com/fauzancodes" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/74182913?u=1402655f060df5cfbb24e1913cfb2605e229b2f8&v=4" alt="fauzancodes" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/fauzancodes" target="_blank">fauzancodes</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">7385</td>
       <td align="center">
         <a href="https://github.com/luckypackets" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">7387</td>
+      <td align="center">
+        <a href="https://github.com/Wahid-Alii" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/88141830?u=c0e19490725c7c4a34d99e90e7c7ab928a86c2e0&v=4" alt="Wahid-Alii" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Wahid-Alii" target="_blank">Wahid-Alii</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">7388</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -673,4 +673,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.157s on Fri Aug 30 at 7:12</p>
+<p align="right">Generated in 0.153s on Fri Aug 30 at 7:19</p>
