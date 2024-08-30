@@ -84,17 +84,6 @@
     <tr>
       <td align="center">7371</td>
       <td align="center">
-        <a href="https://github.com/kerrickchan" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/42406163?u=0b47acfa6de471ab3c38ce23a6b49de44a38c6d4&v=4" alt="kerrickchan" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/kerrickchan" target="_blank">kerrickchan</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">7372</td>
-      <td align="center">
         <a href="https://github.com/myalt2335" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/118089796?v=4" alt="myalt2335" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">7373</td>
+      <td align="center">7372</td>
       <td align="center">
         <a href="https://github.com/VanthuirMaia" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/111533980?u=368d680837baf2684179a3b3a0a70e38f7778364&v=4" alt="VanthuirMaia" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/VanthuirMaia" target="_blank">VanthuirMaia</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">7373</td>
+      <td align="center">
+        <a href="https://github.com/vhspicerosGitHub" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/130526443?u=19dd750c264da48b4b98ac7ef886869f726d2a9b&v=4" alt="vhspicerosGitHub" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/vhspicerosGitHub" target="_blank">vhspicerosGitHub</a>
       </td>
     </tr>
     <tr>
@@ -633,4 +633,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.156s on Fri Aug 30 at 2:39</p>
+<p align="right">Generated in 0.156s on Fri Aug 30 at 2:40</p>
