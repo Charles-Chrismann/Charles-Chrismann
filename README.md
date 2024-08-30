@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">7397</td>
-      <td align="center">
-        <a href="https://github.com/maritimezra" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/76991169?v=4" alt="maritimezra" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/maritimezra" target="_blank">maritimezra</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">7398</td>
       <td align="center">
         <a href="https://github.com/ClearWine04" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">7400</td>
+      <td align="center">
+        <a href="https://github.com/ajidev89" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/59507408?u=7547bf4ddce568c71d46fe362cda4dfb0b5b3758&v=4" alt="ajidev89" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/ajidev89" target="_blank">ajidev89</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">7401</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -857,4 +857,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.279s on Fri Aug 30 at 8:56</p>
+<p align="right">Generated in 0.28s on Fri Aug 30 at 9:05</p>
