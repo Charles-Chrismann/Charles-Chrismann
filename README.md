@@ -84,17 +84,6 @@
     <tr>
       <td align="center">7493</td>
       <td align="center">
-        <a href="https://github.com/bekirahmetli" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/124275014?u=dc9105b1526cfcd9e610910d7e14c1f4508ca974&v=4" alt="bekirahmetli" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/bekirahmetli" target="_blank">bekirahmetli</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">7494</td>
-      <td align="center">
         <a href="https://github.com/mostafa-kermaninia" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/94176941?u=6eaef2df00925d50d9d44397545642a5255f5d49&v=4" alt="mostafa-kermaninia" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">7495</td>
+      <td align="center">7494</td>
       <td align="center">
         <a href="https://github.com/PedroVitorCarFerSilva" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/93941657?u=6afd075fa37f728ed382d88740c19d85a0c685bd&v=4" alt="PedroVitorCarFerSilva" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/PedroVitorCarFerSilva" target="_blank">PedroVitorCarFerSilva</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">7495</td>
+      <td align="center">
+        <a href="https://github.com/JohnMwendwa" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/72663882?u=805073cc702701b4ad6c56a60dc0bdae9ccac964&v=4" alt="JohnMwendwa" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/JohnMwendwa" target="_blank">JohnMwendwa</a>
       </td>
     </tr>
     <tr>
@@ -812,4 +812,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.161s on Sat Aug 31 at 13:42</p>
+<p align="right">Generated in 0.163s on Sat Aug 31 at 13:43</p>
