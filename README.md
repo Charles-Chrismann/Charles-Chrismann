@@ -96,7 +96,7 @@
       <td align="center">7494</td>
       <td align="center">
         <a href="https://github.com/mostafa-kermaninia" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/94176941?u=db2ab424cc88dab5c39ee6881c22ea73bb27472a&v=4" alt="mostafa-kermaninia" width="40" height="40"/>
+          <img src="https://avatars.githubusercontent.com/u/94176941?u=6eaef2df00925d50d9d44397545642a5255f5d49&v=4" alt="mostafa-kermaninia" width="40" height="40"/>
         </a>
       </td>
       <td>
@@ -812,4 +812,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.17s on Sat Aug 31 at 13:42</p>
+<p align="right">Generated in 0.161s on Sat Aug 31 at 13:42</p>
