@@ -84,17 +84,6 @@
     <tr>
       <td align="center">7579</td>
       <td align="center">
-        <a href="https://github.com/codewithsuzan" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/167009579?u=097497b11e2fbfe9f33f8e805f5c888294fb3b59&v=4" alt="codewithsuzan" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/codewithsuzan" target="_blank">codewithsuzan</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">7580</td>
-      <td align="center">
         <a href="https://github.com/Elyar0" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/136123757?u=784eb325f1091d1969c99d6d509930383d2459b2&v=4" alt="Elyar0" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">7581</td>
+      <td align="center">7580</td>
       <td align="center">
         <a href="https://github.com/Ntobeko-Themba-Malinga" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/106521298?u=7fb1c5e170b7a7c71425f11c5619a9ed85e69303&v=4" alt="Ntobeko-Themba-Malinga" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/Ntobeko-Themba-Malinga" target="_blank">Ntobeko-Themba-Malinga</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">7581</td>
+      <td align="center">
+        <a href="https://github.com/r1nk1337" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/167606982?u=0702b9348c8b9c51e3cd94c4a2f6a03642a35135&v=4" alt="r1nk1337" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/r1nk1337" target="_blank">r1nk1337</a>
       </td>
     </tr>
     <tr>
@@ -815,4 +815,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.382s on Sun Sep 1 at 16:35</p>
+<p align="right">Generated in 0.306s on Sun Sep 1 at 16:38</p>
