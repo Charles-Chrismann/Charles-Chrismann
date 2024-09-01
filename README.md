@@ -84,17 +84,6 @@
     <tr>
       <td align="center">7522</td>
       <td align="center">
-        <a href="https://github.com/Moibe" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/2215091?u=57bc317f6a87f8d73006e8df9fa564f88974edf7&v=4" alt="Moibe" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Moibe" target="_blank">Moibe</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">7523</td>
-      <td align="center">
         <a href="https://github.com/julieldepaula" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/103391236?u=e8f7ca571e2f5eb545cb14502fc84cd3997ce626&v=4" alt="julieldepaula" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">7524</td>
+      <td align="center">7523</td>
       <td align="center">
         <a href="https://github.com/cherishson" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/120066513?v=4" alt="cherishson" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/cherishson" target="_blank">cherishson</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">7524</td>
+      <td align="center">
+        <a href="https://github.com/duartegab" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/162778199?u=e094a983284c7bee2c63500528daa3577f8443f3&v=4" alt="duartegab" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/duartegab" target="_blank">duartegab</a>
       </td>
     </tr>
     <tr>
@@ -645,4 +645,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.664s on Sun Sep 1 at 2:13</p>
+<p align="right">Generated in 0.599s on Sun Sep 1 at 2:17</p>
