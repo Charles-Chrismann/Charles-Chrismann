@@ -84,17 +84,6 @@
     <tr>
       <td align="center">7534</td>
       <td align="center">
-        <a href="https://github.com/Diego17cp" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/171994990?u=90f1c553e2552d52fe089cb81baef4fd16b06b49&v=4" alt="Diego17cp" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Diego17cp" target="_blank">Diego17cp</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">7535</td>
-      <td align="center">
         <a href="https://github.com/EwertonDaniel" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/42904786?v=4" alt="EwertonDaniel" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">7536</td>
+      <td align="center">7535</td>
       <td align="center">
         <a href="https://github.com/BurningFalls" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/30232837?u=fbe682f60278b58d0b45d32cabf7ba5d3442f7cb&v=4" alt="BurningFalls" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/BurningFalls" target="_blank">BurningFalls</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">7536</td>
+      <td align="center">
+        <a href="https://github.com/victormrtns" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/88071929?u=40abf999b2694d607501cf7d36ae7d5c30fd73b2&v=4" alt="victormrtns" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/victormrtns" target="_blank">victormrtns</a>
       </td>
     </tr>
     <tr>
@@ -818,4 +818,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.42s on Sun Sep 1 at 5:16</p>
+<p align="right">Generated in 0.408s on Sun Sep 1 at 5:16</p>
