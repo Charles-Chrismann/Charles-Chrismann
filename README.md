@@ -82,28 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">7580</td>
-      <td align="center">
-        <a href="https://github.com/Elyar0" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/136123757?u=784eb325f1091d1969c99d6d509930383d2459b2&v=4" alt="Elyar0" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Elyar0" target="_blank">Elyar0</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">7581</td>
-      <td align="center">
-        <a href="https://github.com/Ntobeko-Themba-Malinga" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/106521298?u=7fb1c5e170b7a7c71425f11c5619a9ed85e69303&v=4" alt="Ntobeko-Themba-Malinga" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Ntobeko-Themba-Malinga" target="_blank">Ntobeko-Themba-Malinga</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">7582</td>
       <td align="center">
         <a href="https://github.com/r1nk1337" target="_blank">
@@ -116,6 +94,28 @@
     </tr>
     <tr>
       <td align="center">7583</td>
+      <td align="center">
+        <a href="https://github.com/izwrt" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/163333414?u=d708cc2656fca3107bc019be6bff8826b6c28d81&v=4" alt="izwrt" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/izwrt" target="_blank">izwrt</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">7584</td>
+      <td align="center">
+        <a href="https://github.com/agescura" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/3408129?u=495ae01a4c84487d6840f722219ec4cd3dd2873b&v=4" alt="agescura" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/agescura" target="_blank">agescura</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">7585</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -544,125 +544,8 @@
 <p align="center">
   <img width="256" src="https://o.charles-chrismann.fr/board.png" />
 </p>
-<p align="center">It's Black's turn</p>
-<table align="center">
-  <tbody>
-    <tr>
-      <td align="center">:eight:</td>
-      <td align="center">♜      </td>
-      <td align="center">♞      </td>
-      <td align="center">♝      </td>
-      <td align="center">
-        <details>
-          <summary>♛</summary>
-          <a href="https://o.charles-chrismann.fr/chess/move?x1=3&y1=0&x2=4&y2=1">e7</a>
-        </details>
-      </td>
-      <td align="center">
-        <details>
-          <summary>♚</summary>
-          <a href="https://o.charles-chrismann.fr/chess/move?x1=4&y1=0&x2=4&y2=1">e7</a>
-        </details>
-      </td>
-      <td align="center">
-        <details>
-          <summary>♝</summary>
-          <a href="https://o.charles-chrismann.fr/chess/move?x1=5&y1=0&x2=4&y2=1">e7</a>
-        </details>
-      </td>
-      <td align="center">‎       </td>
-      <td align="center">♜      </td>
-    </tr>
-    <tr>
-      <td align="center">:seven:</td>
-      <td align="center">♟      </td>
-      <td align="center">♟      </td>
-      <td align="center">♟      </td>
-      <td align="center">♟      </td>
-      <td align="center">♔      </td>
-      <td align="center">♟      </td>
-      <td align="center">♟      </td>
-      <td align="center">♟      </td>
-    </tr>
-    <tr>
-      <td align="center">:six:</td>
-      <td align="center">‎       </td>
-      <td align="center">‎       </td>
-      <td align="center">‎       </td>
-      <td align="center">‎       </td>
-      <td align="center">‎       </td>
-      <td align="center">‎       </td>
-      <td align="center">‎       </td>
-      <td align="center">‎       </td>
-    </tr>
-    <tr>
-      <td align="center">:five:</td>
-      <td align="center">‎       </td>
-      <td align="center">‎       </td>
-      <td align="center">‎       </td>
-      <td align="center">‎       </td>
-      <td align="center">‎       </td>
-      <td align="center">‎       </td>
-      <td align="center">‎       </td>
-      <td align="center">‎       </td>
-    </tr>
-    <tr>
-      <td align="center">:four:</td>
-      <td align="center">‎       </td>
-      <td align="center">‎       </td>
-      <td align="center">‎       </td>
-      <td align="center">‎       </td>
-      <td align="center">‎       </td>
-      <td align="center">‎       </td>
-      <td align="center">‎       </td>
-      <td align="center">‎       </td>
-    </tr>
-    <tr>
-      <td align="center">:three:</td>
-      <td align="center">‎       </td>
-      <td align="center">‎       </td>
-      <td align="center">‎       </td>
-      <td align="center">‎       </td>
-      <td align="center">‎       </td>
-      <td align="center">‎       </td>
-      <td align="center">‎       </td>
-      <td align="center">‎       </td>
-    </tr>
-    <tr>
-      <td align="center">:two:</td>
-      <td align="center">♙      </td>
-      <td align="center">♙      </td>
-      <td align="center">♙      </td>
-      <td align="center">♙      </td>
-      <td align="center">♙      </td>
-      <td align="center">♙      </td>
-      <td align="center">♙      </td>
-      <td align="center">♙      </td>
-    </tr>
-    <tr>
-      <td align="center">:one:</td>
-      <td align="center">♖      </td>
-      <td align="center">♘      </td>
-      <td align="center">♗      </td>
-      <td align="center">♕      </td>
-      <td align="center">‎       </td>
-      <td align="center">♗      </td>
-      <td align="center">♘      </td>
-      <td align="center">♖      </td>
-    </tr>
-  <tr>
-    <td align="center"></td>
-    <td align="center">🇦</td>
-    <td align="center">🇧</td>
-    <td align="center">🇨</td>
-    <td align="center">🇩</td>
-    <td align="center">🇪</td>
-    <td align="center">🇫</td>
-    <td align="center">🇬</td>
-    <td align="center">🇭</td>
-    </tr>
-  </tbody>
-</table><h3 align="center">
+<p align="center">Black wins !</p>
+<h3 align="center">
 <a href="https://o.charles-chrismann.fr/chess/new">Reset Game</a>
 </h3>
 
@@ -762,4 +645,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.291s on Sun Sep 1 at 16:45</p>
+<p align="right">Generated in 0.307s on Sun Sep 1 at 16:57</p>
