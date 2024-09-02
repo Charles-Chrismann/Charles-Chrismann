@@ -82,28 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">7702</td>
-      <td align="center">
-        <a href="https://github.com/SSB-11" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/103268885?v=4" alt="SSB-11" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/SSB-11" target="_blank">SSB-11</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">7703</td>
-      <td align="center">
-        <a href="https://github.com/NickAReva" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/59935905?u=f305acd5454a4292569877561eef0f90803e29ac&v=4" alt="NickAReva" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/NickAReva" target="_blank">NickAReva</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">7704</td>
       <td align="center">
         <a href="https://github.com/Sashmitha-Ravindu" target="_blank">
@@ -116,6 +94,28 @@
     </tr>
     <tr>
       <td align="center">7705</td>
+      <td align="center">
+        <a href="https://github.com/Alnyle" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/92124809?v=4" alt="Alnyle" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Alnyle" target="_blank">Alnyle</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">7706</td>
+      <td align="center">
+        <a href="https://github.com/sborshikHlama" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/100703861?u=bfcdadf44da67db3fa46f127fbd4a7c392318741&v=4" alt="sborshikHlama" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/sborshikHlama" target="_blank">sborshikHlama</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">7707</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -889,4 +889,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.233s on Mon Sep 2 at 16:52</p>
+<p align="right">Generated in 0.241s on Mon Sep 2 at 17:03</p>
