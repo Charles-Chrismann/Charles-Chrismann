@@ -84,17 +84,6 @@
     <tr>
       <td align="center">7719</td>
       <td align="center">
-        <a href="https://github.com/pattiesanchez" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/110360779?u=fe8f176fd32e93684cc79d5dcd03758dbef9e389&v=4" alt="pattiesanchez" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/pattiesanchez" target="_blank">pattiesanchez</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">7720</td>
-      <td align="center">
         <a href="https://github.com/G-Mustafa1" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/157616503?u=7f58cfc5ebfe8a8fea69ee294cc5f6705171a3e3&v=4" alt="G-Mustafa1" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">7721</td>
+      <td align="center">7720</td>
       <td align="center">
         <a href="https://github.com/SomniaDev285" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/177279849?u=1e425d8fafc561eba9898dcd21db4cdbf9487b8d&v=4" alt="SomniaDev285" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/SomniaDev285" target="_blank">SomniaDev285</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">7721</td>
+      <td align="center">
+        <a href="https://github.com/ZakariaMerghmi" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/172538841?u=6335b2f3189804f9996ab28bd5a1d08b35f7784c&v=4" alt="ZakariaMerghmi" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/ZakariaMerghmi" target="_blank">ZakariaMerghmi</a>
       </td>
     </tr>
     <tr>
@@ -822,4 +822,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.245s on Mon Sep 2 at 22:00</p>
+<p align="right">Generated in 0.216s on Mon Sep 2 at 22:03</p>
