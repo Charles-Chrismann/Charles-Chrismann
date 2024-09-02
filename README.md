@@ -84,17 +84,6 @@
     <tr>
       <td align="center">7639</td>
       <td align="center">
-        <a href="https://github.com/LuizFried" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/138179515?v=4" alt="LuizFried" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/LuizFried" target="_blank">LuizFried</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">7640</td>
-      <td align="center">
         <a href="https://github.com/Exios66" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/148591095?u=f793e8fe19102e936b3ed3327ff7279b7252ed02&v=4" alt="Exios66" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">7641</td>
+      <td align="center">7640</td>
       <td align="center">
         <a href="https://github.com/ankitsingh711" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/97685202?u=a98ffecc2b7b09c6fd0ecf4cb0bee343525a61c3&v=4" alt="ankitsingh711" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/ankitsingh711" target="_blank">ankitsingh711</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">7641</td>
+      <td align="center">
+        <a href="https://github.com/DenisYurkov" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/42248514?u=fb1c471f3ee01c0256c8056b206778c687d24b85&v=4" alt="DenisYurkov" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/DenisYurkov" target="_blank">DenisYurkov</a>
       </td>
     </tr>
     <tr>
@@ -826,4 +826,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.201s on Mon Sep 2 at 8:08</p>
+<p align="right">Generated in 0.201s on Mon Sep 2 at 8:09</p>
