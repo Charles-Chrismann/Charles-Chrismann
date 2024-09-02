@@ -82,7 +82,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">7674</td>
+      <td align="center">7673</td>
       <td align="center">
         <a href="https://github.com/ctnasu" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/114110278?v=4" alt="ctnasu" width="40" height="40"/>
@@ -93,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">7675</td>
+      <td align="center">7674</td>
       <td align="center">
         <a href="https://github.com/JohnMwendwa" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/72663882?u=805073cc702701b4ad6c56a60dc0bdae9ccac964&v=4" alt="JohnMwendwa" width="40" height="40"/>
@@ -104,7 +104,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">7676</td>
+      <td align="center">7675</td>
       <td align="center">
         <a href="https://github.com/Emokan" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/82219283?u=4aac3a11157c5833cf8f798691ecc0d5fd6faa50&v=4" alt="Emokan" width="40" height="40"/>
@@ -115,7 +115,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">7677</td>
+      <td align="center">7676</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -473,7 +473,7 @@
   <span>:three:</span>
   <span>:two:</span>
   <br>
-  <span>:two:</span>
+  <a href="https://o.charles-chrismann.fr/minesweeper/click?x=0&y=11">:black_large_square:</a>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=1&y=11">:black_large_square:</a>
   <span>:four:</span>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=3&y=11">:black_large_square:</a>
@@ -827,4 +827,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 2.971s on Mon Sep 2 at 12:04</p>
+<p align="right">Generated in 0.332s on Mon Sep 2 at 12:04</p>
