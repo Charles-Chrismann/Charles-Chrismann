@@ -82,40 +82,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">7705</td>
-      <td align="center">
-        <a href="https://github.com/Alnyle" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/92124809?v=4" alt="Alnyle" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Alnyle" target="_blank">Alnyle</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">7706</td>
-      <td align="center">
-        <a href="https://github.com/sborshikHlama" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/100703861?u=bfcdadf44da67db3fa46f127fbd4a7c392318741&v=4" alt="sborshikHlama" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/sborshikHlama" target="_blank">sborshikHlama</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">7707</td>
-      <td align="center">
-        <a href="https://github.com/diegosolliveira" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/54079436?u=8547d7560048f25666d7959959cbb2d4fe8ebe74&v=4" alt="diegosolliveira" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/diegosolliveira" target="_blank">diegosolliveira</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">7708</td>
+      <td align="center">
+        <a href="https://github.com/tladikholofelo" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/111233070?u=e785150b4a977fd74168b7ab65e7d2bc8a79d869&v=4" alt="tladikholofelo" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/tladikholofelo" target="_blank">tladikholofelo</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">7709</td>
+      <td align="center">
+        <a href="https://github.com/reinoteguh15" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/99352914?u=88625e1789f0e8ad43f829916f72d940c0c93c50&v=4" alt="reinoteguh15" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/reinoteguh15" target="_blank">reinoteguh15</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">7710</td>
+      <td align="center">
+        <a href="https://github.com/morlabhaskar" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/130536347?u=af7bcf625c96736949ec9dd8c030fa10b753ddf5&v=4" alt="morlabhaskar" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/morlabhaskar" target="_blank">morlabhaskar</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">7711</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -889,4 +889,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.29s on Mon Sep 2 at 17:22</p>
+<p align="right">Generated in 0.146s on Mon Sep 2 at 17:22</p>
