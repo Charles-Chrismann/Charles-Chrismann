@@ -84,17 +84,6 @@
     <tr>
       <td align="center">7673</td>
       <td align="center">
-        <a href="https://github.com/Gabriel-Menegol749" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/162857740?u=eb347c372cc9b3c01f07a18f2d13767056e33d12&v=4" alt="Gabriel-Menegol749" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Gabriel-Menegol749" target="_blank">Gabriel-Menegol749</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">7674</td>
-      <td align="center">
         <a href="https://github.com/hamzaashfaq39" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/57052198?u=f743f4735a31c5d344f527bee2d78063a0657c49&v=4" alt="hamzaashfaq39" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">7675</td>
+      <td align="center">7674</td>
       <td align="center">
         <a href="https://github.com/ctnasu" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/114110278?v=4" alt="ctnasu" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/ctnasu" target="_blank">ctnasu</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">7675</td>
+      <td align="center">
+        <a href="https://github.com/JohnMwendwa" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/72663882?u=805073cc702701b4ad6c56a60dc0bdae9ccac964&v=4" alt="JohnMwendwa" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/JohnMwendwa" target="_blank">JohnMwendwa</a>
       </td>
     </tr>
     <tr>
@@ -821,4 +821,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.207s on Mon Sep 2 at 11:47</p>
+<p align="right">Generated in 0.22s on Mon Sep 2 at 11:56</p>
