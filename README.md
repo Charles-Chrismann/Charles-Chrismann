@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">7676</td>
-      <td align="center">
-        <a href="https://github.com/tecnicoviola" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/146161086?u=594e53b235de443acc9f8e27363629b8eca6233a&v=4" alt="tecnicoviola" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/tecnicoviola" target="_blank">tecnicoviola</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">7677</td>
       <td align="center">
         <a href="https://github.com/fidankaraca" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">7679</td>
+      <td align="center">
+        <a href="https://github.com/ArionDev8" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/128810425?v=4" alt="ArionDev8" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/ArionDev8" target="_blank">ArionDev8</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">7680</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -819,4 +819,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.284s on Mon Sep 2 at 12:57</p>
+<p align="right">Generated in 0.227s on Mon Sep 2 at 13:00</p>
