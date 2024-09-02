@@ -84,17 +84,6 @@
     <tr>
       <td align="center">7674</td>
       <td align="center">
-        <a href="https://github.com/ctnasu" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/114110278?v=4" alt="ctnasu" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/ctnasu" target="_blank">ctnasu</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">7675</td>
-      <td align="center">
         <a href="https://github.com/JohnMwendwa" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/72663882?u=805073cc702701b4ad6c56a60dc0bdae9ccac964&v=4" alt="JohnMwendwa" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">7676</td>
+      <td align="center">7675</td>
       <td align="center">
         <a href="https://github.com/Emokan" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/82219283?u=4aac3a11157c5833cf8f798691ecc0d5fd6faa50&v=4" alt="Emokan" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/Emokan" target="_blank">Emokan</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">7676</td>
+      <td align="center">
+        <a href="https://github.com/tecnicoviola" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/146161086?u=594e53b235de443acc9f8e27363629b8eca6233a&v=4" alt="tecnicoviola" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/tecnicoviola" target="_blank">tecnicoviola</a>
       </td>
     </tr>
     <tr>
@@ -827,4 +827,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 1.086s on Mon Sep 2 at 12:05</p>
+<p align="right">Generated in 1.115s on Mon Sep 2 at 12:13</p>
