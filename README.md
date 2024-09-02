@@ -84,17 +84,6 @@
     <tr>
       <td align="center">7611</td>
       <td align="center">
-        <a href="https://github.com/GabryelJ" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/114797458?v=4" alt="GabryelJ" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/GabryelJ" target="_blank">GabryelJ</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">7612</td>
-      <td align="center">
         <a href="https://github.com/renatoslva" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/101299005?u=0f539b2185e2b45f2f1f9495e9fea9d77329640e&v=4" alt="renatoslva" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">7613</td>
+      <td align="center">7612</td>
       <td align="center">
         <a href="https://github.com/Maribarboza" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/46385012?u=7b2f62b877fdc09778170389e585c33d351e0db6&v=4" alt="Maribarboza" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/Maribarboza" target="_blank">Maribarboza</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">7613</td>
+      <td align="center">
+        <a href="https://github.com/guzztavo2" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/62066122?u=1595d509ee19a1a655ded1e1a9204d50b2d84ebe&v=4" alt="guzztavo2" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/guzztavo2" target="_blank">guzztavo2</a>
       </td>
     </tr>
     <tr>
@@ -807,4 +807,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.129s on Mon Sep 2 at 0:13</p>
+<p align="right">Generated in 0.216s on Mon Sep 2 at 0:23</p>
