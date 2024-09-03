@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">7785</td>
-      <td align="center">
-        <a href="https://github.com/Thaisraie" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/129559669?u=20617e3f997981dc8d0fa656f5d88383bc25d58d&v=4" alt="Thaisraie" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Thaisraie" target="_blank">Thaisraie</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">7786</td>
       <td align="center">
         <a href="https://github.com/AtomicLiquors" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">7788</td>
+      <td align="center">
+        <a href="https://github.com/jade-banares" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/83527821?u=d834b8db19af9a742def476ce6a2d317385b7c1d&v=4" alt="jade-banares" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/jade-banares" target="_blank">jade-banares</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">7789</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -342,7 +342,7 @@
   <br>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=0&y=4">:black_large_square:</a>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=1&y=4">:black_large_square:</a>
-  <a href="https://o.charles-chrismann.fr/minesweeper/click?x=2&y=4">:black_large_square:</a>
+  <span>:three:</span>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=3&y=4">:black_large_square:</a>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=4&y=4">:black_large_square:</a>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=5&y=4">:black_large_square:</a>
@@ -837,4 +837,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.123s on Tue Sep 3 at 14:56</p>
+<p align="right">Generated in 0.121s on Tue Sep 3 at 14:57</p>
