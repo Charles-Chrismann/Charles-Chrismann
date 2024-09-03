@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">7733</td>
-      <td align="center">
-        <a href="https://github.com/simonmwaura" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/161325035?v=4" alt="simonmwaura" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/simonmwaura" target="_blank">simonmwaura</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">7734</td>
       <td align="center">
         <a href="https://github.com/jhmhubdnc" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">7736</td>
+      <td align="center">
+        <a href="https://github.com/Hexzilla" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/75077277?u=1145ddb3b3ba592b453b65d81197cf7c03837dee&v=4" alt="Hexzilla" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Hexzilla" target="_blank">Hexzilla</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">7737</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -813,4 +813,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.546s on Tue Sep 3 at 3:54</p>
+<p align="right">Generated in 0.497s on Tue Sep 3 at 4:02</p>
