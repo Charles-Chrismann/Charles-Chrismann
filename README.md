@@ -107,7 +107,7 @@
       <td align="center">7735</td>
       <td align="center">
         <a href="https://github.com/agitronics" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/143640392?v=4" alt="agitronics" width="40" height="40"/>
+          <img src="https://avatars.githubusercontent.com/u/143640392?u=d8f51c046c27b7beeaae28baa3a5bd0098485baa&v=4" alt="agitronics" width="40" height="40"/>
         </a>
       </td>
       <td>
@@ -826,4 +826,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.561s on Tue Sep 3 at 3:35</p>
+<p align="right">Generated in 0.462s on Tue Sep 3 at 3:38</p>
