@@ -82,40 +82,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">7774</td>
+      <td align="center">7778</td>
       <td align="center">
-        <a href="https://github.com/arekkusu66" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/123335881?u=d5fde123263f1aa73541bbb7bfa8a7ba65526e98&v=4" alt="arekkusu66" width="40" height="40"/>
+        <a href="https://github.com/Gabriel345" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/60790651?v=4" alt="Gabriel345" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/arekkusu66" target="_blank">arekkusu66</a>
+        <a href="https://github.com/Gabriel345" target="_blank">Gabriel345</a>
       </td>
     </tr>
     <tr>
-      <td align="center">7775</td>
+      <td align="center">7779</td>
       <td align="center">
-        <a href="https://github.com/Abdi-analyst" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/122881135?u=c7fbec2d871ac2b774060bb4618b38bb15a8af90&v=4" alt="Abdi-analyst" width="40" height="40"/>
+        <a href="https://github.com/juniordiem" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/167592091?u=939cfe9a91968329a02b52585e5e38ed1ae5fa89&v=4" alt="juniordiem" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/Abdi-analyst" target="_blank">Abdi-analyst</a>
+        <a href="https://github.com/juniordiem" target="_blank">juniordiem</a>
       </td>
     </tr>
     <tr>
-      <td align="center">7776</td>
+      <td align="center">7780</td>
       <td align="center">
-        <a href="https://github.com/kenjinote" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/2605401?u=eedb455e76cb25f023a3626808cd572b7df70ef7&v=4" alt="kenjinote" width="40" height="40"/>
+        <a href="https://github.com/PrieTorres" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/96851222?u=16e2cee4afed41fe36cf38dfb8777d281543c647&v=4" alt="PrieTorres" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/kenjinote" target="_blank">kenjinote</a>
+        <a href="https://github.com/PrieTorres" target="_blank">PrieTorres</a>
       </td>
     </tr>
     <tr>
-      <td align="center">7777</td>
+      <td align="center">7781</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -837,4 +837,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.528s on Tue Sep 3 at 13:06</p>
+<p align="right">Generated in 0.536s on Tue Sep 3 at 13:13</p>
