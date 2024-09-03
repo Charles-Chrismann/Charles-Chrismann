@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">7747</td>
-      <td align="center">
-        <a href="https://github.com/CharityMemory" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/176582835?v=4" alt="CharityMemory" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/CharityMemory" target="_blank">CharityMemory</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">7748</td>
       <td align="center">
         <a href="https://github.com/Bluecatto" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">7750</td>
+      <td align="center">
+        <a href="https://github.com/samarthagali" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/43489355?u=839f9eafe63e9113798eae7d818f462f4a740449&v=4" alt="samarthagali" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/samarthagali" target="_blank">samarthagali</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">7751</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -837,4 +837,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.173s on Tue Sep 3 at 8:37</p>
+<p align="right">Generated in 0.165s on Tue Sep 3 at 8:47</p>
