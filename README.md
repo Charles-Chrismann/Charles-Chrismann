@@ -82,40 +82,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">7764</td>
-      <td align="center">
-        <a href="https://github.com/masterchief-00" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/87192950?u=ce130b341c8129a57785f10d53383d60b9f2de08&v=4" alt="masterchief-00" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/masterchief-00" target="_blank">masterchief-00</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">7765</td>
-      <td align="center">
-        <a href="https://github.com/SatyamNirmal134" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/177032834?v=4" alt="SatyamNirmal134" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/SatyamNirmal134" target="_blank">SatyamNirmal134</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">7766</td>
       <td align="center">
-        <a href="https://github.com/waccampos" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/114779612?u=772edc81c77239dd21b6db3486ce907350f8289a&v=4" alt="waccampos" width="40" height="40"/>
+        <a href="https://github.com/JohnMwendwa" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/72663882?u=805073cc702701b4ad6c56a60dc0bdae9ccac964&v=4" alt="JohnMwendwa" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/waccampos" target="_blank">waccampos</a>
+        <a href="https://github.com/JohnMwendwa" target="_blank">JohnMwendwa</a>
       </td>
     </tr>
     <tr>
       <td align="center">7767</td>
+      <td align="center">
+        <a href="https://github.com/Loay-zeid" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/157035301?u=a253f8e5fe113988e89f2aba8afcbd26d8bb5ba2&v=4" alt="Loay-zeid" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Loay-zeid" target="_blank">Loay-zeid</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">7768</td>
+      <td align="center">
+        <a href="https://github.com/rehmansheikh222" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/108480453?u=31620ce347f1d1f8d4aef721a66a72c659f79774&v=4" alt="rehmansheikh222" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/rehmansheikh222" target="_blank">rehmansheikh222</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">7769</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -837,4 +837,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.163s on Tue Sep 3 at 11:03</p>
+<p align="right">Generated in 0.145s on Tue Sep 3 at 11:05</p>
