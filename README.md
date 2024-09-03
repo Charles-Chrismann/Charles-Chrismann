@@ -96,7 +96,7 @@
       <td align="center">7734</td>
       <td align="center">
         <a href="https://github.com/jhmhubdnc" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/59557538?u=2ccf4d437e1670292cbdc11718e7c8fdeae2215e&v=4" alt="jhmhubdnc" width="40" height="40"/>
+          <img src="https://avatars.githubusercontent.com/u/59557538?u=68103e87c575a06aa614de6b7da07ceaef3c55e7&v=4" alt="jhmhubdnc" width="40" height="40"/>
         </a>
       </td>
       <td>
@@ -106,12 +106,12 @@
     <tr>
       <td align="center">7735</td>
       <td align="center">
-        <a href="https://github.com/agitronics" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/143640392?u=d8f51c046c27b7beeaae28baa3a5bd0098485baa&v=4" alt="agitronics" width="40" height="40"/>
+        <a href="https://github.com/Michael-Rapoport" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/143640392?u=d8f51c046c27b7beeaae28baa3a5bd0098485baa&v=4" alt="Michael-Rapoport" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/agitronics" target="_blank">agitronics</a>
+        <a href="https://github.com/Michael-Rapoport" target="_blank">Michael-Rapoport</a>
       </td>
     </tr>
     <tr>
@@ -813,4 +813,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.186s on Tue Sep 3 at 3:48</p>
+<p align="right">Generated in 0.472s on Tue Sep 3 at 3:49</p>
