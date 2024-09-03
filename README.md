@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">7735</td>
-      <td align="center">
-        <a href="https://github.com/MiniMenu" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/38903793?v=4" alt="MiniMenu" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/MiniMenu" target="_blank">MiniMenu</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">7736</td>
       <td align="center">
         <a href="https://github.com/Amazigh2" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">7738</td>
+      <td align="center">
+        <a href="https://github.com/arcy405" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/30403746?u=9b73253684a15fe89a238007cfaeaf48b0356f70&v=4" alt="arcy405" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/arcy405" target="_blank">arcy405</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">7739</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -843,4 +843,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.165s on Tue Sep 3 at 6:27</p>
+<p align="right">Generated in 0.184s on Tue Sep 3 at 6:27</p>
