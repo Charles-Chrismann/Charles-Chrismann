@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">7734</td>
-      <td align="center">
-        <a href="https://github.com/Michael-Rapoport" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/143640392?u=d8f51c046c27b7beeaae28baa3a5bd0098485baa&v=4" alt="Michael-Rapoport" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Michael-Rapoport" target="_blank">Michael-Rapoport</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">7735</td>
       <td align="center">
         <a href="https://github.com/Hexzilla" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">7737</td>
+      <td align="center">
+        <a href="https://github.com/MiniMenu" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/38903793?v=4" alt="MiniMenu" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/MiniMenu" target="_blank">MiniMenu</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">7738</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -813,4 +813,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.557s on Tue Sep 3 at 4:27</p>
+<p align="right">Generated in 0.475s on Tue Sep 3 at 4:29</p>
