@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">7735</td>
-      <td align="center">
-        <a href="https://github.com/Hexzilla" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/75077277?u=1145ddb3b3ba592b453b65d81197cf7c03837dee&v=4" alt="Hexzilla" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Hexzilla" target="_blank">Hexzilla</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">7736</td>
       <td align="center">
         <a href="https://github.com/mnpsnuwan" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">7738</td>
+      <td align="center">
+        <a href="https://github.com/Amazigh2" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/173721929?v=4" alt="Amazigh2" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Amazigh2" target="_blank">Amazigh2</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">7739</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -823,4 +823,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.172s on Tue Sep 3 at 5:57</p>
+<p align="right">Generated in 0.438s on Tue Sep 3 at 5:57</p>
