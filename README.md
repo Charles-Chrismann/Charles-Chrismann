@@ -84,17 +84,6 @@
     <tr>
       <td align="center">7778</td>
       <td align="center">
-        <a href="https://github.com/Gabriel345" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/60790651?v=4" alt="Gabriel345" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Gabriel345" target="_blank">Gabriel345</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">7779</td>
-      <td align="center">
         <a href="https://github.com/juniordiem" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/167592091?u=939cfe9a91968329a02b52585e5e38ed1ae5fa89&v=4" alt="juniordiem" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">7780</td>
+      <td align="center">7779</td>
       <td align="center">
         <a href="https://github.com/PrieTorres" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/96851222?u=16e2cee4afed41fe36cf38dfb8777d281543c647&v=4" alt="PrieTorres" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/PrieTorres" target="_blank">PrieTorres</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">7780</td>
+      <td align="center">
+        <a href="https://github.com/manuelluvuvamo" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/65790902?u=f6be1d1b956a35b8c86a9d32986334c2825876ff&v=4" alt="manuelluvuvamo" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/manuelluvuvamo" target="_blank">manuelluvuvamo</a>
       </td>
     </tr>
     <tr>
@@ -844,4 +844,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.552s on Tue Sep 3 at 13:42</p>
+<p align="right">Generated in 0.545s on Tue Sep 3 at 13:44</p>
