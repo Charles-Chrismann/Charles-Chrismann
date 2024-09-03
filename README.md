@@ -82,40 +82,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">7780</td>
-      <td align="center">
-        <a href="https://github.com/manuelluvuvamo" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/65790902?u=f6be1d1b956a35b8c86a9d32986334c2825876ff&v=4" alt="manuelluvuvamo" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/manuelluvuvamo" target="_blank">manuelluvuvamo</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">7781</td>
-      <td align="center">
-        <a href="https://github.com/lucaspiquera" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/55598152?u=4c0e1f7e67a1977e1e96efa4a419bf7ea9c9f249&v=4" alt="lucaspiquera" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/lucaspiquera" target="_blank">lucaspiquera</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">7782</td>
-      <td align="center">
-        <a href="https://github.com/oliviawilson2003" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/96422751?u=0ab4f438a19d68e61666f3e321a242ae2c576155&v=4" alt="oliviawilson2003" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/oliviawilson2003" target="_blank">oliviawilson2003</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">7783</td>
+      <td align="center">
+        <a href="https://github.com/Valeria-1C" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/177643718?u=6ed205a7389b689f2976307adb4bf65b4f0a93f5&v=4" alt="Valeria-1C" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Valeria-1C" target="_blank">Valeria-1C</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">7784</td>
+      <td align="center">
+        <a href="https://github.com/aydanakbb" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/127141616?u=3f9f3068fe5813c84de838849f78e4dca05e88c7&v=4" alt="aydanakbb" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/aydanakbb" target="_blank">aydanakbb</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">7785</td>
+      <td align="center">
+        <a href="https://github.com/itsanamune" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/105297244?u=3eb2101f8dd388c52adf34ed623994b59ab8744e&v=4" alt="itsanamune" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/itsanamune" target="_blank">itsanamune</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">7786</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -848,4 +848,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.642s on Tue Sep 3 at 14:04</p>
+<p align="right">Generated in 0.597s on Tue Sep 3 at 14:06</p>
