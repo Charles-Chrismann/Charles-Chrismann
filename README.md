@@ -84,17 +84,6 @@
     <tr>
       <td align="center">7920</td>
       <td align="center">
-        <a href="https://github.com/AnnaMut" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/32451778?u=cc550172eb2cbdc4d828095a5f6a27a7a117b6d7&v=4" alt="AnnaMut" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/AnnaMut" target="_blank">AnnaMut</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">7921</td>
-      <td align="center">
         <a href="https://github.com/Alembergue" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/119619518?u=620fc6151ad647362ed97aaa79c0ade36a2a9717&v=4" alt="Alembergue" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">7922</td>
+      <td align="center">7921</td>
       <td align="center">
         <a href="https://github.com/Hamzah-Owaidat" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/124900536?u=d67a8f11d1377321d34ccf4bae0469fb271647d5&v=4" alt="Hamzah-Owaidat" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/Hamzah-Owaidat" target="_blank">Hamzah-Owaidat</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">7922</td>
+      <td align="center">
+        <a href="https://github.com/JohnMwendwa" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/72663882?u=805073cc702701b4ad6c56a60dc0bdae9ccac964&v=4" alt="JohnMwendwa" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/JohnMwendwa" target="_blank">JohnMwendwa</a>
       </td>
     </tr>
     <tr>
@@ -889,4 +889,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.221s on Wed Sep 4 at 20:43</p>
+<p align="right">Generated in 0.171s on Wed Sep 4 at 20:47</p>
