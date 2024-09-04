@@ -777,6 +777,16 @@
       </td>
     </tr>
     <tr>
+      <td>$\text{\color{white}{S}}$</td>
+      <td>$\text{\color{orange}{A}}$</td>
+      <td>$\text{\color{white}{U}}$</td>
+      <td>$\text{\color{orange}{C}}$</td>
+      <td>$\text{\color{white}{E}}$</td>
+      <td>
+        <a href="https://github.com/Charles-Chrismann">@Charles-Chrismann</a>
+      </td>
+    </tr>
+    <tr>
       <td>‎ </td>
       <td>‎ </td>
       <td>‎ </td>
@@ -862,4 +872,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 1.241s on Wed Sep 4 at 10:41</p>
+<p align="right">Generated in 1.224s on Wed Sep 4 at 10:42</p>
