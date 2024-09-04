@@ -82,40 +82,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">7877</td>
-      <td align="center">
-        <a href="https://github.com/martynov-94" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/31200896?u=1ca93e9cf9be540b091016d7607eedadfa36d53c&v=4" alt="martynov-94" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/martynov-94" target="_blank">martynov-94</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">7878</td>
-      <td align="center">
-        <a href="https://github.com/fenix-hub" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/45271396?u=e6b466c72c5ef129e9ba630948c1600c44fd35dd&v=4" alt="fenix-hub" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/fenix-hub" target="_blank">fenix-hub</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">7879</td>
-      <td align="center">
-        <a href="https://github.com/yoon9i" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/152936498?u=3995a15f6f0a45f67c134577ca2a8593fb6b6bc5&v=4" alt="yoon9i" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/yoon9i" target="_blank">yoon9i</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">7880</td>
+      <td align="center">
+        <a href="https://github.com/striderdu" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/19477500?v=4" alt="striderdu" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/striderdu" target="_blank">striderdu</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">7881</td>
+      <td align="center">
+        <a href="https://github.com/KaueTeixxeira" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/110638994?u=d64f06eb4774dd1e14172dbd4e7060241d12b723&v=4" alt="KaueTeixxeira" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/KaueTeixxeira" target="_blank">KaueTeixxeira</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">7882</td>
+      <td align="center">
+        <a href="https://github.com/vaibhavtrivedi2002" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/123184825?u=de6a710c43e0383a90df1dfd53e03caf96b2ab93&v=4" alt="vaibhavtrivedi2002" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/vaibhavtrivedi2002" target="_blank">vaibhavtrivedi2002</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">7883</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -866,4 +866,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 1.422s on Wed Sep 4 at 13:40</p>
+<p align="right">Generated in 1.43s on Wed Sep 4 at 13:50</p>
