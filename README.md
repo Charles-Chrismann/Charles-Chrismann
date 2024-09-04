@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">7868</td>
-      <td align="center">
-        <a href="https://github.com/WaterPurify" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/86897220?u=4d64e49b4c2739fff16583fb5152fb2b3d283fec&v=4" alt="WaterPurify" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/WaterPurify" target="_blank">WaterPurify</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">7869</td>
       <td align="center">
         <a href="https://github.com/DailyWind00" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">7871</td>
+      <td align="center">
+        <a href="https://github.com/emetians" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/19709893?v=4" alt="emetians" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/emetians" target="_blank">emetians</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">7872</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -866,4 +866,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 1.358s on Wed Sep 4 at 12:06</p>
+<p align="right">Generated in 1.364s on Wed Sep 4 at 12:21</p>
