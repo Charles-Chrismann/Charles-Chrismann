@@ -82,40 +82,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">7869</td>
-      <td align="center">
-        <a href="https://github.com/DailyWind00" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/140258565?u=14b387dc3af8d515a11d36afee98541a23f8f6c4&v=4" alt="DailyWind00" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/DailyWind00" target="_blank">DailyWind00</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">7870</td>
-      <td align="center">
-        <a href="https://github.com/ParsaAslaniYC" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/115403383?u=8d37b765203da93bc3a08b6debc52b815bb26a8d&v=4" alt="ParsaAslaniYC" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/ParsaAslaniYC" target="_blank">ParsaAslaniYC</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">7871</td>
-      <td align="center">
-        <a href="https://github.com/emetians" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/19709893?v=4" alt="emetians" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/emetians" target="_blank">emetians</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">7872</td>
+      <td align="center">
+        <a href="https://github.com/cristinamatacuta" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/98718981?v=4" alt="cristinamatacuta" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/cristinamatacuta" target="_blank">cristinamatacuta</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">7873</td>
+      <td align="center">
+        <a href="https://github.com/lawalTheWest" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/45957199?u=ad793eeae3d77b22abbd8650004bee3b39b3065a&v=4" alt="lawalTheWest" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/lawalTheWest" target="_blank">lawalTheWest</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">7874</td>
+      <td align="center">
+        <a href="https://github.com/gundis25" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/169504048?v=4" alt="gundis25" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/gundis25" target="_blank">gundis25</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">7875</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -866,4 +866,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 1.354s on Wed Sep 4 at 12:38</p>
+<p align="right">Generated in 1.347s on Wed Sep 4 at 12:38</p>
