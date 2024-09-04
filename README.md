@@ -84,17 +84,6 @@
     <tr>
       <td align="center">7897</td>
       <td align="center">
-        <a href="https://github.com/fblpalmeira" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/73030144?u=bbe4474c40674d1a9a351d6dc6a672979f6556fc&v=4" alt="fblpalmeira" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/fblpalmeira" target="_blank">fblpalmeira</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">7898</td>
-      <td align="center">
         <a href="https://github.com/ProjectsRO-hit" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/155361024?u=a019060cee3de53b1590eb1c59e7fb5db1a69a51&v=4" alt="ProjectsRO-hit" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">7899</td>
+      <td align="center">7898</td>
       <td align="center">
         <a href="https://github.com/raghavkapoor-prog" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/114831248?u=e8f8f78b678a5530dc6a41c90913a6ccece55cdc&v=4" alt="raghavkapoor-prog" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/raghavkapoor-prog" target="_blank">raghavkapoor-prog</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">7899</td>
+      <td align="center">
+        <a href="https://github.com/Gamaliel-Marines" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/110830802?u=9fdb9911c3aec2ebda9ec2d8101f6816b7e048c3&v=4" alt="Gamaliel-Marines" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Gamaliel-Marines" target="_blank">Gamaliel-Marines</a>
       </td>
     </tr>
     <tr>
@@ -876,4 +876,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.156s on Wed Sep 4 at 15:18</p>
+<p align="right">Generated in 0.151s on Wed Sep 4 at 15:18</p>
