@@ -673,66 +673,6 @@
   </thead>
   <tbody>
     <tr>
-      <td>$\text{\color{orange}{C}}$</td>
-      <td>$\text{\color{white}{R}}$</td>
-      <td>$\text{\color{orange}{A}}$</td>
-      <td>$\text{\color{orange}{N}}$</td>
-      <td>$\text{\color{white}{E}}$</td>
-      <td>
-        <a href="https://github.com/Charles-Chrismann">@Charles-Chrismann</a>
-      </td>
-    </tr>
-    <tr>
-      <td>$\text{\color{lightgreen}{A}}$</td>
-      <td>$\text{\color{white}{R}}$</td>
-      <td>$\text{\color{orange}{I}}$</td>
-      <td>$\text{\color{white}{S}}$</td>
-      <td>$\text{\color{white}{E}}$</td>
-      <td>
-        <a href="https://github.com/Charles-Chrismann">@Charles-Chrismann</a>
-      </td>
-    </tr>
-    <tr>
-      <td>$\text{\color{white}{S}}$</td>
-      <td>$\text{\color{white}{L}}$</td>
-      <td>$\text{\color{orange}{A}}$</td>
-      <td>$\text{\color{orange}{T}}$</td>
-      <td>$\text{\color{white}{E}}$</td>
-      <td>
-        <a href="https://github.com/Charles-Chrismann">@Charles-Chrismann</a>
-      </td>
-    </tr>
-    <tr>
-      <td>$\text{\color{orange}{C}}$</td>
-      <td>$\text{\color{white}{R}}$</td>
-      <td>$\text{\color{orange}{A}}$</td>
-      <td>$\text{\color{orange}{T}}$</td>
-      <td>$\text{\color{white}{E}}$</td>
-      <td>
-        <a href="https://github.com/Charles-Chrismann">@Charles-Chrismann</a>
-      </td>
-    </tr>
-    <tr>
-      <td>$\text{\color{white}{S}}$</td>
-      <td>$\text{\color{orange}{A}}$</td>
-      <td>$\text{\color{white}{U}}$</td>
-      <td>$\text{\color{orange}{C}}$</td>
-      <td>$\text{\color{white}{E}}$</td>
-      <td>
-        <a href="https://github.com/Charles-Chrismann">@Charles-Chrismann</a>
-      </td>
-    </tr>
-    <tr>
-      <td>$\text{\color{lightgreen}{A}}$</td>
-      <td>$\text{\color{lightgreen}{N}}$</td>
-      <td>$\text{\color{lightgreen}{T}}$</td>
-      <td>$\text{\color{lightgreen}{I}}$</td>
-      <td>$\text{\color{lightgreen}{C}}$</td>
-      <td>
-        <a href="https://github.com/Foword5">@Foword5</a>
-      </td>
-    </tr>
-    <tr>
       <td>‎ </td>
       <td>‎ </td>
       <td>‎ </td>
@@ -818,4 +758,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.195s on Wed Sep 4 at 21:52</p>
+<p align="right">Generated in 0.28s on Wed Sep 4 at 22:00</p>
