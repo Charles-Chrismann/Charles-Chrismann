@@ -106,12 +106,12 @@
     <tr>
       <td align="center">7835</td>
       <td align="center">
-        <a href="https://github.com/YangfanRuan" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/73007801?u=dcfe09117767a44fd3b496bed360b5f87ad31412&v=4" alt="YangfanRuan" width="40" height="40"/>
+        <a href="https://github.com/yangfan-ruan" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/73007801?u=dcfe09117767a44fd3b496bed360b5f87ad31412&v=4" alt="yangfan-ruan" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/YangfanRuan" target="_blank">YangfanRuan</a>
+        <a href="https://github.com/yangfan-ruan" target="_blank">yangfan-ruan</a>
       </td>
     </tr>
     <tr>
@@ -830,4 +830,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.268s on Wed Sep 4 at 2:11</p>
+<p align="right">Generated in 0.258s on Wed Sep 4 at 2:15</p>
