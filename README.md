@@ -82,40 +82,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">7880</td>
-      <td align="center">
-        <a href="https://github.com/striderdu" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/19477500?v=4" alt="striderdu" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/striderdu" target="_blank">striderdu</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">7881</td>
-      <td align="center">
-        <a href="https://github.com/KaueTeixxeira" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/110638994?u=d64f06eb4774dd1e14172dbd4e7060241d12b723&v=4" alt="KaueTeixxeira" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/KaueTeixxeira" target="_blank">KaueTeixxeira</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">7882</td>
-      <td align="center">
-        <a href="https://github.com/vaibhavtrivedi2002" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/123184825?u=de6a710c43e0383a90df1dfd53e03caf96b2ab93&v=4" alt="vaibhavtrivedi2002" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/vaibhavtrivedi2002" target="_blank">vaibhavtrivedi2002</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">7883</td>
+      <td align="center">
+        <a href="https://github.com/Guhfrontend" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/138324368?u=9696ec4341d2fd34a3163bb5faefecb6e48d4996&v=4" alt="Guhfrontend" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Guhfrontend" target="_blank">Guhfrontend</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">7884</td>
+      <td align="center">
+        <a href="https://github.com/dev-simeon" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/107107022?v=4" alt="dev-simeon" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/dev-simeon" target="_blank">dev-simeon</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">7885</td>
+      <td align="center">
+        <a href="https://github.com/Xtley001" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/134564882?u=8cc9496bd72a2a2e9ff1c3a1a52345aadcdcbeb9&v=4" alt="Xtley001" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Xtley001" target="_blank">Xtley001</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">7886</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -866,4 +866,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 1.492s on Wed Sep 4 at 14:01</p>
+<p align="right">Generated in 1.422s on Wed Sep 4 at 14:05</p>
