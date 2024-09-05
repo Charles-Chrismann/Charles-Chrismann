@@ -84,17 +84,6 @@
     <tr>
       <td align="center">8004</td>
       <td align="center">
-        <a href="https://github.com/mano8" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/15274699?u=7780bf373c89f033871ae140c6f4387e70648fc4&v=4" alt="mano8" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/mano8" target="_blank">mano8</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">8005</td>
-      <td align="center">
         <a href="https://github.com/Fabio-Trindade" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/55442551?v=4" alt="Fabio-Trindade" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">8006</td>
+      <td align="center">8005</td>
       <td align="center">
         <a href="https://github.com/Dilmperis" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/104980103?u=696dfe58adb4aff7443dba003b887ab8faf0fa79&v=4" alt="Dilmperis" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/Dilmperis" target="_blank">Dilmperis</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">8006</td>
+      <td align="center">
+        <a href="https://github.com/JohnMwendwa" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/72663882?u=805073cc702701b4ad6c56a60dc0bdae9ccac964&v=4" alt="JohnMwendwa" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/JohnMwendwa" target="_blank">JohnMwendwa</a>
       </td>
     </tr>
     <tr>
@@ -827,4 +827,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.2s on Thu Sep 5 at 11:30</p>
+<p align="right">Generated in 0.206s on Thu Sep 5 at 11:33</p>
