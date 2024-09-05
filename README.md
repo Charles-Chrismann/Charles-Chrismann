@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">7981</td>
-      <td align="center">
-        <a href="https://github.com/RealClearwave" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/26184850?u=3d25314f4fc6b50cbf035359dfa38e477f3b7b1b&v=4" alt="RealClearwave" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/RealClearwave" target="_blank">RealClearwave</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">7982</td>
       <td align="center">
         <a href="https://github.com/yerimee82" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">7984</td>
+      <td align="center">
+        <a href="https://github.com/Fatalan" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/48765915?v=4" alt="Fatalan" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Fatalan" target="_blank">Fatalan</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">7985</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -830,4 +830,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.299s on Thu Sep 5 at 9:05</p>
+<p align="right">Generated in 0.166s on Thu Sep 5 at 9:06</p>
