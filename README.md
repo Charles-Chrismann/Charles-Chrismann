@@ -96,7 +96,7 @@
       <td align="center">7942</td>
       <td align="center">
         <a href="https://github.com/echostorm17" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/14238349?v=4" alt="echostorm17" width="40" height="40"/>
+          <img src="https://avatars.githubusercontent.com/u/14238349?u=d5002092d18b75b53333ab3de80ab2f6d377a796&v=4" alt="echostorm17" width="40" height="40"/>
         </a>
       </td>
       <td>
@@ -812,4 +812,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.295s on Thu Sep 5 at 1:49</p>
+<p align="right">Generated in 0.291s on Thu Sep 5 at 1:50</p>
