@@ -84,17 +84,6 @@
     <tr>
       <td align="center">8115</td>
       <td align="center">
-        <a href="https://github.com/itpzzi" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/88782509?u=49d978caf2b32aea2a5fa22e9c034f8c0e8bc5a8&v=4" alt="itpzzi" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/itpzzi" target="_blank">itpzzi</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">8116</td>
-      <td align="center">
         <a href="https://github.com/SezerZSZ" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/102513564?u=606c965af8b4a0f799d20770336ef5e77bee91a3&v=4" alt="SezerZSZ" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">8117</td>
+      <td align="center">8116</td>
       <td align="center">
         <a href="https://github.com/aros0918" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/143065763?v=4" alt="aros0918" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/aros0918" target="_blank">aros0918</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">8117</td>
+      <td align="center">
+        <a href="https://github.com/JohnMwendwa" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/72663882?u=805073cc702701b4ad6c56a60dc0bdae9ccac964&v=4" alt="JohnMwendwa" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/JohnMwendwa" target="_blank">JohnMwendwa</a>
       </td>
     </tr>
     <tr>
@@ -812,4 +812,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.147s on Thu Sep 5 at 21:14</p>
+<p align="right">Generated in 0.146s on Thu Sep 5 at 21:14</p>
