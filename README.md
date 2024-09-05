@@ -85,7 +85,7 @@
       <td align="center">8102</td>
       <td align="center">
         <a href="https://github.com/gusttavojt" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/91639289?v=4" alt="gusttavojt" width="40" height="40"/>
+          <img src="https://avatars.githubusercontent.com/u/91639289?u=307437977541697db419baa2e6545c170d1aca31&v=4" alt="gusttavojt" width="40" height="40"/>
         </a>
       </td>
       <td>
@@ -807,4 +807,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.238s on Thu Sep 5 at 19:48</p>
+<p align="right">Generated in 0.15s on Thu Sep 5 at 19:49</p>
