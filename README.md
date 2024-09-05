@@ -82,6 +82,17 @@
   </thead>
   <tbody>
     <tr>
+      <td align="center">7984</td>
+      <td align="center">
+        <a href="https://github.com/Fatalan" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/48765915?v=4" alt="Fatalan" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Fatalan" target="_blank">Fatalan</a>
+      </td>
+    </tr>
+    <tr>
       <td align="center">7985</td>
       <td align="center">
         <a href="https://github.com/abdulwaqar844" target="_blank">
@@ -105,17 +116,6 @@
     </tr>
     <tr>
       <td align="center">7987</td>
-      <td align="center">
-        <a href="https://github.com/ulquiorraciffer" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/153534985?u=e764b2fd43682ddb7424b2ad73a68bc2e740bb73&v=4" alt="ulquiorraciffer" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/ulquiorraciffer" target="_blank">ulquiorraciffer</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">7988</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -830,4 +830,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.163s on Thu Sep 5 at 9:18</p>
+<p align="right">Generated in 0.16s on Thu Sep 5 at 9:19</p>
