@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">7963</td>
-      <td align="center">
-        <a href="https://github.com/iezed" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/1742148?v=4" alt="iezed" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/iezed" target="_blank">iezed</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">7964</td>
       <td align="center">
         <a href="https://github.com/Sajol388" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">7966</td>
+      <td align="center">
+        <a href="https://github.com/simone-lungarella" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/39314951?u=5a862325e756e72db8988bbc635b88d700a20d67&v=4" alt="simone-lungarella" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/simone-lungarella" target="_blank">simone-lungarella</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">7967</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -818,4 +818,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.26s on Thu Sep 5 at 6:59</p>
+<p align="right">Generated in 0.184s on Thu Sep 5 at 7:01</p>
