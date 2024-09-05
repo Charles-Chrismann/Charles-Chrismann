@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">8064</td>
-      <td align="center">
-        <a href="https://github.com/balugans" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/58871632?u=9be10d4601d4c8180c2392c46d1e5c3befa3f247&v=4" alt="balugans" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/balugans" target="_blank">balugans</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">8065</td>
       <td align="center">
         <a href="https://github.com/zeo-return-null" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">8067</td>
+      <td align="center">
+        <a href="https://github.com/danteGiuliano" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/55465564?u=65177a6b86d33234c952fe947c12e618ead2cb85&v=4" alt="danteGiuliano" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/danteGiuliano" target="_blank">danteGiuliano</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">8068</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -806,4 +806,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.138s on Thu Sep 5 at 17:04</p>
+<p align="right">Generated in 0.13s on Thu Sep 5 at 17:04</p>
