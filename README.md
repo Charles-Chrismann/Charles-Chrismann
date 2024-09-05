@@ -82,29 +82,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">8039</td>
-      <td align="center">
-        <a href="https://github.com/jdecorte-be" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/70419532?u=a8bd483a9eed004b558a49ef2a9b6f5363b78b3e&v=4" alt="jdecorte-be" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/jdecorte-be" target="_blank">jdecorte-be</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">8040</td>
-      <td align="center">
-        <a href="https://github.com/Mauro-Pereira" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/67708374?u=572a682780af5dafd0b6b248d6e42fe49432d6d9&v=4" alt="Mauro-Pereira" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Mauro-Pereira" target="_blank">Mauro-Pereira</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">8041</td>
       <td align="center">
         <a href="https://github.com/P1ul0" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/102394018?u=6d5d5358787dbd7194ca82738a35804b5d116c42&v=4" alt="P1ul0" width="40" height="40"/>
@@ -115,7 +93,29 @@
       </td>
     </tr>
     <tr>
+      <td align="center">8041</td>
+      <td align="center">
+        <a href="https://github.com/guzztavo2" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/62066122?u=1595d509ee19a1a655ded1e1a9204d50b2d84ebe&v=4" alt="guzztavo2" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/guzztavo2" target="_blank">guzztavo2</a>
+      </td>
+    </tr>
+    <tr>
       <td align="center">8042</td>
+      <td align="center">
+        <a href="https://github.com/Tanya844" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/118655856?v=4" alt="Tanya844" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Tanya844" target="_blank">Tanya844</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">8043</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -827,4 +827,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.276s on Thu Sep 5 at 14:16</p>
+<p align="right">Generated in 0.267s on Thu Sep 5 at 14:35</p>
