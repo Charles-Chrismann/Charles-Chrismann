@@ -82,7 +82,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">8065</td>
+      <td align="center">8064</td>
       <td align="center">
         <a href="https://github.com/zeo-return-null" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/28033737?u=062c21e10e4d4079ceb533c34bbb2140d7bc659b&v=4" alt="zeo-return-null" width="40" height="40"/>
@@ -93,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">8066</td>
+      <td align="center">8065</td>
       <td align="center">
         <a href="https://github.com/csvidit" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/63170797?u=46785fee0f0593fb4d48d2eb3aa11163057b30a8&v=4" alt="csvidit" width="40" height="40"/>
@@ -104,7 +104,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">8067</td>
+      <td align="center">8066</td>
       <td align="center">
         <a href="https://github.com/danteGiuliano" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/55465564?u=65177a6b86d33234c952fe947c12e618ead2cb85&v=4" alt="danteGiuliano" width="40" height="40"/>
@@ -115,7 +115,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">8068</td>
+      <td align="center">8067</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -806,4 +806,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.13s on Thu Sep 5 at 17:04</p>
+<p align="right">Generated in 0.134s on Thu Sep 5 at 17:04</p>
