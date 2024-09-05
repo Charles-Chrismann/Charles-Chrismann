@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">8086</td>
-      <td align="center">
-        <a href="https://github.com/uvyne-rop" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/166743107?v=4" alt="uvyne-rop" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/uvyne-rop" target="_blank">uvyne-rop</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">8087</td>
       <td align="center">
         <a href="https://github.com/frogpoet" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">8089</td>
+      <td align="center">
+        <a href="https://github.com/eedumarquess" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/71443816?u=2c80cffa94363529795e836d7a380f520bad4ba9&v=4" alt="eedumarquess" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/eedumarquess" target="_blank">eedumarquess</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">8090</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -812,4 +812,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.162s on Thu Sep 5 at 18:21</p>
+<p align="right">Generated in 0.326s on Thu Sep 5 at 18:22</p>
