@@ -82,7 +82,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">8045</td>
+      <td align="center">8044</td>
       <td align="center">
         <a href="https://github.com/jhondev123" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/54044869?u=cc1d9d8802bea26d938b3268d3115c001688b8c2&v=4" alt="jhondev123" width="40" height="40"/>
@@ -93,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">8046</td>
+      <td align="center">8045</td>
       <td align="center">
         <a href="https://github.com/computerblade-official" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/66473206?u=9551f64ad9a2c66f9987419dc4a8df924ec669c5&v=4" alt="computerblade-official" width="40" height="40"/>
@@ -104,7 +104,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">8047</td>
+      <td align="center">8046</td>
       <td align="center">
         <a href="https://github.com/isaacCodes1" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/163291868?u=cdf656ecc2d2f0121f602cb9dc7d3436e193b5c9&v=4" alt="isaacCodes1" width="40" height="40"/>
@@ -115,7 +115,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">8048</td>
+      <td align="center">8047</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -812,4 +812,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.238s on Thu Sep 5 at 15:20</p>
+<p align="right">Generated in 0.252s on Thu Sep 5 at 15:21</p>
