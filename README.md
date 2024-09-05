@@ -82,29 +82,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">8130</td>
-      <td align="center">
-        <a href="https://github.com/fernandosserra" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/20837217?v=4" alt="fernandosserra" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/fernandosserra" target="_blank">fernandosserra</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">8131</td>
-      <td align="center">
-        <a href="https://github.com/Segmentree" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/37193227?u=af0b6c12f17275484e8280e0c4287a3209c3b965&v=4" alt="Segmentree" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Segmentree" target="_blank">Segmentree</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">8132</td>
       <td align="center">
         <a href="https://github.com/wildestmaii" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/52250674?u=0be33063f44ead3c94b5b01c8ba76eb4328ef531&v=4" alt="wildestmaii" width="40" height="40"/>
@@ -115,7 +93,29 @@
       </td>
     </tr>
     <tr>
+      <td align="center">8132</td>
+      <td align="center">
+        <a href="https://github.com/PedroCozzati" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/80106385?u=7536bd073f92d69b37e0881eaf4bc1539cee4a12&v=4" alt="PedroCozzati" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/PedroCozzati" target="_blank">PedroCozzati</a>
+      </td>
+    </tr>
+    <tr>
       <td align="center">8133</td>
+      <td align="center">
+        <a href="https://github.com/thevenuz" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/67011477?u=e71115cc2731e7185c4862e0729a01548c6ab3f0&v=4" alt="thevenuz" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/thevenuz" target="_blank">thevenuz</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">8134</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -807,4 +807,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.143s on Thu Sep 5 at 22:15</p>
+<p align="right">Generated in 0.252s on Thu Sep 5 at 22:18</p>
