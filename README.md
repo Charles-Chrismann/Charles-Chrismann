@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">8052</td>
-      <td align="center">
-        <a href="https://github.com/delt4d" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/77545660?u=489791b91ae0f7f8a473028442228f697d2a06e0&v=4" alt="delt4d" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/delt4d" target="_blank">delt4d</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">8053</td>
       <td align="center">
         <a href="https://github.com/pinkr0x1k" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">8055</td>
+      <td align="center">
+        <a href="https://github.com/DPreciado" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/47166040?u=5602f65ea501c7ccd7d91c275bb043cd6dcfe97b&v=4" alt="DPreciado" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/DPreciado" target="_blank">DPreciado</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">8056</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -808,4 +808,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.165s on Thu Sep 5 at 16:21</p>
+<p align="right">Generated in 0.178s on Thu Sep 5 at 16:22</p>
