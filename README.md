@@ -84,17 +84,6 @@
     <tr>
       <td align="center">8034</td>
       <td align="center">
-        <a href="https://github.com/claytonzambon" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/60406026?u=e6d37976cd04bd9543383f82d6cbc4db9604d17d&v=4" alt="claytonzambon" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/claytonzambon" target="_blank">claytonzambon</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">8035</td>
-      <td align="center">
         <a href="https://github.com/liviafort" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/89167146?u=d4eefc85590cbe1f38508fa2c06be059fc7a1dd4&v=4" alt="liviafort" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">8036</td>
+      <td align="center">8035</td>
       <td align="center">
         <a href="https://github.com/Chaianny" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/172074555?u=8e60d138201e5020406f1ac394e39ee71ba11061&v=4" alt="Chaianny" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/Chaianny" target="_blank">Chaianny</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">8036</td>
+      <td align="center">
+        <a href="https://github.com/bunubbv" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/75381985?u=1b9ac9ed3e7eaa4f0a2dd89d87dba52edd9de689&v=4" alt="bunubbv" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/bunubbv" target="_blank">bunubbv</a>
       </td>
     </tr>
     <tr>
@@ -823,4 +823,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.244s on Thu Sep 5 at 13:55</p>
+<p align="right">Generated in 0.258s on Thu Sep 5 at 13:56</p>
