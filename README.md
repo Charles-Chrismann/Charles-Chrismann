@@ -84,17 +84,6 @@
     <tr>
       <td align="center">8465</td>
       <td align="center">
-        <a href="https://github.com/pythonlover02" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/160359655?u=0f53bbf2ad765fe23cdd9e5c4d385255334e7903&v=4" alt="pythonlover02" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/pythonlover02" target="_blank">pythonlover02</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">8466</td>
-      <td align="center">
         <a href="https://github.com/Shinikatame" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/81535643?u=2b25c584a96435cab624ff50b54edaaaefb82c54&v=4" alt="Shinikatame" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">8467</td>
+      <td align="center">8466</td>
       <td align="center">
         <a href="https://github.com/emiOlivera" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/158178463?u=d21eebe8994010c2dd335a8f67707c8d8a22245b&v=4" alt="emiOlivera" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/emiOlivera" target="_blank">emiOlivera</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">8467</td>
+      <td align="center">
+        <a href="https://github.com/alevit90" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/147342836?u=e7411bfb9b245655f1f5ac7b34d4ce730e2276d4&v=4" alt="alevit90" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/alevit90" target="_blank">alevit90</a>
       </td>
     </tr>
     <tr>
@@ -878,4 +878,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.202s on Fri Sep 6 at 21:57</p>
+<p align="right">Generated in 0.313s on Fri Sep 6 at 21:58</p>
