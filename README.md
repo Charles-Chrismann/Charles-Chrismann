@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">8255</td>
-      <td align="center">
-        <a href="https://github.com/wivinnasri" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/135437815?u=5935ab457a6b3edbe2bf8d0c7b9765577503e9ef&v=4" alt="wivinnasri" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/wivinnasri" target="_blank">wivinnasri</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">8256</td>
       <td align="center">
         <a href="https://github.com/Higlix" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">8258</td>
+      <td align="center">
+        <a href="https://github.com/Lexfisc" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/134956011?v=4" alt="Lexfisc" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Lexfisc" target="_blank">Lexfisc</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">8259</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -807,4 +807,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.206s on Fri Sep 6 at 9:32</p>
+<p align="right">Generated in 0.129s on Fri Sep 6 at 9:37</p>
