@@ -82,18 +82,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">8318</td>
-      <td align="center">
-        <a href="https://github.com/V-Matheus" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/120498295?u=0b485d4095eecfcc5565c4cfbf26188275e4a526&v=4" alt="V-Matheus" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/V-Matheus" target="_blank">V-Matheus</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">8319</td>
+      <td align="center">8320</td>
       <td align="center">
         <a href="https://github.com/abcdabcd3899" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/126316319?u=db62a06f3673f8ba963bd95139c2857395ccf75b&v=4" alt="abcdabcd3899" width="40" height="40"/>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">8320</td>
+      <td align="center">8321</td>
       <td align="center">
         <a href="https://github.com/SinghArjun2021" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/161180082?v=4" alt="SinghArjun2021" width="40" height="40"/>
@@ -115,7 +104,18 @@
       </td>
     </tr>
     <tr>
-      <td align="center">8321</td>
+      <td align="center">8322</td>
+      <td align="center">
+        <a href="https://github.com/spedras" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/177933830?u=30827f1e31288154c0294568ac6f2a670d982dca&v=4" alt="spedras" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/spedras" target="_blank">spedras</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">8323</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -836,4 +836,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.223s on Fri Sep 6 at 14:10</p>
+<p align="right">Generated in 0.226s on Fri Sep 6 at 14:10</p>
