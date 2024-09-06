@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">8472</td>
-      <td align="center">
-        <a href="https://github.com/fushikugi" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/171625210?u=fbdbd6928c60896d3a3928031c965bfb128889c6&v=4" alt="fushikugi" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/fushikugi" target="_blank">fushikugi</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">8473</td>
       <td align="center">
         <a href="https://github.com/orangethewell" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">8475</td>
+      <td align="center">
+        <a href="https://github.com/lcds90" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/44562511?v=4" alt="lcds90" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/lcds90" target="_blank">lcds90</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">8476</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -838,4 +838,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 1.831s on Fri Sep 6 at 22:20</p>
+<p align="right">Generated in 0.331s on Fri Sep 6 at 22:24</p>
