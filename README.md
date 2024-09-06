@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">8158</td>
-      <td align="center">
-        <a href="https://github.com/NexCr0n" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/98229245?u=0bd036183bb41ffd34c7a1e4b85c52efb028f3d4&v=4" alt="NexCr0n" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/NexCr0n" target="_blank">NexCr0n</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">8159</td>
       <td align="center">
         <a href="https://github.com/PauloHCabral" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">8161</td>
+      <td align="center">
+        <a href="https://github.com/alfredomac" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/55242185?u=5830f8cae76351915d3be33bf2120383fceb9b3e&v=4" alt="alfredomac" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/alfredomac" target="_blank">alfredomac</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">8162</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -828,4 +828,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.297s on Fri Sep 6 at 0:47</p>
+<p align="right">Generated in 0.313s on Fri Sep 6 at 0:51</p>
