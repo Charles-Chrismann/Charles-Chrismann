@@ -84,17 +84,6 @@
     <tr>
       <td align="center">8407</td>
       <td align="center">
-        <a href="https://github.com/yitzshapiro" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/145394865?u=b76683b39cb5c1c48f65c123f3463beb6791d9e9&v=4" alt="yitzshapiro" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/yitzshapiro" target="_blank">yitzshapiro</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">8408</td>
-      <td align="center">
         <a href="https://github.com/sgp1979" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/177555530?v=4" alt="sgp1979" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">8409</td>
+      <td align="center">8408</td>
       <td align="center">
         <a href="https://github.com/iagocpv" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/37639392?u=a3cbd4db10f6030db34a054239c0aed4bc439211&v=4" alt="iagocpv" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/iagocpv" target="_blank">iagocpv</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">8409</td>
+      <td align="center">
+        <a href="https://github.com/jvliondev" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/104545706?v=4" alt="jvliondev" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/jvliondev" target="_blank">jvliondev</a>
       </td>
     </tr>
     <tr>
@@ -854,4 +854,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.13s on Fri Sep 6 at 18:34</p>
+<p align="right">Generated in 0.221s on Fri Sep 6 at 18:35</p>
