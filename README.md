@@ -84,17 +84,6 @@
     <tr>
       <td align="center">8304</td>
       <td align="center">
-        <a href="https://github.com/T-cube2512" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/61075577?u=528a133d2d61496b55c9c229cb372531cd4582be&v=4" alt="T-cube2512" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/T-cube2512" target="_blank">T-cube2512</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">8305</td>
-      <td align="center">
         <a href="https://github.com/Gfaerny" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/120312426?u=fe0d2e2a194874ec10887122a3664bada6723f03&v=4" alt="Gfaerny" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">8306</td>
+      <td align="center">8305</td>
       <td align="center">
         <a href="https://github.com/Liedsonfsa" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/111002008?u=1d9b889d0c387708ff200ad18fc68079bec28a98&v=4" alt="Liedsonfsa" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/Liedsonfsa" target="_blank">Liedsonfsa</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">8306</td>
+      <td align="center">
+        <a href="https://github.com/JuliaJuliatti" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/101215166?v=4" alt="JuliaJuliatti" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/JuliaJuliatti" target="_blank">JuliaJuliatti</a>
       </td>
     </tr>
     <tr>
@@ -822,4 +822,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.164s on Fri Sep 6 at 12:57</p>
+<p align="right">Generated in 0.363s on Fri Sep 6 at 13:01</p>
