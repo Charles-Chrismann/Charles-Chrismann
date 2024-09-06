@@ -84,17 +84,6 @@
     <tr>
       <td align="center">8390</td>
       <td align="center">
-        <a href="https://github.com/kuzlik340" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/145336491?u=c7c6625052f9c874223296a916b516a259c938ee&v=4" alt="kuzlik340" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/kuzlik340" target="_blank">kuzlik340</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">8391</td>
-      <td align="center">
         <a href="https://github.com/JamilyB" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/123518956?v=4" alt="JamilyB" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">8392</td>
+      <td align="center">8391</td>
       <td align="center">
         <a href="https://github.com/Yohzenn" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/148750779?v=4" alt="Yohzenn" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/Yohzenn" target="_blank">Yohzenn</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">8392</td>
+      <td align="center">
+        <a href="https://github.com/nycolerodrigues" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/123411881?u=a1d5dbaf5a9495cbf26cac91ffa99548254e6015&v=4" alt="nycolerodrigues" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/nycolerodrigues" target="_blank">nycolerodrigues</a>
       </td>
     </tr>
     <tr>
@@ -849,4 +849,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.149s on Fri Sep 6 at 17:55</p>
+<p align="right">Generated in 0.152s on Fri Sep 6 at 17:55</p>
