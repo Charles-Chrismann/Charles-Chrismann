@@ -84,17 +84,6 @@
     <tr>
       <td align="center">8357</td>
       <td align="center">
-        <a href="https://github.com/FemiOje" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/87878928?v=4" alt="FemiOje" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/FemiOje" target="_blank">FemiOje</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">8358</td>
-      <td align="center">
         <a href="https://github.com/iyehah" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/117352746?u=fee9e4bcad5623087f1116ad232c29277e1ada5f&v=4" alt="iyehah" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">8359</td>
+      <td align="center">8358</td>
       <td align="center">
         <a href="https://github.com/emmanuelatikese" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/104688960?v=4" alt="emmanuelatikese" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/emmanuelatikese" target="_blank">emmanuelatikese</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">8359</td>
+      <td align="center">
+        <a href="https://github.com/arthurleal98" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/42595872?u=0360704365460f9a48aa44cc5bead45e5d922feb&v=4" alt="arthurleal98" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/arthurleal98" target="_blank">arthurleal98</a>
       </td>
     </tr>
     <tr>
@@ -865,4 +865,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.174s on Fri Sep 6 at 15:52</p>
+<p align="right">Generated in 0.002s on Fri Sep 6 at 15:53</p>
