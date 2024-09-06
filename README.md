@@ -82,29 +82,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">8322</td>
-      <td align="center">
-        <a href="https://github.com/bugraalpaydin" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/115041700?v=4" alt="bugraalpaydin" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/bugraalpaydin" target="_blank">bugraalpaydin</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">8323</td>
-      <td align="center">
-        <a href="https://github.com/LordRahl90" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/5837848?v=4" alt="LordRahl90" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/LordRahl90" target="_blank">LordRahl90</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">8324</td>
+      <td align="center">8325</td>
       <td align="center">
         <a href="https://github.com/RaphaelSchefflerF" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/113411964?u=55133c5c8aba549156734579dcd16909689bafe7&v=4" alt="RaphaelSchefflerF" width="40" height="40"/>
@@ -115,7 +93,29 @@
       </td>
     </tr>
     <tr>
-      <td align="center">8325</td>
+      <td align="center">8326</td>
+      <td align="center">
+        <a href="https://github.com/gian-tiqui" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/101852194?u=cad9a22e4d5100b004b896fc53098e221187ad0f&v=4" alt="gian-tiqui" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/gian-tiqui" target="_blank">gian-tiqui</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">8327</td>
+      <td align="center">
+        <a href="https://github.com/sc2211" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/130426868?v=4" alt="sc2211" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/sc2211" target="_blank">sc2211</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">8328</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -836,4 +836,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.191s on Fri Sep 6 at 14:14</p>
+<p align="right">Generated in 0.2s on Fri Sep 6 at 14:15</p>
