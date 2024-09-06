@@ -82,28 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">8358</td>
-      <td align="center">
-        <a href="https://github.com/iyehah" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/117352746?u=fee9e4bcad5623087f1116ad232c29277e1ada5f&v=4" alt="iyehah" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/iyehah" target="_blank">iyehah</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">8359</td>
-      <td align="center">
-        <a href="https://github.com/emmanuelatikese" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/104688960?v=4" alt="emmanuelatikese" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/emmanuelatikese" target="_blank">emmanuelatikese</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">8360</td>
       <td align="center">
         <a href="https://github.com/arthurleal98" target="_blank">
@@ -116,6 +94,28 @@
     </tr>
     <tr>
       <td align="center">8361</td>
+      <td align="center">
+        <a href="https://github.com/josuedeavila" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/50028479?u=f780b97742e1dd59e7894bcc3a72bba6190289df&v=4" alt="josuedeavila" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/josuedeavila" target="_blank">josuedeavila</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">8362</td>
+      <td align="center">
+        <a href="https://github.com/LuisFabiano1006" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/99887648?v=4" alt="LuisFabiano1006" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/LuisFabiano1006" target="_blank">LuisFabiano1006</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">8363</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -865,4 +865,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 4.77s on Fri Sep 6 at 15:53</p>
+<p align="right">Generated in 0.188s on Fri Sep 6 at 15:55</p>
