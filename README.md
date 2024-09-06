@@ -84,17 +84,6 @@
     <tr>
       <td align="center">8174</td>
       <td align="center">
-        <a href="https://github.com/poplar0713" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/59277907?u=44fde9821af46e9f4df32ef8b07007297c376056&v=4" alt="poplar0713" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/poplar0713" target="_blank">poplar0713</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">8175</td>
-      <td align="center">
         <a href="https://github.com/Clarosabel2" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/95495732?u=4a74ec3257a6fcf2cd66a44e0accdddbebab1d10&v=4" alt="Clarosabel2" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">8176</td>
+      <td align="center">8175</td>
       <td align="center">
         <a href="https://github.com/rizkyfaza20" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/33883701?v=4" alt="rizkyfaza20" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/rizkyfaza20" target="_blank">rizkyfaza20</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">8176</td>
+      <td align="center">
+        <a href="https://github.com/aliefkurnia" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/32432090?u=1bd6f12604c8541d55f34fc6d4861402c9bb3cb7&v=4" alt="aliefkurnia" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/aliefkurnia" target="_blank">aliefkurnia</a>
       </td>
     </tr>
     <tr>
@@ -817,4 +817,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.246s on Fri Sep 6 at 2:40</p>
+<p align="right">Generated in 0.166s on Fri Sep 6 at 2:47</p>
