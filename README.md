@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">8447</td>
-      <td align="center">
-        <a href="https://github.com/NyikoMnisii" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/94037118?v=4" alt="NyikoMnisii" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/NyikoMnisii" target="_blank">NyikoMnisii</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">8448</td>
       <td align="center">
         <a href="https://github.com/d3j1x" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">8450</td>
+      <td align="center">
+        <a href="https://github.com/UltraLobe" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/117434635?u=47f89e1376fe6791933b73563bf72ce4094448f1&v=4" alt="UltraLobe" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/UltraLobe" target="_blank">UltraLobe</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">8451</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -849,4 +849,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.131s on Fri Sep 6 at 20:31</p>
+<p align="right">Generated in 0.208s on Fri Sep 6 at 20:31</p>
