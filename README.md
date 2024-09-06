@@ -84,17 +84,6 @@
     <tr>
       <td align="center">8210</td>
       <td align="center">
-        <a href="https://github.com/sudenazbuyukcukurlu" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/94224404?u=d64f3228481773cf34eece79aab625d95383c9a0&v=4" alt="sudenazbuyukcukurlu" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/sudenazbuyukcukurlu" target="_blank">sudenazbuyukcukurlu</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">8211</td>
-      <td align="center">
         <a href="https://github.com/MilleniumSpark" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/34684800?v=4" alt="MilleniumSpark" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">8212</td>
+      <td align="center">8211</td>
       <td align="center">
         <a href="https://github.com/Akemi255" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/107199992?u=74154f2ce456e866916aaaf34d8caaa5bf37e139&v=4" alt="Akemi255" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/Akemi255" target="_blank">Akemi255</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">8212</td>
+      <td align="center">
+        <a href="https://github.com/itz-arnav" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/64909912?u=59b8d07ec5d2fd5efa58a34a516e702729f9a053&v=4" alt="itz-arnav" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/itz-arnav" target="_blank">itz-arnav</a>
       </td>
     </tr>
     <tr>
@@ -827,4 +827,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.144s on Fri Sep 6 at 5:40</p>
+<p align="right">Generated in 0.17s on Fri Sep 6 at 5:48</p>
