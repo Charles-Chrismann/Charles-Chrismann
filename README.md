@@ -84,17 +84,6 @@
     <tr>
       <td align="center">8307</td>
       <td align="center">
-        <a href="https://github.com/OnePieceLwc" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/120895319?u=97cd861c0255ba8b49411babe3e770ababd7c3fa&v=4" alt="OnePieceLwc" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/OnePieceLwc" target="_blank">OnePieceLwc</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">8308</td>
-      <td align="center">
         <a href="https://github.com/AlfonsoJohn" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/67883631?u=b8a7d28fa33858eaf599af2f83583ef5be708622&v=4" alt="AlfonsoJohn" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">8309</td>
+      <td align="center">8308</td>
       <td align="center">
         <a href="https://github.com/pedromujica1" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/107735941?u=43d60bc264924fe2c02234bc848ed3fd7fc7b8bc&v=4" alt="pedromujica1" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/pedromujica1" target="_blank">pedromujica1</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">8309</td>
+      <td align="center">
+        <a href="https://github.com/fatalerrorist" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/57003166?u=eaa85e0271c3665ce2772143b2ea0142856ea622&v=4" alt="fatalerrorist" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/fatalerrorist" target="_blank">fatalerrorist</a>
       </td>
     </tr>
     <tr>
@@ -807,4 +807,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.14s on Fri Sep 6 at 13:08</p>
+<p align="right">Generated in 0.144s on Fri Sep 6 at 13:08</p>
