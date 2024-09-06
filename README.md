@@ -84,17 +84,6 @@
     <tr>
       <td align="center">8484</td>
       <td align="center">
-        <a href="https://github.com/Tinomju" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/109119893?u=83d55e8d38977e6aac427d773c8ffe9fde01d7ab&v=4" alt="Tinomju" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Tinomju" target="_blank">Tinomju</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">8485</td>
-      <td align="center">
         <a href="https://github.com/Vini0100" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/126361791?u=2a74ec607a4fd31622536b724c9b549ecb257cbd&v=4" alt="Vini0100" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">8486</td>
+      <td align="center">8485</td>
       <td align="center">
         <a href="https://github.com/Vitorram" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/161902126?u=39f60dcf12261968fcfdb6562cb8b81b4addca71&v=4" alt="Vitorram" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/Vitorram" target="_blank">Vitorram</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">8486</td>
+      <td align="center">
+        <a href="https://github.com/devalefhilima" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/178117650?u=01ac6d15cd1a1da3c8f4478d1d137616c79f45ee&v=4" alt="devalefhilima" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/devalefhilima" target="_blank">devalefhilima</a>
       </td>
     </tr>
     <tr>
@@ -842,4 +842,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.631s on Fri Sep 6 at 23:18</p>
+<p align="right">Generated in 0.637s on Fri Sep 6 at 23:18</p>
