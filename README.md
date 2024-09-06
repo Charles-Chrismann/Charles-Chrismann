@@ -84,17 +84,6 @@
     <tr>
       <td align="center">8376</td>
       <td align="center">
-        <a href="https://github.com/oimahawong" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/124403539?u=dab59be89bd2699d882b98523efbf6657c8641db&v=4" alt="oimahawong" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/oimahawong" target="_blank">oimahawong</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">8377</td>
-      <td align="center">
         <a href="https://github.com/Thimmzie" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/78274462?u=9cbf52c8bd4de68f1b07f368320366cd57536025&v=4" alt="Thimmzie" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">8378</td>
+      <td align="center">8377</td>
       <td align="center">
         <a href="https://github.com/jade-banares" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/83527821?u=d834b8db19af9a742def476ce6a2d317385b7c1d&v=4" alt="jade-banares" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/jade-banares" target="_blank">jade-banares</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">8378</td>
+      <td align="center">
+        <a href="https://github.com/buggy8615" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/128637849?u=ba8141bec51e3daa7f5c69ff84e577f31d4de40d&v=4" alt="buggy8615" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/buggy8615" target="_blank">buggy8615</a>
       </td>
     </tr>
     <tr>
@@ -849,4 +849,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.143s on Fri Sep 6 at 16:59</p>
+<p align="right">Generated in 0.24s on Fri Sep 6 at 17:01</p>
