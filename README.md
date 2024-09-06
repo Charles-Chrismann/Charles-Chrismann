@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">8327</td>
-      <td align="center">
-        <a href="https://github.com/sc2211" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/130426868?v=4" alt="sc2211" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/sc2211" target="_blank">sc2211</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">8328</td>
       <td align="center">
         <a href="https://github.com/Ferinco" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">8330</td>
+      <td align="center">
+        <a href="https://github.com/luanaapms" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/128157430?u=974ddae44894587a5f84ec52821c77c90adeb9b2&v=4" alt="luanaapms" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/luanaapms" target="_blank">luanaapms</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">8331</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -839,4 +839,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.67s on Fri Sep 6 at 14:21</p>
+<p align="right">Generated in 0.69s on Fri Sep 6 at 14:21</p>
