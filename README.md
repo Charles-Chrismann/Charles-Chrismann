@@ -85,7 +85,7 @@
       <td align="center">8439</td>
       <td align="center">
         <a href="https://github.com/Gurtle" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/78987246?u=1319d8430d62c6d4e200454d4bcd7da7f77dbfa7&v=4" alt="Gurtle" width="40" height="40"/>
+          <img src="https://avatars.githubusercontent.com/u/78987246?u=6fcff38401f19e7401c2271c4af8033262a7ea11&v=4" alt="Gurtle" width="40" height="40"/>
         </a>
       </td>
       <td>
@@ -886,4 +886,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.244s on Fri Sep 6 at 19:58</p>
+<p align="right">Generated in 0.238s on Fri Sep 6 at 19:59</p>
