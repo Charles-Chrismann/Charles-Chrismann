@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">8492</td>
-      <td align="center">
-        <a href="https://github.com/imadori-PE" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/145484874?u=59a0dc5ba752d672a0ec7ff021950e92e99824a6&v=4" alt="imadori-PE" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/imadori-PE" target="_blank">imadori-PE</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">8493</td>
       <td align="center">
         <a href="https://github.com/liralves" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">8495</td>
+      <td align="center">
+        <a href="https://github.com/SeijuuroShin6" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/93146064?u=c4261728f5dc5f3f30443ee77b26159f173a3e78&v=4" alt="SeijuuroShin6" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/SeijuuroShin6" target="_blank">SeijuuroShin6</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">8496</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -841,4 +841,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.622s on Fri Sep 6 at 23:47</p>
+<p align="right">Generated in 0.621s on Fri Sep 6 at 23:48</p>
