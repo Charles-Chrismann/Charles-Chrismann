@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">8418</td>
-      <td align="center">
-        <a href="https://github.com/hyeinNa" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/105573782?v=4" alt="hyeinNa" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/hyeinNa" target="_blank">hyeinNa</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">8419</td>
       <td align="center">
         <a href="https://github.com/lemmiwinks1551" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">8421</td>
+      <td align="center">
+        <a href="https://github.com/Fallenstars2" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/165226924?u=6e522b64a62c41edeeb5c4a25743557057cdfa23&v=4" alt="Fallenstars2" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Fallenstars2" target="_blank">Fallenstars2</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">8422</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -856,4 +856,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.27s on Fri Sep 6 at 18:54</p>
+<p align="right">Generated in 0.269s on Fri Sep 6 at 18:54</p>
