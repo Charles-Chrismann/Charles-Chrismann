@@ -82,21 +82,10 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">8649</td>
-      <td align="center">
-        <a href="https://github.com/Denilson-B-Sousa" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/99680537?u=a50ab62578aaa8020abc52ca62168975312f1931&v=4" alt="Denilson-B-Sousa" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Denilson-B-Sousa" target="_blank">Denilson-B-Sousa</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">8650</td>
       <td align="center">
         <a href="https://github.com/hamzaanwar12" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/147822744?v=4" alt="hamzaanwar12" width="40" height="40"/>
+          <img src="https://avatars.githubusercontent.com/u/147822744?u=b4d52f1f799bce549745e7cb9032322d00fbc90a&v=4" alt="hamzaanwar12" width="40" height="40"/>
         </a>
       </td>
       <td>
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">8652</td>
+      <td align="center">
+        <a href="https://github.com/hardworking-toptal-dev" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/161673729?u=55e9a5719b936022297bce1c347bc9572308a6bd&v=4" alt="hardworking-toptal-dev" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/hardworking-toptal-dev" target="_blank">hardworking-toptal-dev</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">8653</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -882,4 +882,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.515s on Sat Sep 7 at 14:20</p>
+<p align="right">Generated in 0.532s on Sat Sep 7 at 14:23</p>
