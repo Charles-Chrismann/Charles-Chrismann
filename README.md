@@ -84,34 +84,34 @@
     <tr>
       <td align="center">8495</td>
       <td align="center">
-        <a href="https://github.com/SeijuuroShin6" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/93146064?u=c4261728f5dc5f3f30443ee77b26159f173a3e78&v=4" alt="SeijuuroShin6" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/SeijuuroShin6" target="_blank">SeijuuroShin6</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">8496</td>
-      <td align="center">
-        <a href="https://github.com/VictorBasso36" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/66968560?u=f04535dbf872b9a12c782597012e37450ef318d1&v=4" alt="VictorBasso36" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/VictorBasso36" target="_blank">VictorBasso36</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">8497</td>
-      <td align="center">
         <a href="https://github.com/crystalduran" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/109189597?u=6b6195ae5b4109f23ef50858c65e55b2ddd315d3&v=4" alt="crystalduran" width="40" height="40"/>
         </a>
       </td>
       <td>
         <a href="https://github.com/crystalduran" target="_blank">crystalduran</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">8496</td>
+      <td align="center">
+        <a href="https://github.com/the3rdchild" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/95857932?u=e042c0f50b30417ee1fc53bdd929bce6e870964f&v=4" alt="the3rdchild" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/the3rdchild" target="_blank">the3rdchild</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">8497</td>
+      <td align="center">
+        <a href="https://github.com/torikallcode" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/137503548?u=0354e1588ca606a281a9df4281533c144afe6540&v=4" alt="torikallcode" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/torikallcode" target="_blank">torikallcode</a>
       </td>
     </tr>
     <tr>
@@ -841,4 +841,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.755s on Sat Sep 7 at 0:01</p>
+<p align="right">Generated in 0.643s on Sat Sep 7 at 0:01</p>
