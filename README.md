@@ -82,7 +82,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">8706</td>
+      <td align="center">8705</td>
       <td align="center">
         <a href="https://github.com/Flu0sys" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/150596994?u=cce037b2f419c83ae1db36a029fcc94196ddb6db&v=4" alt="Flu0sys" width="40" height="40"/>
@@ -93,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">8707</td>
+      <td align="center">8706</td>
       <td align="center">
         <a href="https://github.com/ClemersonCristiano" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/172502076?u=3d993afe2379d4e4fcce866df9d5841313988029&v=4" alt="ClemersonCristiano" width="40" height="40"/>
@@ -104,7 +104,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">8708</td>
+      <td align="center">8707</td>
       <td align="center">
         <a href="https://github.com/osmn-byhn" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/104824448?u=62b92777a6b190ca0a83a6dbc3c41cb31629e21c&v=4" alt="osmn-byhn" width="40" height="40"/>
@@ -115,7 +115,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">8709</td>
+      <td align="center">8708</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -828,4 +828,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.43s on Sat Sep 7 at 22:23</p>
+<p align="right">Generated in 0.433s on Sat Sep 7 at 22:25</p>
