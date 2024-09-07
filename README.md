@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">8683</td>
-      <td align="center">
-        <a href="https://github.com/esrase" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/116845515?v=4" alt="esrase" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/esrase" target="_blank">esrase</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">8684</td>
       <td align="center">
         <a href="https://github.com/Nikolai-Lazovatskii" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">8686</td>
+      <td align="center">
+        <a href="https://github.com/uzumstanley" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/70582317?u=70206045d3cf703857db116fcf22e6e83e60ac0f&v=4" alt="uzumstanley" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/uzumstanley" target="_blank">uzumstanley</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">8687</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -881,4 +881,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.38s on Sat Sep 7 at 19:13</p>
+<p align="right">Generated in 0.377s on Sat Sep 7 at 19:18</p>
