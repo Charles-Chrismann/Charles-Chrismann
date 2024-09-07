@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">8678</td>
-      <td align="center">
-        <a href="https://github.com/Mohd-Rihan-Ali" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/117354437?u=b37daa7db1249576b085661e71ebf5b8ecba41e6&v=4" alt="Mohd-Rihan-Ali" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Mohd-Rihan-Ali" target="_blank">Mohd-Rihan-Ali</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">8679</td>
       <td align="center">
         <a href="https://github.com/Zohar-Ifrah" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">8681</td>
+      <td align="center">
+        <a href="https://github.com/Anshuman-Chanial" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/124919036?v=4" alt="Anshuman-Chanial" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Anshuman-Chanial" target="_blank">Anshuman-Chanial</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">8682</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -859,4 +859,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.288s on Sat Sep 7 at 18:49</p>
+<p align="right">Generated in 0.165s on Sat Sep 7 at 18:53</p>
