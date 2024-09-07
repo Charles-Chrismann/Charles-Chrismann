@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">8529</td>
-      <td align="center">
-        <a href="https://github.com/Osamp" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/157659771?v=4" alt="Osamp" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Osamp" target="_blank">Osamp</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">8530</td>
       <td align="center">
         <a href="https://github.com/JoseHenriquePatrocinio" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">8532</td>
+      <td align="center">
+        <a href="https://github.com/bangale72" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/163904846?u=b4c65c336bc4cf3d0d8808408e7300256b4cc405&v=4" alt="bangale72" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/bangale72" target="_blank">bangale72</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">8533</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -819,4 +819,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.227s on Sat Sep 7 at 3:23</p>
+<p align="right">Generated in 0.231s on Sat Sep 7 at 3:32</p>
