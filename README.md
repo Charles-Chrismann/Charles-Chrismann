@@ -84,17 +84,6 @@
     <tr>
       <td align="center">8569</td>
       <td align="center">
-        <a href="https://github.com/abel8260" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/78666074?u=dd816dcc47d049b75468a802fa7b6402ad5ae1bf&v=4" alt="abel8260" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/abel8260" target="_blank">abel8260</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">8570</td>
-      <td align="center">
         <a href="https://github.com/ArjilliVijay" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/150048469?u=de2fac7c4e56c5e8e94937325f30c76126e75b8b&v=4" alt="ArjilliVijay" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">8571</td>
+      <td align="center">8570</td>
       <td align="center">
         <a href="https://github.com/DungeonMaster96" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/97091181?v=4" alt="DungeonMaster96" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/DungeonMaster96" target="_blank">DungeonMaster96</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">8571</td>
+      <td align="center">
+        <a href="https://github.com/D0pal" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/142103954?u=1f27896ab89848babdab863091ef3380baf734ae&v=4" alt="D0pal" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/D0pal" target="_blank">D0pal</a>
       </td>
     </tr>
     <tr>
@@ -859,4 +859,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.127s on Sat Sep 7 at 7:20</p>
+<p align="right">Generated in 0.265s on Sat Sep 7 at 7:20</p>
