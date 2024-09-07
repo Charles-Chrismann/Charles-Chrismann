@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">8532</td>
-      <td align="center">
-        <a href="https://github.com/A-PRASATHARUMUGAM" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/139039460?u=de7cc253354951cb8042d7f7d0e1d1041738f556&v=4" alt="A-PRASATHARUMUGAM" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/A-PRASATHARUMUGAM" target="_blank">A-PRASATHARUMUGAM</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">8533</td>
       <td align="center">
         <a href="https://github.com/phase53" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">8535</td>
+      <td align="center">
+        <a href="https://github.com/Richi2PL" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/173109144?u=e68d7047ad002ccc80f9f6a91c601f8c6bb13ca2&v=4" alt="Richi2PL" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Richi2PL" target="_blank">Richi2PL</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">8536</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -859,4 +859,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.229s on Sat Sep 7 at 3:51</p>
+<p align="right">Generated in 0.145s on Sat Sep 7 at 3:56</p>
