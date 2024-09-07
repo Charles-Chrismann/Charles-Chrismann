@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">8704</td>
-      <td align="center">
-        <a href="https://github.com/mouda4d" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/110298603?u=2fd93d1c4aab7531943bf55fc1df66846d72b935&v=4" alt="mouda4d" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/mouda4d" target="_blank">mouda4d</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">8705</td>
       <td align="center">
         <a href="https://github.com/JohnMwendwa" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">8707</td>
+      <td align="center">
+        <a href="https://github.com/ClemersonCristiano" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/172502076?u=3d993afe2379d4e4fcce866df9d5841313988029&v=4" alt="ClemersonCristiano" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/ClemersonCristiano" target="_blank">ClemersonCristiano</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">8708</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -828,4 +828,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.448s on Sat Sep 7 at 22:13</p>
+<p align="right">Generated in 0.421s on Sat Sep 7 at 22:15</p>
