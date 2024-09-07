@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">8609</td>
-      <td align="center">
-        <a href="https://github.com/ZeroPivot" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/7474727?u=a445a5418e307eb6b98ec520f9bb193f3f337604&v=4" alt="ZeroPivot" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/ZeroPivot" target="_blank">ZeroPivot</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">8610</td>
       <td align="center">
         <a href="https://github.com/orszaczkyanna" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">8612</td>
+      <td align="center">
+        <a href="https://github.com/niwaka-ame" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/45905797?v=4" alt="niwaka-ame" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/niwaka-ame" target="_blank">niwaka-ame</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">8613</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -897,4 +897,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.193s on Sat Sep 7 at 11:09</p>
+<p align="right">Generated in 0.245s on Sat Sep 7 at 11:11</p>
