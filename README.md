@@ -531,9 +531,6 @@
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=17&y=13">:black_large_square:</a>
 </p>
 <p align="center">Come on, try it</p>
-<p align="center">
-  <img width="256" src="https://o.charles-chrismann.fr/minesweeper.gif" />
-</p>
 <h3 align="center">
   <a href="https://o.charles-chrismann.fr/minesweeper/new">Reset Game</a>
 </h3>
@@ -864,4 +861,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.194s on Sat Sep 7 at 12:54</p>
+<p align="right">Generated in 0.152s on Sat Sep 7 at 12:54</p>
