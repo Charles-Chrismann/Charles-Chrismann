@@ -742,46 +742,6 @@
   </thead>
   <tbody>
     <tr>
-      <td>$\text{\color{red}{P}}$</td>
-      <td>$\text{\color{red}{E}}$</td>
-      <td>$\text{\color{red}{I}}$</td>
-      <td>$\text{\color{red}{X}}$</td>
-      <td>$\text{\color{red}{E}}$</td>
-      <td>
-        <a href="https://github.com/mareshbard">@mareshbard</a>
-      </td>
-    </tr>
-    <tr>
-      <td>$\text{\color{white}{W}}$</td>
-      <td>$\text{\color{orange}{O}}$</td>
-      <td>$\text{\color{white}{R}}$</td>
-      <td>$\text{\color{white}{L}}$</td>
-      <td>$\text{\color{orange}{D}}$</td>
-      <td>
-        <a href="https://github.com/mareshbard">@mareshbard</a>
-      </td>
-    </tr>
-    <tr>
-      <td>$\text{\color{white}{F}}$</td>
-      <td>$\text{\color{orange}{A}}$</td>
-      <td>$\text{\color{orange}{I}}$</td>
-      <td>$\text{\color{white}{R}}$</td>
-      <td>$\text{\color{white}{Y}}$</td>
-      <td>
-        <a href="https://github.com/mareshbard">@mareshbard</a>
-      </td>
-    </tr>
-    <tr>
-      <td>$\text{\color{white}{C}}$</td>
-      <td>$\text{\color{white}{R}}$</td>
-      <td>$\text{\color{orange}{A}}$</td>
-      <td>$\text{\color{white}{N}}$</td>
-      <td>$\text{\color{white}{E}}$</td>
-      <td>
-        <a href="https://github.com/Charles-Chrismann">@Charles-Chrismann</a>
-      </td>
-    </tr>
-    <tr>
       <td>‎ </td>
       <td>‎ </td>
       <td>‎ </td>
@@ -879,4 +839,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.427s on Sun Sep 8 at 21:55</p>
+<p align="right">Generated in 0.386s on Sun Sep 8 at 22:00</p>
