@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">8726</td>
-      <td align="center">
-        <a href="https://github.com/buzz8year" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/4325095?u=edb0d12975c87b38d44483657f6c2a0c95a0eb51&v=4" alt="buzz8year" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/buzz8year" target="_blank">buzz8year</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">8727</td>
       <td align="center">
         <a href="https://github.com/SahadRushdi" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">8729</td>
+      <td align="center">
+        <a href="https://github.com/RiuriII" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/88508178?v=4" alt="RiuriII" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/RiuriII" target="_blank">RiuriII</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">8730</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -824,4 +824,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.328s on Sun Sep 8 at 2:31</p>
+<p align="right">Generated in 0.14s on Sun Sep 8 at 2:31</p>
