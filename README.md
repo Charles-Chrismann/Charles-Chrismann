@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">8731</td>
-      <td align="center">
-        <a href="https://github.com/xyzcodesolution" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/168624198?u=456978c30545e117ab39320cec6c336dad2c68a3&v=4" alt="xyzcodesolution" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/xyzcodesolution" target="_blank">xyzcodesolution</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">8732</td>
       <td align="center">
         <a href="https://github.com/Mr-Ankit-Kashyap" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">8734</td>
+      <td align="center">
+        <a href="https://github.com/halvaradop" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/105169289?v=4" alt="halvaradop" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/halvaradop" target="_blank">halvaradop</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">8735</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -824,4 +824,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.304s on Sun Sep 8 at 3:06</p>
+<p align="right">Generated in 0.127s on Sun Sep 8 at 3:07</p>
