@@ -82,40 +82,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">8856</td>
-      <td align="center">
-        <a href="https://github.com/Antelmo7" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/64185543?u=76c98d8c1f71aac32008656a5739cd3279bb0869&v=4" alt="Antelmo7" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Antelmo7" target="_blank">Antelmo7</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">8857</td>
-      <td align="center">
-        <a href="https://github.com/renatohvo" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/67000718?u=9c5963ece3c0076c1f5c0474851e480ffbc87b81&v=4" alt="renatohvo" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/renatohvo" target="_blank">renatohvo</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">8858</td>
       <td align="center">
-        <a href="https://github.com/makau-simon" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/177262313?u=ac5c426593eddd27367acd064965896e11766edf&v=4" alt="makau-simon" width="40" height="40"/>
+        <a href="https://github.com/flaviofrancisco" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/12722538?u=a84d845e2250f9f13a488f6201c55e264684bf27&v=4" alt="flaviofrancisco" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/makau-simon" target="_blank">makau-simon</a>
+        <a href="https://github.com/flaviofrancisco" target="_blank">flaviofrancisco</a>
       </td>
     </tr>
     <tr>
       <td align="center">8859</td>
+      <td align="center">
+        <a href="https://github.com/Samad63" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/163463170?u=37eb574f413f10c5e47d56d783f422058debc09b&v=4" alt="Samad63" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Samad63" target="_blank">Samad63</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">8860</td>
+      <td align="center">
+        <a href="https://github.com/victorhmrod" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/63883887?u=b21f82661fb6042f756341f7f1c15c7ec95d3674&v=4" alt="victorhmrod" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/victorhmrod" target="_blank">victorhmrod</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">8861</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -866,4 +866,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.174s on Sun Sep 8 at 19:23</p>
+<p align="right">Generated in 0.255s on Sun Sep 8 at 19:33</p>
