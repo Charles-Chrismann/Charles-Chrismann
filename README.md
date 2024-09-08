@@ -82,29 +82,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">8772</td>
-      <td align="center">
-        <a href="https://github.com/ashem1100" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/92199520?u=1904025d1ccfb9e9654017e898478904dc46f29e&v=4" alt="ashem1100" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/ashem1100" target="_blank">ashem1100</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">8773</td>
-      <td align="center">
-        <a href="https://github.com/Mustafa-isa" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/116859259?u=be448c265a564c5a1ceffcc761e8fe94d629788f&v=4" alt="Mustafa-isa" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Mustafa-isa" target="_blank">Mustafa-isa</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">8774</td>
       <td align="center">
         <a href="https://github.com/WahyuDwe" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/74748569?u=a9021fb55944c1ab8b05cb535d42c314aab6022a&v=4" alt="WahyuDwe" width="40" height="40"/>
@@ -115,7 +93,29 @@
       </td>
     </tr>
     <tr>
+      <td align="center">8774</td>
+      <td align="center">
+        <a href="https://github.com/cris96spa" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/45823377?u=9b1d96e13d0488c2f904431fe3764964dcb1c982&v=4" alt="cris96spa" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/cris96spa" target="_blank">cris96spa</a>
+      </td>
+    </tr>
+    <tr>
       <td align="center">8775</td>
+      <td align="center">
+        <a href="https://github.com/Likhons546" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/180827508?u=78ea16f7f518aa68b8921683edcefe20a322e2e3&v=4" alt="Likhons546" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Likhons546" target="_blank">Likhons546</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">8776</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -838,4 +838,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.158s on Sun Sep 8 at 8:56</p>
+<p align="right">Generated in 0.218s on Sun Sep 8 at 9:02</p>
