@@ -107,7 +107,7 @@
       <td align="center">8987</td>
       <td align="center">
         <a href="https://github.com/emmanuel-tar" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/19931318?u=b334959077fb76b608ffb2caaf9910516ded441f&v=4" alt="emmanuel-tar" width="40" height="40"/>
+          <img src="https://avatars.githubusercontent.com/u/19931318?u=e7471173913af1a4da129ba61eb238b28d52ade6&v=4" alt="emmanuel-tar" width="40" height="40"/>
         </a>
       </td>
       <td>
@@ -905,4 +905,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.133s on Mon Sep 9 at 13:05</p>
+<p align="right">Generated in 0.145s on Mon Sep 9 at 13:06</p>
