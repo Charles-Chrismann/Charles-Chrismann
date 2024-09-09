@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">9074</td>
-      <td align="center">
-        <a href="https://github.com/Nima-sltn" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/110777961?u=3df8c32c739973a0cc90c8093271ea30857960bc&v=4" alt="Nima-sltn" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Nima-sltn" target="_blank">Nima-sltn</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">9075</td>
       <td align="center">
         <a href="https://github.com/GarciaGP" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">9077</td>
+      <td align="center">
+        <a href="https://github.com/fisayo-dev" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/130215328?u=3a23b46480863684b29ce3f58447e5e40d5ec3fc&v=4" alt="fisayo-dev" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/fisayo-dev" target="_blank">fisayo-dev</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">9078</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -831,4 +831,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.134s on Mon Sep 9 at 23:09</p>
+<p align="right">Generated in 0.122s on Mon Sep 9 at 23:09</p>
