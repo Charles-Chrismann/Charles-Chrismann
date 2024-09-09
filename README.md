@@ -712,6 +712,16 @@
       </td>
     </tr>
     <tr>
+      <td>$\text{\color{white}{J}}$</td>
+      <td>$\text{\color{white}{U}}$</td>
+      <td>$\text{\color{white}{I}}$</td>
+      <td>$\text{\color{white}{C}}$</td>
+      <td>$\text{\color{orange}{E}}$</td>
+      <td>
+        <a href="https://github.com/huhuhu0420">@huhuhu0420</a>
+      </td>
+    </tr>
+    <tr>
       <td>‎ </td>
       <td>‎ </td>
       <td>‎ </td>
@@ -809,4 +819,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.165s on Mon Sep 9 at 2:58</p>
+<p align="right">Generated in 0.157s on Mon Sep 9 at 2:59</p>
