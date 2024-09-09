@@ -82,40 +82,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">8920</td>
-      <td align="center">
-        <a href="https://github.com/IksangYonghang" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/136549300?u=5ff55e55b3f3e1bffaa451e863f0727a77cb5bfc&v=4" alt="IksangYonghang" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/IksangYonghang" target="_blank">IksangYonghang</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">8921</td>
-      <td align="center">
-        <a href="https://github.com/Tusha435" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/112799102?u=6df7a20a201432018be93649eea26fa4d374c6a8&v=4" alt="Tusha435" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Tusha435" target="_blank">Tusha435</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">8922</td>
-      <td align="center">
-        <a href="https://github.com/roman-iork" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/131661409?u=228edc99684d45328f098c79da019fb50f0125fe&v=4" alt="roman-iork" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/roman-iork" target="_blank">roman-iork</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">8923</td>
+      <td align="center">
+        <a href="https://github.com/ritesh975" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/173426017?u=50ccc5794a419ebe2a5f78bccd29cb1cc7b60934&v=4" alt="ritesh975" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/ritesh975" target="_blank">ritesh975</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">8924</td>
+      <td align="center">
+        <a href="https://github.com/SwSsinha" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/120879600?v=4" alt="SwSsinha" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/SwSsinha" target="_blank">SwSsinha</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">8925</td>
+      <td align="center">
+        <a href="https://github.com/bazoka-kaka" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/55269870?u=5e8a2a6e6525efbc5ce7f7acb6d2d50ad0ccd997&v=4" alt="bazoka-kaka" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/bazoka-kaka" target="_blank">bazoka-kaka</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">8926</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -916,4 +916,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.376s on Mon Sep 9 at 4:06</p>
+<p align="right">Generated in 0.316s on Mon Sep 9 at 4:12</p>
