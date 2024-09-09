@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">8941</td>
-      <td align="center">
-        <a href="https://github.com/Dennoh12" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/100831062?u=7bab15eb39593328645992e3cfc16fa7abd06622&v=4" alt="Dennoh12" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Dennoh12" target="_blank">Dennoh12</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">8942</td>
       <td align="center">
         <a href="https://github.com/AhmadFikriAS" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">8944</td>
+      <td align="center">
+        <a href="https://github.com/juletopi" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/76459155?v=4" alt="juletopi" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/juletopi" target="_blank">juletopi</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">8945</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -906,4 +906,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.136s on Mon Sep 9 at 7:32</p>
+<p align="right">Generated in 0.15s on Mon Sep 9 at 7:34</p>
