@@ -96,7 +96,7 @@
       <td align="center">9027</td>
       <td align="center">
         <a href="https://github.com/Nikhill-Saseendran" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/170921219?u=05e8a26df23afcdba33c524e7f56ec0d2b367bee&v=4" alt="Nikhill-Saseendran" width="40" height="40"/>
+          <img src="https://avatars.githubusercontent.com/u/170921219?u=07cbe544ea8dde035fbea612501cda329efd9d25&v=4" alt="Nikhill-Saseendran" width="40" height="40"/>
         </a>
       </td>
       <td>
@@ -921,4 +921,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.154s on Mon Sep 9 at 16:25</p>
+<p align="right">Generated in 0.24s on Mon Sep 9 at 16:26</p>
