@@ -84,17 +84,6 @@
     <tr>
       <td align="center">9058</td>
       <td align="center">
-        <a href="https://github.com/Messazabiel" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/178866774?u=41ceae0a1395cd6a88e0218679a0e2e132c6ceac&v=4" alt="Messazabiel" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Messazabiel" target="_blank">Messazabiel</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">9059</td>
-      <td align="center">
         <a href="https://github.com/erickbytes" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/19195830?u=4cec9bc24b42bde0ee437bed387f43def2efe3bf&v=4" alt="erickbytes" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">9060</td>
+      <td align="center">9059</td>
       <td align="center">
         <a href="https://github.com/c0rnch1p" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/126017578?u=74e5ba127893af168f9159be40d654d29aff9308&v=4" alt="c0rnch1p" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/c0rnch1p" target="_blank">c0rnch1p</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">9060</td>
+      <td align="center">
+        <a href="https://github.com/DrucJacek" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/161700499?u=a13f75ee50e94459fdd740367f7cf6b3adc1facf&v=4" alt="DrucJacek" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/DrucJacek" target="_blank">DrucJacek</a>
       </td>
     </tr>
     <tr>
@@ -901,4 +901,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.221s on Mon Sep 9 at 19:20</p>
+<p align="right">Generated in 0.211s on Mon Sep 9 at 19:22</p>
