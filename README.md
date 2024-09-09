@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">8931</td>
-      <td align="center">
-        <a href="https://github.com/MugereG" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/71327020?u=bf9334fa4c57e16ed5b735b18a85b79f46da72b5&v=4" alt="MugereG" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/MugereG" target="_blank">MugereG</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">8932</td>
       <td align="center">
         <a href="https://github.com/codecruz" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">8934</td>
+      <td align="center">
+        <a href="https://github.com/mrKodat" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/90782008?u=0e9a301139297fdd8b731cbcb1791e7382322cc9&v=4" alt="mrKodat" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/mrKodat" target="_blank">mrKodat</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">8935</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -901,4 +901,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.13s on Mon Sep 9 at 6:12</p>
+<p align="right">Generated in 0.135s on Mon Sep 9 at 6:22</p>
