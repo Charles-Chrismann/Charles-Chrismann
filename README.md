@@ -82,29 +82,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">8995</td>
-      <td align="center">
-        <a href="https://github.com/SoapEater" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/116240879?u=9e06bab4d03c4be913aee294cfc008386b7d2e02&v=4" alt="SoapEater" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/SoapEater" target="_blank">SoapEater</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">8996</td>
-      <td align="center">
-        <a href="https://github.com/slammon" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/56459644?u=72ef898d6264458e08338844cf9f5557cc54fecb&v=4" alt="slammon" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/slammon" target="_blank">slammon</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">8997</td>
       <td align="center">
         <a href="https://github.com/EmpgBinary" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/110744622?u=e74b4f231d16860228757439effc09e55e0cd086&v=4" alt="EmpgBinary" width="40" height="40"/>
@@ -115,7 +93,29 @@
       </td>
     </tr>
     <tr>
+      <td align="center">8997</td>
+      <td align="center">
+        <a href="https://github.com/AngCarlos-2" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/107322070?u=6d9d83ba41d0f00c188f0b5952c519bc7d255321&v=4" alt="AngCarlos-2" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/AngCarlos-2" target="_blank">AngCarlos-2</a>
+      </td>
+    </tr>
+    <tr>
       <td align="center">8998</td>
+      <td align="center">
+        <a href="https://github.com/Gabriel28" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/31926129?u=f43df3599880f7b6bc754499523a191d73f4ef79&v=4" alt="Gabriel28" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Gabriel28" target="_blank">Gabriel28</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">8999</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -901,4 +901,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.128s on Mon Sep 9 at 14:04</p>
+<p align="right">Generated in 0.128s on Mon Sep 9 at 14:07</p>
