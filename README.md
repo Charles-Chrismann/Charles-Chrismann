@@ -95,12 +95,12 @@
     <tr>
       <td align="center">8906</td>
       <td align="center">
-        <a href="https://github.com/crystaldev1004" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/177595695?u=6884ced76e109231eb4afb8e05058c27fea99872&v=4" alt="crystaldev1004" width="40" height="40"/>
+        <a href="https://github.com/laironcosta1994" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/177595695?u=6884ced76e109231eb4afb8e05058c27fea99872&v=4" alt="laironcosta1994" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/crystaldev1004" target="_blank">crystaldev1004</a>
+        <a href="https://github.com/laironcosta1994" target="_blank">laironcosta1994</a>
       </td>
     </tr>
     <tr>
@@ -849,4 +849,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.219s on Mon Sep 9 at 1:02</p>
+<p align="right">Generated in 0.212s on Mon Sep 9 at 1:04</p>
