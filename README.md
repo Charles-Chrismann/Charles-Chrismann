@@ -742,6 +742,16 @@
       </td>
     </tr>
     <tr>
+      <td>$\text{\color{lightgreen}{R}}$</td>
+      <td>$\text{\color{lightgreen}{A}}$</td>
+      <td>$\text{\color{lightgreen}{V}}$</td>
+      <td>$\text{\color{lightgreen}{E}}$</td>
+      <td>$\text{\color{lightgreen}{N}}$</td>
+      <td>
+        <a href="https://github.com/huhuhu0420">@huhuhu0420</a>
+      </td>
+    </tr>
+    <tr>
       <td>‎ </td>
       <td>‎ </td>
       <td>‎ </td>
@@ -825,6 +835,18 @@
       </td>
       <td align="center">1</td>
     </tr>
+    <tr>
+      <td align="center">6</td>
+      <td align="center">
+        <a href="https://github.com/huhuhu0420">
+          <img src="https://avatars.githubusercontent.com/u/94506311?size=32" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/huhuhu0420">@huhuhu0420</a>
+      </td>
+      <td align="center">1</td>
+    </tr>
   </tbody>
 </table>
 
@@ -839,4 +861,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.231s on Mon Sep 9 at 3:10</p>
+<p align="right">Generated in 0.24s on Mon Sep 9 at 3:10</p>
