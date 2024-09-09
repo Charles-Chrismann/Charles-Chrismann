@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">8927</td>
-      <td align="center">
-        <a href="https://github.com/Prodaturu" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/95521128?u=a01da6ad60eb52a7f477004e23dd3b3734a9eb5e&v=4" alt="Prodaturu" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Prodaturu" target="_blank">Prodaturu</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">8928</td>
       <td align="center">
         <a href="https://github.com/Satera1" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">8930</td>
+      <td align="center">
+        <a href="https://github.com/Onokaev" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/45680252?v=4" alt="Onokaev" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Onokaev" target="_blank">Onokaev</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">8931</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -846,4 +846,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.477s on Mon Sep 9 at 5:31</p>
+<p align="right">Generated in 0.469s on Mon Sep 9 at 5:34</p>
