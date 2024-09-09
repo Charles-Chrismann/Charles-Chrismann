@@ -722,76 +722,6 @@
   </thead>
   <tbody>
     <tr>
-      <td>$\text{\color{white}{K}}$</td>
-      <td>$\text{\color{orange}{N}}$</td>
-      <td>$\text{\color{white}{I}}$</td>
-      <td>$\text{\color{white}{F}}$</td>
-      <td>$\text{\color{orange}{E}}$</td>
-      <td>
-        <a href="https://github.com/PedrooH0">@PedrooH0</a>
-      </td>
-    </tr>
-    <tr>
-      <td>$\text{\color{red}{N}}$</td>
-      <td>$\text{\color{red}{E}}$</td>
-      <td>$\text{\color{red}{S}}$</td>
-      <td>$\text{\color{red}{T}}$</td>
-      <td>$\text{\color{red}{S}}$</td>
-      <td>
-        <a href="https://github.com/PedrooH0">@PedrooH0</a>
-      </td>
-    </tr>
-    <tr>
-      <td>$\text{\color{red}{N}}$</td>
-      <td>$\text{\color{red}{E}}$</td>
-      <td>$\text{\color{red}{R}}$</td>
-      <td>$\text{\color{red}{D}}$</td>
-      <td>$\text{\color{red}{S}}$</td>
-      <td>
-        <a href="https://github.com/PedrooH0">@PedrooH0</a>
-      </td>
-    </tr>
-    <tr>
-      <td>$\text{\color{white}{J}}$</td>
-      <td>$\text{\color{white}{U}}$</td>
-      <td>$\text{\color{white}{I}}$</td>
-      <td>$\text{\color{white}{C}}$</td>
-      <td>$\text{\color{orange}{E}}$</td>
-      <td>
-        <a href="https://github.com/huhuhu0420">@huhuhu0420</a>
-      </td>
-    </tr>
-    <tr>
-      <td>$\text{\color{white}{D}}$</td>
-      <td>$\text{\color{orange}{R}}$</td>
-      <td>$\text{\color{orange}{E}}$</td>
-      <td>$\text{\color{orange}{A}}$</td>
-      <td>$\text{\color{white}{M}}$</td>
-      <td>
-        <a href="https://github.com/huhuhu0420">@huhuhu0420</a>
-      </td>
-    </tr>
-    <tr>
-      <td>$\text{\color{lightgreen}{R}}$</td>
-      <td>$\text{\color{orange}{E}}$</td>
-      <td>$\text{\color{orange}{A}}$</td>
-      <td>$\text{\color{white}{D}}$</td>
-      <td>$\text{\color{white}{Y}}$</td>
-      <td>
-        <a href="https://github.com/huhuhu0420">@huhuhu0420</a>
-      </td>
-    </tr>
-    <tr>
-      <td>$\text{\color{lightgreen}{R}}$</td>
-      <td>$\text{\color{lightgreen}{A}}$</td>
-      <td>$\text{\color{lightgreen}{V}}$</td>
-      <td>$\text{\color{lightgreen}{E}}$</td>
-      <td>$\text{\color{lightgreen}{N}}$</td>
-      <td>
-        <a href="https://github.com/huhuhu0420">@huhuhu0420</a>
-      </td>
-    </tr>
-    <tr>
       <td>‎ </td>
       <td>‎ </td>
       <td>‎ </td>
@@ -901,4 +831,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.248s on Mon Sep 9 at 21:52</p>
+<p align="right">Generated in 0.242s on Mon Sep 9 at 22:00</p>
