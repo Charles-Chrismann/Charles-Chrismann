@@ -84,27 +84,16 @@
     <tr>
       <td align="center">9145</td>
       <td align="center">
-        <a href="https://github.com/kennsoft" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/105168369?v=4" alt="kennsoft" width="40" height="40"/>
+        <a href="https://github.com/PedroS5" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/68922979?u=3b4af69431e6f2880050dae1c527ad47e373c19e&v=4" alt="PedroS5" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/kennsoft" target="_blank">kennsoft</a>
+        <a href="https://github.com/PedroS5" target="_blank">PedroS5</a>
       </td>
     </tr>
     <tr>
       <td align="center">9146</td>
-      <td align="center">
-        <a href="https://github.com/MrBedrosa" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/68922979?u=3b4af69431e6f2880050dae1c527ad47e373c19e&v=4" alt="MrBedrosa" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/MrBedrosa" target="_blank">MrBedrosa</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">9147</td>
       <td align="center">
         <a href="https://github.com/fca-01" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/147526648?u=6c833b2eb3ffac6cc46fde3ef1d2af4ddd09caff&v=4" alt="fca-01" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/fca-01" target="_blank">fca-01</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">9147</td>
+      <td align="center">
+        <a href="https://github.com/Lotfi-66" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/81879031?u=2c27e4811d0cb0358be817398cef4dc95f1d39e2&v=4" alt="Lotfi-66" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Lotfi-66" target="_blank">Lotfi-66</a>
       </td>
     </tr>
     <tr>
@@ -881,4 +881,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.158s on Tue Sep 10 at 12:42</p>
+<p align="right">Generated in 0.156s on Tue Sep 10 at 12:49</p>
