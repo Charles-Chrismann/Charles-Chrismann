@@ -84,17 +84,6 @@
     <tr>
       <td align="center">9125</td>
       <td align="center">
-        <a href="https://github.com/Autodidac" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/177971875?u=3eaeeac68b5d903c86f50acfb536ff5b135a8b57&v=4" alt="Autodidac" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Autodidac" target="_blank">Autodidac</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">9126</td>
-      <td align="center">
         <a href="https://github.com/HasanBugraDuru" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/49467542?u=93af833aee1bfaca37b1c1e42f86ffbd03c35294&v=4" alt="HasanBugraDuru" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">9127</td>
+      <td align="center">9126</td>
       <td align="center">
         <a href="https://github.com/ayodelemartinsabiwo" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/142125111?u=552fc35d8e749bbd5e57b40f9c9e47aed5013069&v=4" alt="ayodelemartinsabiwo" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/ayodelemartinsabiwo" target="_blank">ayodelemartinsabiwo</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">9127</td>
+      <td align="center">
+        <a href="https://github.com/JohnMwendwa" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/72663882?u=805073cc702701b4ad6c56a60dc0bdae9ccac964&v=4" alt="JohnMwendwa" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/JohnMwendwa" target="_blank">JohnMwendwa</a>
       </td>
     </tr>
     <tr>
@@ -903,4 +903,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.482s on Tue Sep 10 at 10:08</p>
+<p align="right">Generated in 0.482s on Tue Sep 10 at 10:12</p>
