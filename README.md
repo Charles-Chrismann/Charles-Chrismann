@@ -84,17 +84,6 @@
     <tr>
       <td align="center">9166</td>
       <td align="center">
-        <a href="https://github.com/pedro-filho-81" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/61125636?v=4" alt="pedro-filho-81" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/pedro-filho-81" target="_blank">pedro-filho-81</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">9167</td>
-      <td align="center">
         <a href="https://github.com/Asima-Parveen1" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/176923150?u=e0bfcf2dff9926cf3576d275193215e264ab8382&v=4" alt="Asima-Parveen1" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">9168</td>
+      <td align="center">9167</td>
       <td align="center">
         <a href="https://github.com/NatanSL" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/97740041?u=7c0e930ba65f72daea0c6c7ffc5c366a08ede452&v=4" alt="NatanSL" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/NatanSL" target="_blank">NatanSL</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">9168</td>
+      <td align="center">
+        <a href="https://github.com/marco-duart" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/129343739?u=b65ffde10eb2e96f823ed493e6351c2e29444a4e&v=4" alt="marco-duart" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/marco-duart" target="_blank">marco-duart</a>
       </td>
     </tr>
     <tr>
@@ -897,4 +897,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.172s on Tue Sep 10 at 14:59</p>
+<p align="right">Generated in 0.317s on Tue Sep 10 at 15:01</p>
