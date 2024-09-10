@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">9214</td>
-      <td align="center">
-        <a href="https://github.com/AlirezaElahii" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/113930800?u=7ab2bb04b9fd9844faad3d1f911bb3333bf220de&v=4" alt="AlirezaElahii" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/AlirezaElahii" target="_blank">AlirezaElahii</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">9215</td>
       <td align="center">
         <a href="https://github.com/myke-oliveira" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">9217</td>
+      <td align="center">
+        <a href="https://github.com/kua-as-exe" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/21228945?u=fd47e3a9fa9fc7add28ab933f8ac21b43784e048&v=4" alt="kua-as-exe" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/kua-as-exe" target="_blank">kua-as-exe</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">9218</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
