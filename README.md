@@ -106,12 +106,12 @@
     <tr>
       <td align="center">9140</td>
       <td align="center">
-        <a href="https://github.com/narenkram" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/16354010?u=fbf2966aa09227741088718d6422083f064290a5&v=4" alt="narenkram" width="40" height="40"/>
+        <a href="https://github.com/PetarWho" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/92612927?u=29babd180dce01a81cc14b1534646b47b124268d&v=4" alt="PetarWho" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/narenkram" target="_blank">narenkram</a>
+        <a href="https://github.com/PetarWho" target="_blank">PetarWho</a>
       </td>
     </tr>
     <tr>
@@ -909,4 +909,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.319s on Tue Sep 10 at 11:55</p>
+<p align="right">Generated in 0.318s on Tue Sep 10 at 11:59</p>
