@@ -84,17 +84,6 @@
     <tr>
       <td align="center">9158</td>
       <td align="center">
-        <a href="https://github.com/CodeQueen-AI" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/178406833?u=74e4e5bd9ce2f0cc5bd69b24dd57ebbaaa34de86&v=4" alt="CodeQueen-AI" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/CodeQueen-AI" target="_blank">CodeQueen-AI</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">9159</td>
-      <td align="center">
         <a href="https://github.com/parasnp" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/68340735?u=eaa3ba62d6357c3836fdc2a0174b875fe7f73640&v=4" alt="parasnp" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">9160</td>
+      <td align="center">9159</td>
       <td align="center">
         <a href="https://github.com/ramtrigodev" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/121834069?u=f0d1f92ab05f4e016cc8209755299dbfe5e771f5&v=4" alt="ramtrigodev" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/ramtrigodev" target="_blank">ramtrigodev</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">9160</td>
+      <td align="center">
+        <a href="https://github.com/gloooooory" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/160810960?v=4" alt="gloooooory" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/gloooooory" target="_blank">gloooooory</a>
       </td>
     </tr>
     <tr>
@@ -881,4 +881,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.149s on Tue Sep 10 at 14:24</p>
+<p align="right">Generated in 0.149s on Tue Sep 10 at 14:29</p>
