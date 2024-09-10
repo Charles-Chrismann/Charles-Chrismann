@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">9142</td>
-      <td align="center">
-        <a href="https://github.com/Bikmandjuma" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/106157303?u=e890c27613afa77cf0bcedbd2f09e66b5f3ebc46&v=4" alt="Bikmandjuma" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Bikmandjuma" target="_blank">Bikmandjuma</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">9143</td>
       <td align="center">
         <a href="https://github.com/oliviawilson2003" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">9145</td>
+      <td align="center">
+        <a href="https://github.com/kennsoft" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/105168369?v=4" alt="kennsoft" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/kennsoft" target="_blank">kennsoft</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">9146</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -881,4 +881,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.187s on Tue Sep 10 at 12:33</p>
+<p align="right">Generated in 0.179s on Tue Sep 10 at 12:33</p>
