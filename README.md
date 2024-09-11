@@ -106,12 +106,12 @@
     <tr>
       <td align="center">9338</td>
       <td align="center">
-        <a href="https://github.com/coloryeon" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/143181892?u=34f29a8e708a50fa09b4d9c99198735ea005849f&v=4" alt="coloryeon" width="40" height="40"/>
+        <a href="https://github.com/mylenatorquato" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/143181892?u=34f29a8e708a50fa09b4d9c99198735ea005849f&v=4" alt="mylenatorquato" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/coloryeon" target="_blank">coloryeon</a>
+        <a href="https://github.com/mylenatorquato" target="_blank">mylenatorquato</a>
       </td>
     </tr>
     <tr>
@@ -830,4 +830,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.224s on Wed Sep 11 at 18:41</p>
+<p align="right">Generated in 0.19s on Wed Sep 11 at 18:44</p>
