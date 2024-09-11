@@ -84,17 +84,6 @@
     <tr>
       <td align="center">9247</td>
       <td align="center">
-        <a href="https://github.com/RifaldiAchmad" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/114426626?u=cfe8dc6851992d4965811bcf3fcdd93944ea3472&v=4" alt="RifaldiAchmad" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/RifaldiAchmad" target="_blank">RifaldiAchmad</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">9248</td>
-      <td align="center">
         <a href="https://github.com/devjimah" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/119421571?u=1689aaa29244ef907afd567a951624798b390976&v=4" alt="devjimah" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">9249</td>
+      <td align="center">9248</td>
       <td align="center">
         <a href="https://github.com/floferno" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/58562757?u=4fcf4ffbf7e795f11a784e7f3c893bc177858761&v=4" alt="floferno" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/floferno" target="_blank">floferno</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">9249</td>
+      <td align="center">
+        <a href="https://github.com/Rizkyhnkw" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/154990676?u=5f1bcea0d01a0e0e13b0b0c3430cc5109854dc9c&v=4" alt="Rizkyhnkw" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Rizkyhnkw" target="_blank">Rizkyhnkw</a>
       </td>
     </tr>
     <tr>
@@ -827,4 +827,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.152s on Wed Sep 11 at 3:42</p>
+<p align="right">Generated in 0.445s on Wed Sep 11 at 3:42</p>
