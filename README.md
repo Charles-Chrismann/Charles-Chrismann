@@ -82,40 +82,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">9361</td>
-      <td align="center">
-        <a href="https://github.com/MarquesFernanda" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/102985959?u=9d084b898445e0de9ce03d80f53cfeac1872000b&v=4" alt="MarquesFernanda" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/MarquesFernanda" target="_blank">MarquesFernanda</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">9362</td>
-      <td align="center">
-        <a href="https://github.com/IkoAlmasDevGame" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/90682984?u=dafa115b83ba9d5071471fadf41882dcb1f51dbb&v=4" alt="IkoAlmasDevGame" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/IkoAlmasDevGame" target="_blank">IkoAlmasDevGame</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">9363</td>
-      <td align="center">
-        <a href="https://github.com/leeeunlin" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/37064097?u=651317df33f0fbd267b2e2f172412994d6736044&v=4" alt="leeeunlin" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/leeeunlin" target="_blank">leeeunlin</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">9364</td>
+      <td align="center">
+        <a href="https://github.com/gustaborges" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/56396617?u=bc02d2a55aa3d9216447805df7565316c130267f&v=4" alt="gustaborges" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/gustaborges" target="_blank">gustaborges</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">9365</td>
+      <td align="center">
+        <a href="https://github.com/canberkakcali" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/8234788?v=4" alt="canberkakcali" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/canberkakcali" target="_blank">canberkakcali</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">9366</td>
+      <td align="center">
+        <a href="https://github.com/bariqfirjatullah1803" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/62026995?u=95e31c4f711fea8a43f9ada2e57659cd0f5fda84&v=4" alt="bariqfirjatullah1803" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/bariqfirjatullah1803" target="_blank">bariqfirjatullah1803</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">9367</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -844,4 +844,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.651s on Wed Sep 11 at 23:25</p>
+<p align="right">Generated in 0.601s on Wed Sep 11 at 23:27</p>
