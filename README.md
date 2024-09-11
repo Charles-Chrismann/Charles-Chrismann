@@ -84,17 +84,6 @@
     <tr>
       <td align="center">9337</td>
       <td align="center">
-        <a href="https://github.com/AndreasZeissner" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/9520173?u=b344be7e1872f1655bb2c60451479c1dad96f4d6&v=4" alt="AndreasZeissner" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/AndreasZeissner" target="_blank">AndreasZeissner</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">9338</td>
-      <td align="center">
         <a href="https://github.com/mylenatorquato" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/143181892?u=34f29a8e708a50fa09b4d9c99198735ea005849f&v=4" alt="mylenatorquato" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">9339</td>
+      <td align="center">9338</td>
       <td align="center">
         <a href="https://github.com/CaptainBlue793" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/93941059?u=6c67ec518ddd09d1c779c2fdee32eba6199b10d7&v=4" alt="CaptainBlue793" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/CaptainBlue793" target="_blank">CaptainBlue793</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">9339</td>
+      <td align="center">
+        <a href="https://github.com/JohnMwendwa" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/72663882?u=805073cc702701b4ad6c56a60dc0bdae9ccac964&v=4" alt="JohnMwendwa" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/JohnMwendwa" target="_blank">JohnMwendwa</a>
       </td>
     </tr>
     <tr>
@@ -837,4 +837,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.278s on Wed Sep 11 at 19:08</p>
+<p align="right">Generated in 0.165s on Wed Sep 11 at 19:10</p>
