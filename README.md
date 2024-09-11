@@ -84,17 +84,6 @@
     <tr>
       <td align="center">9293</td>
       <td align="center">
-        <a href="https://github.com/1801142494" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/88582433?v=4" alt="1801142494" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/1801142494" target="_blank">1801142494</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">9294</td>
-      <td align="center">
         <a href="https://github.com/fawazdev" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/103122756?u=21819e6c54ba57f0ee05a1e9e5d2f7333b890ad3&v=4" alt="fawazdev" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">9295</td>
+      <td align="center">9294</td>
       <td align="center">
         <a href="https://github.com/DevBaba" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/132473175?u=5f49c94d92340734fe3382f90029a47eabcf2cd3&v=4" alt="DevBaba" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/DevBaba" target="_blank">DevBaba</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">9295</td>
+      <td align="center">
+        <a href="https://github.com/JohnMwendwa" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/72663882?u=805073cc702701b4ad6c56a60dc0bdae9ccac964&v=4" alt="JohnMwendwa" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/JohnMwendwa" target="_blank">JohnMwendwa</a>
       </td>
     </tr>
     <tr>
@@ -846,4 +846,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.711s on Wed Sep 11 at 12:11</p>
+<p align="right">Generated in 0.758s on Wed Sep 11 at 12:19</p>
