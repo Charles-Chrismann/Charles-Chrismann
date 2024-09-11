@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">9338</td>
-      <td align="center">
-        <a href="https://github.com/CaptainBlue793" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/93941059?u=6c67ec518ddd09d1c779c2fdee32eba6199b10d7&v=4" alt="CaptainBlue793" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/CaptainBlue793" target="_blank">CaptainBlue793</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">9339</td>
       <td align="center">
         <a href="https://github.com/JohnMwendwa" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">9341</td>
+      <td align="center">
+        <a href="https://github.com/burnt-exe" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/126121348?u=9b26509b0b03f65943f7208dd8f03ce8ec967a94&v=4" alt="burnt-exe" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/burnt-exe" target="_blank">burnt-exe</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">9342</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -847,4 +847,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.184s on Wed Sep 11 at 19:29</p>
+<p align="right">Generated in 0.185s on Wed Sep 11 at 19:32</p>
