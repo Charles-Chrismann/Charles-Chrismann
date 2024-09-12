@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">9470</td>
-      <td align="center">
-        <a href="https://github.com/devsoft112" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/163908051?u=ff60e1ba53044fff66b2bc4bf9036b131db93317&v=4" alt="devsoft112" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/devsoft112" target="_blank">devsoft112</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">9471</td>
       <td align="center">
         <a href="https://github.com/caikedomingues" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">9473</td>
+      <td align="center">
+        <a href="https://github.com/Stanley00011" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/73467145?v=4" alt="Stanley00011" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Stanley00011" target="_blank">Stanley00011</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">9474</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -869,4 +869,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.349s on Thu Sep 12 at 21:31</p>
+<p align="right">Generated in 0.285s on Thu Sep 12 at 21:31</p>
