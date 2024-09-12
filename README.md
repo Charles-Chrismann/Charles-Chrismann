@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">9424</td>
-      <td align="center">
-        <a href="https://github.com/the1stenhancer" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/94588498?u=e8ff9a5a307b352b740d483da0cf7c52427e2464&v=4" alt="the1stenhancer" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/the1stenhancer" target="_blank">the1stenhancer</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">9425</td>
       <td align="center">
         <a href="https://github.com/rescenic" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">9427</td>
+      <td align="center">
+        <a href="https://github.com/brivan1" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/105288360?v=4" alt="brivan1" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/brivan1" target="_blank">brivan1</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">9428</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -861,4 +861,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.147s on Thu Sep 12 at 13:18</p>
+<p align="right">Generated in 0.228s on Thu Sep 12 at 13:23</p>
