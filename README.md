@@ -84,17 +84,6 @@
     <tr>
       <td align="center">9380</td>
       <td align="center">
-        <a href="https://github.com/uzb0104" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/171825081?u=4125db9aed83934a8f9fd0b227d4a95626a6d94d&v=4" alt="uzb0104" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/uzb0104" target="_blank">uzb0104</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">9381</td>
-      <td align="center">
         <a href="https://github.com/riyazpt" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/34576223?u=b365b9d00cc5226bf0996a6dc1f0f6bb9269c460&v=4" alt="riyazpt" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">9382</td>
+      <td align="center">9381</td>
       <td align="center">
         <a href="https://github.com/pritamdhar6468" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/84518701?u=a5e52b5f71cfede4b6eb5e8cff6e83dd436e868f&v=4" alt="pritamdhar6468" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/pritamdhar6468" target="_blank">pritamdhar6468</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">9382</td>
+      <td align="center">
+        <a href="https://github.com/Devdit" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/88121395?u=0dc3eec8918a6fafea9a7ecad09e8966c723dfd2&v=4" alt="Devdit" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Devdit" target="_blank">Devdit</a>
       </td>
     </tr>
     <tr>
@@ -845,4 +845,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.383s on Thu Sep 12 at 4:55</p>
+<p align="right">Generated in 0.366s on Thu Sep 12 at 4:59</p>
