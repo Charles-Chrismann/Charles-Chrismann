@@ -84,12 +84,12 @@
     <tr>
       <td align="center">9384</td>
       <td align="center">
-        <a href="https://github.com/Stkaskin" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/90522945?u=c6ae6c48c705b72077c14b9a60eb3e79dc6ee481&v=4" alt="Stkaskin" width="40" height="40"/>
+        <a href="https://github.com/RunasTheAweken" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/108281851?u=7d54beb8b9db743f0505c48f35c6098e15bb22d2&v=4" alt="RunasTheAweken" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/Stkaskin" target="_blank">Stkaskin</a>
+        <a href="https://github.com/RunasTheAweken" target="_blank">RunasTheAweken</a>
       </td>
     </tr>
     <tr>
@@ -851,4 +851,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.355s on Thu Sep 12 at 5:16</p>
+<p align="right">Generated in 0.362s on Thu Sep 12 at 5:27</p>
