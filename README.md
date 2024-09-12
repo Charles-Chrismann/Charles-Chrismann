@@ -84,17 +84,6 @@
     <tr>
       <td align="center">9475</td>
       <td align="center">
-        <a href="https://github.com/jhonnylucius" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/149340275?u=d65928c721c7c62e823af1465b699f1b0ee8dedc&v=4" alt="jhonnylucius" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/jhonnylucius" target="_blank">jhonnylucius</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">9476</td>
-      <td align="center">
         <a href="https://github.com/felipecela" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/118649951?u=f3b7459e741f4141fdfe7acc3d907d00c85fca78&v=4" alt="felipecela" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">9477</td>
+      <td align="center">9476</td>
       <td align="center">
         <a href="https://github.com/Mubarak-A" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/110567174?v=4" alt="Mubarak-A" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/Mubarak-A" target="_blank">Mubarak-A</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">9477</td>
+      <td align="center">
+        <a href="https://github.com/guzztavo2" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/62066122?u=1595d509ee19a1a655ded1e1a9204d50b2d84ebe&v=4" alt="guzztavo2" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/guzztavo2" target="_blank">guzztavo2</a>
       </td>
     </tr>
     <tr>
@@ -841,4 +841,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.296s on Thu Sep 12 at 22:32</p>
+<p align="right">Generated in 0.185s on Thu Sep 12 at 22:51</p>
