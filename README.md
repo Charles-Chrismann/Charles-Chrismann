@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">9556</td>
-      <td align="center">
-        <a href="https://github.com/devjackier" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/157831096?v=4" alt="devjackier" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/devjackier" target="_blank">devjackier</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">9557</td>
       <td align="center">
         <a href="https://github.com/leovieirad" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">9559</td>
+      <td align="center">
+        <a href="https://github.com/neferititiSwaq" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/142839324?v=4" alt="neferititiSwaq" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/neferititiSwaq" target="_blank">neferititiSwaq</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">9560</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -881,4 +881,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.544s on Fri Sep 13 at 17:36</p>
+<p align="right">Generated in 0.487s on Fri Sep 13 at 17:40</p>
