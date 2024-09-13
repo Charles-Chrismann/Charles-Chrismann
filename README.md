@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">9579</td>
-      <td align="center">
-        <a href="https://github.com/MANI-WEBDEVE" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/149400016?u=0e54bd4a8fe3582984b1910dcd7ff5f7fc44b93e&v=4" alt="MANI-WEBDEVE" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/MANI-WEBDEVE" target="_blank">MANI-WEBDEVE</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">9580</td>
       <td align="center">
         <a href="https://github.com/eberssj" target="_blank">
@@ -107,7 +96,7 @@
       <td align="center">9581</td>
       <td align="center">
         <a href="https://github.com/ApplePieCodes" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/127224911?v=4" alt="ApplePieCodes" width="40" height="40"/>
+          <img src="https://avatars.githubusercontent.com/u/127224911?u=89f01b8c840b4c0171939a3f00f250a84b0d3870&v=4" alt="ApplePieCodes" width="40" height="40"/>
         </a>
       </td>
       <td>
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">9582</td>
+      <td align="center">
+        <a href="https://github.com/Lewelling24" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/22503620?v=4" alt="Lewelling24" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Lewelling24" target="_blank">Lewelling24</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">9583</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -830,4 +830,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.309s on Fri Sep 13 at 22:41</p>
+<p align="right">Generated in 0.138s on Fri Sep 13 at 22:51</p>
