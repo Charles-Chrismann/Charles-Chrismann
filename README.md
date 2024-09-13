@@ -82,28 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">9534</td>
-      <td align="center">
-        <a href="https://github.com/Faed947" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/181487747?v=4" alt="Faed947" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Faed947" target="_blank">Faed947</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">9535</td>
-      <td align="center">
-        <a href="https://github.com/tndreka" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/148071497?v=4" alt="tndreka" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/tndreka" target="_blank">tndreka</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">9536</td>
       <td align="center">
         <a href="https://github.com/KleberBRO" target="_blank">
@@ -116,6 +94,28 @@
     </tr>
     <tr>
       <td align="center">9537</td>
+      <td align="center">
+        <a href="https://github.com/Asthraia" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/105277293?u=0cedb11407a03c5a57e4059ff0c1355bc00dc51d&v=4" alt="Asthraia" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Asthraia" target="_blank">Asthraia</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">9538</td>
+      <td align="center">
+        <a href="https://github.com/varsha569" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/138955808?v=4" alt="varsha569" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/varsha569" target="_blank">varsha569</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">9539</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -910,4 +910,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.36s on Fri Sep 13 at 14:44</p>
+<p align="right">Generated in 0.301s on Fri Sep 13 at 14:44</p>
