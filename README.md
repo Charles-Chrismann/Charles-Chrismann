@@ -107,7 +107,7 @@
       <td align="center">9491</td>
       <td align="center">
         <a href="https://github.com/huevangxp" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/58817289?u=7e466d31081dd3176e80c1cc252fbd7129cfa332&v=4" alt="huevangxp" width="40" height="40"/>
+          <img src="https://avatars.githubusercontent.com/u/58817289?u=3b2c42ffbb5c6b0536e37aec6f78848cf63b6f08&v=4" alt="huevangxp" width="40" height="40"/>
         </a>
       </td>
       <td>
@@ -851,4 +851,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.38s on Fri Sep 13 at 1:11</p>
+<p align="right">Generated in 0.283s on Fri Sep 13 at 1:11</p>
