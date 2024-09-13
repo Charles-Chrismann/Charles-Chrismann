@@ -107,7 +107,7 @@
       <td align="center">9521</td>
       <td align="center">
         <a href="https://github.com/Victor-Osei" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/138784715?u=91c5bfbcfbf5d862c22c9cf36b74643adb3986ca&v=4" alt="Victor-Osei" width="40" height="40"/>
+          <img src="https://avatars.githubusercontent.com/u/138784715?u=9d81790a9227a80d90f74d0c25116e1a0b39ad4f&v=4" alt="Victor-Osei" width="40" height="40"/>
         </a>
       </td>
       <td>
@@ -900,4 +900,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.233s on Fri Sep 13 at 11:58</p>
+<p align="right">Generated in 0.227s on Fri Sep 13 at 12:03</p>
