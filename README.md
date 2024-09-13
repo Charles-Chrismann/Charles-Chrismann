@@ -84,17 +84,6 @@
     <tr>
       <td align="center">9515</td>
       <td align="center">
-        <a href="https://github.com/cyonbumpo-x" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/162574590?u=6917205770e0c47f8abdcf5f4cbc3f9ed5d0efc0&v=4" alt="cyonbumpo-x" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/cyonbumpo-x" target="_blank">cyonbumpo-x</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">9516</td>
-      <td align="center">
         <a href="https://github.com/Thuggonaut" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/115153368?u=23c48b2f13acced351187c7ab483f204226362f0&v=4" alt="Thuggonaut" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">9517</td>
+      <td align="center">9516</td>
       <td align="center">
         <a href="https://github.com/jassem-manita" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/121335991?u=863fffc0d3725bf39422fd35b6a48a5ff25fea7c&v=4" alt="jassem-manita" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/jassem-manita" target="_blank">jassem-manita</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">9517</td>
+      <td align="center">
+        <a href="https://github.com/JohnMwendwa" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/72663882?u=805073cc702701b4ad6c56a60dc0bdae9ccac964&v=4" alt="JohnMwendwa" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/JohnMwendwa" target="_blank">JohnMwendwa</a>
       </td>
     </tr>
     <tr>
@@ -917,4 +917,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.245s on Fri Sep 13 at 10:51</p>
+<p align="right">Generated in 0.243s on Fri Sep 13 at 10:57</p>
