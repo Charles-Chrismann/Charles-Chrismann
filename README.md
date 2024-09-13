@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">9520</td>
-      <td align="center">
-        <a href="https://github.com/VennDev" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/111500380?u=af0e88938949896723d1d27121467a03fa1b18c2&v=4" alt="VennDev" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/VennDev" target="_blank">VennDev</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">9521</td>
       <td align="center">
         <a href="https://github.com/Victor-Osei" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">9523</td>
+      <td align="center">
+        <a href="https://github.com/Kneatrum" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/21952262?u=f8b403dcfe4573e084b4a5fd86a739076f05e5ba&v=4" alt="Kneatrum" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Kneatrum" target="_blank">Kneatrum</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">9524</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -900,4 +900,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.245s on Fri Sep 13 at 12:13</p>
+<p align="right">Generated in 0.227s on Fri Sep 13 at 12:16</p>
