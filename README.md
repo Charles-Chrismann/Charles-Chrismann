@@ -84,17 +84,6 @@
     <tr>
       <td align="center">9545</td>
       <td align="center">
-        <a href="https://github.com/DanielaOdhis" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/98682114?u=9283240aa6739814eec8a23f97f79df13d3c9b71&v=4" alt="DanielaOdhis" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/DanielaOdhis" target="_blank">DanielaOdhis</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">9546</td>
-      <td align="center">
         <a href="https://github.com/Jonatam-Sturcio" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/103075175?u=29341680f775b2cfcf0b81a79e05b8b229bcdd4b&v=4" alt="Jonatam-Sturcio" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">9547</td>
+      <td align="center">9546</td>
       <td align="center">
         <a href="https://github.com/irakli302" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/176280637?v=4" alt="irakli302" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/irakli302" target="_blank">irakli302</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">9547</td>
+      <td align="center">
+        <a href="https://github.com/brunadias3" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/89141910?u=17a66c966884cbcb1e5220012595f2a4b12c21b2&v=4" alt="brunadias3" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/brunadias3" target="_blank">brunadias3</a>
       </td>
     </tr>
     <tr>
@@ -877,4 +877,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.187s on Fri Sep 13 at 15:50</p>
+<p align="right">Generated in 0.304s on Fri Sep 13 at 15:53</p>
