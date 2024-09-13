@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">9562</td>
-      <td align="center">
-        <a href="https://github.com/Disura-Randunu" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/37591051?u=cdf594b02e0305490137da18dafd38576c10fd52&v=4" alt="Disura-Randunu" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Disura-Randunu" target="_blank">Disura-Randunu</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">9563</td>
       <td align="center">
         <a href="https://github.com/swapnita-pandey" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">9565</td>
+      <td align="center">
+        <a href="https://github.com/rudra85gituser" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/160996050?u=94576bc60fbbf6f3d9fd1b3e1215ac282a9ef6d7&v=4" alt="rudra85gituser" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/rudra85gituser" target="_blank">rudra85gituser</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">9566</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -833,4 +833,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.17s on Fri Sep 13 at 19:15</p>
+<p align="right">Generated in 0.212s on Fri Sep 13 at 19:15</p>
