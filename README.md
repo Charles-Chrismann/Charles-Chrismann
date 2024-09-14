@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">9667</td>
-      <td align="center">
-        <a href="https://github.com/Abhishek5211" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/34830437?v=4" alt="Abhishek5211" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Abhishek5211" target="_blank">Abhishek5211</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">9668</td>
       <td align="center">
         <a href="https://github.com/Metindogru" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">9670</td>
+      <td align="center">
+        <a href="https://github.com/FacePrintPay" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/105589883?u=cc894681d2eac5a7d0288d827dd2ce7ed60e5ea0&v=4" alt="FacePrintPay" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/FacePrintPay" target="_blank">FacePrintPay</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">9671</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -845,4 +845,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.492s on Sat Sep 14 at 22:24</p>
+<p align="right">Generated in 0.495s on Sat Sep 14 at 22:25</p>
