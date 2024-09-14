@@ -82,40 +82,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">9640</td>
-      <td align="center">
-        <a href="https://github.com/j1mmy7z7" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/140615807?v=4" alt="j1mmy7z7" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/j1mmy7z7" target="_blank">j1mmy7z7</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">9641</td>
-      <td align="center">
-        <a href="https://github.com/danielxlves" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/116274393?u=29a5b6e846d53c911741070b32215c9683212725&v=4" alt="danielxlves" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/danielxlves" target="_blank">danielxlves</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">9642</td>
       <td align="center">
-        <a href="https://github.com/Amalkrishnanvp" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/171483834?u=ae69833e2685d62bc17b4e16a66c0e0976806828&v=4" alt="Amalkrishnanvp" width="40" height="40"/>
+        <a href="https://github.com/gabriel-mat" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/166963853?u=6a01aafe47d67b3e8bcb3190b66c6751c546d635&v=4" alt="gabriel-mat" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/Amalkrishnanvp" target="_blank">Amalkrishnanvp</a>
+        <a href="https://github.com/gabriel-mat" target="_blank">gabriel-mat</a>
       </td>
     </tr>
     <tr>
       <td align="center">9643</td>
+      <td align="center">
+        <a href="https://github.com/YoshithaRathnayake" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/97069900?u=6888b0898959e40d8d103f7b865129a2166568f8&v=4" alt="YoshithaRathnayake" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/YoshithaRathnayake" target="_blank">YoshithaRathnayake</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">9644</td>
+      <td align="center">
+        <a href="https://github.com/CamilaMFS" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/166436142?u=cf95438d1b29e804042728fd95fc8793c779a838&v=4" alt="CamilaMFS" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/CamilaMFS" target="_blank">CamilaMFS</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">9645</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -831,4 +831,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.505s on Sat Sep 14 at 15:15</p>
+<p align="right">Generated in 0.442s on Sat Sep 14 at 15:15</p>
