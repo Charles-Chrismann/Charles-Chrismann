@@ -82,28 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">9602</td>
-      <td align="center">
-        <a href="https://github.com/axww" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/114227169?v=4" alt="axww" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/axww" target="_blank">axww</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">9603</td>
-      <td align="center">
-        <a href="https://github.com/cverrell07" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/114475407?u=9de9147c006486759d953d6468c1eddb468c0c34&v=4" alt="cverrell07" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/cverrell07" target="_blank">cverrell07</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">9604</td>
       <td align="center">
         <a href="https://github.com/Vincent-Omondi" target="_blank">
@@ -116,6 +94,28 @@
     </tr>
     <tr>
       <td align="center">9605</td>
+      <td align="center">
+        <a href="https://github.com/Awanthiy" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/121420903?u=594004e3f4ea7a70bcc8a2ba2fac498c7b2b855e&v=4" alt="Awanthiy" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Awanthiy" target="_blank">Awanthiy</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">9606</td>
+      <td align="center">
+        <a href="https://github.com/MegPhapha" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/33568865?v=4" alt="MegPhapha" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/MegPhapha" target="_blank">MegPhapha</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">9607</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -815,4 +815,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.151s on Sat Sep 14 at 8:26</p>
+<p align="right">Generated in 0.139s on Sat Sep 14 at 8:29</p>
