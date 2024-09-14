@@ -84,17 +84,6 @@
     <tr>
       <td align="center">9661</td>
       <td align="center">
-        <a href="https://github.com/JohnMwendwa" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/72663882?u=805073cc702701b4ad6c56a60dc0bdae9ccac964&v=4" alt="JohnMwendwa" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/JohnMwendwa" target="_blank">JohnMwendwa</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">9662</td>
-      <td align="center">
         <a href="https://github.com/alangnt" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/157643845?u=d498474eb28b8f398eceeed1f1a35ed930624812&v=4" alt="alangnt" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">9663</td>
+      <td align="center">9662</td>
       <td align="center">
         <a href="https://github.com/Dev-pacatech" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/161334307?u=1fa2e8eec53d7392880adc77ca5fcaa6f32fd46d&v=4" alt="Dev-pacatech" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/Dev-pacatech" target="_blank">Dev-pacatech</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">9663</td>
+      <td align="center">
+        <a href="https://github.com/ThisIsAR7" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/158085547?u=1a7e9264b7898f105b2fb4cfe27ad58aa6f8814a&v=4" alt="ThisIsAR7" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/ThisIsAR7" target="_blank">ThisIsAR7</a>
       </td>
     </tr>
     <tr>
@@ -854,4 +854,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.531s on Sat Sep 14 at 19:41</p>
+<p align="right">Generated in 0.458s on Sat Sep 14 at 19:42</p>
