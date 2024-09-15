@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">9700</td>
-      <td align="center">
-        <a href="https://github.com/Rajesh-7381" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/100822691?v=4" alt="Rajesh-7381" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Rajesh-7381" target="_blank">Rajesh-7381</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">9701</td>
       <td align="center">
         <a href="https://github.com/Anna0088" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">9703</td>
+      <td align="center">
+        <a href="https://github.com/Discrete-Mathematics" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/150026417?u=243668994d091c323b2e331094387763ad7d8f3c&v=4" alt="Discrete-Mathematics" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Discrete-Mathematics" target="_blank">Discrete-Mathematics</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">9704</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -831,4 +831,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.241s on Sun Sep 15 at 10:17</p>
+<p align="right">Generated in 0.138s on Sun Sep 15 at 10:21</p>
