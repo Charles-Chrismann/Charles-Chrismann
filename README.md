@@ -82,28 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">9736</td>
-      <td align="center">
-        <a href="https://github.com/paulo-magls" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/104034043?u=e2d304e9adae1a064b1a52155073af18350c73cd&v=4" alt="paulo-magls" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/paulo-magls" target="_blank">paulo-magls</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">9737</td>
-      <td align="center">
-        <a href="https://github.com/Rendells" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/124748281?v=4" alt="Rendells" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Rendells" target="_blank">Rendells</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">9738</td>
       <td align="center">
         <a href="https://github.com/andreFnicacio" target="_blank">
@@ -116,6 +94,28 @@
     </tr>
     <tr>
       <td align="center">9739</td>
+      <td align="center">
+        <a href="https://github.com/annaklemos" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/176224005?u=a9319ad1680cf652c29dfe2fa687f2ad7e4f4a86&v=4" alt="annaklemos" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/annaklemos" target="_blank">annaklemos</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">9740</td>
+      <td align="center">
+        <a href="https://github.com/neerajlok" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/177750699?v=4" alt="neerajlok" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/neerajlok" target="_blank">neerajlok</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">9741</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
