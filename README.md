@@ -84,17 +84,6 @@
     <tr>
       <td align="center">9701</td>
       <td align="center">
-        <a href="https://github.com/Discrete-Mathematics" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/150026417?u=243668994d091c323b2e331094387763ad7d8f3c&v=4" alt="Discrete-Mathematics" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Discrete-Mathematics" target="_blank">Discrete-Mathematics</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">9702</td>
-      <td align="center">
         <a href="https://github.com/daniil787" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/148970645?v=4" alt="daniil787" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">9703</td>
+      <td align="center">9702</td>
       <td align="center">
         <a href="https://github.com/SPQR-0" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/165513761?u=4c503e24639bdecfdc166ae4ed6780c3d86de3e8&v=4" alt="SPQR-0" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/SPQR-0" target="_blank">SPQR-0</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">9703</td>
+      <td align="center">
+        <a href="https://github.com/devcheikh" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/175154316?v=4" alt="devcheikh" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/devcheikh" target="_blank">devcheikh</a>
       </td>
     </tr>
     <tr>
@@ -848,4 +848,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.262s on Sun Sep 15 at 11:50</p>
+<p align="right">Generated in 0.266s on Sun Sep 15 at 12:00</p>
