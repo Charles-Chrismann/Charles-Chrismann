@@ -82,29 +82,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">9734</td>
-      <td align="center">
-        <a href="https://github.com/srijagaddam" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/51986437?u=464b13b0e22b8a03a60d49ad1cf491716281c750&v=4" alt="srijagaddam" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/srijagaddam" target="_blank">srijagaddam</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">9735</td>
-      <td align="center">
-        <a href="https://github.com/masiDaniel" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/132379006?u=da9ba001ef9f359253689821d28d37f74d4f0055&v=4" alt="masiDaniel" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/masiDaniel" target="_blank">masiDaniel</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">9736</td>
       <td align="center">
         <a href="https://github.com/mutungapeter" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/81368127?u=01384e32db635791e8cd4884f81adac4f1108972&v=4" alt="mutungapeter" width="40" height="40"/>
@@ -115,7 +93,29 @@
       </td>
     </tr>
     <tr>
+      <td align="center">9736</td>
+      <td align="center">
+        <a href="https://github.com/paulo-magls" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/104034043?u=e2d304e9adae1a064b1a52155073af18350c73cd&v=4" alt="paulo-magls" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/paulo-magls" target="_blank">paulo-magls</a>
+      </td>
+    </tr>
+    <tr>
       <td align="center">9737</td>
+      <td align="center">
+        <a href="https://github.com/Rendells" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/124748281?v=4" alt="Rendells" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Rendells" target="_blank">Rendells</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">9738</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -836,4 +836,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.155s on Sun Sep 15 at 18:52</p>
+<p align="right">Generated in 0.145s on Sun Sep 15 at 18:52</p>
