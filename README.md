@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">9743</td>
-      <td align="center">
-        <a href="https://github.com/aeke" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/2978905?u=25c399ea6bfb98e613b1022289ea39a514c2e4d9&v=4" alt="aeke" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/aeke" target="_blank">aeke</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">9744</td>
       <td align="center">
         <a href="https://github.com/3isaac" target="_blank">
@@ -107,7 +96,7 @@
       <td align="center">9745</td>
       <td align="center">
         <a href="https://github.com/taimoormirza1999" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/74351945?u=396e509a669d5ea379c27564fbb97283fa6b46a4&v=4" alt="taimoormirza1999" width="40" height="40"/>
+          <img src="https://avatars.githubusercontent.com/u/74351945?u=8116de4ccfb3506752e60688e42ca0a124ff925d&v=4" alt="taimoormirza1999" width="40" height="40"/>
         </a>
       </td>
       <td>
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">9746</td>
+      <td align="center">
+        <a href="https://github.com/Rue-ops6" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/174963020?u=e19308ee17d71842fb35d09598e9a8d1193e7747&v=4" alt="Rue-ops6" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Rue-ops6" target="_blank">Rue-ops6</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">9747</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -831,4 +831,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.27s on Sun Sep 15 at 20:12</p>
+<p align="right">Generated in 0.219s on Sun Sep 15 at 20:19</p>
