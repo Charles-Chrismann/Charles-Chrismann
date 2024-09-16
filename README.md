@@ -82,29 +82,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">9781</td>
-      <td align="center">
-        <a href="https://github.com/nidqija" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/144256646?u=34cb811cb035af75dd787afa48b45f5852d9d916&v=4" alt="nidqija" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/nidqija" target="_blank">nidqija</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">9782</td>
-      <td align="center">
-        <a href="https://github.com/Vikmanatus" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/46979303?u=c622c0a5ddd0237681f18f772dcb6e0453d69727&v=4" alt="Vikmanatus" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Vikmanatus" target="_blank">Vikmanatus</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">9783</td>
       <td align="center">
         <a href="https://github.com/corecaps" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/84155164?v=4" alt="corecaps" width="40" height="40"/>
@@ -115,7 +93,29 @@
       </td>
     </tr>
     <tr>
+      <td align="center">9783</td>
+      <td align="center">
+        <a href="https://github.com/JohnMwendwa" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/72663882?u=805073cc702701b4ad6c56a60dc0bdae9ccac964&v=4" alt="JohnMwendwa" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/JohnMwendwa" target="_blank">JohnMwendwa</a>
+      </td>
+    </tr>
+    <tr>
       <td align="center">9784</td>
+      <td align="center">
+        <a href="https://github.com/techupgrader" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/95038746?u=01a634f486e31b7e6b742b930962d5c55003f8a3&v=4" alt="techupgrader" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/techupgrader" target="_blank">techupgrader</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">9785</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -839,4 +839,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.27s on Mon Sep 16 at 10:12</p>
+<p align="right">Generated in 0.209s on Mon Sep 16 at 10:16</p>
