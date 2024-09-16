@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">9782</td>
-      <td align="center">
-        <a href="https://github.com/corecaps" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/84155164?v=4" alt="corecaps" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/corecaps" target="_blank">corecaps</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">9783</td>
       <td align="center">
         <a href="https://github.com/JohnMwendwa" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">9785</td>
+      <td align="center">
+        <a href="https://github.com/pranigopu" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/69959590?u=4f670585c9c3b1e0d86177124594c1619e447917&v=4" alt="pranigopu" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/pranigopu" target="_blank">pranigopu</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">9786</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -839,4 +839,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.216s on Mon Sep 16 at 10:24</p>
+<p align="right">Generated in 0.208s on Mon Sep 16 at 10:26</p>
