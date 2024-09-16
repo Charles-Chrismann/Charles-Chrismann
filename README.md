@@ -84,17 +84,6 @@
     <tr>
       <td align="center">9783</td>
       <td align="center">
-        <a href="https://github.com/JohnMwendwa" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/72663882?u=805073cc702701b4ad6c56a60dc0bdae9ccac964&v=4" alt="JohnMwendwa" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/JohnMwendwa" target="_blank">JohnMwendwa</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">9784</td>
-      <td align="center">
         <a href="https://github.com/techupgrader" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/95038746?u=01a634f486e31b7e6b742b930962d5c55003f8a3&v=4" alt="techupgrader" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">9785</td>
+      <td align="center">9784</td>
       <td align="center">
         <a href="https://github.com/pranigopu" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/69959590?u=4f670585c9c3b1e0d86177124594c1619e447917&v=4" alt="pranigopu" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/pranigopu" target="_blank">pranigopu</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">9785</td>
+      <td align="center">
+        <a href="https://github.com/Huncho90" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/175185009?v=4" alt="Huncho90" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Huncho90" target="_blank">Huncho90</a>
       </td>
     </tr>
     <tr>
@@ -839,4 +839,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.157s on Mon Sep 16 at 10:36</p>
+<p align="right">Generated in 0.148s on Mon Sep 16 at 10:43</p>
