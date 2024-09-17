@@ -84,17 +84,6 @@
     <tr>
       <td align="center">9872</td>
       <td align="center">
-        <a href="https://github.com/ThugXD" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/123699222?u=7e363ad32ce5f45ad46f9ccfe6816d6e37ce90ec&v=4" alt="ThugXD" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/ThugXD" target="_blank">ThugXD</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">9873</td>
-      <td align="center">
         <a href="https://github.com/mouad4949" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/146367397?u=f917dbe82c772efcd2fb9a97a8d5c2df66f4bd9b&v=4" alt="mouad4949" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">9874</td>
+      <td align="center">9873</td>
       <td align="center">
         <a href="https://github.com/254mathenge" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/125548508?v=4" alt="254mathenge" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/254mathenge" target="_blank">254mathenge</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">9874</td>
+      <td align="center">
+        <a href="https://github.com/WaedSammar" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/170462598?u=a942377c04eb01120fb43313691af28d1d0a52af&v=4" alt="WaedSammar" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/WaedSammar" target="_blank">WaedSammar</a>
       </td>
     </tr>
     <tr>
@@ -893,4 +893,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.245s on Tue Sep 17 at 14:33</p>
+<p align="right">Generated in 0.174s on Tue Sep 17 at 14:33</p>
