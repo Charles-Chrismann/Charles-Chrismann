@@ -82,7 +82,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">9907</td>
+      <td align="center">9906</td>
       <td align="center">
         <a href="https://github.com/ernst-bablick" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/38881393?v=4" alt="ernst-bablick" width="40" height="40"/>
@@ -93,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">9908</td>
+      <td align="center">9907</td>
       <td align="center">
         <a href="https://github.com/emartinez-dev" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/73340871?u=93461693c47ad8bcc82c72e423b4028bd3915d5e&v=4" alt="emartinez-dev" width="40" height="40"/>
@@ -104,7 +104,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">9909</td>
+      <td align="center">9908</td>
       <td align="center">
         <a href="https://github.com/JohnMwendwa" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/72663882?u=805073cc702701b4ad6c56a60dc0bdae9ccac964&v=4" alt="JohnMwendwa" width="40" height="40"/>
@@ -115,7 +115,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">9910</td>
+      <td align="center">9909</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -743,46 +743,6 @@
   </thead>
   <tbody>
     <tr>
-      <td>$\text{\color{white}{C}}$</td>
-      <td>$\text{\color{white}{R}}$</td>
-      <td>$\text{\color{white}{A}}$</td>
-      <td>$\text{\color{orange}{N}}$</td>
-      <td>$\text{\color{white}{E}}$</td>
-      <td>
-        <a href="https://github.com/Foword5">@Foword5</a>
-      </td>
-    </tr>
-    <tr>
-      <td>$\text{\color{white}{S}}$</td>
-      <td>$\text{\color{orange}{K}}$</td>
-      <td>$\text{\color{orange}{U}}$</td>
-      <td>$\text{\color{white}{L}}$</td>
-      <td>$\text{\color{white}{L}}$</td>
-      <td>
-        <a href="https://github.com/Foword5">@Foword5</a>
-      </td>
-    </tr>
-    <tr>
-      <td>$\text{\color{orange}{K}}$</td>
-      <td>$\text{\color{orange}{N}}$</td>
-      <td>$\text{\color{white}{O}}$</td>
-      <td>$\text{\color{white}{L}}$</td>
-      <td>$\text{\color{white}{L}}$</td>
-      <td>
-        <a href="https://github.com/Foword5">@Foword5</a>
-      </td>
-    </tr>
-    <tr>
-      <td>$\text{\color{lightgreen}{H}}$</td>
-      <td>$\text{\color{lightgreen}{U}}$</td>
-      <td>$\text{\color{lightgreen}{N}}$</td>
-      <td>$\text{\color{lightgreen}{K}}$</td>
-      <td>$\text{\color{lightgreen}{Y}}$</td>
-      <td>
-        <a href="https://github.com/Foword5">@Foword5</a>
-      </td>
-    </tr>
-    <tr>
       <td>‎ </td>
       <td>‎ </td>
       <td>‎ </td>
@@ -892,4 +852,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.243s on Tue Sep 17 at 21:46</p>
+<p align="right">Generated in 0.254s on Tue Sep 17 at 22:00</p>
