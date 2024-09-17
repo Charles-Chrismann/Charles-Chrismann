@@ -107,7 +107,7 @@
       <td align="center">9886</td>
       <td align="center">
         <a href="https://github.com/KaiqueSakuma" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/93882935?v=4" alt="KaiqueSakuma" width="40" height="40"/>
+          <img src="https://avatars.githubusercontent.com/u/93882935?u=50810407009a789875291a0b4de1f8055bc1a611&v=4" alt="KaiqueSakuma" width="40" height="40"/>
         </a>
       </td>
       <td>
@@ -877,4 +877,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.452s on Tue Sep 17 at 17:03</p>
+<p align="right">Generated in 0.393s on Tue Sep 17 at 17:03</p>
