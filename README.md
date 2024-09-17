@@ -82,40 +82,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">9878</td>
+      <td align="center">9882</td>
       <td align="center">
-        <a href="https://github.com/Neko0kami" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/162889885?u=9c586831496ca94e37e4ba3dd37ed864743a3b92&v=4" alt="Neko0kami" width="40" height="40"/>
+        <a href="https://github.com/Byvalvin" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/105598502?u=cdee52ab5164a99df5a5ebe246c46489d45837e4&v=4" alt="Byvalvin" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/Neko0kami" target="_blank">Neko0kami</a>
+        <a href="https://github.com/Byvalvin" target="_blank">Byvalvin</a>
       </td>
     </tr>
     <tr>
-      <td align="center">9879</td>
+      <td align="center">9883</td>
       <td align="center">
-        <a href="https://github.com/noahharshbarger" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/171390255?u=9d2b8cb9bf68db0c4525240d1d0b5c94d2c42749&v=4" alt="noahharshbarger" width="40" height="40"/>
+        <a href="https://github.com/LuisDaga07" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/99050597?u=6286eb7755a0152d7351111cd6daccf3fe46b974&v=4" alt="LuisDaga07" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/noahharshbarger" target="_blank">noahharshbarger</a>
+        <a href="https://github.com/LuisDaga07" target="_blank">LuisDaga07</a>
       </td>
     </tr>
     <tr>
-      <td align="center">9880</td>
+      <td align="center">9884</td>
       <td align="center">
-        <a href="https://github.com/patriciamv97" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/72247871?v=4" alt="patriciamv97" width="40" height="40"/>
+        <a href="https://github.com/Marcelo-Ferreira-Rodrigues" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/114040490?u=2837aba69690a8a4b3a6007267a4d0503300f84d&v=4" alt="Marcelo-Ferreira-Rodrigues" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/patriciamv97" target="_blank">patriciamv97</a>
+        <a href="https://github.com/Marcelo-Ferreira-Rodrigues" target="_blank">Marcelo-Ferreira-Rodrigues</a>
       </td>
     </tr>
     <tr>
-      <td align="center">9881</td>
+      <td align="center">9885</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -881,4 +881,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.465s on Tue Sep 17 at 16:24</p>
+<p align="right">Generated in 0.395s on Tue Sep 17 at 16:24</p>
