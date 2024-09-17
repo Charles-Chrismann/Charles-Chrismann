@@ -84,17 +84,6 @@
     <tr>
       <td align="center">9868</td>
       <td align="center">
-        <a href="https://github.com/fatihaosman" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/156666926?v=4" alt="fatihaosman" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/fatihaosman" target="_blank">fatihaosman</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">9869</td>
-      <td align="center">
         <a href="https://github.com/mertcaliskan34" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/95829696?u=ada440223bc3ae0c6217001f70c2390351fecec1&v=4" alt="mertcaliskan34" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">9870</td>
+      <td align="center">9869</td>
       <td align="center">
         <a href="https://github.com/dev-kimgoeun" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/148428523?u=78ae61e7622f15b5b1e9c5c5b9cbf6dd98df3349&v=4" alt="dev-kimgoeun" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/dev-kimgoeun" target="_blank">dev-kimgoeun</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">9870</td>
+      <td align="center">
+        <a href="https://github.com/kintama48" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/65843525?u=a3f84951f0ec825ae9de748d2bf549047db15eaf&v=4" alt="kintama48" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/kintama48" target="_blank">kintama48</a>
       </td>
     </tr>
     <tr>
@@ -876,4 +876,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.194s on Tue Sep 17 at 13:37</p>
+<p align="right">Generated in 0.196s on Tue Sep 17 at 13:37</p>
