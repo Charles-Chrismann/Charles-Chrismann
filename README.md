@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">9852</td>
-      <td align="center">
-        <a href="https://github.com/happydev0126" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/177311033?v=4" alt="happydev0126" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/happydev0126" target="_blank">happydev0126</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">9853</td>
       <td align="center">
         <a href="https://github.com/AkashSinghfeb21" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">9855</td>
+      <td align="center">
+        <a href="https://github.com/Barniva" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/123116734?u=2a8c06b23d5ced7403b322162a7407c65112c05b&v=4" alt="Barniva" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Barniva" target="_blank">Barniva</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">9856</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -863,4 +863,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.246s on Tue Sep 17 at 7:39</p>
+<p align="right">Generated in 0.233s on Tue Sep 17 at 7:43</p>
