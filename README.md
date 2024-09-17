@@ -82,29 +82,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">9873</td>
-      <td align="center">
-        <a href="https://github.com/254mathenge" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/125548508?v=4" alt="254mathenge" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/254mathenge" target="_blank">254mathenge</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">9874</td>
-      <td align="center">
-        <a href="https://github.com/WaedSammar" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/170462598?u=a942377c04eb01120fb43313691af28d1d0a52af&v=4" alt="WaedSammar" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/WaedSammar" target="_blank">WaedSammar</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">9875</td>
       <td align="center">
         <a href="https://github.com/jasonprogrammer775" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/74604447?u=34489bf65314c735e2cd2168c89015bc9a369b7d&v=4" alt="jasonprogrammer775" width="40" height="40"/>
@@ -115,7 +93,29 @@
       </td>
     </tr>
     <tr>
+      <td align="center">9875</td>
+      <td align="center">
+        <a href="https://github.com/Alask-Code" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/59598472?u=438c48327f6c1c95e5a13848eeb0fa0cba05dacf&v=4" alt="Alask-Code" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Alask-Code" target="_blank">Alask-Code</a>
+      </td>
+    </tr>
+    <tr>
       <td align="center">9876</td>
+      <td align="center">
+        <a href="https://github.com/itsme-Peter" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/82626014?v=4" alt="itsme-Peter" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/itsme-Peter" target="_blank">itsme-Peter</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">9877</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -883,4 +883,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.167s on Tue Sep 17 at 15:02</p>
+<p align="right">Generated in 0.157s on Tue Sep 17 at 15:07</p>
