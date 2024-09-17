@@ -82,18 +82,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">9898</td>
-      <td align="center">
-        <a href="https://github.com/Apexo1" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/160789589?v=4" alt="Apexo1" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Apexo1" target="_blank">Apexo1</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">9899</td>
+      <td align="center">9900</td>
       <td align="center">
         <a href="https://github.com/PatriciaCastagna" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/74668992?u=066eb1d0ab695597934c55a6250b7d50033eaf78&v=4" alt="PatriciaCastagna" width="40" height="40"/>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">9900</td>
+      <td align="center">9901</td>
       <td align="center">
         <a href="https://github.com/itsSandeep2023" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/136233661?u=0509db10b910f40a036ba99cb2e07dc7edc097c7&v=4" alt="itsSandeep2023" width="40" height="40"/>
@@ -115,7 +104,18 @@
       </td>
     </tr>
     <tr>
-      <td align="center">9901</td>
+      <td align="center">9902</td>
+      <td align="center">
+        <a href="https://github.com/sol-wiz" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/3588312?v=4" alt="sol-wiz" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/sol-wiz" target="_blank">sol-wiz</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">9903</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -896,4 +896,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.56s on Tue Sep 17 at 19:37</p>
+<p align="right">Generated in 0.566s on Tue Sep 17 at 19:43</p>
