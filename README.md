@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">9902</td>
-      <td align="center">
-        <a href="https://github.com/sol-wiz" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/3588312?v=4" alt="sol-wiz" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/sol-wiz" target="_blank">sol-wiz</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">9903</td>
       <td align="center">
         <a href="https://github.com/larissayasmim" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">9905</td>
+      <td align="center">
+        <a href="https://github.com/sodesu2077" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/77839343?v=4" alt="sodesu2077" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/sodesu2077" target="_blank">sodesu2077</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">9906</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -892,4 +892,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.338s on Tue Sep 17 at 20:21</p>
+<p align="right">Generated in 0.295s on Tue Sep 17 at 20:36</p>
