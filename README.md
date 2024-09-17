@@ -84,17 +84,6 @@
     <tr>
       <td align="center">9868</td>
       <td align="center">
-        <a href="https://github.com/guzztavo2" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/62066122?u=1595d509ee19a1a655ded1e1a9204d50b2d84ebe&v=4" alt="guzztavo2" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/guzztavo2" target="_blank">guzztavo2</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">9869</td>
-      <td align="center">
         <a href="https://github.com/nithya-bharadwaj" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/74711920?v=4" alt="nithya-bharadwaj" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">9870</td>
+      <td align="center">9869</td>
       <td align="center">
         <a href="https://github.com/Santiago1721" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/119289025?u=606f7d8a4a92bf07fb2d8344f390cb4694f2dee9&v=4" alt="Santiago1721" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/Santiago1721" target="_blank">Santiago1721</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">9870</td>
+      <td align="center">
+        <a href="https://github.com/JohnMwendwa" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/72663882?u=805073cc702701b4ad6c56a60dc0bdae9ccac964&v=4" alt="JohnMwendwa" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/JohnMwendwa" target="_blank">JohnMwendwa</a>
       </td>
     </tr>
     <tr>
@@ -834,4 +834,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.153s on Tue Sep 17 at 11:46</p>
+<p align="right">Generated in 0.357s on Tue Sep 17 at 11:58</p>
