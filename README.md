@@ -740,6 +740,16 @@
   </thead>
   <tbody>
     <tr>
+      <td>$\text{\color{white}{P}}$</td>
+      <td>$\text{\color{white}{L}}$</td>
+      <td>$\text{\color{white}{A}}$</td>
+      <td>$\text{\color{white}{N}}$</td>
+      <td>$\text{\color{white}{T}}$</td>
+      <td>
+        <a href="https://github.com/VictorBasso36">@VictorBasso36</a>
+      </td>
+    </tr>
+    <tr>
       <td>‎ </td>
       <td>‎ </td>
       <td>‎ </td>
@@ -849,4 +859,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.153s on Wed Sep 18 at 18:10</p>
+<p align="right">Generated in 0.221s on Wed Sep 18 at 18:13</p>
