@@ -84,17 +84,6 @@
     <tr>
       <td align="center">9958</td>
       <td align="center">
-        <a href="https://github.com/JohnAnthony" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/436859?u=5f5e06a6414e9e2b6abc144137efe66b7e2bb3f2&v=4" alt="JohnAnthony" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/JohnAnthony" target="_blank">JohnAnthony</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">9959</td>
-      <td align="center">
         <a href="https://github.com/anjupy" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/148764617?u=dd7d1be1654071794c3846f325cb581a12562509&v=4" alt="anjupy" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">9960</td>
+      <td align="center">9959</td>
       <td align="center">
         <a href="https://github.com/playcodebyflapjack" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/6084576?u=c677214fea01c5b89afd9bf352ea40be7b70417e&v=4" alt="playcodebyflapjack" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/playcodebyflapjack" target="_blank">playcodebyflapjack</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">9960</td>
+      <td align="center">
+        <a href="https://github.com/BernardoMaggessi" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/79543169?u=2fda0e97e4ef4de6fd26d226be12dcd77911e371&v=4" alt="BernardoMaggessi" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/BernardoMaggessi" target="_blank">BernardoMaggessi</a>
       </td>
     </tr>
     <tr>
@@ -830,4 +830,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.157s on Wed Sep 18 at 14:43</p>
+<p align="right">Generated in 0.233s on Wed Sep 18 at 14:46</p>
