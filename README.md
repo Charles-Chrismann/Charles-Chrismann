@@ -82,40 +82,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">9921</td>
-      <td align="center">
-        <a href="https://github.com/Glamorous9754" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/142959099?u=137757d965c77b4daf7e75ad22b0c81427cddebc&v=4" alt="Glamorous9754" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Glamorous9754" target="_blank">Glamorous9754</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">9922</td>
-      <td align="center">
-        <a href="https://github.com/queenie-sysad" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/129498700?v=4" alt="queenie-sysad" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/queenie-sysad" target="_blank">queenie-sysad</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">9923</td>
-      <td align="center">
-        <a href="https://github.com/thalesms2" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/9964138?u=c9ecb1bd65059a756bf28fa30c97605bcd9108b2&v=4" alt="thalesms2" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/thalesms2" target="_blank">thalesms2</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">9924</td>
+      <td align="center">
+        <a href="https://github.com/wisnuyasha" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/100693456?v=4" alt="wisnuyasha" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/wisnuyasha" target="_blank">wisnuyasha</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">9925</td>
+      <td align="center">
+        <a href="https://github.com/Rishik7570" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/166695857?u=3ee7c23dd999244020964db2df2370bf8d7623ec&v=4" alt="Rishik7570" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Rishik7570" target="_blank">Rishik7570</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">9926</td>
+      <td align="center">
+        <a href="https://github.com/msahinciftci" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/14074488?u=72f35ea51394d32e1dd6bd7a5e8811cf98aa8928&v=4" alt="msahinciftci" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/msahinciftci" target="_blank">msahinciftci</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">9927</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -862,4 +862,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.437s on Wed Sep 18 at 4:40</p>
+<p align="right">Generated in 0.388s on Wed Sep 18 at 4:46</p>
