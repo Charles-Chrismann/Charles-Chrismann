@@ -84,17 +84,6 @@
     <tr>
       <td align="center">9921</td>
       <td align="center">
-        <a href="https://github.com/dev-737" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/73829355?u=89ef5708026ff60bf1afce3c30baaea24327b62b&v=4" alt="dev-737" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/dev-737" target="_blank">dev-737</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">9922</td>
-      <td align="center">
         <a href="https://github.com/Glamorous9754" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/142959099?u=137757d965c77b4daf7e75ad22b0c81427cddebc&v=4" alt="Glamorous9754" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">9923</td>
+      <td align="center">9922</td>
       <td align="center">
         <a href="https://github.com/queenie-sysad" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/129498700?v=4" alt="queenie-sysad" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/queenie-sysad" target="_blank">queenie-sysad</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">9923</td>
+      <td align="center">
+        <a href="https://github.com/thalesms2" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/9964138?u=c9ecb1bd65059a756bf28fa30c97605bcd9108b2&v=4" alt="thalesms2" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/thalesms2" target="_blank">thalesms2</a>
       </td>
     </tr>
     <tr>
@@ -862,4 +862,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.382s on Wed Sep 18 at 4:25</p>
+<p align="right">Generated in 0.421s on Wed Sep 18 at 4:30</p>
