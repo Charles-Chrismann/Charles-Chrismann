@@ -82,40 +82,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">9992</td>
+      <td align="center">9990</td>
       <td align="center">
-        <a href="https://github.com/sphereofrealization" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/54379173?u=4abbfacb849b6c4c5342fc30a83432874b96887e&v=4" alt="sphereofrealization" width="40" height="40"/>
+        <a href="https://github.com/RafaelAmorim27" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/169219015?u=b7c67e49071afd8e10c56c60f0e5db8cb785310c&v=4" alt="RafaelAmorim27" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/sphereofrealization" target="_blank">sphereofrealization</a>
+        <a href="https://github.com/RafaelAmorim27" target="_blank">RafaelAmorim27</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">9991</td>
+      <td align="center">
+        <a href="https://github.com/limavit" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/22568465?u=7aebffa2bd7c614b94e4d17a34c2e497d459bde4&v=4" alt="limavit" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/limavit" target="_blank">limavit</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">9992</td>
+      <td align="center">
+        <a href="https://github.com/diyorsattarov" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/38271173?u=314db59c2ab673edead3cc1f0e3074d8df62e16c&v=4" alt="diyorsattarov" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/diyorsattarov" target="_blank">diyorsattarov</a>
       </td>
     </tr>
     <tr>
       <td align="center">9993</td>
-      <td align="center">
-        <a href="https://github.com/JuniaBS" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/152793030?u=de0e7517107afb3367971f030fbfc85e94fc0f34&v=4" alt="JuniaBS" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/JuniaBS" target="_blank">JuniaBS</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">9994</td>
-      <td align="center">
-        <a href="https://github.com/illyasen1999" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/93032328?u=75cb4c0ed0d5c6c3c72ceadac6c92d8c6e6908e5&v=4" alt="illyasen1999" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/illyasen1999" target="_blank">illyasen1999</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">9995</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -837,4 +837,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.381s on Thu Sep 19 at 1:35</p>
+<p align="right">Generated in 0.342s on Thu Sep 19 at 1:35</p>
