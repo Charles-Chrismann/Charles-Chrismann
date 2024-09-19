@@ -82,29 +82,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">10019</td>
-      <td align="center">
-        <a href="https://github.com/sakura8084" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/182088170?u=8a6074030d464ba8eb84081d0fafbabe2305dc8c&v=4" alt="sakura8084" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/sakura8084" target="_blank">sakura8084</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">10020</td>
-      <td align="center">
-        <a href="https://github.com/fullstackchester" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/91867272?u=2a157963f4f432a011f5afd73a54ead30745df59&v=4" alt="fullstackchester" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/fullstackchester" target="_blank">fullstackchester</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">10021</td>
       <td align="center">
         <a href="https://github.com/almunc" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/55632025?v=4" alt="almunc" width="40" height="40"/>
@@ -115,7 +93,29 @@
       </td>
     </tr>
     <tr>
+      <td align="center">10021</td>
+      <td align="center">
+        <a href="https://github.com/JohnMwendwa" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/72663882?u=805073cc702701b4ad6c56a60dc0bdae9ccac964&v=4" alt="JohnMwendwa" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/JohnMwendwa" target="_blank">JohnMwendwa</a>
+      </td>
+    </tr>
+    <tr>
       <td align="center">10022</td>
+      <td align="center">
+        <a href="https://github.com/kenyapower" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/54737694?u=6bf79d1d3188e883e50bd01c56344b0725dd3902&v=4" alt="kenyapower" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/kenyapower" target="_blank">kenyapower</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">10023</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -840,4 +840,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.174s on Thu Sep 19 at 10:36</p>
+<p align="right">Generated in 0.169s on Thu Sep 19 at 11:02</p>
