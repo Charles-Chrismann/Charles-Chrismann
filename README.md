@@ -84,17 +84,6 @@
     <tr>
       <td align="center">10020</td>
       <td align="center">
-        <a href="https://github.com/almunc" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/55632025?v=4" alt="almunc" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/almunc" target="_blank">almunc</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">10021</td>
-      <td align="center">
         <a href="https://github.com/JohnMwendwa" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/72663882?u=805073cc702701b4ad6c56a60dc0bdae9ccac964&v=4" alt="JohnMwendwa" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">10022</td>
+      <td align="center">10021</td>
       <td align="center">
         <a href="https://github.com/kenyapower" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/54737694?u=6bf79d1d3188e883e50bd01c56344b0725dd3902&v=4" alt="kenyapower" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/kenyapower" target="_blank">kenyapower</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">10022</td>
+      <td align="center">
+        <a href="https://github.com/yonaisgood" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/124084624?u=c3fed6189de4eb3d5f04a023a51f16d7dadfb401&v=4" alt="yonaisgood" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/yonaisgood" target="_blank">yonaisgood</a>
       </td>
     </tr>
     <tr>
@@ -840,4 +840,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.166s on Thu Sep 19 at 11:06</p>
+<p align="right">Generated in 0.164s on Thu Sep 19 at 11:11</p>
