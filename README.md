@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">10063</td>
-      <td align="center">
-        <a href="https://github.com/defi-bear" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/57267692?u=994711e353e21b08649d19a9e57bf14d05874ce7&v=4" alt="defi-bear" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/defi-bear" target="_blank">defi-bear</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">10064</td>
       <td align="center">
         <a href="https://github.com/gehanmostafa" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">10066</td>
+      <td align="center">
+        <a href="https://github.com/JoelRiveraL" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/63800067?u=5e23654c09af8d201f4ed7678ec49a69257a699d&v=4" alt="JoelRiveraL" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/JoelRiveraL" target="_blank">JoelRiveraL</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">10067</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -841,4 +841,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.334s on Thu Sep 19 at 22:41</p>
+<p align="right">Generated in 0.271s on Thu Sep 19 at 22:44</p>
