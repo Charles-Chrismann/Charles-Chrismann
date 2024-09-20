@@ -84,17 +84,6 @@
     <tr>
       <td align="center">10114</td>
       <td align="center">
-        <a href="https://github.com/Kalantar2020" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/116709094?u=340c24d3d35b8aae140d9c486179c53d14069d13&v=4" alt="Kalantar2020" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Kalantar2020" target="_blank">Kalantar2020</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">10115</td>
-      <td align="center">
         <a href="https://github.com/RiccettoDev" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/142124768?u=99bd00930283eb7c6ff118c4d2390bdf45b25f1b&v=4" alt="RiccettoDev" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">10116</td>
+      <td align="center">10115</td>
       <td align="center">
         <a href="https://github.com/Ramazan-yildirim" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/141138032?v=4" alt="Ramazan-yildirim" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/Ramazan-yildirim" target="_blank">Ramazan-yildirim</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">10116</td>
+      <td align="center">
+        <a href="https://github.com/ammarsalahi" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/24721813?u=1faa7959ec9efea7a04f32ba963b17d5345a5d4b&v=4" alt="ammarsalahi" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/ammarsalahi" target="_blank">ammarsalahi</a>
       </td>
     </tr>
     <tr>
@@ -920,4 +920,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.221s on Fri Sep 20 at 17:11</p>
+<p align="right">Generated in 0.156s on Fri Sep 20 at 17:13</p>
