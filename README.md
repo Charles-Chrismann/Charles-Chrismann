@@ -806,6 +806,16 @@
       </td>
     </tr>
     <tr>
+      <td>$\text{\color{lightgreen}{V}}$</td>
+      <td>$\text{\color{lightgreen}{Y}}$</td>
+      <td>$\text{\color{lightgreen}{I}}$</td>
+      <td>$\text{\color{lightgreen}{N}}$</td>
+      <td>$\text{\color{lightgreen}{G}}$</td>
+      <td>
+        <a href="https://github.com/Foword5">@Foword5</a>
+      </td>
+    </tr>
+    <tr>
       <td>‎ </td>
       <td>‎ </td>
       <td>‎ </td>
@@ -839,7 +849,7 @@
       <td>
         <a href="https://github.com/Foword5">@Foword5</a>
       </td>
-      <td align="center">17</td>
+      <td align="center">18</td>
     </tr>
     <tr>
       <td align="center">2</td>
@@ -915,4 +925,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.287s on Fri Sep 20 at 9:20</p>
+<p align="right">Generated in 0.352s on Fri Sep 20 at 9:20</p>
