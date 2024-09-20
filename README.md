@@ -84,17 +84,6 @@
     <tr>
       <td align="center">10110</td>
       <td align="center">
-        <a href="https://github.com/Jos1004" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/86150617?u=ac6b21013c8f3c07b72b0609d2e33078780efdf1&v=4" alt="Jos1004" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Jos1004" target="_blank">Jos1004</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">10111</td>
-      <td align="center">
         <a href="https://github.com/ExequielDW" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/179517274?u=3153d642837a6efafbef378e1a4f7c557e495294&v=4" alt="ExequielDW" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">10112</td>
+      <td align="center">10111</td>
       <td align="center">
         <a href="https://github.com/lili111001" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/177556453?u=12655caeb4b0b0b2015dac2b26e799dbb21ace7a&v=4" alt="lili111001" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/lili111001" target="_blank">lili111001</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">10112</td>
+      <td align="center">
+        <a href="https://github.com/dmunoz005" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/117699301?v=4" alt="dmunoz005" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/dmunoz005" target="_blank">dmunoz005</a>
       </td>
     </tr>
     <tr>
@@ -908,4 +908,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.173s on Fri Sep 20 at 16:54</p>
+<p align="right">Generated in 0.161s on Fri Sep 20 at 16:54</p>
