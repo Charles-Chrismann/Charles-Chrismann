@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">10163</td>
-      <td align="center">
-        <a href="https://github.com/MeminErkenekenXD" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/97636236?u=79a9c96fc00ca9130040ff3e6e4983235d382587&v=4" alt="MeminErkenekenXD" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/MeminErkenekenXD" target="_blank">MeminErkenekenXD</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">10164</td>
       <td align="center">
         <a href="https://github.com/linuxmetel" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">10166</td>
+      <td align="center">
+        <a href="https://github.com/DanielSouza2005" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/67985375?v=4" alt="DanielSouza2005" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/DanielSouza2005" target="_blank">DanielSouza2005</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">10167</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -835,4 +835,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.172s on Sat Sep 21 at 13:59</p>
+<p align="right">Generated in 0.152s on Sat Sep 21 at 14:03</p>
