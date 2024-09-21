@@ -84,17 +84,6 @@
     <tr>
       <td align="center">10163</td>
       <td align="center">
-        <a href="https://github.com/maxzaikin" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/26962837?u=f5a6ddd64057489f30002c0d21025f7766cee231&v=4" alt="maxzaikin" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/maxzaikin" target="_blank">maxzaikin</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">10164</td>
-      <td align="center">
         <a href="https://github.com/MeminErkenekenXD" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/97636236?u=79a9c96fc00ca9130040ff3e6e4983235d382587&v=4" alt="MeminErkenekenXD" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">10165</td>
+      <td align="center">10164</td>
       <td align="center">
         <a href="https://github.com/linuxmetel" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/61399424?u=8018616256db2e63ae160c037e0b0bc01496caa5&v=4" alt="linuxmetel" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/linuxmetel" target="_blank">linuxmetel</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">10165</td>
+      <td align="center">
+        <a href="https://github.com/JohnMwendwa" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/72663882?u=805073cc702701b4ad6c56a60dc0bdae9ccac964&v=4" alt="JohnMwendwa" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/JohnMwendwa" target="_blank">JohnMwendwa</a>
       </td>
     </tr>
     <tr>
@@ -831,4 +831,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.332s on Sat Sep 21 at 13:51</p>
+<p align="right">Generated in 0.335s on Sat Sep 21 at 13:54</p>
