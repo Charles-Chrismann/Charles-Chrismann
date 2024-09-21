@@ -82,29 +82,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">10178</td>
-      <td align="center">
-        <a href="https://github.com/Manikantan-S" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/111214511?u=fe0a9980ad8117194062893ddd994d46e130c2e9&v=4" alt="Manikantan-S" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Manikantan-S" target="_blank">Manikantan-S</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">10179</td>
-      <td align="center">
-        <a href="https://github.com/amirofski" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/10779032?v=4" alt="amirofski" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/amirofski" target="_blank">amirofski</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">10180</td>
       <td align="center">
         <a href="https://github.com/y93r" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/104739868?u=28c2d30bff1a59482128fefe0a41bfd00bf73a33&v=4" alt="y93r" width="40" height="40"/>
@@ -115,7 +93,29 @@
       </td>
     </tr>
     <tr>
+      <td align="center">10180</td>
+      <td align="center">
+        <a href="https://github.com/JohnMwendwa" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/72663882?u=805073cc702701b4ad6c56a60dc0bdae9ccac964&v=4" alt="JohnMwendwa" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/JohnMwendwa" target="_blank">JohnMwendwa</a>
+      </td>
+    </tr>
+    <tr>
       <td align="center">10181</td>
+      <td align="center">
+        <a href="https://github.com/ebrarrc" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/148648621?u=60dd5bf46a4066af03d69e6cdc8ddd3352e7ceb7&v=4" alt="ebrarrc" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/ebrarrc" target="_blank">ebrarrc</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">10182</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -852,4 +852,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.35s on Sat Sep 21 at 19:18</p>
+<p align="right">Generated in 0.196s on Sat Sep 21 at 19:22</p>
