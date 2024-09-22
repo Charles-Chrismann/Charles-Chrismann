@@ -84,17 +84,6 @@
     <tr>
       <td align="center">10236</td>
       <td align="center">
-        <a href="https://github.com/Gedion-01" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/117908662?v=4" alt="Gedion-01" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Gedion-01" target="_blank">Gedion-01</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">10237</td>
-      <td align="center">
         <a href="https://github.com/Jorjill" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/48145722?u=f430957182dfb7f03f0558c32ab5fc3bbd8a46f7&v=4" alt="Jorjill" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">10238</td>
+      <td align="center">10237</td>
       <td align="center">
         <a href="https://github.com/jatinrathod1" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/134234094?v=4" alt="jatinrathod1" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/jatinrathod1" target="_blank">jatinrathod1</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">10238</td>
+      <td align="center">
+        <a href="https://github.com/gokturkturan" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/113911139?u=572ab0cbba6ea6be1624bb49184590a36456f50e&v=4" alt="gokturkturan" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/gokturkturan" target="_blank">gokturkturan</a>
       </td>
     </tr>
     <tr>
@@ -839,4 +839,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.2s on Sun Sep 22 at 18:34</p>
+<p align="right">Generated in 0.196s on Sun Sep 22 at 18:51</p>
