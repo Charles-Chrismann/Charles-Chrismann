@@ -84,17 +84,6 @@
     <tr>
       <td align="center">10223</td>
       <td align="center">
-        <a href="https://github.com/Adhi-2005" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/150684512?u=9a904a4b80cedebea1bf8fb52621b798d32a8ebe&v=4" alt="Adhi-2005" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Adhi-2005" target="_blank">Adhi-2005</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">10224</td>
-      <td align="center">
         <a href="https://github.com/MMETehrani" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/100990984?u=2c75fbdb0a2ce3a9c36af5e25655a15370dd8819&v=4" alt="MMETehrani" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">10225</td>
+      <td align="center">10224</td>
       <td align="center">
         <a href="https://github.com/shivakumarzishnuviknesh7" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/166371792?u=0bc9378979108af7e53f1e5e902d24175de45553&v=4" alt="shivakumarzishnuviknesh7" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/shivakumarzishnuviknesh7" target="_blank">shivakumarzishnuviknesh7</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">10225</td>
+      <td align="center">
+        <a href="https://github.com/JohnMwendwa" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/72663882?u=805073cc702701b4ad6c56a60dc0bdae9ccac964&v=4" alt="JohnMwendwa" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/JohnMwendwa" target="_blank">JohnMwendwa</a>
       </td>
     </tr>
     <tr>
@@ -843,4 +843,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.248s on Sun Sep 22 at 14:12</p>
+<p align="right">Generated in 0.245s on Sun Sep 22 at 14:24</p>
