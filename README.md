@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">10206</td>
-      <td align="center">
-        <a href="https://github.com/fromitive" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/46563149?u=15febde470e4018bbb86f6a5efdb884dfbb89a5c&v=4" alt="fromitive" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/fromitive" target="_blank">fromitive</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">10207</td>
       <td align="center">
         <a href="https://github.com/vuelcomponents" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">10209</td>
+      <td align="center">
+        <a href="https://github.com/DevAwizard" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/153505451?u=148f6232bf5cba7da6bc124036005f4b110dd547&v=4" alt="DevAwizard" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/DevAwizard" target="_blank">DevAwizard</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">10210</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -831,4 +831,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.932s on Sun Sep 22 at 10:41</p>
+<p align="right">Generated in 0.948s on Sun Sep 22 at 11:01</p>
