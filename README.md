@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">10241</td>
-      <td align="center">
-        <a href="https://github.com/hybridonroot" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/38476104?u=422f8b737b302770f418b25daf1507aae7508696&v=4" alt="hybridonroot" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/hybridonroot" target="_blank">hybridonroot</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">10242</td>
       <td align="center">
         <a href="https://github.com/Izaac-Cardoso" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">10244</td>
+      <td align="center">
+        <a href="https://github.com/ni-teixeira" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/131633756?u=d99125bbeb581575f13903e6c013392babc530d2&v=4" alt="ni-teixeira" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/ni-teixeira" target="_blank">ni-teixeira</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">10245</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -848,4 +848,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.232s on Sun Sep 22 at 23:14</p>
+<p align="right">Generated in 0.223s on Sun Sep 22 at 23:17</p>
