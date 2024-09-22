@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">10238</td>
-      <td align="center">
-        <a href="https://github.com/gokturkturan" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/113911139?u=572ab0cbba6ea6be1624bb49184590a36456f50e&v=4" alt="gokturkturan" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/gokturkturan" target="_blank">gokturkturan</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">10239</td>
       <td align="center">
         <a href="https://github.com/Martimex" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">10241</td>
+      <td align="center">
+        <a href="https://github.com/sevdenurs" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/119888860?u=78de9cd57a68783fd1718cc137ad21f92d9de6e2&v=4" alt="sevdenurs" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/sevdenurs" target="_blank">sevdenurs</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">10242</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
