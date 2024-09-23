@@ -82,7 +82,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">10268</td>
+      <td align="center">10269</td>
       <td align="center">
         <a href="https://github.com/balkayunus7" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/98759759?u=0b0e83971ffc15906ecf9b5dba97664eafc98014&v=4" alt="balkayunus7" width="40" height="40"/>
@@ -93,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">10269</td>
+      <td align="center">10270</td>
       <td align="center">
         <a href="https://github.com/garghub" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/45979759?u=137bad55dbc2f4e0c13293aab43484237804d9f9&v=4" alt="garghub" width="40" height="40"/>
@@ -104,18 +104,18 @@
       </td>
     </tr>
     <tr>
-      <td align="center">10270</td>
+      <td align="center">10271</td>
       <td align="center">
-        <a href="https://github.com/Yuva0" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/33837714?u=d552f0b3ea8b4b49567e59d2f4049a8444bb88a1&v=4" alt="Yuva0" width="40" height="40"/>
+        <a href="https://github.com/zymzym" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/32900440?u=84dec627a17813c9d0707a8458c5055dba4ad37d&v=4" alt="zymzym" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/Yuva0" target="_blank">Yuva0</a>
+        <a href="https://github.com/zymzym" target="_blank">zymzym</a>
       </td>
     </tr>
     <tr>
-      <td align="center">10271</td>
+      <td align="center">10272</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -891,4 +891,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.126s on Mon Sep 23 at 8:14</p>
+<p align="right">Generated in 0.242s on Mon Sep 23 at 8:19</p>
