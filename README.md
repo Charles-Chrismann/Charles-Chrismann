@@ -82,29 +82,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">10360</td>
-      <td align="center">
-        <a href="https://github.com/isidoraaleksic68" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/123560308?u=983a4e47eda8b5321bebe934d3d608659dfe577c&v=4" alt="isidoraaleksic68" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/isidoraaleksic68" target="_blank">isidoraaleksic68</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">10361</td>
-      <td align="center">
-        <a href="https://github.com/edersonsousa" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/33470642?u=06617c1188e8d075ad64511cdd17a941a49ae724&v=4" alt="edersonsousa" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/edersonsousa" target="_blank">edersonsousa</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">10362</td>
       <td align="center">
         <a href="https://github.com/thiagolopes-dev" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/12428027?u=c79725e4ed76f28edcbc746730f5a22c69e0ef89&v=4" alt="thiagolopes-dev" width="40" height="40"/>
@@ -115,7 +93,29 @@
       </td>
     </tr>
     <tr>
+      <td align="center">10362</td>
+      <td align="center">
+        <a href="https://github.com/Lonjayzimba" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/137267209?u=4e5950b38775567cdc41f84424d9d09783db699e&v=4" alt="Lonjayzimba" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Lonjayzimba" target="_blank">Lonjayzimba</a>
+      </td>
+    </tr>
+    <tr>
       <td align="center">10363</td>
+      <td align="center">
+        <a href="https://github.com/Mousta-Med" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/112891663?u=c32c9faa2a3c61731fd16d35a13d3cce7c2a59fe&v=4" alt="Mousta-Med" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Mousta-Med" target="_blank">Mousta-Med</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">10364</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -830,4 +830,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.119s on Tue Sep 24 at 12:10</p>
+<p align="right">Generated in 0.127s on Tue Sep 24 at 12:14</p>
