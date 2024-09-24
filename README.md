@@ -82,40 +82,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">10329</td>
-      <td align="center">
-        <a href="https://github.com/cam-odell" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/90564980?u=780da9ddf787cf9f39eb2513315ca4235c9e036c&v=4" alt="cam-odell" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/cam-odell" target="_blank">cam-odell</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">10330</td>
-      <td align="center">
-        <a href="https://github.com/kayes99" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/167276930?u=74c09592aecc3bb372f9e5f393a7f6ef5afc7cfc&v=4" alt="kayes99" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/kayes99" target="_blank">kayes99</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">10331</td>
-      <td align="center">
-        <a href="https://github.com/nak-honest" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/95845037?u=243f828f11b0441d9986715dde10bbd3f45285c9&v=4" alt="nak-honest" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/nak-honest" target="_blank">nak-honest</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">10332</td>
+      <td align="center">
+        <a href="https://github.com/nftsathya" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/112164035?u=5b987ea0aa2cc9135a5da6705da359ab3c59a715&v=4" alt="nftsathya" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/nftsathya" target="_blank">nftsathya</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">10333</td>
+      <td align="center">
+        <a href="https://github.com/Arc-Jung" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/43470915?u=06bfcabc5d26f1fae908858240c558817e5a293d&v=4" alt="Arc-Jung" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Arc-Jung" target="_blank">Arc-Jung</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">10334</td>
+      <td align="center">
+        <a href="https://github.com/Zaidgetsit" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/176190194?u=afa7445979b887958a992192c5c496a301a5159f&v=4" alt="Zaidgetsit" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Zaidgetsit" target="_blank">Zaidgetsit</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">10335</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -853,4 +853,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.543s on Tue Sep 24 at 5:21</p>
+<p align="right">Generated in 0.593s on Tue Sep 24 at 5:29</p>
