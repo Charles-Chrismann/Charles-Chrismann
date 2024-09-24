@@ -84,17 +84,6 @@
     <tr>
       <td align="center">10340</td>
       <td align="center">
-        <a href="https://github.com/meliksahyorulmazlar" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/141827156?v=4" alt="meliksahyorulmazlar" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/meliksahyorulmazlar" target="_blank">meliksahyorulmazlar</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">10341</td>
-      <td align="center">
         <a href="https://github.com/naveen-m0804" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/117974950?u=6ee8831126a215690d36ab28ccbac5f951686ac7&v=4" alt="naveen-m0804" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">10342</td>
+      <td align="center">10341</td>
       <td align="center">
         <a href="https://github.com/KIRAN-KUMAR-K3" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/137183954?u=27ca4fc528d14eaaf91b229fd651c7b5156bd959&v=4" alt="KIRAN-KUMAR-K3" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/KIRAN-KUMAR-K3" target="_blank">KIRAN-KUMAR-K3</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">10342</td>
+      <td align="center">
+        <a href="https://github.com/CodeQueen-AI" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/178406833?u=74e4e5bd9ce2f0cc5bd69b24dd57ebbaaa34de86&v=4" alt="CodeQueen-AI" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/CodeQueen-AI" target="_blank">CodeQueen-AI</a>
       </td>
     </tr>
     <tr>
@@ -836,4 +836,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.553s on Tue Sep 24 at 7:08</p>
+<p align="right">Generated in 0.5s on Tue Sep 24 at 7:13</p>
