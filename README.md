@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">10366</td>
-      <td align="center">
-        <a href="https://github.com/Inter129" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/118176849?u=c7f0be41e36023cf6ed9e3365dda67c640875ed1&v=4" alt="Inter129" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Inter129" target="_blank">Inter129</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">10367</td>
       <td align="center">
         <a href="https://github.com/diego-rapoport" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">10369</td>
+      <td align="center">
+        <a href="https://github.com/mern-dev-pro" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/75461450?u=8b6ab6bc3dea08a720078a1ed55720e99da1f2bf&v=4" alt="mern-dev-pro" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/mern-dev-pro" target="_blank">mern-dev-pro</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">10370</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -864,4 +864,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.192s on Tue Sep 24 at 13:27</p>
+<p align="right">Generated in 0.173s on Tue Sep 24 at 13:30</p>
