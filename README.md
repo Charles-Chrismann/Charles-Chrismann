@@ -84,17 +84,6 @@
     <tr>
       <td align="center">10325</td>
       <td align="center">
-        <a href="https://github.com/arthurariza" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/37642667?u=ee8caed0511c3a7e04132a31d96263062e374d49&v=4" alt="arthurariza" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/arthurariza" target="_blank">arthurariza</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">10326</td>
-      <td align="center">
         <a href="https://github.com/LeonardoVBrum" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/133405647?u=81faa4946770a350578bf859813ec1af8e02cf60&v=4" alt="LeonardoVBrum" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">10327</td>
+      <td align="center">10326</td>
       <td align="center">
         <a href="https://github.com/KelvinLR" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/61692363?u=716b730e391fc8f4e6baa556b02ff465304aa7d5&v=4" alt="KelvinLR" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/KelvinLR" target="_blank">KelvinLR</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">10327</td>
+      <td align="center">
+        <a href="https://github.com/ixvadev" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/151366013?u=16a668bde83a60db7389e4cffa41c237848468be&v=4" alt="ixvadev" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/ixvadev" target="_blank">ixvadev</a>
       </td>
     </tr>
     <tr>
@@ -841,4 +841,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.502s on Tue Sep 24 at 1:45</p>
+<p align="right">Generated in 0.504s on Tue Sep 24 at 1:51</p>
