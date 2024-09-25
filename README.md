@@ -727,26 +727,6 @@
   </thead>
   <tbody>
     <tr>
-      <td>$\text{\color{white}{G}}$</td>
-      <td>$\text{\color{white}{L}}$</td>
-      <td>$\text{\color{orange}{O}}$</td>
-      <td>$\text{\color{white}{R}}$</td>
-      <td>$\text{\color{lightgreen}{Y}}$</td>
-      <td>
-        <a href="https://github.com/codingilona">@codingilona</a>
-      </td>
-    </tr>
-    <tr>
-      <td>$\text{\color{red}{H}}$</td>
-      <td>$\text{\color{red}{O}}$</td>
-      <td>$\text{\color{red}{L}}$</td>
-      <td>$\text{\color{red}{E}}$</td>
-      <td>$\text{\color{red}{S}}$</td>
-      <td>
-        <a href="https://github.com/Foword5">@Foword5</a>
-      </td>
-    </tr>
-    <tr>
       <td>‎ </td>
       <td>‎ </td>
       <td>‎ </td>
@@ -856,4 +836,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.313s on Wed Sep 25 at 21:58</p>
+<p align="right">Generated in 0.307s on Wed Sep 25 at 22:00</p>
