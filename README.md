@@ -84,17 +84,6 @@
     <tr>
       <td align="center">10478</td>
       <td align="center">
-        <a href="https://github.com/annabrt" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/179982223?v=4" alt="annabrt" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/annabrt" target="_blank">annabrt</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">10479</td>
-      <td align="center">
         <a href="https://github.com/Ju3eX" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/56702596?u=8f2afed12452f41b6396bb48ee7a0bddca84270c&v=4" alt="Ju3eX" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">10480</td>
+      <td align="center">10479</td>
       <td align="center">
         <a href="https://github.com/ogzhandns" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/101405715?u=574105b5737e1865b59a83a1d19eeea26986f357&v=4" alt="ogzhandns" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/ogzhandns" target="_blank">ogzhandns</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">10480</td>
+      <td align="center">
+        <a href="https://github.com/amritr31" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/113842279?u=092383a69e0612b522a277db0f130504544f4b67&v=4" alt="amritr31" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/amritr31" target="_blank">amritr31</a>
       </td>
     </tr>
     <tr>
@@ -868,4 +868,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.189s on Wed Sep 25 at 18:46</p>
+<p align="right">Generated in 0.328s on Wed Sep 25 at 19:01</p>
