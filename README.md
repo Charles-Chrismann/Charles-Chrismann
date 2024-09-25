@@ -84,17 +84,6 @@
     <tr>
       <td align="center">10432</td>
       <td align="center">
-        <a href="https://github.com/AlfaExelsior" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/157590473?u=e016da3e7b1c5dec589d3ef10cffca58e6f54814&v=4" alt="AlfaExelsior" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/AlfaExelsior" target="_blank">AlfaExelsior</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">10433</td>
-      <td align="center">
         <a href="https://github.com/khafidprayoga" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/49889543?u=72ce2e6815029966bc95691565949512ae152673&v=4" alt="khafidprayoga" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">10434</td>
+      <td align="center">10433</td>
       <td align="center">
         <a href="https://github.com/JohnMwendwa" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/72663882?u=805073cc702701b4ad6c56a60dc0bdae9ccac964&v=4" alt="JohnMwendwa" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/JohnMwendwa" target="_blank">JohnMwendwa</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">10434</td>
+      <td align="center">
+        <a href="https://github.com/alujohn" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/87136364?u=e283f18967c4792053f407c1295b4c1829375745&v=4" alt="alujohn" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/alujohn" target="_blank">alujohn</a>
       </td>
     </tr>
     <tr>
@@ -857,4 +857,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.343s on Wed Sep 25 at 12:31</p>
+<p align="right">Generated in 0.208s on Wed Sep 25 at 12:35</p>
