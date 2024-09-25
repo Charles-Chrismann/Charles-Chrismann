@@ -82,28 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">10486</td>
-      <td align="center">
-        <a href="https://github.com/bitorsic" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/67980466?u=059c832af04e8f5f814e92c69bc83b1a69dc4aa8&v=4" alt="bitorsic" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/bitorsic" target="_blank">bitorsic</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">10487</td>
-      <td align="center">
-        <a href="https://github.com/FrozenXaris" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/153726265?u=051c6f25666e1f1f8f544aa6b0e46699acdb01aa&v=4" alt="FrozenXaris" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/FrozenXaris" target="_blank">FrozenXaris</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">10488</td>
       <td align="center">
         <a href="https://github.com/codewithamirshakya" target="_blank">
@@ -116,6 +94,28 @@
     </tr>
     <tr>
       <td align="center">10489</td>
+      <td align="center">
+        <a href="https://github.com/Arissm2" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/126270981?v=4" alt="Arissm2" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Arissm2" target="_blank">Arissm2</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">10490</td>
+      <td align="center">
+        <a href="https://github.com/Bel24-boss" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/172500144?u=b9036a8f722e06dc6abe83b4ed3c9a47cb7a52d2&v=4" alt="Bel24-boss" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Bel24-boss" target="_blank">Bel24-boss</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">10491</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -856,4 +856,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.153s on Wed Sep 25 at 21:34</p>
+<p align="right">Generated in 0.147s on Wed Sep 25 at 21:56</p>
