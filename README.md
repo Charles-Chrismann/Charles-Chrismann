@@ -84,17 +84,6 @@
     <tr>
       <td align="center">10463</td>
       <td align="center">
-        <a href="https://github.com/Sergei1201" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/89927184?u=4d59c0929485204b23aa574c2bb9ce8186e10620&v=4" alt="Sergei1201" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Sergei1201" target="_blank">Sergei1201</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">10464</td>
-      <td align="center">
         <a href="https://github.com/Mark-Classen" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/153203065?v=4" alt="Mark-Classen" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">10465</td>
+      <td align="center">10464</td>
       <td align="center">
         <a href="https://github.com/LMenesesTroche" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/126593150?u=e4c264dc603f980c7998cc284458d9899de4df98&v=4" alt="LMenesesTroche" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/LMenesesTroche" target="_blank">LMenesesTroche</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">10465</td>
+      <td align="center">
+        <a href="https://github.com/devnuru" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/47273669?u=d8d53cd1fb641e6fd96007315a62f8cdc209e5c8&v=4" alt="devnuru" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/devnuru" target="_blank">devnuru</a>
       </td>
     </tr>
     <tr>
@@ -870,4 +870,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.15s on Wed Sep 25 at 16:08</p>
+<p align="right">Generated in 0.322s on Wed Sep 25 at 16:08</p>
