@@ -84,17 +84,6 @@
     <tr>
       <td align="center">10438</td>
       <td align="center">
-        <a href="https://github.com/navaneeth80-c" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/144880912?u=0b65e34846efd65515723a50a6ad8de25dff5227&v=4" alt="navaneeth80-c" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/navaneeth80-c" target="_blank">navaneeth80-c</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">10439</td>
-      <td align="center">
         <a href="https://github.com/Webzarium" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/122037228?u=664cc94240c54bb7e55462f5c2f851f42e5f3a2d&v=4" alt="Webzarium" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">10440</td>
+      <td align="center">10439</td>
       <td align="center">
         <a href="https://github.com/phone-thet-naing" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/86700543?u=b76993a0ebd99198b678968c977f783e23d325bc&v=4" alt="phone-thet-naing" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/phone-thet-naing" target="_blank">phone-thet-naing</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">10440</td>
+      <td align="center">
+        <a href="https://github.com/aldric-nox" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/71321309?u=c5c131d229ef56386f5f42fbdfc4bf0b1fb01678&v=4" alt="aldric-nox" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/aldric-nox" target="_blank">aldric-nox</a>
       </td>
     </tr>
     <tr>
@@ -841,4 +841,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.132s on Wed Sep 25 at 13:25</p>
+<p align="right">Generated in 0.187s on Wed Sep 25 at 13:28</p>
