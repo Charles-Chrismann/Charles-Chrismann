@@ -82,29 +82,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">10479</td>
-      <td align="center">
-        <a href="https://github.com/ogzhandns" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/101405715?u=574105b5737e1865b59a83a1d19eeea26986f357&v=4" alt="ogzhandns" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/ogzhandns" target="_blank">ogzhandns</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">10480</td>
-      <td align="center">
-        <a href="https://github.com/amritr31" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/113842279?u=092383a69e0612b522a277db0f130504544f4b67&v=4" alt="amritr31" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/amritr31" target="_blank">amritr31</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">10481</td>
       <td align="center">
         <a href="https://github.com/otienogeoffrey812" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/60074183?u=7a6ae20c9337d77657dbb21ca0540a6ace4258e7&v=4" alt="otienogeoffrey812" width="40" height="40"/>
@@ -115,7 +93,29 @@
       </td>
     </tr>
     <tr>
+      <td align="center">10481</td>
+      <td align="center">
+        <a href="https://github.com/vitoria-sesana" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/73143599?u=bb7042d8c2fdd4a27c2d76202b2ca70765b7d6b7&v=4" alt="vitoria-sesana" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/vitoria-sesana" target="_blank">vitoria-sesana</a>
+      </td>
+    </tr>
+    <tr>
       <td align="center">10482</td>
+      <td align="center">
+        <a href="https://github.com/saramekawy" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/73074206?u=4838ed9fd884d2d958df5d6c7d34110f45b6fc99&v=4" alt="saramekawy" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/saramekawy" target="_blank">saramekawy</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">10483</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -851,4 +851,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.267s on Wed Sep 25 at 19:07</p>
+<p align="right">Generated in 0.127s on Wed Sep 25 at 19:18</p>
