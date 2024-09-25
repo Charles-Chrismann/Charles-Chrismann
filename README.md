@@ -84,17 +84,6 @@
     <tr>
       <td align="center">10471</td>
       <td align="center">
-        <a href="https://github.com/actinismec8" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/10928861?u=85adac318b0b53803af01814b584d86218592dcc&v=4" alt="actinismec8" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/actinismec8" target="_blank">actinismec8</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">10472</td>
-      <td align="center">
         <a href="https://github.com/rs80code" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/39574010?u=f5d8c90719ddf94ded145d21274fca8b6b50c8ec&v=4" alt="rs80code" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">10473</td>
+      <td align="center">10472</td>
       <td align="center">
         <a href="https://github.com/paulomonteiro3" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/168460274?u=b0dfeb803d2c34e8be3887582d817de80cdd0396&v=4" alt="paulomonteiro3" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/paulomonteiro3" target="_blank">paulomonteiro3</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">10473</td>
+      <td align="center">
+        <a href="https://github.com/JesusAraujoDEV" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/132314980?u=b9371f8df1fa99c9bc601c4100253416f3571bb8&v=4" alt="JesusAraujoDEV" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/JesusAraujoDEV" target="_blank">JesusAraujoDEV</a>
       </td>
     </tr>
     <tr>
@@ -863,4 +863,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.151s on Wed Sep 25 at 17:48</p>
+<p align="right">Generated in 0.298s on Wed Sep 25 at 17:54</p>
