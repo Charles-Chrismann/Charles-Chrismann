@@ -106,12 +106,12 @@
     <tr>
       <td align="center">10435</td>
       <td align="center">
-        <a href="https://github.com/FabFlux" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/109298175?v=4" alt="FabFlux" width="40" height="40"/>
+        <a href="https://github.com/FabSignal" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/109298175?v=4" alt="FabSignal" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/FabFlux" target="_blank">FabFlux</a>
+        <a href="https://github.com/FabSignal" target="_blank">FabSignal</a>
       </td>
     </tr>
     <tr>
@@ -793,4 +793,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.343s on Wed Sep 25 at 12:50</p>
+<p align="right">Generated in 0.343s on Wed Sep 25 at 12:51</p>
