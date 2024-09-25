@@ -84,17 +84,6 @@
     <tr>
       <td align="center">10480</td>
       <td align="center">
-        <a href="https://github.com/otienogeoffrey812" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/60074183?u=7a6ae20c9337d77657dbb21ca0540a6ace4258e7&v=4" alt="otienogeoffrey812" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/otienogeoffrey812" target="_blank">otienogeoffrey812</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">10481</td>
-      <td align="center">
         <a href="https://github.com/vitoria-sesana" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/73143599?u=bb7042d8c2fdd4a27c2d76202b2ca70765b7d6b7&v=4" alt="vitoria-sesana" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">10482</td>
+      <td align="center">10481</td>
       <td align="center">
         <a href="https://github.com/saramekawy" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/73074206?u=4838ed9fd884d2d958df5d6c7d34110f45b6fc99&v=4" alt="saramekawy" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/saramekawy" target="_blank">saramekawy</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">10482</td>
+      <td align="center">
+        <a href="https://github.com/lambrugeorge" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/120751654?u=0643803b4855f35b21ff0211f543e4a9273e396a&v=4" alt="lambrugeorge" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/lambrugeorge" target="_blank">lambrugeorge</a>
       </td>
     </tr>
     <tr>
@@ -851,4 +851,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.356s on Wed Sep 25 at 19:29</p>
+<p align="right">Generated in 0.138s on Wed Sep 25 at 19:31</p>
