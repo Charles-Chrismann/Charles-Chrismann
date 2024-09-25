@@ -669,6 +669,16 @@
   </thead>
   <tbody>
     <tr>
+      <td>$\text{\color{white}{G}}$</td>
+      <td>$\text{\color{white}{L}}$</td>
+      <td>$\text{\color{orange}{O}}$</td>
+      <td>$\text{\color{white}{R}}$</td>
+      <td>$\text{\color{lightgreen}{Y}}$</td>
+      <td>
+        <a href="https://github.com/codingilona">@codingilona</a>
+      </td>
+    </tr>
+    <tr>
       <td>‎ </td>
       <td>‎ </td>
       <td>‎ </td>
@@ -778,4 +788,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.199s on Wed Sep 25 at 10:03</p>
+<p align="right">Generated in 0.201s on Wed Sep 25 at 10:06</p>
