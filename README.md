@@ -84,34 +84,34 @@
     <tr>
       <td align="center">10495</td>
       <td align="center">
-        <a href="https://github.com/kemillymotta" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/100447717?u=ce58e0a093de5ff0c784cf158031bd3804fe3c6c&v=4" alt="kemillymotta" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/kemillymotta" target="_blank">kemillymotta</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">10496</td>
-      <td align="center">
-        <a href="https://github.com/ymbtc757" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/4687333?u=c892e4015b71059b582f922d718524453cb4ebc3&v=4" alt="ymbtc757" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/ymbtc757" target="_blank">ymbtc757</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">10497</td>
-      <td align="center">
         <a href="https://github.com/CTorressjr" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/108501426?u=d1f050b8444e0e2d8f87d807555c4077b05dba02&v=4" alt="CTorressjr" width="40" height="40"/>
         </a>
       </td>
       <td>
         <a href="https://github.com/CTorressjr" target="_blank">CTorressjr</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">10496</td>
+      <td align="center">
+        <a href="https://github.com/lucas-cirilo" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/110364106?u=bd0dec6ccf3f61085c4f41b8624ca20b292f8f8b&v=4" alt="lucas-cirilo" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/lucas-cirilo" target="_blank">lucas-cirilo</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">10497</td>
+      <td align="center">
+        <a href="https://github.com/notYnoj" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/117422590?u=abb960b639d1986de3f30541b3dfc64c74c3eb2c&v=4" alt="notYnoj" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/notYnoj" target="_blank">notYnoj</a>
       </td>
     </tr>
     <tr>
@@ -847,4 +847,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.158s on Thu Sep 26 at 0:58</p>
+<p align="right">Generated in 0.158s on Thu Sep 26 at 1:23</p>
