@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">10529</td>
-      <td align="center">
-        <a href="https://github.com/theduo34" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/80518848?u=0088d621477f73677c21dfa7a0003dbf3e2f93fb&v=4" alt="theduo34" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/theduo34" target="_blank">theduo34</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">10530</td>
       <td align="center">
         <a href="https://github.com/SkeletalScarf" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">10532</td>
+      <td align="center">
+        <a href="https://github.com/vish-arch" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/173551082?v=4" alt="vish-arch" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/vish-arch" target="_blank">vish-arch</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">10533</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -836,4 +836,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.198s on Thu Sep 26 at 11:12</p>
+<p align="right">Generated in 0.139s on Thu Sep 26 at 11:30</p>
