@@ -767,6 +767,16 @@
       </td>
     </tr>
     <tr>
+      <td>$\text{\color{lightgreen}{S}}$</td>
+      <td>$\text{\color{lightgreen}{P}}$</td>
+      <td>$\text{\color{lightgreen}{R}}$</td>
+      <td>$\text{\color{lightgreen}{E}}$</td>
+      <td>$\text{\color{lightgreen}{E}}$</td>
+      <td>
+        <a href="https://github.com/Foword5">@Foword5</a>
+      </td>
+    </tr>
+    <tr>
       <td>‎ </td>
       <td>‎ </td>
       <td>‎ </td>
@@ -800,7 +810,7 @@
       <td>
         <a href="https://github.com/Foword5">@Foword5</a>
       </td>
-      <td align="center">19</td>
+      <td align="center">20</td>
     </tr>
     <tr>
       <td align="center">2</td>
@@ -876,4 +886,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.145s on Thu Sep 26 at 15:05</p>
+<p align="right">Generated in 0.179s on Thu Sep 26 at 15:05</p>
