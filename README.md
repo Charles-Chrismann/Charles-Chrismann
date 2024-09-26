@@ -82,29 +82,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">10533</td>
-      <td align="center">
-        <a href="https://github.com/MahimaChavalam09" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/111571387?u=2ee9d9a297a85467b23bb1d0f2c23704b7d78f77&v=4" alt="MahimaChavalam09" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/MahimaChavalam09" target="_blank">MahimaChavalam09</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">10534</td>
-      <td align="center">
-        <a href="https://github.com/jossyKyalo" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/145260844?u=d4e54bc9ee400de10bc2282b8cc43111c39e4066&v=4" alt="jossyKyalo" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/jossyKyalo" target="_blank">jossyKyalo</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">10535</td>
       <td align="center">
         <a href="https://github.com/irvinehawks" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/69680619?u=6541d1af7978e6fb0ef43076a61e300d4f3455aa&v=4" alt="irvinehawks" width="40" height="40"/>
@@ -115,7 +93,29 @@
       </td>
     </tr>
     <tr>
+      <td align="center">10535</td>
+      <td align="center">
+        <a href="https://github.com/JohnMwendwa" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/72663882?u=805073cc702701b4ad6c56a60dc0bdae9ccac964&v=4" alt="JohnMwendwa" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/JohnMwendwa" target="_blank">JohnMwendwa</a>
+      </td>
+    </tr>
+    <tr>
       <td align="center">10536</td>
+      <td align="center">
+        <a href="https://github.com/rafael-pozzebon" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/63304560?u=5236f9ab429a5856c5b18608c93ac6b6cf84b922&v=4" alt="rafael-pozzebon" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/rafael-pozzebon" target="_blank">rafael-pozzebon</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">10537</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -836,4 +836,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.199s on Thu Sep 26 at 11:35</p>
+<p align="right">Generated in 0.205s on Thu Sep 26 at 11:59</p>
