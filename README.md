@@ -82,29 +82,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">10613</td>
-      <td align="center">
-        <a href="https://github.com/harshjuly12" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/112745312?u=cdd26f6adc8b0c62d7093bdd57a25ab4ec114416&v=4" alt="harshjuly12" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/harshjuly12" target="_blank">harshjuly12</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">10614</td>
-      <td align="center">
-        <a href="https://github.com/TanjimulSabbir" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/86679380?u=514b5528a48b80beafa77fbc8612a04f7bfafe3b&v=4" alt="TanjimulSabbir" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/TanjimulSabbir" target="_blank">TanjimulSabbir</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">10615</td>
+      <td align="center">10616</td>
       <td align="center">
         <a href="https://github.com/HrushikeshDharmadhikari" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/87522414?u=ea46cac872196712c3ac7de57d8659e62cf130a4&v=4" alt="HrushikeshDharmadhikari" width="40" height="40"/>
@@ -115,7 +93,29 @@
       </td>
     </tr>
     <tr>
-      <td align="center">10616</td>
+      <td align="center">10617</td>
+      <td align="center">
+        <a href="https://github.com/Ksu8Happy" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/140595820?u=efffeb45c9a0af8d46fd042670bf9875018a11b7&v=4" alt="Ksu8Happy" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Ksu8Happy" target="_blank">Ksu8Happy</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">10618</td>
+      <td align="center">
+        <a href="https://github.com/kaito205" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/155975720?u=3065ff07c7cf4eba18a6aa1de42aa4681babb9d8&v=4" alt="kaito205" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/kaito205" target="_blank">kaito205</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">10619</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -846,4 +846,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.225s on Fri Sep 27 at 18:07</p>
+<p align="right">Generated in 0.226s on Fri Sep 27 at 18:16</p>
