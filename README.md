@@ -84,17 +84,6 @@
     <tr>
       <td align="center">10618</td>
       <td align="center">
-        <a href="https://github.com/kaito205" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/155975720?u=3065ff07c7cf4eba18a6aa1de42aa4681babb9d8&v=4" alt="kaito205" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/kaito205" target="_blank">kaito205</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">10619</td>
-      <td align="center">
         <a href="https://github.com/SaadAshraf12" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/95135917?u=d155d9f45b69b9138067c312a062c9eeff656cb5&v=4" alt="SaadAshraf12" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">10620</td>
+      <td align="center">10619</td>
       <td align="center">
         <a href="https://github.com/LucasHARosa" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/65405310?u=185d6effe2092f21ab63a4d22f90adbacbdb6a50&v=4" alt="LucasHARosa" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/LucasHARosa" target="_blank">LucasHARosa</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">10620</td>
+      <td align="center">
+        <a href="https://github.com/RodriguezOswaldo" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/43424638?u=b9559ab9e7153d7ed0a49ff2c86b59e9ce88fae2&v=4" alt="RodriguezOswaldo" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/RodriguezOswaldo" target="_blank">RodriguezOswaldo</a>
       </td>
     </tr>
     <tr>
@@ -850,4 +850,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.147s on Fri Sep 27 at 19:12</p>
+<p align="right">Generated in 0.24s on Fri Sep 27 at 19:15</p>
