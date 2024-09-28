@@ -107,7 +107,7 @@
       <td align="center">10627</td>
       <td align="center">
         <a href="https://github.com/Luka-r5" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/183167854?u=ab00fab0666e1b21cb7496b33fa1b4a49d3d8a9c&v=4" alt="Luka-r5" width="40" height="40"/>
+          <img src="https://avatars.githubusercontent.com/u/183167854?u=beca5b70868720791c3ac0c39b31ef301cee70e2&v=4" alt="Luka-r5" width="40" height="40"/>
         </a>
       </td>
       <td>
@@ -847,4 +847,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.22s on Sat Sep 28 at 4:17</p>
+<p align="right">Generated in 0.326s on Sat Sep 28 at 4:19</p>
