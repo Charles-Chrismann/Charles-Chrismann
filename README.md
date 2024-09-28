@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">10677</td>
-      <td align="center">
-        <a href="https://github.com/urmasa-tar" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/68222851?u=9f34065e3912bb729ca63705089d702ff9c6dc1f&v=4" alt="urmasa-tar" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/urmasa-tar" target="_blank">urmasa-tar</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">10678</td>
       <td align="center">
         <a href="https://github.com/Jay0494" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">10680</td>
+      <td align="center">
+        <a href="https://github.com/lgustavopalmieri" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/83103347?u=d07c8773d21c9d0c12fbc6a80aed980f478a6056&v=4" alt="lgustavopalmieri" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/lgustavopalmieri" target="_blank">lgustavopalmieri</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">10681</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -851,4 +851,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.452s on Sat Sep 28 at 23:06</p>
+<p align="right">Generated in 0.462s on Sat Sep 28 at 23:29</p>
