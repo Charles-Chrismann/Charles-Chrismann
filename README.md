@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">10692</td>
-      <td align="center">
-        <a href="https://github.com/cvs0" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/143862758?u=32142520c5231d3f20d327f7bee727082c6a87e3&v=4" alt="cvs0" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/cvs0" target="_blank">cvs0</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">10693</td>
       <td align="center">
         <a href="https://github.com/GrapeApple0" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">10695</td>
+      <td align="center">
+        <a href="https://github.com/eldeoddt" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/90364562?v=4" alt="eldeoddt" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/eldeoddt" target="_blank">eldeoddt</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">10696</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -797,4 +797,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.234s on Sun Sep 29 at 8:56</p>
+<p align="right">Generated in 0.167s on Sun Sep 29 at 8:56</p>
