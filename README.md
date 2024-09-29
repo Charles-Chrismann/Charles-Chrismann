@@ -722,26 +722,6 @@
   </thead>
   <tbody>
     <tr>
-      <td>$\text{\color{red}{C}}$</td>
-      <td>$\text{\color{red}{L}}$</td>
-      <td>$\text{\color{red}{O}}$</td>
-      <td>$\text{\color{red}{T}}$</td>
-      <td>$\text{\color{red}{S}}$</td>
-      <td>
-        <a href="https://github.com/dana-akesh">@dana-akesh</a>
-      </td>
-    </tr>
-    <tr>
-      <td>$\text{\color{red}{P}}$</td>
-      <td>$\text{\color{red}{L}}$</td>
-      <td>$\text{\color{red}{U}}$</td>
-      <td>$\text{\color{red}{M}}$</td>
-      <td>$\text{\color{red}{S}}$</td>
-      <td>
-        <a href="https://github.com/dana-akesh">@dana-akesh</a>
-      </td>
-    </tr>
-    <tr>
       <td>‎ </td>
       <td>‎ </td>
       <td>‎ </td>
@@ -851,4 +831,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.135s on Sun Sep 29 at 21:57</p>
+<p align="right">Generated in 0.228s on Sun Sep 29 at 22:00</p>
