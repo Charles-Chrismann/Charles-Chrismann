@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">10764</td>
-      <td align="center">
-        <a href="https://github.com/TariCodes" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/57457054?u=c88367f8f5a2a32d65cca61cce796b98ffe067a2&v=4" alt="TariCodes" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/TariCodes" target="_blank">TariCodes</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">10765</td>
       <td align="center">
         <a href="https://github.com/mouna0404" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">10767</td>
+      <td align="center">
+        <a href="https://github.com/Eznone" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/142738227?u=737ff67ae524239d77fa8a93191141fcb2d86884&v=4" alt="Eznone" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Eznone" target="_blank">Eznone</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">10768</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -930,4 +930,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.324s on Mon Sep 30 at 18:51</p>
+<p align="right">Generated in 0.24s on Mon Sep 30 at 18:55</p>
