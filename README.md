@@ -782,6 +782,16 @@
       </td>
     </tr>
     <tr>
+      <td>$\text{\color{lightgreen}{D}}$</td>
+      <td>$\text{\color{lightgreen}{O}}$</td>
+      <td>$\text{\color{lightgreen}{D}}$</td>
+      <td>$\text{\color{lightgreen}{G}}$</td>
+      <td>$\text{\color{lightgreen}{Y}}$</td>
+      <td>
+        <a href="https://github.com/dana-akesh">@dana-akesh</a>
+      </td>
+    </tr>
+    <tr>
       <td>‎ </td>
       <td>‎ </td>
       <td>‎ </td>
@@ -877,6 +887,18 @@
       </td>
       <td align="center">1</td>
     </tr>
+    <tr>
+      <td align="center">7</td>
+      <td align="center">
+        <a href="https://github.com/dana-akesh">
+          <img src="https://avatars.githubusercontent.com/u/86303193?size=32" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/dana-akesh">@dana-akesh</a>
+      </td>
+      <td align="center">1</td>
+    </tr>
   </tbody>
 </table>
 
@@ -891,4 +913,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.248s on Mon Sep 30 at 17:34</p>
+<p align="right">Generated in 0.224s on Mon Sep 30 at 17:35</p>
