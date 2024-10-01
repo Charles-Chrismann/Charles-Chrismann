@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">10812</td>
-      <td align="center">
-        <a href="https://github.com/konan-fabrice" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/91973720?v=4" alt="konan-fabrice" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/konan-fabrice" target="_blank">konan-fabrice</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">10813</td>
       <td align="center">
         <a href="https://github.com/Seth0094" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">10815</td>
+      <td align="center">
+        <a href="https://github.com/mchigm" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/91188641?u=fc304a3fab878b54f91386595de76cd89cb3862c&v=4" alt="mchigm" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/mchigm" target="_blank">mchigm</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">10816</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -873,4 +873,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.438s on Tue Oct 1 at 16:47</p>
+<p align="right">Generated in 0.389s on Tue Oct 1 at 16:48</p>
