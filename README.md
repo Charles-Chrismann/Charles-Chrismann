@@ -82,29 +82,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">10782</td>
-      <td align="center">
-        <a href="https://github.com/BhavyaVadavalli" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/90544123?v=4" alt="BhavyaVadavalli" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/BhavyaVadavalli" target="_blank">BhavyaVadavalli</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">10783</td>
-      <td align="center">
-        <a href="https://github.com/jayjaroen" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/60258832?v=4" alt="jayjaroen" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/jayjaroen" target="_blank">jayjaroen</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">10784</td>
       <td align="center">
         <a href="https://github.com/zksytmkn" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/86869822?u=a324f2296d6c5b5de15f4ce346ed576e129a23a0&v=4" alt="zksytmkn" width="40" height="40"/>
@@ -115,7 +93,29 @@
       </td>
     </tr>
     <tr>
+      <td align="center">10784</td>
+      <td align="center">
+        <a href="https://github.com/gvatsal60" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/40350810?u=0c915f2e6ed1b4cce89ea3242c8d22d5f29d74c6&v=4" alt="gvatsal60" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/gvatsal60" target="_blank">gvatsal60</a>
+      </td>
+    </tr>
+    <tr>
       <td align="center">10785</td>
+      <td align="center">
+        <a href="https://github.com/nguyenvanro" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/57189106?u=64e789e88b136f34e3e008a0619f98e213d4d074&v=4" alt="nguyenvanro" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/nguyenvanro" target="_blank">nguyenvanro</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">10786</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -843,4 +843,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.134s on Tue Oct 1 at 4:33</p>
+<p align="right">Generated in 0.177s on Tue Oct 1 at 4:33</p>
