@@ -720,6 +720,16 @@
   </thead>
   <tbody>
     <tr>
+      <td>$\text{\color{white}{C}}$</td>
+      <td>$\text{\color{white}{R}}$</td>
+      <td>$\text{\color{orange}{A}}$</td>
+      <td>$\text{\color{white}{N}}$</td>
+      <td>$\text{\color{orange}{E}}$</td>
+      <td>
+        <a href="https://github.com/dana-akesh">@dana-akesh</a>
+      </td>
+    </tr>
+    <tr>
       <td>‎ </td>
       <td>‎ </td>
       <td>‎ </td>
@@ -841,4 +851,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.198s on Tue Oct 1 at 5:56</p>
+<p align="right">Generated in 0.154s on Tue Oct 1 at 6:03</p>
