@@ -84,34 +84,34 @@
     <tr>
       <td align="center">10790</td>
       <td align="center">
-        <a href="https://github.com/zksytmkn" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/86869822?u=a324f2296d6c5b5de15f4ce346ed576e129a23a0&v=4" alt="zksytmkn" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/zksytmkn" target="_blank">zksytmkn</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">10791</td>
-      <td align="center">
-        <a href="https://github.com/Harimino123" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/149360252?u=00fdb1117f2deebe0d8767aeef023c6d195880a3&v=4" alt="Harimino123" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Harimino123" target="_blank">Harimino123</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">10792</td>
-      <td align="center">
         <a href="https://github.com/AmirMasoud-Rastegari" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/77500550?u=010f79825f5c715f29765a1a35314d987f4fd4e9&v=4" alt="AmirMasoud-Rastegari" width="40" height="40"/>
         </a>
       </td>
       <td>
         <a href="https://github.com/AmirMasoud-Rastegari" target="_blank">AmirMasoud-Rastegari</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">10791</td>
+      <td align="center">
+        <a href="https://github.com/Smachoka" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/115172155?u=784b065a0b009c306643c75d77b684b7e8afc811&v=4" alt="Smachoka" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Smachoka" target="_blank">Smachoka</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">10792</td>
+      <td align="center">
+        <a href="https://github.com/JohnMwendwa" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/72663882?u=805073cc702701b4ad6c56a60dc0bdae9ccac964&v=4" alt="JohnMwendwa" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/JohnMwendwa" target="_blank">JohnMwendwa</a>
       </td>
     </tr>
     <tr>
@@ -882,4 +882,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.452s on Tue Oct 1 at 9:50</p>
+<p align="right">Generated in 0.406s on Tue Oct 1 at 9:50</p>
