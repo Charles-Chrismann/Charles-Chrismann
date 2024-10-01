@@ -82,29 +82,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">10801</td>
-      <td align="center">
-        <a href="https://github.com/Ayocrypt" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/169593272?u=40fb1caa81cb93fe16a87b44b612a7293f0d8e7d&v=4" alt="Ayocrypt" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Ayocrypt" target="_blank">Ayocrypt</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">10802</td>
-      <td align="center">
-        <a href="https://github.com/muhammedarshadtp" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/147271980?u=9c7174cd31345e85edbf1097bbd16b3be6305d3f&v=4" alt="muhammedarshadtp" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/muhammedarshadtp" target="_blank">muhammedarshadtp</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">10803</td>
       <td align="center">
         <a href="https://github.com/obinnadaniel" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/60426469?u=2f7bac81d67fddc6732e050047bdccfa0f246ae4&v=4" alt="obinnadaniel" width="40" height="40"/>
@@ -115,7 +93,29 @@
       </td>
     </tr>
     <tr>
+      <td align="center">10803</td>
+      <td align="center">
+        <a href="https://github.com/DEVLuisz" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/82966665?u=5d4d2f3f92e6fea0b5926ba6c958599ebdc638a6&v=4" alt="DEVLuisz" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/DEVLuisz" target="_blank">DEVLuisz</a>
+      </td>
+    </tr>
+    <tr>
       <td align="center">10804</td>
+      <td align="center">
+        <a href="https://github.com/zksytmkn" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/86869822?u=a324f2296d6c5b5de15f4ce346ed576e129a23a0&v=4" alt="zksytmkn" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/zksytmkn" target="_blank">zksytmkn</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">10805</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -900,4 +900,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.521s on Tue Oct 1 at 13:46</p>
+<p align="right">Generated in 0.465s on Tue Oct 1 at 13:56</p>
