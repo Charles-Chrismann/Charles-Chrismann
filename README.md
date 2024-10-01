@@ -84,34 +84,34 @@
     <tr>
       <td align="center">10788</td>
       <td align="center">
-        <a href="https://github.com/Car-Lohs" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/103421745?u=5cc2adc746e5ba46382128d5a92ac9a843ec516a&v=4" alt="Car-Lohs" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Car-Lohs" target="_blank">Car-Lohs</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">10789</td>
-      <td align="center">
-        <a href="https://github.com/louistalent" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/96646778?u=f07c2b770d34aa03cc8998fa1bd1570f51018be5&v=4" alt="louistalent" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/louistalent" target="_blank">louistalent</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">10790</td>
-      <td align="center">
         <a href="https://github.com/alexfarrerodev" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/150464832?u=6c329603d874516ef1bd37868b36e047e1dcfb17&v=4" alt="alexfarrerodev" width="40" height="40"/>
         </a>
       </td>
       <td>
         <a href="https://github.com/alexfarrerodev" target="_blank">alexfarrerodev</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">10789</td>
+      <td align="center">
+        <a href="https://github.com/Krishjunier" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/116831237?u=9a6bbb0bab49166519eededcc03b0e3914d093ac&v=4" alt="Krishjunier" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Krishjunier" target="_blank">Krishjunier</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">10790</td>
+      <td align="center">
+        <a href="https://github.com/zksytmkn" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/86869822?u=a324f2296d6c5b5de15f4ce346ed576e129a23a0&v=4" alt="zksytmkn" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/zksytmkn" target="_blank">zksytmkn</a>
       </td>
     </tr>
     <tr>
@@ -912,4 +912,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.199s on Tue Oct 1 at 8:12</p>
+<p align="right">Generated in 0.193s on Tue Oct 1 at 8:33</p>
