@@ -728,6 +728,16 @@
   </thead>
   <tbody>
     <tr>
+      <td>$\text{\color{orange}{A}}$</td>
+      <td>$\text{\color{white}{B}}$</td>
+      <td>$\text{\color{white}{O}}$</td>
+      <td>$\text{\color{white}{U}}$</td>
+      <td>$\text{\color{orange}{T}}$</td>
+      <td>
+        <a href="https://github.com/dana-akesh">@dana-akesh</a>
+      </td>
+    </tr>
+    <tr>
       <td>‎ </td>
       <td>‎ </td>
       <td>‎ </td>
@@ -849,4 +859,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.131s on Wed Oct 2 at 7:49</p>
+<p align="right">Generated in 0.115s on Wed Oct 2 at 7:50</p>
