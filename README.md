@@ -84,17 +84,6 @@
     <tr>
       <td align="center">10859</td>
       <td align="center">
-        <a href="https://github.com/mindedgesolutions" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/30463686?v=4" alt="mindedgesolutions" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/mindedgesolutions" target="_blank">mindedgesolutions</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">10860</td>
-      <td align="center">
         <a href="https://github.com/BruceCodeFarmer" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/108917427?u=9ea59b202fec9174f5253eb33d35b1aaf9817f42&v=4" alt="BruceCodeFarmer" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">10861</td>
+      <td align="center">10860</td>
       <td align="center">
         <a href="https://github.com/danielrosemary" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/144475567?v=4" alt="danielrosemary" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/danielrosemary" target="_blank">danielrosemary</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">10861</td>
+      <td align="center">
+        <a href="https://github.com/Parasdeveloper8" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/152639879?u=eb33cacddffdbf1e09034a216b2f102ed0369a06&v=4" alt="Parasdeveloper8" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Parasdeveloper8" target="_blank">Parasdeveloper8</a>
       </td>
     </tr>
     <tr>
@@ -881,4 +881,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.186s on Wed Oct 2 at 13:42</p>
+<p align="right">Generated in 0.238s on Wed Oct 2 at 13:43</p>
