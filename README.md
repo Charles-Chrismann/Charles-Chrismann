@@ -107,7 +107,7 @@
       <td align="center">10871</td>
       <td align="center">
         <a href="https://github.com/alessandro-barate" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/161752327?u=147ed2c54982ab25505b6843697e6ecc101fbb65&v=4" alt="alessandro-barate" width="40" height="40"/>
+          <img src="https://avatars.githubusercontent.com/u/161752327?u=e01aabffe26d7df4260fdb7863dfc1323bcf36d3&v=4" alt="alessandro-barate" width="40" height="40"/>
         </a>
       </td>
       <td>
@@ -871,4 +871,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.279s on Wed Oct 2 at 15:57</p>
+<p align="right">Generated in 0.194s on Wed Oct 2 at 16:07</p>
