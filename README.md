@@ -82,18 +82,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">10852</td>
-      <td align="center">
-        <a href="https://github.com/kexi" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/350671?u=5f1550c21d0609f2c89ef22e46203782e7564d01&v=4" alt="kexi" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/kexi" target="_blank">kexi</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">10853</td>
+      <td align="center">10851</td>
       <td align="center">
         <a href="https://github.com/SagarMulakuri" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/101327678?u=44aee4304c3420fcd342719f216094f8036bfe4a&v=4" alt="SagarMulakuri" width="40" height="40"/>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">10854</td>
+      <td align="center">10852</td>
       <td align="center">
         <a href="https://github.com/pinetree2" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/79689822?u=96d32d5a0a5dc0c75fe87211a886edaf999f7264&v=4" alt="pinetree2" width="40" height="40"/>
@@ -115,7 +104,18 @@
       </td>
     </tr>
     <tr>
-      <td align="center">10855</td>
+      <td align="center">10853</td>
+      <td align="center">
+        <a href="https://github.com/furkanaliakbalik" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/176220512?u=70a69d074f03fe8ffb57a2b2a46ccc123cf8e34a&v=4" alt="furkanaliakbalik" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/furkanaliakbalik" target="_blank">furkanaliakbalik</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">10854</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -819,4 +819,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.151s on Wed Oct 2 at 9:26</p>
+<p align="right">Generated in 0.142s on Wed Oct 2 at 9:33</p>
