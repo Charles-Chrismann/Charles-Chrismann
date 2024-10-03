@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">10929</td>
-      <td align="center">
-        <a href="https://github.com/FrnScz" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/139561501?u=09b523d3e8c0370bc440221782ce15ef37cf9829&v=4" alt="FrnScz" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/FrnScz" target="_blank">FrnScz</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">10930</td>
       <td align="center">
         <a href="https://github.com/fslmultiservice22" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">10932</td>
+      <td align="center">
+        <a href="https://github.com/kiryuchi10" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/141597057?v=4" alt="kiryuchi10" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/kiryuchi10" target="_blank">kiryuchi10</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">10933</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -721,4 +721,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.674s on Thu Oct 3 at 14:41</p>
+<p align="right">Generated in 0.637s on Thu Oct 3 at 14:46</p>
