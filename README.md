@@ -84,17 +84,6 @@
     <tr>
       <td align="center">10931</td>
       <td align="center">
-        <a href="https://github.com/joaoquinto" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/45634973?u=e770e0ff506908c72c7688cca6d870285e065bb7&v=4" alt="joaoquinto" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/joaoquinto" target="_blank">joaoquinto</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">10932</td>
-      <td align="center">
         <a href="https://github.com/kiryuchi10" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/141597057?v=4" alt="kiryuchi10" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">10933</td>
+      <td align="center">10932</td>
       <td align="center">
         <a href="https://github.com/256-daisuki" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/115447369?u=86cd7befe400f026ed0ec10de6dbf727ed45e108&v=4" alt="256-daisuki" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/256-daisuki" target="_blank">256-daisuki</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">10933</td>
+      <td align="center">
+        <a href="https://github.com/gvsx741" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/93424883?u=1081c8f41ffd1f9aef29b5fb9c8dec0962a7d7be&v=4" alt="gvsx741" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/gvsx741" target="_blank">gvsx741</a>
       </td>
     </tr>
     <tr>
@@ -721,4 +721,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.605s on Thu Oct 3 at 14:48</p>
+<p align="right">Generated in 0.61s on Thu Oct 3 at 14:51</p>
