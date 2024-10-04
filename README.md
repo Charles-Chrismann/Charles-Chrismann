@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">10956</td>
-      <td align="center">
-        <a href="https://github.com/jay-kumogata" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/22855286?u=ed01a6329f2bac7240ba28093a37fcba34725c5b&v=4" alt="jay-kumogata" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/jay-kumogata" target="_blank">jay-kumogata</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">10957</td>
       <td align="center">
         <a href="https://github.com/KatieLisabeth" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">10959</td>
+      <td align="center">
+        <a href="https://github.com/hurome" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/42608312?v=4" alt="hurome" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/hurome" target="_blank">hurome</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">10960</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -879,4 +879,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.252s on Fri Oct 4 at 9:24</p>
+<p align="right">Generated in 0.136s on Fri Oct 4 at 9:30</p>
