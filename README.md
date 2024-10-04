@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">10967</td>
-      <td align="center">
-        <a href="https://github.com/ZohreScript" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/121631510?u=b04a5175c04f4eccb743a68e1c1a29ee38a9db33&v=4" alt="ZohreScript" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/ZohreScript" target="_blank">ZohreScript</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">10968</td>
       <td align="center">
         <a href="https://github.com/farshadmrd" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">10970</td>
+      <td align="center">
+        <a href="https://github.com/Zynk-dot" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/172948655?v=4" alt="Zynk-dot" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Zynk-dot" target="_blank">Zynk-dot</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">10971</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -883,4 +883,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.387s on Fri Oct 4 at 12:09</p>
+<p align="right">Generated in 0.409s on Fri Oct 4 at 12:12</p>
