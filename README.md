@@ -82,40 +82,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">10979</td>
+      <td align="center">10983</td>
       <td align="center">
-        <a href="https://github.com/jleonl1229" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/59051591?u=14cb211febeb48e2041f1b127001a03d8fec202f&v=4" alt="jleonl1229" width="40" height="40"/>
+        <a href="https://github.com/mrcomputer2018" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/45561350?u=c6b0dd82216ba74664112714950c0254579f2f5b&v=4" alt="mrcomputer2018" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/jleonl1229" target="_blank">jleonl1229</a>
+        <a href="https://github.com/mrcomputer2018" target="_blank">mrcomputer2018</a>
       </td>
     </tr>
     <tr>
-      <td align="center">10980</td>
+      <td align="center">10984</td>
       <td align="center">
-        <a href="https://github.com/LolinEagle" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/89999558?u=805bd8de9b069db699c896823651ad649c586777&v=4" alt="LolinEagle" width="40" height="40"/>
+        <a href="https://github.com/ThiroshMadhusha" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/79472177?u=1d99f71a9c784f3a5315a36b494ffa2cc105b3f2&v=4" alt="ThiroshMadhusha" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/LolinEagle" target="_blank">LolinEagle</a>
+        <a href="https://github.com/ThiroshMadhusha" target="_blank">ThiroshMadhusha</a>
       </td>
     </tr>
     <tr>
-      <td align="center">10981</td>
+      <td align="center">10985</td>
       <td align="center">
-        <a href="https://github.com/Myrella-developer" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/79044804?u=bd13907e85843a9e35173ba44bac5e917a6e3cf0&v=4" alt="Myrella-developer" width="40" height="40"/>
+        <a href="https://github.com/dougkalash" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/149725576?u=cfb8571bf143c5f31ad76170abd875e986e3bf59&v=4" alt="dougkalash" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/Myrella-developer" target="_blank">Myrella-developer</a>
+        <a href="https://github.com/dougkalash" target="_blank">dougkalash</a>
       </td>
     </tr>
     <tr>
-      <td align="center">10982</td>
+      <td align="center">10986</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -900,4 +900,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.224s on Fri Oct 4 at 17:47</p>
+<p align="right">Generated in 0.227s on Fri Oct 4 at 17:55</p>
