@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">10969</td>
-      <td align="center">
-        <a href="https://github.com/Venky-234" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/77890305?v=4" alt="Venky-234" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Venky-234" target="_blank">Venky-234</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">10970</td>
       <td align="center">
         <a href="https://github.com/Haaragard" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">10972</td>
+      <td align="center">
+        <a href="https://github.com/UznetDev" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/121486055?u=bf9b347d9df88f60871cffcd9845400ad7f2eb15&v=4" alt="UznetDev" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/UznetDev" target="_blank">UznetDev</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">10973</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -883,4 +883,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.177s on Fri Oct 4 at 13:16</p>
+<p align="right">Generated in 0.184s on Fri Oct 4 at 13:22</p>
