@@ -84,17 +84,6 @@
     <tr>
       <td align="center">10966</td>
       <td align="center">
-        <a href="https://github.com/farshadmrd" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/72485066?u=7cd6cddb84c92e55b72d9145ecbd9c2adb4bed3d&v=4" alt="farshadmrd" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/farshadmrd" target="_blank">farshadmrd</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">10967</td>
-      <td align="center">
         <a href="https://github.com/Sarinakasaiyan" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/96653405?u=c384f11005e6df9cf82a16c1af40013568159f4d&v=4" alt="Sarinakasaiyan" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">10968</td>
+      <td align="center">10967</td>
       <td align="center">
         <a href="https://github.com/Zynk-dot" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/172948655?v=4" alt="Zynk-dot" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/Zynk-dot" target="_blank">Zynk-dot</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">10968</td>
+      <td align="center">
+        <a href="https://github.com/laughing-joker" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/76960131?u=0f3a3f652f018ee2c8e4abe316cc4c96c905657c&v=4" alt="laughing-joker" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/laughing-joker" target="_blank">laughing-joker</a>
       </td>
     </tr>
     <tr>
@@ -883,4 +883,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.262s on Fri Oct 4 at 12:38</p>
+<p align="right">Generated in 0.172s on Fri Oct 4 at 12:39</p>
