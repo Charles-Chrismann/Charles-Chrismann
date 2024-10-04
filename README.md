@@ -82,40 +82,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">10975</td>
-      <td align="center">
-        <a href="https://github.com/Gozkay" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/144262450?u=67659f9b73dbf48315ca06fb503c6a8060b41870&v=4" alt="Gozkay" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Gozkay" target="_blank">Gozkay</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">10976</td>
-      <td align="center">
-        <a href="https://github.com/arjunpv02" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/125240263?v=4" alt="arjunpv02" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/arjunpv02" target="_blank">arjunpv02</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">10977</td>
-      <td align="center">
-        <a href="https://github.com/biximilien" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/2025037?u=30d11f5c2d593dcb45d80cf3e4f6aad60504382c&v=4" alt="biximilien" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/biximilien" target="_blank">biximilien</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">10978</td>
+      <td align="center">
+        <a href="https://github.com/bnafack" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/58120702?u=b1507f6e2b45339a18d4fba1fd6f6345be614b36&v=4" alt="bnafack" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/bnafack" target="_blank">bnafack</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">10979</td>
+      <td align="center">
+        <a href="https://github.com/EmilyParfer" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/51832437?u=13c33c77a3ad67f0b651f1344fc9b7602fb31c64&v=4" alt="EmilyParfer" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/EmilyParfer" target="_blank">EmilyParfer</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">10980</td>
+      <td align="center">
+        <a href="https://github.com/RichardKariuki" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/93333118?u=4706eb977cfba3f34b7f5293e1f67c078c936e30&v=4" alt="RichardKariuki" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/RichardKariuki" target="_blank">RichardKariuki</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">10981</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -890,4 +890,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.403s on Fri Oct 4 at 14:56</p>
+<p align="right">Generated in 0.327s on Fri Oct 4 at 15:03</p>
