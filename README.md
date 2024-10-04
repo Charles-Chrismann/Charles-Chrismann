@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">10966</td>
-      <td align="center">
-        <a href="https://github.com/Sarinakasaiyan" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/96653405?u=c384f11005e6df9cf82a16c1af40013568159f4d&v=4" alt="Sarinakasaiyan" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Sarinakasaiyan" target="_blank">Sarinakasaiyan</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">10967</td>
       <td align="center">
         <a href="https://github.com/Zynk-dot" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">10969</td>
+      <td align="center">
+        <a href="https://github.com/Venky-234" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/77890305?v=4" alt="Venky-234" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Venky-234" target="_blank">Venky-234</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">10970</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -883,4 +883,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.309s on Fri Oct 4 at 12:53</p>
+<p align="right">Generated in 0.165s on Fri Oct 4 at 12:54</p>
