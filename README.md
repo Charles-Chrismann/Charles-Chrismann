@@ -84,17 +84,6 @@
     <tr>
       <td align="center">11021</td>
       <td align="center">
-        <a href="https://github.com/JohnMwendwa" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/72663882?u=805073cc702701b4ad6c56a60dc0bdae9ccac964&v=4" alt="JohnMwendwa" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/JohnMwendwa" target="_blank">JohnMwendwa</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">11022</td>
-      <td align="center">
         <a href="https://github.com/Nadhir-Led" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/183742771?v=4" alt="Nadhir-Led" width="40" height="40"/>
         </a>
@@ -104,14 +93,25 @@
       </td>
     </tr>
     <tr>
-      <td align="center">11023</td>
+      <td align="center">11022</td>
       <td align="center">
         <a href="https://github.com/YukiEuler" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/110078841?u=98bf612d0ad61679fd37c4ae5cbbcec7a9e330fb&v=4" alt="YukiEuler" width="40" height="40"/>
+          <img src="https://avatars.githubusercontent.com/u/110078841?u=ef5d3d3de7a29a116cee3241b860c493ed42420e&v=4" alt="YukiEuler" width="40" height="40"/>
         </a>
       </td>
       <td>
         <a href="https://github.com/YukiEuler" target="_blank">YukiEuler</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">11023</td>
+      <td align="center">
+        <a href="https://github.com/NicoRachiu" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/139007880?u=59911f307d12fd76ca0fc40a677ec4f29e6bf584&v=4" alt="NicoRachiu" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/NicoRachiu" target="_blank">NicoRachiu</a>
       </td>
     </tr>
     <tr>
@@ -873,4 +873,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.306s on Sat Oct 5 at 11:34</p>
+<p align="right">Generated in 0.235s on Sat Oct 5 at 11:35</p>
