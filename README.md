@@ -735,36 +735,6 @@
   </thead>
   <tbody>
     <tr>
-      <td>$\text{\color{white}{O}}$</td>
-      <td>$\text{\color{white}{C}}$</td>
-      <td>$\text{\color{white}{E}}$</td>
-      <td>$\text{\color{white}{A}}$</td>
-      <td>$\text{\color{white}{N}}$</td>
-      <td>
-        <a href="https://github.com/dana-akesh">@dana-akesh</a>
-      </td>
-    </tr>
-    <tr>
-      <td>$\text{\color{white}{B}}$</td>
-      <td>$\text{\color{lightgreen}{U}}$</td>
-      <td>$\text{\color{white}{I}}$</td>
-      <td>$\text{\color{white}{L}}$</td>
-      <td>$\text{\color{white}{D}}$</td>
-      <td>
-        <a href="https://github.com/dana-akesh">@dana-akesh</a>
-      </td>
-    </tr>
-    <tr>
-      <td>$\text{\color{red}{J}}$</td>
-      <td>$\text{\color{red}{U}}$</td>
-      <td>$\text{\color{red}{M}}$</td>
-      <td>$\text{\color{red}{P}}$</td>
-      <td>$\text{\color{red}{S}}$</td>
-      <td>
-        <a href="https://github.com/dana-akesh">@dana-akesh</a>
-      </td>
-    </tr>
-    <tr>
       <td>‎ </td>
       <td>‎ </td>
       <td>‎ </td>
@@ -886,4 +856,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.194s on Sat Oct 5 at 21:40</p>
+<p align="right">Generated in 0.188s on Sat Oct 5 at 22:00</p>
