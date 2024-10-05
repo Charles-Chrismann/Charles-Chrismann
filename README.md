@@ -84,17 +84,6 @@
     <tr>
       <td align="center">11022</td>
       <td align="center">
-        <a href="https://github.com/YukiEuler" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/110078841?u=ef5d3d3de7a29a116cee3241b860c493ed42420e&v=4" alt="YukiEuler" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/YukiEuler" target="_blank">YukiEuler</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">11023</td>
-      <td align="center">
         <a href="https://github.com/NicoRachiu" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/139007880?u=59911f307d12fd76ca0fc40a677ec4f29e6bf584&v=4" alt="NicoRachiu" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">11024</td>
+      <td align="center">11023</td>
       <td align="center">
         <a href="https://github.com/yanagikaito" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/112184771?v=4" alt="yanagikaito" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/yanagikaito" target="_blank">yanagikaito</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">11024</td>
+      <td align="center">
+        <a href="https://github.com/Armi-nn" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/151467800?u=1176bf8d5a254d3650b78815088872504de600a4&v=4" alt="Armi-nn" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Armi-nn" target="_blank">Armi-nn</a>
       </td>
     </tr>
     <tr>
@@ -875,4 +875,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.157s on Sat Oct 5 at 12:31</p>
+<p align="right">Generated in 0.242s on Sat Oct 5 at 12:36</p>
