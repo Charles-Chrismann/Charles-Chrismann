@@ -84,17 +84,6 @@
     <tr>
       <td align="center">11054</td>
       <td align="center">
-        <a href="https://github.com/SwirIy" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/173327670?u=9d455397e6f4bc65134107e85b37cf981ed2dbb8&v=4" alt="SwirIy" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/SwirIy" target="_blank">SwirIy</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">11055</td>
-      <td align="center">
         <a href="https://github.com/nisrineelmahdani" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/159466146?u=87c0e99d362864e0aca3f7abbd5766b69cf98e6b&v=4" alt="nisrineelmahdani" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">11056</td>
+      <td align="center">11055</td>
       <td align="center">
         <a href="https://github.com/owolabidevops" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/48913682?u=0d3515c1b17f5672f1dc57b876eee64dc33cc05e&v=4" alt="owolabidevops" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/owolabidevops" target="_blank">owolabidevops</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">11056</td>
+      <td align="center">
+        <a href="https://github.com/RichardMulambuzi" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/95221011?u=71ccebb294277b6a2a481f313980f644b1d1a4f6&v=4" alt="RichardMulambuzi" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/RichardMulambuzi" target="_blank">RichardMulambuzi</a>
       </td>
     </tr>
     <tr>
@@ -847,4 +847,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.29s on Sun Oct 6 at 9:59</p>
+<p align="right">Generated in 0.148s on Sun Oct 6 at 10:07</p>
