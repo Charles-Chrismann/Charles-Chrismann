@@ -82,29 +82,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">11038</td>
-      <td align="center">
-        <a href="https://github.com/parttwelve" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/153216422?u=518b64b45a4e695e06ea18265362592eb6c09667&v=4" alt="parttwelve" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/parttwelve" target="_blank">parttwelve</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">11039</td>
-      <td align="center">
-        <a href="https://github.com/chohnna" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/70152437?u=d0f658b0d704301c323212411ac5bf909d4eda84&v=4" alt="chohnna" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/chohnna" target="_blank">chohnna</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">11040</td>
       <td align="center">
         <a href="https://github.com/rasuljangirli" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/127443671?u=dad4b2f86a207e4461185daa142eb368f35f4087&v=4" alt="rasuljangirli" width="40" height="40"/>
@@ -115,7 +93,29 @@
       </td>
     </tr>
     <tr>
+      <td align="center">11040</td>
+      <td align="center">
+        <a href="https://github.com/Uriostegui805" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/159755907?v=4" alt="Uriostegui805" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Uriostegui805" target="_blank">Uriostegui805</a>
+      </td>
+    </tr>
+    <tr>
       <td align="center">11041</td>
+      <td align="center">
+        <a href="https://github.com/lcpsantos" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/46362260?u=23be09f7a7d924562000f2a0fb1fd8c8981adf26&v=4" alt="lcpsantos" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/lcpsantos" target="_blank">lcpsantos</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">11042</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -853,4 +853,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.372s on Sun Oct 6 at 4:03</p>
+<p align="right">Generated in 0.16s on Sun Oct 6 at 4:03</p>
