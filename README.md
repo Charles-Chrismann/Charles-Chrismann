@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">11102</td>
-      <td align="center">
-        <a href="https://github.com/trinanda-dev" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/99396461?u=77e48e1a40363231e437d188bcd80385f2e18e53&v=4" alt="trinanda-dev" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/trinanda-dev" target="_blank">trinanda-dev</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">11103</td>
       <td align="center">
         <a href="https://github.com/Gavinsr" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">11105</td>
+      <td align="center">
+        <a href="https://github.com/JohnMwendwa" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/72663882?u=805073cc702701b4ad6c56a60dc0bdae9ccac964&v=4" alt="JohnMwendwa" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/JohnMwendwa" target="_blank">JohnMwendwa</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">11106</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -549,7 +549,7 @@
   <tbody>
     <tr>
       <td align="center">:eight:</td>
-      <td align="center">♜      </td>
+      <td align="center">‎       </td>
       <td align="center">♞      </td>
       <td align="center">♝      </td>
       <td align="center">‎       </td>
@@ -621,12 +621,12 @@
       <td align="center">♙      </td>
       <td align="center">♙      </td>
       <td align="center">♙      </td>
-      <td align="center">♙      </td>
-      <td align="center">♙      </td>
+      <td align="center">‎       </td>
+      <td align="center">‎       </td>
     </tr>
     <tr>
       <td align="center">:one:</td>
-      <td align="center">♖      </td>
+      <td align="center">♜      </td>
       <td align="center">♘      </td>
       <td align="center">♗      </td>
       <td align="center">♛      </td>
@@ -637,7 +637,7 @@
         </details>
       </td>
       <td align="center">♗      </td>
-      <td align="center">♘      </td>
+      <td align="center">♙      </td>
       <td align="center">♖      </td>
     </tr>
   <tr>
@@ -788,4 +788,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.305s on Mon Oct 7 at 11:07</p>
+<p align="right">Generated in 0.336s on Mon Oct 7 at 11:23</p>
