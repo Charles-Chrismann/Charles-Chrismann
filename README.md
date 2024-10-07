@@ -84,17 +84,6 @@
     <tr>
       <td align="center">11101</td>
       <td align="center">
-        <a href="https://github.com/CynthiaAbi03" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/119008657?u=5495232c7ae2cc4154169c993626338bb247157b&v=4" alt="CynthiaAbi03" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/CynthiaAbi03" target="_blank">CynthiaAbi03</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">11102</td>
-      <td align="center">
         <a href="https://github.com/shahradelahi" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/17948260?u=645426fcb89823f26554bd437177e82d7a2f6b93&v=4" alt="shahradelahi" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">11103</td>
+      <td align="center">11102</td>
       <td align="center">
         <a href="https://github.com/rafialg11" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/53641104?u=da3d18eaed4f333b83b2409384e56884515c4a23&v=4" alt="rafialg11" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/rafialg11" target="_blank">rafialg11</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">11103</td>
+      <td align="center">
+        <a href="https://github.com/OsawaKousei" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/127647758?u=1cb842c7792fada35f94208918009db09d558682&v=4" alt="OsawaKousei" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/OsawaKousei" target="_blank">OsawaKousei</a>
       </td>
     </tr>
     <tr>
@@ -788,4 +788,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.285s on Mon Oct 7 at 9:53</p>
+<p align="right">Generated in 0.282s on Mon Oct 7 at 9:59</p>
