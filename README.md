@@ -84,17 +84,6 @@
     <tr>
       <td align="center">11102</td>
       <td align="center">
-        <a href="https://github.com/OsawaKousei" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/127647758?u=1cb842c7792fada35f94208918009db09d558682&v=4" alt="OsawaKousei" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/OsawaKousei" target="_blank">OsawaKousei</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">11103</td>
-      <td align="center">
         <a href="https://github.com/trinanda-dev" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/99396461?u=77e48e1a40363231e437d188bcd80385f2e18e53&v=4" alt="trinanda-dev" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">11104</td>
+      <td align="center">11103</td>
       <td align="center">
         <a href="https://github.com/Gavinsr" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/184100207?u=7bff17d43cbe914d1e89de75291bde546c9c7b38&v=4" alt="Gavinsr" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/Gavinsr" target="_blank">Gavinsr</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">11104</td>
+      <td align="center">
+        <a href="https://github.com/seiyaibuki0523" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/142652267?u=4df0aebdc7ac395da77f999960979d9f62cf7880&v=4" alt="seiyaibuki0523" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/seiyaibuki0523" target="_blank">seiyaibuki0523</a>
       </td>
     </tr>
     <tr>
@@ -788,4 +788,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.163s on Mon Oct 7 at 10:47</p>
+<p align="right">Generated in 0.173s on Mon Oct 7 at 10:53</p>
