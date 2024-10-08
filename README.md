@@ -82,40 +82,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">11158</td>
-      <td align="center">
-        <a href="https://github.com/ArtesiaDev" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/163536965?u=64437fd73ab92659bab21bcb6abbb9c666242ced&v=4" alt="ArtesiaDev" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/ArtesiaDev" target="_blank">ArtesiaDev</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">11159</td>
-      <td align="center">
-        <a href="https://github.com/sechanakira" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/18681537?u=b7d1d77d18432b6c8d39490950fd0c38cb6f5d9f&v=4" alt="sechanakira" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/sechanakira" target="_blank">sechanakira</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">11160</td>
       <td align="center">
-        <a href="https://github.com/ProfMthLuiz" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/154000567?u=b1ce28a2c3ba0a83db01020d08a71a5e150b1252&v=4" alt="ProfMthLuiz" width="40" height="40"/>
+        <a href="https://github.com/santaclousdon" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/156091068?u=44893578338ebf86bf5adeb820f7c97a211dcad1&v=4" alt="santaclousdon" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/ProfMthLuiz" target="_blank">ProfMthLuiz</a>
+        <a href="https://github.com/santaclousdon" target="_blank">santaclousdon</a>
       </td>
     </tr>
     <tr>
       <td align="center">11161</td>
+      <td align="center">
+        <a href="https://github.com/moashraf86" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/25694712?u=8824e58616fac3fcab46b6fccd92f6c025f4baed&v=4" alt="moashraf86" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/moashraf86" target="_blank">moashraf86</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">11162</td>
+      <td align="center">
+        <a href="https://github.com/amediazz" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/49117044?v=4" alt="amediazz" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/amediazz" target="_blank">amediazz</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">11163</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -907,4 +907,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.378s on Tue Oct 8 at 18:29</p>
+<p align="right">Generated in 0.21s on Tue Oct 8 at 18:33</p>
