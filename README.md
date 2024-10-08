@@ -84,17 +84,6 @@
     <tr>
       <td align="center">11149</td>
       <td align="center">
-        <a href="https://github.com/junaidsadiq-fi" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/142282667?u=9bc64a7877f9b304824ed205a30a882343ffb22e&v=4" alt="junaidsadiq-fi" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/junaidsadiq-fi" target="_blank">junaidsadiq-fi</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">11150</td>
-      <td align="center">
         <a href="https://github.com/JohnMwendwa" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/72663882?u=805073cc702701b4ad6c56a60dc0bdae9ccac964&v=4" alt="JohnMwendwa" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">11151</td>
+      <td align="center">11150</td>
       <td align="center">
         <a href="https://github.com/jsanbae" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/5470429?u=01666f0d92ff16c9641443361432d90d1d38380f&v=4" alt="jsanbae" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/jsanbae" target="_blank">jsanbae</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">11151</td>
+      <td align="center">
+        <a href="https://github.com/ByteCrister" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/143107015?u=d8415e8450708c837d7177b785c3ddb0710659d6&v=4" alt="ByteCrister" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/ByteCrister" target="_blank">ByteCrister</a>
       </td>
     </tr>
     <tr>
@@ -843,4 +843,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 1.246s on Tue Oct 8 at 12:56</p>
+<p align="right">Generated in 1.241s on Tue Oct 8 at 13:10</p>
