@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">11163</td>
-      <td align="center">
-        <a href="https://github.com/azrazenginn" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/150005059?v=4" alt="azrazenginn" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/azrazenginn" target="_blank">azrazenginn</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">11164</td>
       <td align="center">
         <a href="https://github.com/BENi-Aditya" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">11166</td>
+      <td align="center">
+        <a href="https://github.com/blockchainuniversityedu" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/144286099?u=c728fbf41120afa39a694d9e6a4bced73bef11f0&v=4" alt="blockchainuniversityedu" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/blockchainuniversityedu" target="_blank">blockchainuniversityedu</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">11167</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -905,4 +905,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.385s on Tue Oct 8 at 20:00</p>
+<p align="right">Generated in 0.229s on Tue Oct 8 at 20:18</p>
