@@ -757,6 +757,16 @@
       </td>
     </tr>
     <tr>
+      <td>$\text{\color{lightgreen}{C}}$</td>
+      <td>$\text{\color{lightgreen}{L}}$</td>
+      <td>$\text{\color{lightgreen}{U}}$</td>
+      <td>$\text{\color{lightgreen}{M}}$</td>
+      <td>$\text{\color{lightgreen}{P}}$</td>
+      <td>
+        <a href="https://github.com/dana-akesh">@dana-akesh</a>
+      </td>
+    </tr>
+    <tr>
       <td>‎ </td>
       <td>‎ </td>
       <td>‎ </td>
@@ -814,7 +824,7 @@
       <td>
         <a href="https://github.com/dana-akesh">@dana-akesh</a>
       </td>
-      <td align="center">5</td>
+      <td align="center">6</td>
     </tr>
     <tr>
       <td align="center">4</td>
@@ -878,4 +888,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.69s on Tue Oct 8 at 9:10</p>
+<p align="right">Generated in 0.762s on Tue Oct 8 at 9:11</p>
