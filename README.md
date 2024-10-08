@@ -84,17 +84,6 @@
     <tr>
       <td align="center">11145</td>
       <td align="center">
-        <a href="https://github.com/oleksa211" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/139438358?u=f20b3eb78bce741c004367d48a94a1dbd4aabcb1&v=4" alt="oleksa211" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/oleksa211" target="_blank">oleksa211</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">11146</td>
-      <td align="center">
         <a href="https://github.com/alex05429292" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/140742008?u=bbb7c2a99b28a94e196ffe917a6b6b4ba5c56418&v=4" alt="alex05429292" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">11147</td>
+      <td align="center">11146</td>
       <td align="center">
         <a href="https://github.com/evgeniy-dammer" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/57175456?u=4fddd1402489b8e61bae5ec259220a7139d68a50&v=4" alt="evgeniy-dammer" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/evgeniy-dammer" target="_blank">evgeniy-dammer</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">11147</td>
+      <td align="center">
+        <a href="https://github.com/dutra357" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/144396143?v=4" alt="dutra357" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/dutra357" target="_blank">dutra357</a>
       </td>
     </tr>
     <tr>
@@ -897,4 +897,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.79s on Tue Oct 8 at 11:01</p>
+<p align="right">Generated in 0.731s on Tue Oct 8 at 11:09</p>
