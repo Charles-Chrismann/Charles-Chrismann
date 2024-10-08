@@ -84,17 +84,6 @@
     <tr>
       <td align="center">11158</td>
       <td align="center">
-        <a href="https://github.com/DataGeek404" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/149297062?u=e318ed8f29f5724d22dee676d1b8be1d2f8e4a81&v=4" alt="DataGeek404" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/DataGeek404" target="_blank">DataGeek404</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">11159</td>
-      <td align="center">
         <a href="https://github.com/ArtesiaDev" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/163536965?u=64437fd73ab92659bab21bcb6abbb9c666242ced&v=4" alt="ArtesiaDev" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">11160</td>
+      <td align="center">11159</td>
       <td align="center">
         <a href="https://github.com/sechanakira" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/18681537?u=b7d1d77d18432b6c8d39490950fd0c38cb6f5d9f&v=4" alt="sechanakira" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/sechanakira" target="_blank">sechanakira</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">11160</td>
+      <td align="center">
+        <a href="https://github.com/ProfMthLuiz" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/154000567?u=b1ce28a2c3ba0a83db01020d08a71a5e150b1252&v=4" alt="ProfMthLuiz" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/ProfMthLuiz" target="_blank">ProfMthLuiz</a>
       </td>
     </tr>
     <tr>
@@ -907,4 +907,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.212s on Tue Oct 8 at 17:37</p>
+<p align="right">Generated in 0.213s on Tue Oct 8 at 17:57</p>
