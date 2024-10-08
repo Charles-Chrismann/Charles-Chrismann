@@ -82,40 +82,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">11154</td>
-      <td align="center">
-        <a href="https://github.com/ManouchehrRasoulli" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/30831435?u=7dc6b2ee2fe096f962594671e5f236282ccb31a7&v=4" alt="ManouchehrRasoulli" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/ManouchehrRasoulli" target="_blank">ManouchehrRasoulli</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">11155</td>
-      <td align="center">
-        <a href="https://github.com/ilyasabdellaoui" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/79768267?u=38355b38065cdc3ff3b5972556a6226c0ff3b439&v=4" alt="ilyasabdellaoui" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/ilyasabdellaoui" target="_blank">ilyasabdellaoui</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">11156</td>
-      <td align="center">
-        <a href="https://github.com/lucapelorosso" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/5917195?u=59560f14c9c8ec7af201efd9a487f3c1430823c1&v=4" alt="lucapelorosso" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/lucapelorosso" target="_blank">lucapelorosso</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">11157</td>
+      <td align="center">
+        <a href="https://github.com/yusufdeliktas" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/156336446?v=4" alt="yusufdeliktas" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/yusufdeliktas" target="_blank">yusufdeliktas</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">11158</td>
+      <td align="center">
+        <a href="https://github.com/DataGeek404" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/149297062?u=e318ed8f29f5724d22dee676d1b8be1d2f8e4a81&v=4" alt="DataGeek404" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/DataGeek404" target="_blank">DataGeek404</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">11159</td>
+      <td align="center">
+        <a href="https://github.com/ArtesiaDev" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/163536965?u=64437fd73ab92659bab21bcb6abbb9c666242ced&v=4" alt="ArtesiaDev" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/ArtesiaDev" target="_blank">ArtesiaDev</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">11160</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -907,4 +907,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.217s on Tue Oct 8 at 17:12</p>
+<p align="right">Generated in 0.235s on Tue Oct 8 at 17:12</p>
