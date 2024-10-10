@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">11267</td>
-      <td align="center">
-        <a href="https://github.com/Colt-M1873" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/47551017?u=41a6285ea9a7d311b8ca54399ba257bcac822bd0&v=4" alt="Colt-M1873" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Colt-M1873" target="_blank">Colt-M1873</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">11268</td>
       <td align="center">
         <a href="https://github.com/barshy" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">11270</td>
+      <td align="center">
+        <a href="https://github.com/mwangi-den" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/171785162?v=4" alt="mwangi-den" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/mwangi-den" target="_blank">mwangi-den</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">11271</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -849,4 +849,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.157s on Thu Oct 10 at 17:32</p>
+<p align="right">Generated in 0.265s on Thu Oct 10 at 17:35</p>
