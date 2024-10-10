@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">11236</td>
-      <td align="center">
-        <a href="https://github.com/Dirgant" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/155790299?u=b97de767f4f9c7e70664fd56769a274f64452630&v=4" alt="Dirgant" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Dirgant" target="_blank">Dirgant</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">11237</td>
       <td align="center">
         <a href="https://github.com/lilmoonlil" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">11239</td>
+      <td align="center">
+        <a href="https://github.com/Ria7S" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/145222622?v=4" alt="Ria7S" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Ria7S" target="_blank">Ria7S</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">11240</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -871,4 +871,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.362s on Thu Oct 10 at 5:16</p>
+<p align="right">Generated in 0.207s on Thu Oct 10 at 5:20</p>
