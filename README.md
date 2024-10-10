@@ -84,17 +84,6 @@
     <tr>
       <td align="center">11228</td>
       <td align="center">
-        <a href="https://github.com/CaioCroccia22" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/118224318?v=4" alt="CaioCroccia22" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/CaioCroccia22" target="_blank">CaioCroccia22</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">11229</td>
-      <td align="center">
         <a href="https://github.com/FryBanzie109" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/162026440?u=aa81a9aa593be19dee903e047c4dbe11b761f9c7&v=4" alt="FryBanzie109" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">11230</td>
+      <td align="center">11229</td>
       <td align="center">
         <a href="https://github.com/IdrisDY" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/88961234?v=4" alt="IdrisDY" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/IdrisDY" target="_blank">IdrisDY</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">11230</td>
+      <td align="center">
+        <a href="https://github.com/DewaGedeEkaBudhiarta" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/110976754?v=4" alt="DewaGedeEkaBudhiarta" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/DewaGedeEkaBudhiarta" target="_blank">DewaGedeEkaBudhiarta</a>
       </td>
     </tr>
     <tr>
@@ -812,4 +812,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.085s on Thu Oct 10 at 0:42</p>
+<p align="right">Generated in 0.092s on Thu Oct 10 at 0:48</p>
