@@ -84,17 +84,6 @@
     <tr>
       <td align="center">11290</td>
       <td align="center">
-        <a href="https://github.com/jidsfotech" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/26555105?u=2105bf0033a4d96b7eef5313937f3700387350ad&v=4" alt="jidsfotech" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/jidsfotech" target="_blank">jidsfotech</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">11291</td>
-      <td align="center">
         <a href="https://github.com/emovahedali" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/122293053?u=aea43fc8542388634f608027f8332484619a44f3&v=4" alt="emovahedali" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">11292</td>
+      <td align="center">11291</td>
       <td align="center">
         <a href="https://github.com/tuftr907" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/115733005?u=a314f8f8f78d3c585e1be316b71ab983f4ba7378&v=4" alt="tuftr907" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/tuftr907" target="_blank">tuftr907</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">11292</td>
+      <td align="center">
+        <a href="https://github.com/Ricky-at" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/175127811?v=4" alt="Ricky-at" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Ricky-at" target="_blank">Ricky-at</a>
       </td>
     </tr>
     <tr>
@@ -846,4 +846,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.233s on Fri Oct 11 at 10:23</p>
+<p align="right">Generated in 0.192s on Fri Oct 11 at 10:37</p>
