@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">11321</td>
-      <td align="center">
-        <a href="https://github.com/Ibtida01" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/108508643?v=4" alt="Ibtida01" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Ibtida01" target="_blank">Ibtida01</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">11322</td>
       <td align="center">
         <a href="https://github.com/ByteCrister" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">11324</td>
+      <td align="center">
+        <a href="https://github.com/Web3ByVirtuAI" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/166317093?u=0e45bb2ae98249d651550e9f58d3394e3b8c6af1&v=4" alt="Web3ByVirtuAI" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Web3ByVirtuAI" target="_blank">Web3ByVirtuAI</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">11325</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -861,4 +861,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.285s on Sat Oct 12 at 8:38</p>
+<p align="right">Generated in 0.224s on Sat Oct 12 at 8:50</p>
