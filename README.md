@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">11314</td>
-      <td align="center">
-        <a href="https://github.com/jadilsonjunior" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/97557947?v=4" alt="jadilsonjunior" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/jadilsonjunior" target="_blank">jadilsonjunior</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">11315</td>
       <td align="center">
         <a href="https://github.com/Musma-n" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">11317</td>
+      <td align="center">
+        <a href="https://github.com/codoga" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/114760536?u=d080b3fec9fa31ec72092b1ac47107d515ac0a1b&v=4" alt="codoga" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/codoga" target="_blank">codoga</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">11318</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -865,4 +865,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.185s on Sat Oct 12 at 0:21</p>
+<p align="right">Generated in 0.184s on Sat Oct 12 at 0:24</p>
