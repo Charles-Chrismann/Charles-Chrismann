@@ -82,40 +82,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">11330</td>
-      <td align="center">
-        <a href="https://github.com/JohnMwendwa" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/72663882?u=805073cc702701b4ad6c56a60dc0bdae9ccac964&v=4" alt="JohnMwendwa" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/JohnMwendwa" target="_blank">JohnMwendwa</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">11331</td>
-      <td align="center">
-        <a href="https://github.com/MalikZeeshan1122" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/130128211?u=0e6c921d2adc5ca44d53fe7b3fcb4a0ef02d988d&v=4" alt="MalikZeeshan1122" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/MalikZeeshan1122" target="_blank">MalikZeeshan1122</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">11332</td>
       <td align="center">
-        <a href="https://github.com/elvis-kimutai" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/106657161?u=ab197e219894b3e79aabec97e0e0453eeb412cc1&v=4" alt="elvis-kimutai" width="40" height="40"/>
+        <a href="https://github.com/ixvadev" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/151366013?u=b7eb539f5618c2453a84eb7e72b1fb0750697120&v=4" alt="ixvadev" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/elvis-kimutai" target="_blank">elvis-kimutai</a>
+        <a href="https://github.com/ixvadev" target="_blank">ixvadev</a>
       </td>
     </tr>
     <tr>
       <td align="center">11333</td>
+      <td align="center">
+        <a href="https://github.com/Osmond-Matsela" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/121243833?v=4" alt="Osmond-Matsela" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Osmond-Matsela" target="_blank">Osmond-Matsela</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">11334</td>
+      <td align="center">
+        <a href="https://github.com/hani777h7" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/139638950?u=af7aaf624639e1cd98defeb92b902c31b6b26092&v=4" alt="hani777h7" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/hani777h7" target="_blank">hani777h7</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">11335</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -861,4 +861,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.154s on Sat Oct 12 at 14:31</p>
+<p align="right">Generated in 0.143s on Sat Oct 12 at 14:50</p>
