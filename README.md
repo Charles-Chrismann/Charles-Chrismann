@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">11363</td>
-      <td align="center">
-        <a href="https://github.com/VectorChi" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/80969723?u=9f1c71e95eb0d60f805fe2c6823ae581cfe12237&v=4" alt="VectorChi" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/VectorChi" target="_blank">VectorChi</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">11364</td>
       <td align="center">
         <a href="https://github.com/Prathamkumar18" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">11366</td>
+      <td align="center">
+        <a href="https://github.com/ExorTek" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/54851701?u=9bcc983fd888b7a0ec0e59b062bd32fe074a1b45&v=4" alt="ExorTek" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/ExorTek" target="_blank">ExorTek</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">11367</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -870,4 +870,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.247s on Sun Oct 13 at 14:29</p>
+<p align="right">Generated in 0.268s on Sun Oct 13 at 14:33</p>
