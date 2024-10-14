@@ -745,46 +745,6 @@
   </thead>
   <tbody>
     <tr>
-      <td>$\text{\color{white}{G}}$</td>
-      <td>$\text{\color{orange}{R}}$</td>
-      <td>$\text{\color{lightgreen}{A}}$</td>
-      <td>$\text{\color{white}{P}}$</td>
-      <td>$\text{\color{white}{E}}$</td>
-      <td>
-        <a href="https://github.com/Jackcuii">@Jackcuii</a>
-      </td>
-    </tr>
-    <tr>
-      <td>$\text{\color{white}{C}}$</td>
-      <td>$\text{\color{white}{H}}$</td>
-      <td>$\text{\color{lightgreen}{A}}$</td>
-      <td>$\text{\color{lightgreen}{R}}$</td>
-      <td>$\text{\color{lightgreen}{T}}$</td>
-      <td>
-        <a href="https://github.com/dana-akesh">@dana-akesh</a>
-      </td>
-    </tr>
-    <tr>
-      <td>$\text{\color{lightgreen}{S}}$</td>
-      <td>$\text{\color{white}{M}}$</td>
-      <td>$\text{\color{lightgreen}{A}}$</td>
-      <td>$\text{\color{lightgreen}{R}}$</td>
-      <td>$\text{\color{lightgreen}{T}}$</td>
-      <td>
-        <a href="https://github.com/dana-akesh">@dana-akesh</a>
-      </td>
-    </tr>
-    <tr>
-      <td>$\text{\color{lightgreen}{S}}$</td>
-      <td>$\text{\color{lightgreen}{T}}$</td>
-      <td>$\text{\color{lightgreen}{A}}$</td>
-      <td>$\text{\color{lightgreen}{R}}$</td>
-      <td>$\text{\color{lightgreen}{T}}$</td>
-      <td>
-        <a href="https://github.com/dana-akesh">@dana-akesh</a>
-      </td>
-    </tr>
-    <tr>
       <td>‎ </td>
       <td>‎ </td>
       <td>‎ </td>
@@ -906,4 +866,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.178s on Mon Oct 14 at 21:47</p>
+<p align="right">Generated in 0.292s on Mon Oct 14 at 22:00</p>
