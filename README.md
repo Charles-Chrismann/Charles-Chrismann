@@ -107,7 +107,7 @@
       <td align="center">11448</td>
       <td align="center">
         <a href="https://github.com/anjilinux" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/94956350?u=bf8b1ac1c0895c1d1a1c2307110bc7743e7e3e7c&v=4" alt="anjilinux" width="40" height="40"/>
+          <img src="https://avatars.githubusercontent.com/u/94956350?u=aee0f1e8bc82f1a5f390b37c52a7530c3eb2acb3&v=4" alt="anjilinux" width="40" height="40"/>
         </a>
       </td>
       <td>
@@ -857,4 +857,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.155s on Tue Oct 15 at 13:47</p>
+<p align="right">Generated in 0.204s on Tue Oct 15 at 13:50</p>
