@@ -84,17 +84,6 @@
     <tr>
       <td align="center">11439</td>
       <td align="center">
-        <a href="https://github.com/Marylucy123450" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/117809129?u=0c0eeaae3b637a2f0765ca8f48e5e1143b800f5f&v=4" alt="Marylucy123450" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Marylucy123450" target="_blank">Marylucy123450</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">11440</td>
-      <td align="center">
         <a href="https://github.com/likhondocs" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/182892333?u=274d12c805a0e7dcc891dbe382f04fa72549602a&v=4" alt="likhondocs" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">11441</td>
+      <td align="center">11440</td>
       <td align="center">
         <a href="https://github.com/DYDY2MONOI" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/114913476?u=a9629ea4d2948a82d2c8a4ceed299a24e70f0b12&v=4" alt="DYDY2MONOI" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/DYDY2MONOI" target="_blank">DYDY2MONOI</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">11441</td>
+      <td align="center">
+        <a href="https://github.com/JohnMwendwa" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/72663882?u=805073cc702701b4ad6c56a60dc0bdae9ccac964&v=4" alt="JohnMwendwa" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/JohnMwendwa" target="_blank">JohnMwendwa</a>
       </td>
     </tr>
     <tr>
@@ -865,4 +865,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.174s on Tue Oct 15 at 11:18</p>
+<p align="right">Generated in 0.172s on Tue Oct 15 at 11:34</p>
