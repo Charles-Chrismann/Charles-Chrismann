@@ -84,17 +84,6 @@
     <tr>
       <td align="center">11498</td>
       <td align="center">
-        <a href="https://github.com/RichGelinski" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/128526262?u=92ae50ffcbfd04d584e69280d0f832a95207eeaa&v=4" alt="RichGelinski" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/RichGelinski" target="_blank">RichGelinski</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">11499</td>
-      <td align="center">
         <a href="https://github.com/afr2903" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/25570636?u=854f252825ed0ae22492fb27fc6f6e588524903c&v=4" alt="afr2903" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">11500</td>
+      <td align="center">11499</td>
       <td align="center">
         <a href="https://github.com/zel-baz" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/96727926?u=625fc9ac9bfd15d313706c8735c11baed6ce42d9&v=4" alt="zel-baz" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/zel-baz" target="_blank">zel-baz</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">11500</td>
+      <td align="center">
+        <a href="https://github.com/simonhenrique" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/74187849?u=e157edcad619105791a86cb6f79e68ad6b67979e&v=4" alt="simonhenrique" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/simonhenrique" target="_blank">simonhenrique</a>
       </td>
     </tr>
     <tr>
@@ -848,4 +848,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.361s on Wed Oct 16 at 22:42</p>
+<p align="right">Generated in 0.153s on Wed Oct 16 at 22:42</p>
