@@ -82,18 +82,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">11516</td>
-      <td align="center">
-        <a href="https://github.com/neferititiSwaq" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/142839324?v=4" alt="neferititiSwaq" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/neferititiSwaq" target="_blank">neferititiSwaq</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">11517</td>
+      <td align="center">11502</td>
       <td align="center">
         <a href="https://github.com/JohnMwendwa" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/72663882?u=805073cc702701b4ad6c56a60dc0bdae9ccac964&v=4" alt="JohnMwendwa" width="40" height="40"/>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">11518</td>
+      <td align="center">11503</td>
       <td align="center">
         <a href="https://github.com/tonnycoder001" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/112697735?v=4" alt="tonnycoder001" width="40" height="40"/>
@@ -115,7 +104,18 @@
       </td>
     </tr>
     <tr>
-      <td align="center">11519</td>
+      <td align="center">11504</td>
+      <td align="center">
+        <a href="https://github.com/asmunck" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/92228444?u=58accbed4b30deb5116d506ac76fbbf487cd2868&v=4" alt="asmunck" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/asmunck" target="_blank">asmunck</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">11505</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -881,4 +881,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.225s on Thu Oct 17 at 11:22</p>
+<p align="right">Generated in 0.33s on Thu Oct 17 at 11:23</p>
