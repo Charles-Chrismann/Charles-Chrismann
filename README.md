@@ -82,18 +82,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">11516</td>
-      <td align="center">
-        <a href="https://github.com/viktoriyadzhoruhova" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/142666685?v=4" alt="viktoriyadzhoruhova" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/viktoriyadzhoruhova" target="_blank">viktoriyadzhoruhova</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">11517</td>
+      <td align="center">11515</td>
       <td align="center">
         <a href="https://github.com/shahradelahi" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/17948260?u=645426fcb89823f26554bd437177e82d7a2f6b93&v=4" alt="shahradelahi" width="40" height="40"/>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">11518</td>
+      <td align="center">11516</td>
       <td align="center">
         <a href="https://github.com/neferititiSwaq" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/142839324?v=4" alt="neferititiSwaq" width="40" height="40"/>
@@ -115,7 +104,18 @@
       </td>
     </tr>
     <tr>
-      <td align="center">11519</td>
+      <td align="center">11517</td>
+      <td align="center">
+        <a href="https://github.com/JohnMwendwa" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/72663882?u=805073cc702701b4ad6c56a60dc0bdae9ccac964&v=4" alt="JohnMwendwa" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/JohnMwendwa" target="_blank">JohnMwendwa</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">11518</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -881,4 +881,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.223s on Thu Oct 17 at 10:52</p>
+<p align="right">Generated in 0.215s on Thu Oct 17 at 10:55</p>
