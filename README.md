@@ -264,8 +264,8 @@
 <h1 align="center">Flex Zone</h1>
 <h3 align="center">A classic Minesweeper</h3>
 <p align="center">
-  <a href="https://o.charles-chrismann.fr/minesweeper/click?x=0&y=0">:black_large_square:</a>
-  <a href="https://o.charles-chrismann.fr/minesweeper/click?x=1&y=0">:black_large_square:</a>
+  <span>:white_large_square:</span>
+  <span>:white_large_square:</span>
   <span>:two:</span>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=3&y=0">:black_large_square:</a>
   <span>:three:</span>
@@ -283,8 +283,8 @@
   <span>:white_large_square:</span>
   <span>:white_large_square:</span>
   <br>
-  <a href="https://o.charles-chrismann.fr/minesweeper/click?x=0&y=1">:black_large_square:</a>
-  <a href="https://o.charles-chrismann.fr/minesweeper/click?x=1&y=1">:black_large_square:</a>
+  <span>:two:</span>
+  <span>:two:</span>
   <span>:three:</span>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=3&y=1">:black_large_square:</a>
   <span>:three:</span>
@@ -856,4 +856,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.182s on Thu Oct 17 at 13:16</p>
+<p align="right">Generated in 0.425s on Thu Oct 17 at 13:16</p>
