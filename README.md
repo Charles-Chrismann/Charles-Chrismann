@@ -84,17 +84,6 @@
     <tr>
       <td align="center">11525</td>
       <td align="center">
-        <a href="https://github.com/ixvadev" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/151366013?u=b7eb539f5618c2453a84eb7e72b1fb0750697120&v=4" alt="ixvadev" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/ixvadev" target="_blank">ixvadev</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">11526</td>
-      <td align="center">
         <a href="https://github.com/rich-iannone" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/5612024?u=9a0fe49a5f3648af258b2871ded57e281c44c695&v=4" alt="rich-iannone" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">11527</td>
+      <td align="center">11526</td>
       <td align="center">
         <a href="https://github.com/sasukemc7" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/121077913?u=53c510322a0175c99bd9727653d238864844926c&v=4" alt="sasukemc7" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/sasukemc7" target="_blank">sasukemc7</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">11527</td>
+      <td align="center">
+        <a href="https://github.com/lmaurici0" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/135241097?u=923fda1e03e9fc0f558f623f7a3d5a1b4b0eb797&v=4" alt="lmaurici0" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/lmaurici0" target="_blank">lmaurici0</a>
       </td>
     </tr>
     <tr>
@@ -856,4 +856,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.2s on Thu Oct 17 at 17:24</p>
+<p align="right">Generated in 0.207s on Thu Oct 17 at 17:25</p>
