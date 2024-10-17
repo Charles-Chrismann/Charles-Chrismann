@@ -82,40 +82,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">11508</td>
+      <td align="center">11512</td>
       <td align="center">
-        <a href="https://github.com/SanaJamal-45" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/145653270?u=4c31a033d03c4a51b33a6ca23d297a1170f29d33&v=4" alt="SanaJamal-45" width="40" height="40"/>
+        <a href="https://github.com/Valentino-Junior" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/87479153?u=964c2d825d095f2fe26522a218c446204eb6b1d6&v=4" alt="Valentino-Junior" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/SanaJamal-45" target="_blank">SanaJamal-45</a>
+        <a href="https://github.com/Valentino-Junior" target="_blank">Valentino-Junior</a>
       </td>
     </tr>
     <tr>
-      <td align="center">11509</td>
+      <td align="center">11513</td>
       <td align="center">
-        <a href="https://github.com/emersonramos3lt" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/151971499?u=b4e06d6847acc2029715bc0364d6641099c0bb7d&v=4" alt="emersonramos3lt" width="40" height="40"/>
+        <a href="https://github.com/BitcoinDegen" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/148989909?u=65cd8fbeab2e9d1c31f1218a0607f9fe32c1f3f1&v=4" alt="BitcoinDegen" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/emersonramos3lt" target="_blank">emersonramos3lt</a>
+        <a href="https://github.com/BitcoinDegen" target="_blank">BitcoinDegen</a>
       </td>
     </tr>
     <tr>
-      <td align="center">11510</td>
+      <td align="center">11514</td>
       <td align="center">
-        <a href="https://github.com/EduardoMorbeck" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/156026527?u=45151e5a6a45e667b8f66961242f26bf52b8e706&v=4" alt="EduardoMorbeck" width="40" height="40"/>
+        <a href="https://github.com/Prdsilva80" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/110048042?u=bf5302133e578b80afd0ae7a42b7d18d9b294d70&v=4" alt="Prdsilva80" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/EduardoMorbeck" target="_blank">EduardoMorbeck</a>
+        <a href="https://github.com/Prdsilva80" target="_blank">Prdsilva80</a>
       </td>
     </tr>
     <tr>
-      <td align="center">11511</td>
+      <td align="center">11515</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -856,4 +856,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.877s on Thu Oct 17 at 15:20</p>
+<p align="right">Generated in 0.887s on Thu Oct 17 at 15:26</p>
