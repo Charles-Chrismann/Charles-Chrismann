@@ -752,6 +752,16 @@
       </td>
     </tr>
     <tr>
+      <td>$\text{\color{lightgreen}{B}}$</td>
+      <td>$\text{\color{lightgreen}{U}}$</td>
+      <td>$\text{\color{lightgreen}{X}}$</td>
+      <td>$\text{\color{lightgreen}{O}}$</td>
+      <td>$\text{\color{lightgreen}{M}}$</td>
+      <td>
+        <a href="https://github.com/Foword5">@Foword5</a>
+      </td>
+    </tr>
+    <tr>
       <td>‎ </td>
       <td>‎ </td>
       <td>‎ </td>
@@ -785,7 +795,7 @@
       <td>
         <a href="https://github.com/Foword5">@Foword5</a>
       </td>
-      <td align="center">21</td>
+      <td align="center">22</td>
     </tr>
     <tr>
       <td align="center">2</td>
@@ -873,4 +883,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.271s on Fri Oct 18 at 9:28</p>
+<p align="right">Generated in 0.278s on Fri Oct 18 at 9:29</p>
