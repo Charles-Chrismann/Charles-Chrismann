@@ -742,26 +742,6 @@
   </thead>
   <tbody>
     <tr>
-      <td>$\text{\color{white}{C}}$</td>
-      <td>$\text{\color{white}{L}}$</td>
-      <td>$\text{\color{orange}{O}}$</td>
-      <td>$\text{\color{white}{S}}$</td>
-      <td>$\text{\color{orange}{E}}$</td>
-      <td>
-        <a href="https://github.com/aimahusnain">@aimahusnain</a>
-      </td>
-    </tr>
-    <tr>
-      <td>$\text{\color{white}{G}}$</td>
-      <td>$\text{\color{white}{L}}$</td>
-      <td>$\text{\color{orange}{O}}$</td>
-      <td>$\text{\color{white}{V}}$</td>
-      <td>$\text{\color{orange}{E}}$</td>
-      <td>
-        <a href="https://github.com/pareidolies">@pareidolies</a>
-      </td>
-    </tr>
-    <tr>
       <td>‎ </td>
       <td>‎ </td>
       <td>‎ </td>
@@ -883,4 +863,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.221s on Sat Oct 19 at 21:59</p>
+<p align="right">Generated in 0.383s on Sat Oct 19 at 22:00</p>
