@@ -84,17 +84,6 @@
     <tr>
       <td align="center">11606</td>
       <td align="center">
-        <a href="https://github.com/Waseem771" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/60735787?v=4" alt="Waseem771" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Waseem771" target="_blank">Waseem771</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">11607</td>
-      <td align="center">
         <a href="https://github.com/nitsc" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/138109564?u=1ed2a6ec867d46e66e1aef6d5cf64a0c63f902e9&v=4" alt="nitsc" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">11608</td>
+      <td align="center">11607</td>
       <td align="center">
         <a href="https://github.com/alguarwy2024" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/170224972?v=4" alt="alguarwy2024" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/alguarwy2024" target="_blank">alguarwy2024</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">11608</td>
+      <td align="center">
+        <a href="https://github.com/gdmramos" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/29047318?u=f8c9f25533792cccacf0a05bb02c7120aa7f165f&v=4" alt="gdmramos" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/gdmramos" target="_blank">gdmramos</a>
       </td>
     </tr>
     <tr>
@@ -878,4 +878,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.213s on Sat Oct 19 at 13:25</p>
+<p align="right">Generated in 0.24s on Sat Oct 19 at 13:26</p>
