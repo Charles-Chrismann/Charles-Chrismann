@@ -728,6 +728,16 @@
   </thead>
   <tbody>
     <tr>
+      <td>$\text{\color{white}{J}}$</td>
+      <td>$\text{\color{white}{E}}$</td>
+      <td>$\text{\color{white}{L}}$</td>
+      <td>$\text{\color{white}{L}}$</td>
+      <td>$\text{\color{white}{Y}}$</td>
+      <td>
+        <a href="https://github.com/Jacoblightning">@Jacoblightning</a>
+      </td>
+    </tr>
+    <tr>
       <td>‎ </td>
       <td>‎ </td>
       <td>‎ </td>
@@ -849,4 +859,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.145s on Sun Oct 20 at 4:48</p>
+<p align="right">Generated in 0.234s on Sun Oct 20 at 4:55</p>
