@@ -82,29 +82,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">11645</td>
-      <td align="center">
-        <a href="https://github.com/JohnMwendwa" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/72663882?u=805073cc702701b4ad6c56a60dc0bdae9ccac964&v=4" alt="JohnMwendwa" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/JohnMwendwa" target="_blank">JohnMwendwa</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">11646</td>
-      <td align="center">
-        <a href="https://github.com/PedrooH0" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/124939591?u=4bccffb82a7076a998ddb945a43d3e029e7a8582&v=4" alt="PedrooH0" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/PedrooH0" target="_blank">PedrooH0</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">11647</td>
       <td align="center">
         <a href="https://github.com/hamilton-labs" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/173300401?u=f5f761c37db465d9cd265c9601ca597a9ad61fac&v=4" alt="hamilton-labs" width="40" height="40"/>
@@ -115,7 +93,29 @@
       </td>
     </tr>
     <tr>
+      <td align="center">11647</td>
+      <td align="center">
+        <a href="https://github.com/kalebemax" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/169088614?u=443adece288f1fb6ef195750852a8d8e380d9fa4&v=4" alt="kalebemax" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/kalebemax" target="_blank">kalebemax</a>
+      </td>
+    </tr>
+    <tr>
       <td align="center">11648</td>
+      <td align="center">
+        <a href="https://github.com/guhill1" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/124128440?v=4" alt="guhill1" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/guhill1" target="_blank">guhill1</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">11649</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -860,4 +860,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.187s on Sun Oct 20 at 16:26</p>
+<p align="right">Generated in 0.241s on Sun Oct 20 at 16:46</p>
