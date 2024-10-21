@@ -752,6 +752,16 @@
       </td>
     </tr>
     <tr>
+      <td>$\text{\color{red}{S}}$</td>
+      <td>$\text{\color{red}{A}}$</td>
+      <td>$\text{\color{red}{B}}$</td>
+      <td>$\text{\color{red}{E}}$</td>
+      <td>$\text{\color{red}{R}}$</td>
+      <td>
+        <a href="https://github.com/AlexNadais04">@AlexNadais04</a>
+      </td>
+    </tr>
+    <tr>
       <td>‎ </td>
       <td>‎ </td>
       <td>‎ </td>
@@ -873,4 +883,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.284s on Mon Oct 21 at 14:44</p>
+<p align="right">Generated in 0.203s on Mon Oct 21 at 14:46</p>
