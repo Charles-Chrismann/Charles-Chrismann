@@ -82,18 +82,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">11682</td>
-      <td align="center">
-        <a href="https://github.com/shahradelahi" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/17948260?u=645426fcb89823f26554bd437177e82d7a2f6b93&v=4" alt="shahradelahi" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/shahradelahi" target="_blank">shahradelahi</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">11683</td>
+      <td align="center">11681</td>
       <td align="center">
         <a href="https://github.com/meysamjavadzadeh20" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/43805419?u=5ed867ef55ad6b0aff75c45cc5d65ff671421211&v=4" alt="meysamjavadzadeh20" width="40" height="40"/>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">11684</td>
+      <td align="center">11682</td>
       <td align="center">
         <a href="https://github.com/JohnMwendwa" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/72663882?u=805073cc702701b4ad6c56a60dc0bdae9ccac964&v=4" alt="JohnMwendwa" width="40" height="40"/>
@@ -115,7 +104,18 @@
       </td>
     </tr>
     <tr>
-      <td align="center">11685</td>
+      <td align="center">11683</td>
+      <td align="center">
+        <a href="https://github.com/deltadash2" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/181823492?u=13fd40e31330ec8cc45d0b150d6b8bba3d66b85b&v=4" alt="deltadash2" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/deltadash2" target="_blank">deltadash2</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">11684</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -797,4 +797,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.221s on Mon Oct 21 at 10:45</p>
+<p align="right">Generated in 0.337s on Mon Oct 21 at 10:48</p>
