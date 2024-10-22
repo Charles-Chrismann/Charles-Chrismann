@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">11721</td>
-      <td align="center">
-        <a href="https://github.com/aslduucu" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/185474423?v=4" alt="aslduucu" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/aslduucu" target="_blank">aslduucu</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">11722</td>
       <td align="center">
         <a href="https://github.com/muffin819" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">11724</td>
+      <td align="center">
+        <a href="https://github.com/hyper-dust" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/126595271?v=4" alt="hyper-dust" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/hyper-dust" target="_blank">hyper-dust</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">11725</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -861,4 +861,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.207s on Tue Oct 22 at 10:39</p>
+<p align="right">Generated in 0.204s on Tue Oct 22 at 10:44</p>
