@@ -84,17 +84,6 @@
     <tr>
       <td align="center">11768</td>
       <td align="center">
-        <a href="https://github.com/byteface" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/307511?u=b1ed0dd6a7bfc9c93a56ddd46100512d034eba4c&v=4" alt="byteface" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/byteface" target="_blank">byteface</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">11769</td>
-      <td align="center">
         <a href="https://github.com/Marylucy123450" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/117809129?u=0c0eeaae3b637a2f0765ca8f48e5e1143b800f5f&v=4" alt="Marylucy123450" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">11770</td>
+      <td align="center">11769</td>
       <td align="center">
         <a href="https://github.com/SadakAbdullahi" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/161992994?u=25a05a2af1d465aa95dc7524805027aff3048e06&v=4" alt="SadakAbdullahi" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/SadakAbdullahi" target="_blank">SadakAbdullahi</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">11770</td>
+      <td align="center">
+        <a href="https://github.com/Fuzzworth" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/6101893?u=645268cc9b538411a76a89ba1669aa338b120482&v=4" alt="Fuzzworth" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Fuzzworth" target="_blank">Fuzzworth</a>
       </td>
     </tr>
     <tr>
@@ -869,4 +869,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.29s on Wed Oct 23 at 14:09</p>
+<p align="right">Generated in 0.279s on Wed Oct 23 at 14:20</p>
