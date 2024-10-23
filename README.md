@@ -85,7 +85,7 @@
       <td align="center">11762</td>
       <td align="center">
         <a href="https://github.com/minsang-dev" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/183470224?v=4" alt="minsang-dev" width="40" height="40"/>
+          <img src="https://avatars.githubusercontent.com/u/183470224?u=44b98c8d2a014310bda8d4c9be09e495709c324b&v=4" alt="minsang-dev" width="40" height="40"/>
         </a>
       </td>
       <td>
@@ -865,4 +865,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.274s on Wed Oct 23 at 11:18</p>
+<p align="right">Generated in 0.189s on Wed Oct 23 at 11:32</p>
