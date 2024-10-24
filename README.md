@@ -84,17 +84,6 @@
     <tr>
       <td align="center">11815</td>
       <td align="center">
-        <a href="https://github.com/armando555" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/53227034?u=af4740aa0801da46249a7a489145f77899f69ed8&v=4" alt="armando555" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/armando555" target="_blank">armando555</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">11816</td>
-      <td align="center">
         <a href="https://github.com/sol-magic" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/37668185?u=ee33985a0b78d4b46f3e245cc0eb613569c090d4&v=4" alt="sol-magic" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">11817</td>
+      <td align="center">11816</td>
       <td align="center">
         <a href="https://github.com/benaduo" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/56738123?u=dda931e1123ed7595bc153b2f8c59a682bc3b3c3&v=4" alt="benaduo" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/benaduo" target="_blank">benaduo</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">11817</td>
+      <td align="center">
+        <a href="https://github.com/ludmuniz" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/143336055?u=74c3f5d00198e0426b1a0e63462547afda3c86fa&v=4" alt="ludmuniz" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/ludmuniz" target="_blank">ludmuniz</a>
       </td>
     </tr>
     <tr>
@@ -852,4 +852,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.139s on Thu Oct 24 at 16:05</p>
+<p align="right">Generated in 0.144s on Thu Oct 24 at 16:15</p>
