@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">11813</td>
-      <td align="center">
-        <a href="https://github.com/leftsidedriver" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/179919832?u=a826f8cebf6aea6fd7bd9b44827881b2f337db02&v=4" alt="leftsidedriver" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/leftsidedriver" target="_blank">leftsidedriver</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">11814</td>
       <td align="center">
         <a href="https://github.com/rasuljangirli" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">11816</td>
+      <td align="center">
+        <a href="https://github.com/sol-magic" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/37668185?u=ee33985a0b78d4b46f3e245cc0eb613569c090d4&v=4" alt="sol-magic" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/sol-magic" target="_blank">sol-magic</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">11817</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -848,4 +848,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.202s on Thu Oct 24 at 15:48</p>
+<p align="right">Generated in 0.193s on Thu Oct 24 at 15:49</p>
