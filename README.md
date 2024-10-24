@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">11818</td>
-      <td align="center">
-        <a href="https://github.com/bugexterminator84" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/186209184?v=4" alt="bugexterminator84" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/bugexterminator84" target="_blank">bugexterminator84</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">11819</td>
       <td align="center">
         <a href="https://github.com/Tulkhatri" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">11821</td>
+      <td align="center">
+        <a href="https://github.com/mashail" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/17787537?v=4" alt="mashail" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/mashail" target="_blank">mashail</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">11822</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -851,4 +851,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.15s on Thu Oct 24 at 18:03</p>
+<p align="right">Generated in 0.262s on Thu Oct 24 at 18:12</p>
