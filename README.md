@@ -84,17 +84,6 @@
     <tr>
       <td align="center">11856</td>
       <td align="center">
-        <a href="https://github.com/edu-amr" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/73178068?u=8eefd30e74e97d243d59f090a3fe60d022cc8693&v=4" alt="edu-amr" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/edu-amr" target="_blank">edu-amr</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">11857</td>
-      <td align="center">
         <a href="https://github.com/albsondev" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/106167607?u=f31c06ab35957455fd1a05c313ca90422e5fad6a&v=4" alt="albsondev" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">11858</td>
+      <td align="center">11857</td>
       <td align="center">
         <a href="https://github.com/ngud-119" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/181827969?u=b3b550b892deefd5cc3a1242ee5fa8708f82e92f&v=4" alt="ngud-119" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/ngud-119" target="_blank">ngud-119</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">11858</td>
+      <td align="center">
+        <a href="https://github.com/antoniogranadino" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/110358944?v=4" alt="antoniogranadino" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/antoniogranadino" target="_blank">antoniogranadino</a>
       </td>
     </tr>
     <tr>
@@ -843,4 +843,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.263s on Fri Oct 25 at 16:28</p>
+<p align="right">Generated in 0.129s on Fri Oct 25 at 16:30</p>
