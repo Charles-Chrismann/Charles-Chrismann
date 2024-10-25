@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">11834</td>
-      <td align="center">
-        <a href="https://github.com/PedroOttavio" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/60161782?u=c968ec11ba25a2485e4e0af4124d1fb1719517c9&v=4" alt="PedroOttavio" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/PedroOttavio" target="_blank">PedroOttavio</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">11835</td>
       <td align="center">
         <a href="https://github.com/Matheus-dotcom-bot" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">11837</td>
+      <td align="center">
+        <a href="https://github.com/Edugiyuu" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/102703153?v=4" alt="Edugiyuu" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Edugiyuu" target="_blank">Edugiyuu</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">11838</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -848,4 +848,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.124s on Fri Oct 25 at 2:28</p>
+<p align="right">Generated in 0.12s on Fri Oct 25 at 2:43</p>
