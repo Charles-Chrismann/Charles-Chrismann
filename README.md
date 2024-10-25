@@ -84,17 +84,6 @@
     <tr>
       <td align="center">11860</td>
       <td align="center">
-        <a href="https://github.com/wakoliVotes" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/77758884?u=51326803dc95f07f844927ec9942dbb88b6622e0&v=4" alt="wakoliVotes" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/wakoliVotes" target="_blank">wakoliVotes</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">11861</td>
-      <td align="center">
         <a href="https://github.com/deltadash2" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/181823492?u=13fd40e31330ec8cc45d0b150d6b8bba3d66b85b&v=4" alt="deltadash2" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">11862</td>
+      <td align="center">11861</td>
       <td align="center">
         <a href="https://github.com/FatihArslan-cmd" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/122049858?u=2117d533e47720b51208dd4b726490f443c6edd4&v=4" alt="FatihArslan-cmd" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/FatihArslan-cmd" target="_blank">FatihArslan-cmd</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">11862</td>
+      <td align="center">
+        <a href="https://github.com/VictorBettiol" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/23581953?u=df602d73abfd177303d6ce00734ac8daf91352c7&v=4" alt="VictorBettiol" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/VictorBettiol" target="_blank">VictorBettiol</a>
       </td>
     </tr>
     <tr>
@@ -868,4 +868,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.285s on Fri Oct 25 at 20:05</p>
+<p align="right">Generated in 0.29s on Fri Oct 25 at 20:06</p>
