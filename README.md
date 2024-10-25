@@ -84,17 +84,6 @@
     <tr>
       <td align="center">11862</td>
       <td align="center">
-        <a href="https://github.com/VictorBettiol" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/23581953?u=df602d73abfd177303d6ce00734ac8daf91352c7&v=4" alt="VictorBettiol" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/VictorBettiol" target="_blank">VictorBettiol</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">11863</td>
-      <td align="center">
         <a href="https://github.com/Negin-Shams" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/184691485?v=4" alt="Negin-Shams" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">11864</td>
+      <td align="center">11863</td>
       <td align="center">
         <a href="https://github.com/lollocenne" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/116589286?u=1887a11be5d8c8d2c16e8b21239b1cd665b2b4ab&v=4" alt="lollocenne" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/lollocenne" target="_blank">lollocenne</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">11864</td>
+      <td align="center">
+        <a href="https://github.com/JohnMwendwa" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/72663882?u=805073cc702701b4ad6c56a60dc0bdae9ccac964&v=4" alt="JohnMwendwa" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/JohnMwendwa" target="_blank">JohnMwendwa</a>
       </td>
     </tr>
     <tr>
@@ -850,4 +850,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.277s on Fri Oct 25 at 21:13</p>
+<p align="right">Generated in 0.228s on Fri Oct 25 at 21:26</p>
