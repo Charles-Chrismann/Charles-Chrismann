@@ -84,17 +84,6 @@
     <tr>
       <td align="center">11859</td>
       <td align="center">
-        <a href="https://github.com/DaniilBaida" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/88986327?v=4" alt="DaniilBaida" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/DaniilBaida" target="_blank">DaniilBaida</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">11860</td>
-      <td align="center">
         <a href="https://github.com/letambelli" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/168021904?u=8ea2551992a71f3b82b98d72c9c54e691c9da091&v=4" alt="letambelli" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">11861</td>
+      <td align="center">11860</td>
       <td align="center">
         <a href="https://github.com/wakoliVotes" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/77758884?u=51326803dc95f07f844927ec9942dbb88b6622e0&v=4" alt="wakoliVotes" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/wakoliVotes" target="_blank">wakoliVotes</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">11861</td>
+      <td align="center">
+        <a href="https://github.com/deltadash2" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/181823492?u=13fd40e31330ec8cc45d0b150d6b8bba3d66b85b&v=4" alt="deltadash2" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/deltadash2" target="_blank">deltadash2</a>
       </td>
     </tr>
     <tr>
@@ -848,4 +848,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.253s on Fri Oct 25 at 18:51</p>
+<p align="right">Generated in 0.252s on Fri Oct 25 at 18:52</p>
