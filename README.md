@@ -82,40 +82,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">11837</td>
-      <td align="center">
-        <a href="https://github.com/Edugiyuu" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/102703153?v=4" alt="Edugiyuu" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Edugiyuu" target="_blank">Edugiyuu</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">11838</td>
-      <td align="center">
-        <a href="https://github.com/npikwa" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/157131531?u=9ccf753178360856c376f55926ff0e5d7c090040&v=4" alt="npikwa" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/npikwa" target="_blank">npikwa</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">11839</td>
-      <td align="center">
-        <a href="https://github.com/Jwonno" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/136059430?v=4" alt="Jwonno" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Jwonno" target="_blank">Jwonno</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">11840</td>
+      <td align="center">
+        <a href="https://github.com/TalkUHulk" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/18474163?u=bd456374293431b967525eeafce3759260565d05&v=4" alt="TalkUHulk" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/TalkUHulk" target="_blank">TalkUHulk</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">11841</td>
+      <td align="center">
+        <a href="https://github.com/Omair-Akbar" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/159688251?u=66e6503461b1fb6778995dbcaf81e6c74d546b92&v=4" alt="Omair-Akbar" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Omair-Akbar" target="_blank">Omair-Akbar</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">11842</td>
+      <td align="center">
+        <a href="https://github.com/PATOLINODD" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/66355236?u=7515548b1baba7fbc4d95d6744aa3ec2337a1fab&v=4" alt="PATOLINODD" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/PATOLINODD" target="_blank">PATOLINODD</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">11843</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -848,4 +848,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.252s on Fri Oct 25 at 5:26</p>
+<p align="right">Generated in 0.212s on Fri Oct 25 at 6:06</p>
