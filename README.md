@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">11890</td>
-      <td align="center">
-        <a href="https://github.com/Maham-Javed" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/123468582?u=dbdc14aca248f6338f63394b3ade81f37e1fac04&v=4" alt="Maham-Javed" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Maham-Javed" target="_blank">Maham-Javed</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">11891</td>
       <td align="center">
         <a href="https://github.com/edwardosamosir" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">11893</td>
+      <td align="center">
+        <a href="https://github.com/Taracraft" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/90864484?v=4" alt="Taracraft" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Taracraft" target="_blank">Taracraft</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">11894</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -870,4 +870,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.248s on Sat Oct 26 at 12:10</p>
+<p align="right">Generated in 0.219s on Sat Oct 26 at 12:21</p>
