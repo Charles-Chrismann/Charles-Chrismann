@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">11895</td>
-      <td align="center">
-        <a href="https://github.com/mobiledeveloperever" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/57319133?u=307f7c3eb4b1e3cc9b697e164dd1857d2ce96f7c&v=4" alt="mobiledeveloperever" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/mobiledeveloperever" target="_blank">mobiledeveloperever</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">11896</td>
       <td align="center">
         <a href="https://github.com/umutramazanegi" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">11898</td>
+      <td align="center">
+        <a href="https://github.com/PushoDev" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/130678121?u=104bc1edccde5716f8423835941012fee0011c78&v=4" alt="PushoDev" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/PushoDev" target="_blank">PushoDev</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">11899</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -851,4 +851,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.296s on Sat Oct 26 at 14:37</p>
+<p align="right">Generated in 0.244s on Sat Oct 26 at 14:39</p>
