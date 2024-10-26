@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">11902</td>
-      <td align="center">
-        <a href="https://github.com/Basilskar" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/114903380?v=4" alt="Basilskar" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Basilskar" target="_blank">Basilskar</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">11903</td>
       <td align="center">
         <a href="https://github.com/Anes-Hadim" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">11905</td>
+      <td align="center">
+        <a href="https://github.com/Lannescoder" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/132610533?v=4" alt="Lannescoder" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Lannescoder" target="_blank">Lannescoder</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">11906</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -849,4 +849,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.146s on Sat Oct 26 at 16:43</p>
+<p align="right">Generated in 0.139s on Sat Oct 26 at 16:44</p>
