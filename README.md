@@ -84,17 +84,6 @@
     <tr>
       <td align="center">11933</td>
       <td align="center">
-        <a href="https://github.com/mohammadprogramer" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/44209236?v=4" alt="mohammadprogramer" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/mohammadprogramer" target="_blank">mohammadprogramer</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">11934</td>
-      <td align="center">
         <a href="https://github.com/shantunparmar" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/55224162?u=a6bbbe0a1661a1cc83c64e96f8c500e1af95ab5d&v=4" alt="shantunparmar" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">11935</td>
+      <td align="center">11934</td>
       <td align="center">
         <a href="https://github.com/adityanata" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/156203425?v=4" alt="adityanata" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/adityanata" target="_blank">adityanata</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">11935</td>
+      <td align="center">
+        <a href="https://github.com/Burkifa23" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/97257798?u=e125e43006d2853dc6556ddcb1db98f66253d0ff&v=4" alt="Burkifa23" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Burkifa23" target="_blank">Burkifa23</a>
       </td>
     </tr>
     <tr>
@@ -853,4 +853,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.27s on Sun Oct 27 at 13:19</p>
+<p align="right">Generated in 1.21s on Sun Oct 27 at 13:25</p>
