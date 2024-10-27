@@ -82,29 +82,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">11947</td>
-      <td align="center">
-        <a href="https://github.com/patrickf949" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/43245704?u=40d600b0ee7e5585b1fa39812637020167eb3eb3&v=4" alt="patrickf949" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/patrickf949" target="_blank">patrickf949</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">11948</td>
-      <td align="center">
-        <a href="https://github.com/gru-lucy" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/92162352?u=e1871bc015bb319ba945f622db8a91df71bfc48f&v=4" alt="gru-lucy" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/gru-lucy" target="_blank">gru-lucy</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">11949</td>
       <td align="center">
         <a href="https://github.com/freaking404" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/174354140?u=67e75681b126e6e7936f9597d327b65a925b3462&v=4" alt="freaking404" width="40" height="40"/>
@@ -115,7 +93,29 @@
       </td>
     </tr>
     <tr>
+      <td align="center">11949</td>
+      <td align="center">
+        <a href="https://github.com/JohnMwendwa" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/72663882?u=805073cc702701b4ad6c56a60dc0bdae9ccac964&v=4" alt="JohnMwendwa" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/JohnMwendwa" target="_blank">JohnMwendwa</a>
+      </td>
+    </tr>
+    <tr>
       <td align="center">11950</td>
+      <td align="center">
+        <a href="https://github.com/academy-redmaster" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/147451904?u=9876b0c7f8e86f6e3c3c9bf6db0f8d10bf3af82d&v=4" alt="academy-redmaster" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/academy-redmaster" target="_blank">academy-redmaster</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">11951</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -843,4 +843,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.357s on Sun Oct 27 at 20:45</p>
+<p align="right">Generated in 0.359s on Sun Oct 27 at 20:48</p>
