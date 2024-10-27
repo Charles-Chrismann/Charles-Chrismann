@@ -82,7 +82,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">11949</td>
+      <td align="center">11948</td>
       <td align="center">
         <a href="https://github.com/JohnMwendwa" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/72663882?u=805073cc702701b4ad6c56a60dc0bdae9ccac964&v=4" alt="JohnMwendwa" width="40" height="40"/>
@@ -93,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">11950</td>
+      <td align="center">11949</td>
       <td align="center">
         <a href="https://github.com/academy-redmaster" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/147451904?u=9876b0c7f8e86f6e3c3c9bf6db0f8d10bf3af82d&v=4" alt="academy-redmaster" width="40" height="40"/>
@@ -104,7 +104,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">11951</td>
+      <td align="center">11950</td>
       <td align="center">
         <a href="https://github.com/LucasGaldinno" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/71888039?u=fcf38fb651802af393c0a4bed696970de36e00de&v=4" alt="LucasGaldinno" width="40" height="40"/>
@@ -115,7 +115,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">11952</td>
+      <td align="center">11951</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -843,4 +843,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.361s on Sun Oct 27 at 20:56</p>
+<p align="right">Generated in 0.362s on Sun Oct 27 at 21:05</p>
