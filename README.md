@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">11977</td>
-      <td align="center">
-        <a href="https://github.com/munesoft" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/52791711?u=b9a7fb444c70c204c91eda0cc77a1c51e4adad8d&v=4" alt="munesoft" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/munesoft" target="_blank">munesoft</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">11978</td>
       <td align="center">
         <a href="https://github.com/KalangiJayakody" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">11980</td>
+      <td align="center">
+        <a href="https://github.com/salihsenturk" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/17388273?v=4" alt="salihsenturk" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/salihsenturk" target="_blank">salihsenturk</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">11981</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -851,4 +851,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.413s on Mon Oct 28 at 12:12</p>
+<p align="right">Generated in 0.341s on Mon Oct 28 at 12:14</p>
