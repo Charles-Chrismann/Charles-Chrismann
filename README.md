@@ -96,7 +96,7 @@
       <td align="center">11982</td>
       <td align="center">
         <a href="https://github.com/dhandi-software" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/186487475?v=4" alt="dhandi-software" width="40" height="40"/>
+          <img src="https://avatars.githubusercontent.com/u/186487475?u=60de43eca5f0bea2cf0ed949c5e8c296f6276057&v=4" alt="dhandi-software" width="40" height="40"/>
         </a>
       </td>
       <td>
@@ -861,4 +861,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.443s on Mon Oct 28 at 16:13</p>
+<p align="right">Generated in 0.448s on Mon Oct 28 at 16:21</p>
