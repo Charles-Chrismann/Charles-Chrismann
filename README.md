@@ -84,34 +84,34 @@
     <tr>
       <td align="center">11967</td>
       <td align="center">
-        <a href="https://github.com/xandner" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/73213620?u=9ec3fefcdac3da5ccc04f5b87d0f4dd34d776a03&v=4" alt="xandner" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/xandner" target="_blank">xandner</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">11968</td>
-      <td align="center">
-        <a href="https://github.com/AlgorithmXplorer" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/161677427?u=e83d5f3c2ecea3bc06b487572197e95c6310bd6e&v=4" alt="AlgorithmXplorer" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/AlgorithmXplorer" target="_blank">AlgorithmXplorer</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">11969</td>
-      <td align="center">
         <a href="https://github.com/AgileTech777" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/115309898?v=4" alt="AgileTech777" width="40" height="40"/>
         </a>
       </td>
       <td>
         <a href="https://github.com/AgileTech777" target="_blank">AgileTech777</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">11968</td>
+      <td align="center">
+        <a href="https://github.com/Ra1nz0r" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/140400459?u=e6297bb2d2c020be478045d7718b0e0f106e0c8f&v=4" alt="Ra1nz0r" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Ra1nz0r" target="_blank">Ra1nz0r</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">11969</td>
+      <td align="center">
+        <a href="https://github.com/MayurArchives" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/176205657?u=2fea08eec803fffc70777cdb91ea8a549e7546be&v=4" alt="MayurArchives" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/MayurArchives" target="_blank">MayurArchives</a>
       </td>
     </tr>
     <tr>
@@ -859,4 +859,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.173s on Mon Oct 28 at 6:29</p>
+<p align="right">Generated in 0.407s on Mon Oct 28 at 7:08</p>
