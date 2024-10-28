@@ -96,7 +96,7 @@
       <td align="center">11958</td>
       <td align="center">
         <a href="https://github.com/git-anatolii" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/173107502?u=9c8690a7f16c32f3bc7a1bcfbddc1fdccc355fd1&v=4" alt="git-anatolii" width="40" height="40"/>
+          <img src="https://avatars.githubusercontent.com/u/173107502?v=4" alt="git-anatolii" width="40" height="40"/>
         </a>
       </td>
       <td>
@@ -860,4 +860,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.487s on Mon Oct 28 at 2:52</p>
+<p align="right">Generated in 0.195s on Mon Oct 28 at 3:00</p>
