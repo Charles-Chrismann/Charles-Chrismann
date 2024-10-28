@@ -82,18 +82,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">11978</td>
-      <td align="center">
-        <a href="https://github.com/KalangiJayakody" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/131763584?u=41a7c48d0b8ee248794722f53e8aa9bac4a3d43f&v=4" alt="KalangiJayakody" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/KalangiJayakody" target="_blank">KalangiJayakody</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">11979</td>
+      <td align="center">11977</td>
       <td align="center">
         <a href="https://github.com/haririalii" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/51972355?u=3883405cfe76e61358e4ab5d3b4fd1d81580a586&v=4" alt="haririalii" width="40" height="40"/>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">11980</td>
+      <td align="center">11978</td>
       <td align="center">
         <a href="https://github.com/salihsenturk" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/17388273?v=4" alt="salihsenturk" width="40" height="40"/>
@@ -115,7 +104,18 @@
       </td>
     </tr>
     <tr>
-      <td align="center">11981</td>
+      <td align="center">11979</td>
+      <td align="center">
+        <a href="https://github.com/N1ki-by" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/108509800?u=ee63c1cdf57822218794db7a7fc22f8c68e100a2&v=4" alt="N1ki-by" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/N1ki-by" target="_blank">N1ki-by</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">11980</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -851,4 +851,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.206s on Mon Oct 28 at 12:15</p>
+<p align="right">Generated in 0.341s on Mon Oct 28 at 12:25</p>
