@@ -84,17 +84,6 @@
     <tr>
       <td align="center">12014</td>
       <td align="center">
-        <a href="https://github.com/syahmisade" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/145860659?u=6ff1eea8da6024f1b9a28ae970772a9fa04733e3&v=4" alt="syahmisade" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/syahmisade" target="_blank">syahmisade</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">12015</td>
-      <td align="center">
         <a href="https://github.com/shi-src-2021" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/53722909?v=4" alt="shi-src-2021" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">12016</td>
+      <td align="center">12015</td>
       <td align="center">
         <a href="https://github.com/kfrural" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/106109272?u=ac8af812aed4f72e4d959642f08f34f98d180d79&v=4" alt="kfrural" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/kfrural" target="_blank">kfrural</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">12016</td>
+      <td align="center">
+        <a href="https://github.com/Abdullahsaleh203" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/132389571?u=07bc5ae65186a85e4bb0c629f366246eef12a4d8&v=4" alt="Abdullahsaleh203" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Abdullahsaleh203" target="_blank">Abdullahsaleh203</a>
       </td>
     </tr>
     <tr>
@@ -803,4 +803,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 1.652s on Tue Oct 29 at 9:14</p>
+<p align="right">Generated in 1.651s on Tue Oct 29 at 9:18</p>
