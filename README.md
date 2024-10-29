@@ -752,6 +752,16 @@
       </td>
     </tr>
     <tr>
+      <td>$\text{\color{red}{Y}}$</td>
+      <td>$\text{\color{red}{O}}$</td>
+      <td>$\text{\color{red}{U}}$</td>
+      <td>$\text{\color{red}{R}}$</td>
+      <td>$\text{\color{red}{S}}$</td>
+      <td>
+        <a href="https://github.com/jeancalriz">@jeancalriz</a>
+      </td>
+    </tr>
+    <tr>
       <td>‎ </td>
       <td>‎ </td>
       <td>‎ </td>
@@ -873,4 +883,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.303s on Tue Oct 29 at 21:44</p>
+<p align="right">Generated in 0.267s on Tue Oct 29 at 21:44</p>
