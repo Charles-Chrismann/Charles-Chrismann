@@ -743,6 +743,16 @@
       </td>
     </tr>
     <tr>
+      <td>$\text{\color{red}{T}}$</td>
+      <td>$\text{\color{red}{H}}$</td>
+      <td>$\text{\color{red}{I}}$</td>
+      <td>$\text{\color{red}{N}}$</td>
+      <td>$\text{\color{red}{E}}$</td>
+      <td>
+        <a href="https://github.com/LucasMSCaetano">@LucasMSCaetano</a>
+      </td>
+    </tr>
+    <tr>
       <td>‎ </td>
       <td>‎ </td>
       <td>‎ </td>
@@ -864,4 +874,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.274s on Tue Oct 29 at 22:03</p>
+<p align="right">Generated in 0.27s on Tue Oct 29 at 22:05</p>
