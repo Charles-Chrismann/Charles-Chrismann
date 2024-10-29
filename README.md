@@ -722,6 +722,16 @@
   </thead>
   <tbody>
     <tr>
+      <td>$\text{\color{red}{T}}$</td>
+      <td>$\text{\color{red}{R}}$</td>
+      <td>$\text{\color{red}{O}}$</td>
+      <td>$\text{\color{red}{P}}$</td>
+      <td>$\text{\color{red}{A}}$</td>
+      <td>
+        <a href="https://github.com/gabrielAlonsoC">@gabrielAlonsoC</a>
+      </td>
+    </tr>
+    <tr>
       <td>‎ </td>
       <td>‎ </td>
       <td>‎ </td>
@@ -843,4 +853,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.131s on Tue Oct 29 at 21:42</p>
+<p align="right">Generated in 0.278s on Tue Oct 29 at 21:43</p>
