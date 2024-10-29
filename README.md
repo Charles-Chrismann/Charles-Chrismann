@@ -82,40 +82,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">12010</td>
+      <td align="center">12015</td>
       <td align="center">
-        <a href="https://github.com/MustafaHasan1" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/124390190?v=4" alt="MustafaHasan1" width="40" height="40"/>
+        <a href="https://github.com/syahmisade" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/145860659?u=6ff1eea8da6024f1b9a28ae970772a9fa04733e3&v=4" alt="syahmisade" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/MustafaHasan1" target="_blank">MustafaHasan1</a>
+        <a href="https://github.com/syahmisade" target="_blank">syahmisade</a>
       </td>
     </tr>
     <tr>
-      <td align="center">12011</td>
+      <td align="center">12016</td>
       <td align="center">
-        <a href="https://github.com/Abdullahsaleh203" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/132389571?u=07bc5ae65186a85e4bb0c629f366246eef12a4d8&v=4" alt="Abdullahsaleh203" width="40" height="40"/>
+        <a href="https://github.com/shi-src-2021" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/53722909?v=4" alt="shi-src-2021" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/Abdullahsaleh203" target="_blank">Abdullahsaleh203</a>
+        <a href="https://github.com/shi-src-2021" target="_blank">shi-src-2021</a>
       </td>
     </tr>
     <tr>
-      <td align="center">12012</td>
+      <td align="center">12017</td>
       <td align="center">
-        <a href="https://github.com/Parasdeveloper8" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/152639879?u=eb33cacddffdbf1e09034a216b2f102ed0369a06&v=4" alt="Parasdeveloper8" width="40" height="40"/>
+        <a href="https://github.com/kfrural" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/106109272?u=ac8af812aed4f72e4d959642f08f34f98d180d79&v=4" alt="kfrural" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/Parasdeveloper8" target="_blank">Parasdeveloper8</a>
+        <a href="https://github.com/kfrural" target="_blank">kfrural</a>
       </td>
     </tr>
     <tr>
-      <td align="center">12013</td>
+      <td align="center">12018</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -803,4 +803,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.263s on Tue Oct 29 at 8:23</p>
+<p align="right">Generated in 0.444s on Tue Oct 29 at 8:50</p>
