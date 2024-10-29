@@ -82,7 +82,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">12031</td>
+      <td align="center">12030</td>
       <td align="center">
         <a href="https://github.com/Aryan-Rajesh-Python" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/122169573?u=840fb0fa1591794591cff06cabd5939f9787d719&v=4" alt="Aryan-Rajesh-Python" width="40" height="40"/>
@@ -93,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">12032</td>
+      <td align="center">12031</td>
       <td align="center">
         <a href="https://github.com/FractalizedC" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/87528266?u=3190c0992cfb0bde2dbf1a5290bd7f48b4ec7153&v=4" alt="FractalizedC" width="40" height="40"/>
@@ -104,7 +104,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">12033</td>
+      <td align="center">12032</td>
       <td align="center">
         <a href="https://github.com/unkwonme" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/182991763?v=4" alt="unkwonme" width="40" height="40"/>
@@ -115,7 +115,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">12034</td>
+      <td align="center">12033</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -887,4 +887,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.24s on Tue Oct 29 at 15:09</p>
+<p align="right">Generated in 0.288s on Tue Oct 29 at 15:11</p>
