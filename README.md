@@ -84,17 +84,6 @@
     <tr>
       <td align="center">12037</td>
       <td align="center">
-        <a href="https://github.com/KhujamovCodes" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/151366013?u=b7eb539f5618c2453a84eb7e72b1fb0750697120&v=4" alt="KhujamovCodes" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/KhujamovCodes" target="_blank">KhujamovCodes</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">12038</td>
-      <td align="center">
         <a href="https://github.com/Nabonb" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/107099892?u=854af83d9d96b576231d2661b9a2f92f866f3c65&v=4" alt="Nabonb" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">12039</td>
+      <td align="center">12038</td>
       <td align="center">
         <a href="https://github.com/juniormelo26" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/22121703?u=004f281a14ef00eb0456175e89f640f5c662431b&v=4" alt="juniormelo26" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/juniormelo26" target="_blank">juniormelo26</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">12039</td>
+      <td align="center">
+        <a href="https://github.com/JohnMwendwa" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/72663882?u=805073cc702701b4ad6c56a60dc0bdae9ccac964&v=4" alt="JohnMwendwa" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/JohnMwendwa" target="_blank">JohnMwendwa</a>
       </td>
     </tr>
     <tr>
@@ -801,4 +801,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.204s on Tue Oct 29 at 19:18</p>
+<p align="right">Generated in 0.319s on Tue Oct 29 at 19:19</p>
