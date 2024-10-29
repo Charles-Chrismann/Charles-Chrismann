@@ -95,12 +95,12 @@
     <tr>
       <td align="center">12037</td>
       <td align="center">
-        <a href="https://github.com/ixvadev" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/151366013?u=b7eb539f5618c2453a84eb7e72b1fb0750697120&v=4" alt="ixvadev" width="40" height="40"/>
+        <a href="https://github.com/KhujamovCodes" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/151366013?u=b7eb539f5618c2453a84eb7e72b1fb0750697120&v=4" alt="KhujamovCodes" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/ixvadev" target="_blank">ixvadev</a>
+        <a href="https://github.com/KhujamovCodes" target="_blank">KhujamovCodes</a>
       </td>
     </tr>
     <tr>
@@ -799,4 +799,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.353s on Tue Oct 29 at 18:38</p>
+<p align="right">Generated in 0.219s on Tue Oct 29 at 18:38</p>
