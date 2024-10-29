@@ -863,6 +863,16 @@
       </td>
     </tr>
     <tr>
+      <td>$\text{\color{white}{T}}$</td>
+      <td>$\text{\color{white}{W}}$</td>
+      <td>$\text{\color{white}{I}}$</td>
+      <td>$\text{\color{orange}{N}}$</td>
+      <td>$\text{\color{orange}{E}}$</td>
+      <td>
+        <a href="https://github.com/LucasMSCaetano">@LucasMSCaetano</a>
+      </td>
+    </tr>
+    <tr>
       <td>‎ </td>
       <td>‎ </td>
       <td>‎ </td>
