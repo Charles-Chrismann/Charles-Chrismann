@@ -84,17 +84,6 @@
     <tr>
       <td align="center">12022</td>
       <td align="center">
-        <a href="https://github.com/anacstralioti" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/141967889?u=5f3fd2429bd15d44fcf33dae19a98303e1c500dd&v=4" alt="anacstralioti" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/anacstralioti" target="_blank">anacstralioti</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">12023</td>
-      <td align="center">
         <a href="https://github.com/bugraisin" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/130779171?u=9595a0e3ac9f979a52c33273e7f7e781a54ffc19&v=4" alt="bugraisin" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">12024</td>
+      <td align="center">12023</td>
       <td align="center">
         <a href="https://github.com/negreacristian" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/94742663?u=bdcb90ceb6523db5bf8de6245f895a70ee87c048&v=4" alt="negreacristian" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/negreacristian" target="_blank">negreacristian</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">12024</td>
+      <td align="center">
+        <a href="https://github.com/deltadash2" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/181823492?u=13fd40e31330ec8cc45d0b150d6b8bba3d66b85b&v=4" alt="deltadash2" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/deltadash2" target="_blank">deltadash2</a>
       </td>
     </tr>
     <tr>
@@ -789,4 +789,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.286s on Tue Oct 29 at 11:59</p>
+<p align="right">Generated in 0.286s on Tue Oct 29 at 12:12</p>
