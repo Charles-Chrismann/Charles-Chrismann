@@ -832,6 +832,16 @@
       </td>
     </tr>
     <tr>
+      <td>$\text{\color{lightgreen}{T}}$</td>
+      <td>$\text{\color{lightgreen}{E}}$</td>
+      <td>$\text{\color{lightgreen}{A}}$</td>
+      <td>$\text{\color{lightgreen}{S}}$</td>
+      <td>$\text{\color{lightgreen}{E}}$</td>
+      <td>
+        <a href="https://github.com/LucasMSCaetano">@LucasMSCaetano</a>
+      </td>
+    </tr>
+    <tr>
       <td>‎ </td>
       <td>‎ </td>
       <td>‎ </td>
@@ -939,6 +949,18 @@
       </td>
       <td align="center">1</td>
     </tr>
+    <tr>
+      <td align="center">8</td>
+      <td align="center">
+        <a href="https://github.com/LucasMSCaetano">
+          <img src="https://avatars.githubusercontent.com/u/60528504?size=32" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/LucasMSCaetano">@LucasMSCaetano</a>
+      </td>
+      <td align="center">1</td>
+    </tr>
   </tbody>
 </table>
 
@@ -953,4 +975,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.266s on Tue Oct 29 at 22:32</p>
+<p align="right">Generated in 0.262s on Tue Oct 29 at 22:33</p>
