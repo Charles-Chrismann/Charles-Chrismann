@@ -792,6 +792,16 @@
       </td>
     </tr>
     <tr>
+      <td>$\text{\color{orange}{E}}$</td>
+      <td>$\text{\color{white}{V}}$</td>
+      <td>$\text{\color{lightgreen}{A}}$</td>
+      <td>$\text{\color{white}{D}}$</td>
+      <td>$\text{\color{lightgreen}{E}}$</td>
+      <td>
+        <a href="https://github.com/LucasMSCaetano">@LucasMSCaetano</a>
+      </td>
+    </tr>
+    <tr>
       <td>‎ </td>
       <td>‎ </td>
       <td>‎ </td>
@@ -913,4 +923,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.259s on Tue Oct 29 at 22:30</p>
+<p align="right">Generated in 0.263s on Tue Oct 29 at 22:30</p>
