@@ -737,106 +737,6 @@
   </thead>
   <tbody>
     <tr>
-      <td>$\text{\color{white}{B}}$</td>
-      <td>$\text{\color{white}{R}}$</td>
-      <td>$\text{\color{white}{I}}$</td>
-      <td>$\text{\color{white}{N}}$</td>
-      <td>$\text{\color{lightgreen}{E}}$</td>
-      <td>
-        <a href="https://github.com/LucasMSCaetano">@LucasMSCaetano</a>
-      </td>
-    </tr>
-    <tr>
-      <td>$\text{\color{orange}{S}}$</td>
-      <td>$\text{\color{white}{W}}$</td>
-      <td>$\text{\color{white}{I}}$</td>
-      <td>$\text{\color{white}{N}}$</td>
-      <td>$\text{\color{lightgreen}{E}}$</td>
-      <td>
-        <a href="https://github.com/LucasMSCaetano">@LucasMSCaetano</a>
-      </td>
-    </tr>
-    <tr>
-      <td>$\text{\color{red}{T}}$</td>
-      <td>$\text{\color{red}{H}}$</td>
-      <td>$\text{\color{red}{I}}$</td>
-      <td>$\text{\color{red}{N}}$</td>
-      <td>$\text{\color{red}{E}}$</td>
-      <td>
-        <a href="https://github.com/LucasMSCaetano">@LucasMSCaetano</a>
-      </td>
-    </tr>
-    <tr>
-      <td>$\text{\color{orange}{A}}$</td>
-      <td>$\text{\color{white}{W}}$</td>
-      <td>$\text{\color{lightgreen}{A}}$</td>
-      <td>$\text{\color{white}{K}}$</td>
-      <td>$\text{\color{lightgreen}{E}}$</td>
-      <td>
-        <a href="https://github.com/LucasMSCaetano">@LucasMSCaetano</a>
-      </td>
-    </tr>
-    <tr>
-      <td>$\text{\color{white}{B}}$</td>
-      <td>$\text{\color{white}{R}}$</td>
-      <td>$\text{\color{lightgreen}{A}}$</td>
-      <td>$\text{\color{white}{K}}$</td>
-      <td>$\text{\color{lightgreen}{E}}$</td>
-      <td>
-        <a href="https://github.com/LucasMSCaetano">@LucasMSCaetano</a>
-      </td>
-    </tr>
-    <tr>
-      <td>$\text{\color{orange}{E}}$</td>
-      <td>$\text{\color{white}{V}}$</td>
-      <td>$\text{\color{lightgreen}{A}}$</td>
-      <td>$\text{\color{white}{D}}$</td>
-      <td>$\text{\color{lightgreen}{E}}$</td>
-      <td>
-        <a href="https://github.com/LucasMSCaetano">@LucasMSCaetano</a>
-      </td>
-    </tr>
-    <tr>
-      <td>$\text{\color{white}{G}}$</td>
-      <td>$\text{\color{white}{R}}$</td>
-      <td>$\text{\color{lightgreen}{A}}$</td>
-      <td>$\text{\color{white}{D}}$</td>
-      <td>$\text{\color{lightgreen}{E}}$</td>
-      <td>
-        <a href="https://github.com/LucasMSCaetano">@LucasMSCaetano</a>
-      </td>
-    </tr>
-    <tr>
-      <td>$\text{\color{orange}{A}}$</td>
-      <td>$\text{\color{white}{B}}$</td>
-      <td>$\text{\color{lightgreen}{A}}$</td>
-      <td>$\text{\color{orange}{T}}$</td>
-      <td>$\text{\color{lightgreen}{E}}$</td>
-      <td>
-        <a href="https://github.com/LucasMSCaetano">@LucasMSCaetano</a>
-      </td>
-    </tr>
-    <tr>
-      <td>$\text{\color{orange}{A}}$</td>
-      <td>$\text{\color{white}{B}}$</td>
-      <td>$\text{\color{lightgreen}{A}}$</td>
-      <td>$\text{\color{lightgreen}{S}}$</td>
-      <td>$\text{\color{lightgreen}{E}}$</td>
-      <td>
-        <a href="https://github.com/LucasMSCaetano">@LucasMSCaetano</a>
-      </td>
-    </tr>
-    <tr>
-      <td>$\text{\color{lightgreen}{T}}$</td>
-      <td>$\text{\color{lightgreen}{E}}$</td>
-      <td>$\text{\color{lightgreen}{A}}$</td>
-      <td>$\text{\color{lightgreen}{S}}$</td>
-      <td>$\text{\color{lightgreen}{E}}$</td>
-      <td>
-        <a href="https://github.com/LucasMSCaetano">@LucasMSCaetano</a>
-      </td>
-    </tr>
-    <tr>
       <td>‎ </td>
       <td>‎ </td>
       <td>‎ </td>
@@ -970,4 +870,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.171s on Wed Oct 30 at 21:58</p>
+<p align="right">Generated in 0.335s on Wed Oct 30 at 22:00</p>
