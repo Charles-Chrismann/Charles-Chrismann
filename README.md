@@ -82,18 +82,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">12073</td>
-      <td align="center">
-        <a href="https://github.com/devakone" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/582061?u=36f41cbd676b2da86d2a12d1deffa2585fce123e&v=4" alt="devakone" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/devakone" target="_blank">devakone</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">12074</td>
+      <td align="center">12075</td>
       <td align="center">
         <a href="https://github.com/reuelcmedeiros" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/153405476?v=4" alt="reuelcmedeiros" width="40" height="40"/>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">12075</td>
+      <td align="center">12076</td>
       <td align="center">
         <a href="https://github.com/Adidem23" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/124609794?u=9ff35680f1f59a1e75f1dacc87cbd62c5ac3969f&v=4" alt="Adidem23" width="40" height="40"/>
@@ -115,7 +104,18 @@
       </td>
     </tr>
     <tr>
-      <td align="center">12076</td>
+      <td align="center">12077</td>
+      <td align="center">
+        <a href="https://github.com/MehmetBozkir" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/150898451?u=592681bd09ad8d643b8998cbeee1b90c573d1877&v=4" alt="MehmetBozkir" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/MehmetBozkir" target="_blank">MehmetBozkir</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">12078</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -973,4 +973,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.488s on Wed Oct 30 at 18:26</p>
+<p align="right">Generated in 0.431s on Wed Oct 30 at 18:27</p>
