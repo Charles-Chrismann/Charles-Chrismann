@@ -84,17 +84,6 @@
     <tr>
       <td align="center">12078</td>
       <td align="center">
-        <a href="https://github.com/len-mendonca" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/152247579?v=4" alt="len-mendonca" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/len-mendonca" target="_blank">len-mendonca</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">12079</td>
-      <td align="center">
         <a href="https://github.com/vnshakumar" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/123529286?u=029a0bbca638d47da57432256899ddf40885734e&v=4" alt="vnshakumar" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">12080</td>
+      <td align="center">12079</td>
       <td align="center">
         <a href="https://github.com/Denis-Jovith" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/140693355?v=4" alt="Denis-Jovith" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/Denis-Jovith" target="_blank">Denis-Jovith</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">12080</td>
+      <td align="center">
+        <a href="https://github.com/JohnMwendwa" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/72663882?u=805073cc702701b4ad6c56a60dc0bdae9ccac964&v=4" alt="JohnMwendwa" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/JohnMwendwa" target="_blank">JohnMwendwa</a>
       </td>
     </tr>
     <tr>
@@ -977,4 +977,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.412s on Wed Oct 30 at 18:54</p>
+<p align="right">Generated in 0.411s on Wed Oct 30 at 18:55</p>
