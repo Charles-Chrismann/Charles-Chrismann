@@ -84,34 +84,34 @@
     <tr>
       <td align="center">12070</td>
       <td align="center">
-        <a href="https://github.com/pannu5788" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/139594630?v=4" alt="pannu5788" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/pannu5788" target="_blank">pannu5788</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">12071</td>
-      <td align="center">
-        <a href="https://github.com/brissach" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/76826179?u=d9b81acb78463faebe211a5e1faf6a509146549f&v=4" alt="brissach" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/brissach" target="_blank">brissach</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">12072</td>
-      <td align="center">
         <a href="https://github.com/sofi444" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/69089170?u=2c0f99aad1375a1a272e1e745f07e2ff1b4f4d92&v=4" alt="sofi444" width="40" height="40"/>
         </a>
       </td>
       <td>
         <a href="https://github.com/sofi444" target="_blank">sofi444</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">12071</td>
+      <td align="center">
+        <a href="https://github.com/Hfid-Mokhtare" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/137907946?u=00ea309240594a924be673aede028b6b3b175940&v=4" alt="Hfid-Mokhtare" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Hfid-Mokhtare" target="_blank">Hfid-Mokhtare</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">12072</td>
+      <td align="center">
+        <a href="https://github.com/KhujamovCodes" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/151366013?u=b7eb539f5618c2453a84eb7e72b1fb0750697120&v=4" alt="KhujamovCodes" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/KhujamovCodes" target="_blank">KhujamovCodes</a>
       </td>
     </tr>
     <tr>
@@ -969,4 +969,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.481s on Wed Oct 30 at 16:10</p>
+<p align="right">Generated in 0.501s on Wed Oct 30 at 16:13</p>
