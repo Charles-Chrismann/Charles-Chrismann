@@ -84,17 +84,6 @@
     <tr>
       <td align="center">12142</td>
       <td align="center">
-        <a href="https://github.com/Nithin-vs" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/96610186?u=b3323c76593dad6aaf33187206c1ac11fb592013&v=4" alt="Nithin-vs" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Nithin-vs" target="_blank">Nithin-vs</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">12143</td>
-      <td align="center">
         <a href="https://github.com/Nagyvee" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/131744114?u=b12b1b475b044bb0e6ab9a572270c4f24912cc0b&v=4" alt="Nagyvee" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">12144</td>
+      <td align="center">12143</td>
       <td align="center">
         <a href="https://github.com/AdemBoukhris457" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/61518107?u=cef248033b7b0d94df76cff8fa9e699e8517e0d6&v=4" alt="AdemBoukhris457" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/AdemBoukhris457" target="_blank">AdemBoukhris457</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">12144</td>
+      <td align="center">
+        <a href="https://github.com/JaveriaNawal" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/156556108?u=c14ef5d5c61b3978572f860f92f06157a66545d1&v=4" alt="JaveriaNawal" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/JaveriaNawal" target="_blank">JaveriaNawal</a>
       </td>
     </tr>
     <tr>
@@ -843,4 +843,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.365s on Fri Nov 1 at 10:28</p>
+<p align="right">Generated in 0.155s on Fri Nov 1 at 11:08</p>
