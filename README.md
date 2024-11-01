@@ -82,40 +82,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">12143</td>
-      <td align="center">
-        <a href="https://github.com/iremsupalaa" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/135843194?u=48face50d20477c1bf87d25aa8a40f6861b8d3d5&v=4" alt="iremsupalaa" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/iremsupalaa" target="_blank">iremsupalaa</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">12144</td>
-      <td align="center">
-        <a href="https://github.com/IsraelR1099" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/95863801?u=e513e7c8673ddc666cbfdc731b7dc4b6e16bbc82&v=4" alt="IsraelR1099" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/IsraelR1099" target="_blank">IsraelR1099</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">12145</td>
-      <td align="center">
-        <a href="https://github.com/mehm-eth" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/137512931?u=f21ea2b096aff9c154a8fe9c234a070820234d45&v=4" alt="mehm-eth" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/mehm-eth" target="_blank">mehm-eth</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">12146</td>
+      <td align="center">
+        <a href="https://github.com/NikitOS-1" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/69642254?u=3f5d0222c2361ce6f6c27930d0c3e1e9d50953a0&v=4" alt="NikitOS-1" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/NikitOS-1" target="_blank">NikitOS-1</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">12147</td>
+      <td align="center">
+        <a href="https://github.com/wuvinotre" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/48601030?u=6197049f35fb1abd9967ed4d47292c4c89c5fdb6&v=4" alt="wuvinotre" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/wuvinotre" target="_blank">wuvinotre</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">12148</td>
+      <td align="center">
+        <a href="https://github.com/Dominic2000code" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/54300649?u=1fdae597a11d93ba13b8ae42fe6a432cd5baf76a&v=4" alt="Dominic2000code" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Dominic2000code" target="_blank">Dominic2000code</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">12149</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -874,4 +874,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.156s on Fri Nov 1 at 13:07</p>
+<p align="right">Generated in 0.152s on Fri Nov 1 at 13:19</p>
