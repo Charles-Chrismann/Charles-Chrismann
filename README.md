@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">12146</td>
-      <td align="center">
-        <a href="https://github.com/NikitOS-1" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/69642254?u=3f5d0222c2361ce6f6c27930d0c3e1e9d50953a0&v=4" alt="NikitOS-1" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/NikitOS-1" target="_blank">NikitOS-1</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">12147</td>
       <td align="center">
         <a href="https://github.com/wuvinotre" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">12149</td>
+      <td align="center">
+        <a href="https://github.com/magnumcrf" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/72474648?v=4" alt="magnumcrf" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/magnumcrf" target="_blank">magnumcrf</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">12150</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -874,4 +874,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.152s on Fri Nov 1 at 13:21</p>
+<p align="right">Generated in 0.295s on Fri Nov 1 at 13:22</p>
