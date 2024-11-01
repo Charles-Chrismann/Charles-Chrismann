@@ -82,40 +82,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">12133</td>
-      <td align="center">
-        <a href="https://github.com/wendelloliiver" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/68166732?u=24892ffe487dece1a502f769c65934962bcbe219&v=4" alt="wendelloliiver" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/wendelloliiver" target="_blank">wendelloliiver</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">12134</td>
-      <td align="center">
-        <a href="https://github.com/rodrigojgrande" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/16175431?u=0fae196fd95fe16503a7b5b9c0c7a2dd393f4989&v=4" alt="rodrigojgrande" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/rodrigojgrande" target="_blank">rodrigojgrande</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">12135</td>
       <td align="center">
-        <a href="https://github.com/cunhacinthia" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/122987929?u=b803a2f0d10ef16f7465d52ee26f8fdda1bf6134&v=4" alt="cunhacinthia" width="40" height="40"/>
+        <a href="https://github.com/whtkdgml3627" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/128343550?u=caddac1a68e7ec0efa0e5b4552d4ec7073b3e997&v=4" alt="whtkdgml3627" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/cunhacinthia" target="_blank">cunhacinthia</a>
+        <a href="https://github.com/whtkdgml3627" target="_blank">whtkdgml3627</a>
       </td>
     </tr>
     <tr>
       <td align="center">12136</td>
+      <td align="center">
+        <a href="https://github.com/batd92" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/86253573?u=109b0ecd9cdd7d7995a3ed9e8922e1d16d2bf1fe&v=4" alt="batd92" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/batd92" target="_blank">batd92</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">12137</td>
+      <td align="center">
+        <a href="https://github.com/KhujamovCodes" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/151366013?u=8c1c6864c9b30145c6f227b10dda045badf26901&v=4" alt="KhujamovCodes" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/KhujamovCodes" target="_blank">KhujamovCodes</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">12138</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -868,4 +868,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.165s on Fri Nov 1 at 4:06</p>
+<p align="right">Generated in 0.164s on Fri Nov 1 at 4:16</p>
