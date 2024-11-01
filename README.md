@@ -84,17 +84,6 @@
     <tr>
       <td align="center">12156</td>
       <td align="center">
-        <a href="https://github.com/JP-sDEV" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/38892213?u=4332ef12271a9a65ddc030e1c87254fb7d859373&v=4" alt="JP-sDEV" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/JP-sDEV" target="_blank">JP-sDEV</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">12157</td>
-      <td align="center">
         <a href="https://github.com/zax4r0" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/76214239?u=35c9fc17279c2e8465e2d131f83f5126b6f81998&v=4" alt="zax4r0" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">12158</td>
+      <td align="center">12157</td>
       <td align="center">
         <a href="https://github.com/samtoya" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/20547136?u=ce87948064f3b220e090d0681d4957f3c32a8040&v=4" alt="samtoya" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/samtoya" target="_blank">samtoya</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">12158</td>
+      <td align="center">
+        <a href="https://github.com/Rez4-3yz" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/167752965?u=5678b42835f68ca8158e1902b69080609c6b3a17&v=4" alt="Rez4-3yz" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Rez4-3yz" target="_blank">Rez4-3yz</a>
       </td>
     </tr>
     <tr>
@@ -855,4 +855,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.279s on Fri Nov 1 at 18:34</p>
+<p align="right">Generated in 0.28s on Fri Nov 1 at 18:48</p>
