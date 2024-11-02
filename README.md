@@ -95,12 +95,12 @@
     <tr>
       <td align="center">12182</td>
       <td align="center">
-        <a href="https://github.com/Salman-Khan3" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/94063655?u=a9b0f8ad90e5b37166b9d31509cc929d1cf05b09&v=4" alt="Salman-Khan3" width="40" height="40"/>
+        <a href="https://github.com/salman-khan03" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/94063655?u=a9b0f8ad90e5b37166b9d31509cc929d1cf05b09&v=4" alt="salman-khan03" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/Salman-Khan3" target="_blank">Salman-Khan3</a>
+        <a href="https://github.com/salman-khan03" target="_blank">salman-khan03</a>
       </td>
     </tr>
     <tr>
@@ -899,4 +899,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.611s on Sat Nov 2 at 20:18</p>
+<p align="right">Generated in 0.531s on Sat Nov 2 at 20:18</p>
