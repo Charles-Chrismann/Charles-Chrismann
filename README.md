@@ -82,40 +82,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">12170</td>
+      <td align="center">12174</td>
       <td align="center">
-        <a href="https://github.com/BelakbirSaid" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/45510468?u=f8926d8177f475129e427fc9b32603d0f8f0d817&v=4" alt="BelakbirSaid" width="40" height="40"/>
+        <a href="https://github.com/rasuljangirli" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/127443671?u=dad4b2f86a207e4461185daa142eb368f35f4087&v=4" alt="rasuljangirli" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/BelakbirSaid" target="_blank">BelakbirSaid</a>
+        <a href="https://github.com/rasuljangirli" target="_blank">rasuljangirli</a>
       </td>
     </tr>
     <tr>
-      <td align="center">12171</td>
+      <td align="center">12175</td>
       <td align="center">
-        <a href="https://github.com/sparshaaa" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/166774750?u=6458095b8c516d122eabaede2f302164067d375f&v=4" alt="sparshaaa" width="40" height="40"/>
+        <a href="https://github.com/evellynmayumi" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/92648036?u=42cbd6dfdaec034a6e5a31ba6d025594e50464bd&v=4" alt="evellynmayumi" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/sparshaaa" target="_blank">sparshaaa</a>
+        <a href="https://github.com/evellynmayumi" target="_blank">evellynmayumi</a>
       </td>
     </tr>
     <tr>
-      <td align="center">12172</td>
+      <td align="center">12176</td>
       <td align="center">
-        <a href="https://github.com/Ali-Hassan2005" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/139129298?u=cd37ab91aef74048ff4365a335c02259ba382216&v=4" alt="Ali-Hassan2005" width="40" height="40"/>
+        <a href="https://github.com/feyz4ny" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/148052676?u=a2148e428af9dd13f1cf8ad29999e16188063352&v=4" alt="feyz4ny" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/Ali-Hassan2005" target="_blank">Ali-Hassan2005</a>
+        <a href="https://github.com/feyz4ny" target="_blank">feyz4ny</a>
       </td>
     </tr>
     <tr>
-      <td align="center">12173</td>
+      <td align="center">12177</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -821,4 +821,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.571s on Sat Nov 2 at 17:25</p>
+<p align="right">Generated in 0.566s on Sat Nov 2 at 17:25</p>
