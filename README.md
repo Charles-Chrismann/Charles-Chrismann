@@ -668,26 +668,6 @@
   </thead>
   <tbody>
     <tr>
-      <td>$\text{\color{white}{H}}$</td>
-      <td>$\text{\color{white}{E}}$</td>
-      <td>$\text{\color{orange}{L}}$</td>
-      <td>$\text{\color{orange}{L}}$</td>
-      <td>$\text{\color{white}{O}}$</td>
-      <td>
-        <a href="https://github.com/ZigaoWang">@ZigaoWang</a>
-      </td>
-    </tr>
-    <tr>
-      <td>$\text{\color{orange}{L}}$</td>
-      <td>$\text{\color{white}{O}}$</td>
-      <td>$\text{\color{white}{S}}$</td>
-      <td>$\text{\color{white}{E}}$</td>
-      <td>$\text{\color{white}{R}}$</td>
-      <td>
-        <a href="https://github.com/ZigaoWang">@ZigaoWang</a>
-      </td>
-    </tr>
-    <tr>
       <td>‎ </td>
       <td>‎ </td>
       <td>‎ </td>
@@ -821,4 +801,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.196s on Sat Nov 2 at 21:57</p>
+<p align="right">Generated in 0.387s on Sat Nov 2 at 22:00</p>
