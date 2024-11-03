@@ -82,40 +82,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">12197</td>
-      <td align="center">
-        <a href="https://github.com/SaraAhmed1999" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/125925124?u=a18dc131b2695803f726b4edb4b4060e5f7cf3d5&v=4" alt="SaraAhmed1999" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/SaraAhmed1999" target="_blank">SaraAhmed1999</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">12198</td>
-      <td align="center">
-        <a href="https://github.com/euukc" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/56362484?u=e9c8cbea9fb640bb0aa4185c86d0872cedc68fb2&v=4" alt="euukc" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/euukc" target="_blank">euukc</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">12199</td>
       <td align="center">
-        <a href="https://github.com/Gaganvc19" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/115620419?u=203131e4f4da193f157a03c1885916e6ea5df666&v=4" alt="Gaganvc19" width="40" height="40"/>
+        <a href="https://github.com/ByteCrister" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/143107015?u=d8415e8450708c837d7177b785c3ddb0710659d6&v=4" alt="ByteCrister" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/Gaganvc19" target="_blank">Gaganvc19</a>
+        <a href="https://github.com/ByteCrister" target="_blank">ByteCrister</a>
       </td>
     </tr>
     <tr>
       <td align="center">12200</td>
+      <td align="center">
+        <a href="https://github.com/faridhaavasi" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/105421842?u=2cfe5b6ce87e298eb63c79e9d5fdfb7ca19e6339&v=4" alt="faridhaavasi" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/faridhaavasi" target="_blank">faridhaavasi</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">12201</td>
+      <td align="center">
+        <a href="https://github.com/mendon01" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/37845217?v=4" alt="mendon01" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/mendon01" target="_blank">mendon01</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">12202</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -858,4 +858,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.267s on Sun Nov 3 at 17:24</p>
+<p align="right">Generated in 0.12s on Sun Nov 3 at 17:26</p>
