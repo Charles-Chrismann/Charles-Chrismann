@@ -84,17 +84,6 @@
     <tr>
       <td align="center">12193</td>
       <td align="center">
-        <a href="https://github.com/Epimais" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/176807371?u=42b5d946732ca0c8dab92f993529f916b705601a&v=4" alt="Epimais" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Epimais" target="_blank">Epimais</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">12194</td>
-      <td align="center">
         <a href="https://github.com/ANYMORE100" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/117287291?u=8674ed21ac61ef6f47a9f70b5b67f74c32d2b6cc&v=4" alt="ANYMORE100" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">12195</td>
+      <td align="center">12194</td>
       <td align="center">
         <a href="https://github.com/devJerb" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/102452883?u=4dcafbfbe93b808396c5126c7c9b8d4a6eff2ff5&v=4" alt="devJerb" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/devJerb" target="_blank">devJerb</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">12195</td>
+      <td align="center">
+        <a href="https://github.com/Parasdeveloper8" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/152639879?u=eb33cacddffdbf1e09034a216b2f102ed0369a06&v=4" alt="Parasdeveloper8" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Parasdeveloper8" target="_blank">Parasdeveloper8</a>
       </td>
     </tr>
     <tr>
@@ -865,4 +865,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.138s on Sun Nov 3 at 12:47</p>
+<p align="right">Generated in 0.225s on Sun Nov 3 at 12:48</p>
