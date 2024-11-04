@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">12225</td>
-      <td align="center">
-        <a href="https://github.com/vedanty3" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/91487253?u=9652d6f08fa295f4eca3786c97abd94683eb1e44&v=4" alt="vedanty3" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/vedanty3" target="_blank">vedanty3</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">12226</td>
       <td align="center">
         <a href="https://github.com/Donchuks02" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">12228</td>
+      <td align="center">
+        <a href="https://github.com/Pelitron" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/160347005?v=4" alt="Pelitron" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Pelitron" target="_blank">Pelitron</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">12229</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -881,4 +881,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.437s on Mon Nov 4 at 17:04</p>
+<p align="right">Generated in 0.209s on Mon Nov 4 at 17:08</p>
