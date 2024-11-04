@@ -82,18 +82,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">12228</td>
-      <td align="center">
-        <a href="https://github.com/Pelitron" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/160347005?v=4" alt="Pelitron" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Pelitron" target="_blank">Pelitron</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">12229</td>
+      <td align="center">12230</td>
       <td align="center">
         <a href="https://github.com/amanz55" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/80655668?u=3e96bc3fd85a14254923dd76d287cfd89b138f4e&v=4" alt="amanz55" width="40" height="40"/>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">12230</td>
+      <td align="center">12231</td>
       <td align="center">
         <a href="https://github.com/JeanConnory" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/17282978?u=fad6cb4e6db3692b2a95af65cfe98df1fd1b84c7&v=4" alt="JeanConnory" width="40" height="40"/>
@@ -115,7 +104,18 @@
       </td>
     </tr>
     <tr>
-      <td align="center">12231</td>
+      <td align="center">12232</td>
+      <td align="center">
+        <a href="https://github.com/taisprestes01" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/108246691?u=5f01941417053bf966ffbaa2392ae066bbf72557&v=4" alt="taisprestes01" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/taisprestes01" target="_blank">taisprestes01</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">12233</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -882,4 +882,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.446s on Mon Nov 4 at 17:48</p>
+<p align="right">Generated in 0.449s on Mon Nov 4 at 17:51</p>
