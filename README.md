@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">12217</td>
-      <td align="center">
-        <a href="https://github.com/Parasdeveloper8" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/152639879?u=eb33cacddffdbf1e09034a216b2f102ed0369a06&v=4" alt="Parasdeveloper8" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Parasdeveloper8" target="_blank">Parasdeveloper8</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">12218</td>
       <td align="center">
         <a href="https://github.com/AjmalDevala" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">12220</td>
+      <td align="center">
+        <a href="https://github.com/java-juggled-jazz" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/110381315?u=fb15907575a091c579b301229c9efc2f4c82b7ac&v=4" alt="java-juggled-jazz" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/java-juggled-jazz" target="_blank">java-juggled-jazz</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">12221</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -800,4 +800,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.144s on Mon Nov 4 at 10:20</p>
+<p align="right">Generated in 0.227s on Mon Nov 4 at 10:22</p>
