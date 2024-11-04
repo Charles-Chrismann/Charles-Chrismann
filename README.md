@@ -82,7 +82,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">12218</td>
+      <td align="center">12217</td>
       <td align="center">
         <a href="https://github.com/AjmalDevala" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/112807619?u=5e10e05d00e88fdd35c2e4bddff29215180d9d81&v=4" alt="AjmalDevala" width="40" height="40"/>
@@ -93,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">12219</td>
+      <td align="center">12218</td>
       <td align="center">
         <a href="https://github.com/Y0o7yOqaq" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/133551456?u=cf15f4646b7f6c59d2fc9e21f9491c26eee361a3&v=4" alt="Y0o7yOqaq" width="40" height="40"/>
@@ -104,7 +104,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">12220</td>
+      <td align="center">12219</td>
       <td align="center">
         <a href="https://github.com/java-juggled-jazz" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/110381315?u=fb15907575a091c579b301229c9efc2f4c82b7ac&v=4" alt="java-juggled-jazz" width="40" height="40"/>
@@ -115,7 +115,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">12221</td>
+      <td align="center">12220</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -850,4 +850,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.137s on Mon Nov 4 at 11:08</p>
+<p align="right">Generated in 0.224s on Mon Nov 4 at 11:09</p>
