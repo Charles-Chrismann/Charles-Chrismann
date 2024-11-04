@@ -84,34 +84,34 @@
     <tr>
       <td align="center">12231</td>
       <td align="center">
-        <a href="https://github.com/JeanConnory" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/17282978?u=fad6cb4e6db3692b2a95af65cfe98df1fd1b84c7&v=4" alt="JeanConnory" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/JeanConnory" target="_blank">JeanConnory</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">12232</td>
-      <td align="center">
-        <a href="https://github.com/taisprestes01" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/108246691?u=5f01941417053bf966ffbaa2392ae066bbf72557&v=4" alt="taisprestes01" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/taisprestes01" target="_blank">taisprestes01</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">12233</td>
-      <td align="center">
         <a href="https://github.com/MacBoy734" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/107998759?u=4b7d9b58f2b3a9c5caccbeb5bf3ce3fa23c974d8&v=4" alt="MacBoy734" width="40" height="40"/>
         </a>
       </td>
       <td>
         <a href="https://github.com/MacBoy734" target="_blank">MacBoy734</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">12232</td>
+      <td align="center">
+        <a href="https://github.com/JohnMwendwa" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/72663882?u=805073cc702701b4ad6c56a60dc0bdae9ccac964&v=4" alt="JohnMwendwa" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/JohnMwendwa" target="_blank">JohnMwendwa</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">12233</td>
+      <td align="center">
+        <a href="https://github.com/yDienifer" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/108842368?u=6670b7f0f629866dcbe5ff5630cba0189bd506f3&v=4" alt="yDienifer" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/yDienifer" target="_blank">yDienifer</a>
       </td>
     </tr>
     <tr>
@@ -882,4 +882,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.527s on Mon Nov 4 at 19:23</p>
+<p align="right">Generated in 0.465s on Mon Nov 4 at 19:26</p>
