@@ -84,17 +84,6 @@
     <tr>
       <td align="center">12245</td>
       <td align="center">
-        <a href="https://github.com/maryan-2002" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/115537717?v=4" alt="maryan-2002" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/maryan-2002" target="_blank">maryan-2002</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">12246</td>
-      <td align="center">
         <a href="https://github.com/Ahzaaa16" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/112927710?u=266260f8394af3754ab4da98b59d01b6799ca163&v=4" alt="Ahzaaa16" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">12247</td>
+      <td align="center">12246</td>
       <td align="center">
         <a href="https://github.com/GaudenciaOtara" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/78945952?u=09fab39af8932b86c86377f5785834c331fbca41&v=4" alt="GaudenciaOtara" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/GaudenciaOtara" target="_blank">GaudenciaOtara</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">12247</td>
+      <td align="center">
+        <a href="https://github.com/Yoyobun1" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/133128601?u=085b4aaddc7a188f160a49f288c8423fbdf92f67&v=4" alt="Yoyobun1" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Yoyobun1" target="_blank">Yoyobun1</a>
       </td>
     </tr>
     <tr>
@@ -807,4 +807,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.307s on Tue Nov 5 at 8:44</p>
+<p align="right">Generated in 0.187s on Tue Nov 5 at 8:46</p>
