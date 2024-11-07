@@ -107,7 +107,7 @@
       <td align="center">12319</td>
       <td align="center">
         <a href="https://github.com/truthfuldev" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/146372781?u=a5bbe6aaac993750ba0717acae0276b75c32d437&v=4" alt="truthfuldev" width="40" height="40"/>
+          <img src="https://avatars.githubusercontent.com/u/146372781?u=75dc1555b76ae23132dfffc76c1435897d142351&v=4" alt="truthfuldev" width="40" height="40"/>
         </a>
       </td>
       <td>
@@ -889,4 +889,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 1.981s on Thu Nov 7 at 15:49</p>
+<p align="right">Generated in 1.928s on Thu Nov 7 at 15:49</p>
