@@ -84,17 +84,6 @@
     <tr>
       <td align="center">12304</td>
       <td align="center">
-        <a href="https://github.com/loopsdesenvolvedor" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/73365089?u=f0e94e599f793af771bc55a85f04d10e2d888417&v=4" alt="loopsdesenvolvedor" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/loopsdesenvolvedor" target="_blank">loopsdesenvolvedor</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">12305</td>
-      <td align="center">
         <a href="https://github.com/Anujkulal" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/141348348?u=7e2c0d23871ef92a83e0dafd73f45bb7248abeae&v=4" alt="Anujkulal" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">12306</td>
+      <td align="center">12305</td>
       <td align="center">
         <a href="https://github.com/josuegrullon" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/11460967?u=3583fdbbe24f0bc539a70e96f4980d11fc3f38a5&v=4" alt="josuegrullon" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/josuegrullon" target="_blank">josuegrullon</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">12306</td>
+      <td align="center">
+        <a href="https://github.com/126-Arvind" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/109787346?u=7d4c14e680cbe3cc81b396a78758643812b97ac3&v=4" alt="126-Arvind" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/126-Arvind" target="_blank">126-Arvind</a>
       </td>
     </tr>
     <tr>
@@ -807,4 +807,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.187s on Thu Nov 7 at 2:48</p>
+<p align="right">Generated in 0.178s on Thu Nov 7 at 2:50</p>
