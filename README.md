@@ -82,29 +82,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">12318</td>
-      <td align="center">
-        <a href="https://github.com/truthfuldev" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/146372781?u=75dc1555b76ae23132dfffc76c1435897d142351&v=4" alt="truthfuldev" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/truthfuldev" target="_blank">truthfuldev</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">12319</td>
-      <td align="center">
-        <a href="https://github.com/Sugar0612" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/73148587?u=44a3b35e75649c3f3b0f826adb8390a2940a10be&v=4" alt="Sugar0612" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Sugar0612" target="_blank">Sugar0612</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">12320</td>
       <td align="center">
         <a href="https://github.com/jamsi-max" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/52763436?u=b30b70fdee0892d5f153f77cc26c6cf57dfc1282&v=4" alt="jamsi-max" width="40" height="40"/>
@@ -115,7 +93,29 @@
       </td>
     </tr>
     <tr>
+      <td align="center">12320</td>
+      <td align="center">
+        <a href="https://github.com/Rez4-3yz" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/167752965?u=5678b42835f68ca8158e1902b69080609c6b3a17&v=4" alt="Rez4-3yz" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Rez4-3yz" target="_blank">Rez4-3yz</a>
+      </td>
+    </tr>
+    <tr>
       <td align="center">12321</td>
+      <td align="center">
+        <a href="https://github.com/Henrique-Izidio" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/98340873?v=4" alt="Henrique-Izidio" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Henrique-Izidio" target="_blank">Henrique-Izidio</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">12322</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -887,4 +887,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 1.988s on Thu Nov 7 at 16:37</p>
+<p align="right">Generated in 1.917s on Thu Nov 7 at 16:41</p>
