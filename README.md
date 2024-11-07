@@ -107,7 +107,7 @@
       <td align="center">12327</td>
       <td align="center">
         <a href="https://github.com/Rez4-3yz" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/167752965?u=31cb868c6d70aceac410ab1f76e6aa00ed1186cd&v=4" alt="Rez4-3yz" width="40" height="40"/>
+          <img src="https://avatars.githubusercontent.com/u/167752965?u=ff92d763cc9c88e684196433bf2951252939d256&v=4" alt="Rez4-3yz" width="40" height="40"/>
         </a>
       </td>
       <td>
@@ -887,4 +887,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 2.115s on Thu Nov 7 at 19:01</p>
+<p align="right">Generated in 2.048s on Thu Nov 7 at 19:02</p>
