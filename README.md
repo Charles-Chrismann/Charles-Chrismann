@@ -84,17 +84,6 @@
     <tr>
       <td align="center">12317</td>
       <td align="center">
-        <a href="https://github.com/Alireza-Kazemifard" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/110717590?v=4" alt="Alireza-Kazemifard" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Alireza-Kazemifard" target="_blank">Alireza-Kazemifard</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">12318</td>
-      <td align="center">
         <a href="https://github.com/wardafatima17" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/151718420?u=1e2825a78f4e68f32d1c3a2bea763f9bc2cdab5d&v=4" alt="wardafatima17" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">12319</td>
+      <td align="center">12318</td>
       <td align="center">
         <a href="https://github.com/truthfuldev" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/146372781?u=75dc1555b76ae23132dfffc76c1435897d142351&v=4" alt="truthfuldev" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/truthfuldev" target="_blank">truthfuldev</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">12319</td>
+      <td align="center">
+        <a href="https://github.com/Sugar0612" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/73148587?u=44a3b35e75649c3f3b0f826adb8390a2940a10be&v=4" alt="Sugar0612" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Sugar0612" target="_blank">Sugar0612</a>
       </td>
     </tr>
     <tr>
@@ -877,4 +877,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 1.914s on Thu Nov 7 at 15:57</p>
+<p align="right">Generated in 1.914s on Thu Nov 7 at 16:09</p>
