@@ -82,40 +82,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">12301</td>
-      <td align="center">
-        <a href="https://github.com/hanyc91539" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/187315548?v=4" alt="hanyc91539" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/hanyc91539" target="_blank">hanyc91539</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">12302</td>
-      <td align="center">
-        <a href="https://github.com/Thiagotl" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/87505761?u=c6816db6e50a3fd855949ac14e22a2bd656981ac&v=4" alt="Thiagotl" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Thiagotl" target="_blank">Thiagotl</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">12303</td>
-      <td align="center">
-        <a href="https://github.com/kaotickj" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/58899228?u=d4824477f60b2a99e78dd5e5186a9cf56ee9d62c&v=4" alt="kaotickj" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/kaotickj" target="_blank">kaotickj</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">12304</td>
+      <td align="center">
+        <a href="https://github.com/loopsdesenvolvedor" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/73365089?u=f0e94e599f793af771bc55a85f04d10e2d888417&v=4" alt="loopsdesenvolvedor" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/loopsdesenvolvedor" target="_blank">loopsdesenvolvedor</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">12305</td>
+      <td align="center">
+        <a href="https://github.com/Anujkulal" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/141348348?u=7e2c0d23871ef92a83e0dafd73f45bb7248abeae&v=4" alt="Anujkulal" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Anujkulal" target="_blank">Anujkulal</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">12306</td>
+      <td align="center">
+        <a href="https://github.com/josuegrullon" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/11460967?u=3583fdbbe24f0bc539a70e96f4980d11fc3f38a5&v=4" alt="josuegrullon" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/josuegrullon" target="_blank">josuegrullon</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">12307</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -807,4 +807,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.184s on Thu Nov 7 at 2:28</p>
+<p align="right">Generated in 0.359s on Thu Nov 7 at 2:32</p>
