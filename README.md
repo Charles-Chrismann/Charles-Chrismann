@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">12316</td>
-      <td align="center">
-        <a href="https://github.com/spowerrr" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/107134550?v=4" alt="spowerrr" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/spowerrr" target="_blank">spowerrr</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">12317</td>
       <td align="center">
         <a href="https://github.com/Alireza-Kazemifard" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">12319</td>
+      <td align="center">
+        <a href="https://github.com/truthfuldev" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/146372781?u=a5bbe6aaac993750ba0717acae0276b75c32d437&v=4" alt="truthfuldev" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/truthfuldev" target="_blank">truthfuldev</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">12320</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -874,4 +874,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 1.86s on Thu Nov 7 at 15:10</p>
+<p align="right">Generated in 1.876s on Thu Nov 7 at 15:13</p>
