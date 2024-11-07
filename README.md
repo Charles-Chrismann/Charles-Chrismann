@@ -84,34 +84,34 @@
     <tr>
       <td align="center">12326</td>
       <td align="center">
-        <a href="https://github.com/ceverodonesk2022" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/101056222?u=0b9ce46cf82fabbd432734f18dbca8b06b192341&v=4" alt="ceverodonesk2022" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/ceverodonesk2022" target="_blank">ceverodonesk2022</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">12327</td>
-      <td align="center">
-        <a href="https://github.com/Rez4-3yz" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/167752965?u=ff92d763cc9c88e684196433bf2951252939d256&v=4" alt="Rez4-3yz" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Rez4-3yz" target="_blank">Rez4-3yz</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">12328</td>
-      <td align="center">
         <a href="https://github.com/Nikitos775" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/177880484?v=4" alt="Nikitos775" width="40" height="40"/>
         </a>
       </td>
       <td>
         <a href="https://github.com/Nikitos775" target="_blank">Nikitos775</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">12327</td>
+      <td align="center">
+        <a href="https://github.com/anibalfuentesrod" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/157289919?u=88a8e3d444093a425821209cbbc11dee3ddf6210&v=4" alt="anibalfuentesrod" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/anibalfuentesrod" target="_blank">anibalfuentesrod</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">12328</td>
+      <td align="center">
+        <a href="https://github.com/Egan-ombaka" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/169147080?u=686a1c5dabf7ad8cca2a6529b480c9090d3b280c&v=4" alt="Egan-ombaka" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Egan-ombaka" target="_blank">Egan-ombaka</a>
       </td>
     </tr>
     <tr>
@@ -867,4 +867,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 2.175s on Thu Nov 7 at 21:41</p>
+<p align="right">Generated in 2.113s on Thu Nov 7 at 21:43</p>
