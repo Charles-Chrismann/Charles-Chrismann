@@ -82,29 +82,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">12334</td>
-      <td align="center">
-        <a href="https://github.com/harismuda" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/109568127?u=070fea8880d11a03ae9c0944dea0be0f33d4a9c6&v=4" alt="harismuda" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/harismuda" target="_blank">harismuda</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">12335</td>
-      <td align="center">
-        <a href="https://github.com/KhujamovCodes" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/151366013?u=9308347de85e77350772f55e1217733da4a024fa&v=4" alt="KhujamovCodes" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/KhujamovCodes" target="_blank">KhujamovCodes</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">12336</td>
       <td align="center">
         <a href="https://github.com/Harang-Dev" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/90229940?u=82b0ce5d09c6f75df8674c7cb2e6f8e8765bb232&v=4" alt="Harang-Dev" width="40" height="40"/>
@@ -115,7 +93,29 @@
       </td>
     </tr>
     <tr>
+      <td align="center">12336</td>
+      <td align="center">
+        <a href="https://github.com/mpumelelomsane" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/160489637?u=dadd1de367b6b2b05b2b6a3dc5c4f40f2451b68e&v=4" alt="mpumelelomsane" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/mpumelelomsane" target="_blank">mpumelelomsane</a>
+      </td>
+    </tr>
+    <tr>
       <td align="center">12337</td>
+      <td align="center">
+        <a href="https://github.com/maikofelix47" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/9912327?u=3ccd2931e8e8b609d6ec995c64cbadd2533e7035&v=4" alt="maikofelix47" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/maikofelix47" target="_blank">maikofelix47</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">12338</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -866,4 +866,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.214s on Fri Nov 8 at 11:21</p>
+<p align="right">Generated in 0.307s on Fri Nov 8 at 11:24</p>
