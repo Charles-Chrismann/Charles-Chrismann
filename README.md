@@ -702,6 +702,16 @@
       </td>
     </tr>
     <tr>
+      <td>$\text{\color{lightgreen}{P}}$</td>
+      <td>$\text{\color{lightgreen}{L}}$</td>
+      <td>$\text{\color{lightgreen}{U}}$</td>
+      <td>$\text{\color{lightgreen}{M}}$</td>
+      <td>$\text{\color{lightgreen}{P}}$</td>
+      <td>
+        <a href="https://github.com/Coder-Dude10">@Coder-Dude10</a>
+      </td>
+    </tr>
+    <tr>
       <td>‎ </td>
       <td>‎ </td>
       <td>‎ </td>
@@ -821,6 +831,18 @@
       </td>
       <td align="center">1</td>
     </tr>
+    <tr>
+      <td align="center">9</td>
+      <td align="center">
+        <a href="https://github.com/Coder-Dude10">
+          <img src="https://avatars.githubusercontent.com/u/106555946?size=32" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Coder-Dude10">@Coder-Dude10</a>
+      </td>
+      <td align="center">1</td>
+    </tr>
   </tbody>
 </table>
 
@@ -835,4 +857,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.202s on Fri Nov 8 at 16:50</p>
+<p align="right">Generated in 0.361s on Fri Nov 8 at 16:52</p>
