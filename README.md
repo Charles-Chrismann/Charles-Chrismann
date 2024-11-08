@@ -682,6 +682,16 @@
       </td>
     </tr>
     <tr>
+      <td>$\text{\color{white}{F}}$</td>
+      <td>$\text{\color{lightgreen}{L}}$</td>
+      <td>$\text{\color{white}{I}}$</td>
+      <td>$\text{\color{white}{N}}$</td>
+      <td>$\text{\color{white}{G}}$</td>
+      <td>
+        <a href="https://github.com/Coder-Dude10">@Coder-Dude10</a>
+      </td>
+    </tr>
+    <tr>
       <td>‎ </td>
       <td>‎ </td>
       <td>‎ </td>
@@ -815,4 +825,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.221s on Fri Nov 8 at 16:46</p>
+<p align="right">Generated in 0.31s on Fri Nov 8 at 16:48</p>
