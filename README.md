@@ -672,6 +672,16 @@
   </thead>
   <tbody>
     <tr>
+      <td>$\text{\color{white}{S}}$</td>
+      <td>$\text{\color{white}{C}}$</td>
+      <td>$\text{\color{white}{A}}$</td>
+      <td>$\text{\color{white}{R}}$</td>
+      <td>$\text{\color{white}{E}}$</td>
+      <td>
+        <a href="https://github.com/Coder-Dude10">@Coder-Dude10</a>
+      </td>
+    </tr>
+    <tr>
       <td>‎ </td>
       <td>‎ </td>
       <td>‎ </td>
@@ -805,4 +815,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.303s on Fri Nov 8 at 16:43</p>
+<p align="right">Generated in 0.303s on Fri Nov 8 at 16:44</p>
