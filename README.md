@@ -82,40 +82,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">12350</td>
+      <td align="center">12354</td>
       <td align="center">
-        <a href="https://github.com/GitManish29" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/116821044?u=82d3170bcf4a09bed1e7245221f345d373908f2e&v=4" alt="GitManish29" width="40" height="40"/>
+        <a href="https://github.com/mitradranirban" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/67600799?u=882467d305f7ab38500a2bdc87154b5d38daf83d&v=4" alt="mitradranirban" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/GitManish29" target="_blank">GitManish29</a>
+        <a href="https://github.com/mitradranirban" target="_blank">mitradranirban</a>
       </td>
     </tr>
     <tr>
-      <td align="center">12351</td>
+      <td align="center">12355</td>
       <td align="center">
-        <a href="https://github.com/Nikhil414" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/54280134?v=4" alt="Nikhil414" width="40" height="40"/>
+        <a href="https://github.com/SaurabhSSB" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/183261228?u=7e513674944e2b8be356b10935353d1ba48cab4e&v=4" alt="SaurabhSSB" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/Nikhil414" target="_blank">Nikhil414</a>
+        <a href="https://github.com/SaurabhSSB" target="_blank">SaurabhSSB</a>
       </td>
     </tr>
     <tr>
-      <td align="center">12352</td>
+      <td align="center">12356</td>
       <td align="center">
-        <a href="https://github.com/JulianoVReis" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/114380427?u=e943fdd4cd8f552a2d4724aef1c680fafd70dc7f&v=4" alt="JulianoVReis" width="40" height="40"/>
+        <a href="https://github.com/lxversvalk" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/117555649?u=92ae704f310fc1f46cb1a206a9c5d4c48bcbc781&v=4" alt="lxversvalk" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/JulianoVReis" target="_blank">JulianoVReis</a>
+        <a href="https://github.com/lxversvalk" target="_blank">lxversvalk</a>
       </td>
     </tr>
     <tr>
-      <td align="center">12353</td>
+      <td align="center">12357</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -863,4 +863,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.221s on Fri Nov 8 at 18:42</p>
+<p align="right">Generated in 0.309s on Fri Nov 8 at 18:43</p>
