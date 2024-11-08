@@ -692,6 +692,16 @@
       </td>
     </tr>
     <tr>
+      <td>$\text{\color{white}{B}}$</td>
+      <td>$\text{\color{lightgreen}{L}}$</td>
+      <td>$\text{\color{white}{O}}$</td>
+      <td>$\text{\color{white}{O}}$</td>
+      <td>$\text{\color{orange}{M}}$</td>
+      <td>
+        <a href="https://github.com/Coder-Dude10">@Coder-Dude10</a>
+      </td>
+    </tr>
+    <tr>
       <td>‎ </td>
       <td>‎ </td>
       <td>‎ </td>
@@ -825,4 +835,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.31s on Fri Nov 8 at 16:48</p>
+<p align="right">Generated in 0.304s on Fri Nov 8 at 16:49</p>
