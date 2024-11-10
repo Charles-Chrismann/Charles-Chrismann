@@ -84,34 +84,34 @@
     <tr>
       <td align="center">12391</td>
       <td align="center">
-        <a href="https://github.com/can-yavuz" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/71193611?u=a6d758797140e801f34b189942e642749ddb5402&v=4" alt="can-yavuz" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/can-yavuz" target="_blank">can-yavuz</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">12392</td>
-      <td align="center">
-        <a href="https://github.com/Rez4-3yz" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/167752965?u=57c122101adf557cf8da43c1e950b6760dc86087&v=4" alt="Rez4-3yz" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Rez4-3yz" target="_blank">Rez4-3yz</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">12393</td>
-      <td align="center">
         <a href="https://github.com/KhujamovCodes" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/151366013?u=9308347de85e77350772f55e1217733da4a024fa&v=4" alt="KhujamovCodes" width="40" height="40"/>
         </a>
       </td>
       <td>
         <a href="https://github.com/KhujamovCodes" target="_blank">KhujamovCodes</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">12392</td>
+      <td align="center">
+        <a href="https://github.com/BreyeFoka" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/69438102?u=751ee2b24067cfebd86a68b370eaa635b53294e4&v=4" alt="BreyeFoka" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/BreyeFoka" target="_blank">BreyeFoka</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">12393</td>
+      <td align="center">
+        <a href="https://github.com/OmerAlfiel" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/174686802?u=5e609305d9a6115ff44a72ac461bdef796a873cf&v=4" alt="OmerAlfiel" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/OmerAlfiel" target="_blank">OmerAlfiel</a>
       </td>
     </tr>
     <tr>
@@ -886,4 +886,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.217s on Sun Nov 10 at 8:21</p>
+<p align="right">Generated in 0.178s on Sun Nov 10 at 8:39</p>
