@@ -800,6 +800,16 @@
       </td>
     </tr>
     <tr>
+      <td>$\text{\color{white}{R}}$</td>
+      <td>$\text{\color{lightgreen}{A}}$</td>
+      <td>$\text{\color{white}{I}}$</td>
+      <td>$\text{\color{white}{S}}$</td>
+      <td>$\text{\color{white}{E}}$</td>
+      <td>
+        <a href="https://github.com/ZigaoWang">@ZigaoWang</a>
+      </td>
+    </tr>
+    <tr>
       <td>‎ </td>
       <td>‎ </td>
       <td>‎ </td>
@@ -945,4 +955,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.239s on Mon Nov 11 at 10:47</p>
+<p align="right">Generated in 0.209s on Mon Nov 11 at 10:48</p>
