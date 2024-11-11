@@ -780,6 +780,16 @@
       </td>
     </tr>
     <tr>
+      <td>$\text{\color{white}{F}}$</td>
+      <td>$\text{\color{lightgreen}{A}}$</td>
+      <td>$\text{\color{white}{I}}$</td>
+      <td>$\text{\color{white}{N}}$</td>
+      <td>$\text{\color{white}{T}}$</td>
+      <td>
+        <a href="https://github.com/ZigaoWang">@ZigaoWang</a>
+      </td>
+    </tr>
+    <tr>
       <td>‎ </td>
       <td>‎ </td>
       <td>‎ </td>
@@ -925,4 +935,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.206s on Mon Nov 11 at 10:45</p>
+<p align="right">Generated in 0.211s on Mon Nov 11 at 10:46</p>
