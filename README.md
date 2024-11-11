@@ -850,6 +850,16 @@
       </td>
     </tr>
     <tr>
+      <td>$\text{\color{lightgreen}{B}}$</td>
+      <td>$\text{\color{lightgreen}{A}}$</td>
+      <td>$\text{\color{lightgreen}{G}}$</td>
+      <td>$\text{\color{lightgreen}{G}}$</td>
+      <td>$\text{\color{lightgreen}{Y}}$</td>
+      <td>
+        <a href="https://github.com/ZigaoWang">@ZigaoWang</a>
+      </td>
+    </tr>
+    <tr>
       <td>‎ </td>
       <td>‎ </td>
       <td>‎ </td>
@@ -981,6 +991,18 @@
       </td>
       <td align="center">1</td>
     </tr>
+    <tr>
+      <td align="center">10</td>
+      <td align="center">
+        <a href="https://github.com/ZigaoWang">
+          <img src="https://avatars.githubusercontent.com/u/102006756?size=32" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/ZigaoWang">@ZigaoWang</a>
+      </td>
+      <td align="center">1</td>
+    </tr>
   </tbody>
 </table>
 
@@ -995,4 +1017,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.159s on Mon Nov 11 at 10:56</p>
+<p align="right">Generated in 0.213s on Mon Nov 11 at 10:58</p>
