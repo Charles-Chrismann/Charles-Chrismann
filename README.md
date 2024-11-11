@@ -820,6 +820,16 @@
       </td>
     </tr>
     <tr>
+      <td>$\text{\color{white}{M}}$</td>
+      <td>$\text{\color{lightgreen}{A}}$</td>
+      <td>$\text{\color{lightgreen}{G}}$</td>
+      <td>$\text{\color{white}{I}}$</td>
+      <td>$\text{\color{white}{C}}$</td>
+      <td>
+        <a href="https://github.com/ZigaoWang">@ZigaoWang</a>
+      </td>
+    </tr>
+    <tr>
       <td>‎ </td>
       <td>‎ </td>
       <td>‎ </td>
@@ -965,4 +975,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.163s on Mon Nov 11 at 10:50</p>
+<p align="right">Generated in 0.216s on Mon Nov 11 at 10:51</p>
