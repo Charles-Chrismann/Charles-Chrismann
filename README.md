@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">12420</td>
-      <td align="center">
-        <a href="https://github.com/AoichiShisho" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/80736377?u=3a4c7c93be202433231cff7fa301f56e21ef04f0&v=4" alt="AoichiShisho" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/AoichiShisho" target="_blank">AoichiShisho</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">12421</td>
       <td align="center">
         <a href="https://github.com/HiteshKevadiya" target="_blank">
@@ -106,16 +95,27 @@
     <tr>
       <td align="center">12422</td>
       <td align="center">
-        <a href="https://github.com/NORMANCOMICS" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/70556508?u=ab58110ffd6af48d9deed1e247b8be6924c2cb76&v=4" alt="NORMANCOMICS" width="40" height="40"/>
+        <a href="https://github.com/normancomics" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/70556508?u=ab58110ffd6af48d9deed1e247b8be6924c2cb76&v=4" alt="normancomics" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/NORMANCOMICS" target="_blank">NORMANCOMICS</a>
+        <a href="https://github.com/normancomics" target="_blank">normancomics</a>
       </td>
     </tr>
     <tr>
       <td align="center">12423</td>
+      <td align="center">
+        <a href="https://github.com/alirezaborzuei" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/45588535?u=137ad30ee57203abb914250afa2107f0e284b69d&v=4" alt="alirezaborzuei" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/alirezaborzuei" target="_blank">alirezaborzuei</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">12424</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -884,4 +884,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.23s on Mon Nov 11 at 9:04</p>
+<p align="right">Generated in 0.205s on Mon Nov 11 at 9:12</p>
