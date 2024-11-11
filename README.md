@@ -82,40 +82,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">12406</td>
-      <td align="center">
-        <a href="https://github.com/idilsusanlav" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/115869980?u=1f5a6db91e0c146ec3cb1a92e6bebfde7dbb534b&v=4" alt="idilsusanlav" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/idilsusanlav" target="_blank">idilsusanlav</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">12407</td>
-      <td align="center">
-        <a href="https://github.com/MikeMwase" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/52459856?v=4" alt="MikeMwase" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/MikeMwase" target="_blank">MikeMwase</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">12408</td>
       <td align="center">
-        <a href="https://github.com/Abdullah0x99" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/95263764?u=a23594db78def833c133fcb6894df0124480337f&v=4" alt="Abdullah0x99" width="40" height="40"/>
+        <a href="https://github.com/nyambogahezron" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/133749469?u=94af707784645429d6f1b0ef7bc0c93bbe2ab5c8&v=4" alt="nyambogahezron" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/Abdullah0x99" target="_blank">Abdullah0x99</a>
+        <a href="https://github.com/nyambogahezron" target="_blank">nyambogahezron</a>
       </td>
     </tr>
     <tr>
       <td align="center">12409</td>
+      <td align="center">
+        <a href="https://github.com/LuisMeirelles" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/36140883?u=2d365bec1da6947a0fe7b6a19c54b29dbbf53cf5&v=4" alt="LuisMeirelles" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/LuisMeirelles" target="_blank">LuisMeirelles</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">12410</td>
+      <td align="center">
+        <a href="https://github.com/SrCidm" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/160346195?u=c24bf0f3a4a2b74870ae046f2725e7662bdbd88b&v=4" alt="SrCidm" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/SrCidm" target="_blank">SrCidm</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">12411</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -882,4 +882,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.693s on Mon Nov 11 at 0:10</p>
+<p align="right">Generated in 0.723s on Mon Nov 11 at 0:17</p>
