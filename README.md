@@ -82,28 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">12418</td>
-      <td align="center">
-        <a href="https://github.com/m0n0ph1" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/9004679?u=2e71c4192aba1f1afe51f7aa0f18776232d644a7&v=4" alt="m0n0ph1" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/m0n0ph1" target="_blank">m0n0ph1</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">12419</td>
-      <td align="center">
-        <a href="https://github.com/toufikbouzelmat" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/93777119?u=4a2397313e26ebab2ab40c71ec86caddab533857&v=4" alt="toufikbouzelmat" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/toufikbouzelmat" target="_blank">toufikbouzelmat</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">12420</td>
       <td align="center">
         <a href="https://github.com/AoichiShisho" target="_blank">
@@ -116,6 +94,28 @@
     </tr>
     <tr>
       <td align="center">12421</td>
+      <td align="center">
+        <a href="https://github.com/HiteshKevadiya" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/167315813?u=da2d4469f3343503bc9f7aa18b4811605c588e32&v=4" alt="HiteshKevadiya" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/HiteshKevadiya" target="_blank">HiteshKevadiya</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">12422</td>
+      <td align="center">
+        <a href="https://github.com/NORMANCOMICS" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/70556508?u=ab58110ffd6af48d9deed1e247b8be6924c2cb76&v=4" alt="NORMANCOMICS" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/NORMANCOMICS" target="_blank">NORMANCOMICS</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">12423</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -884,4 +884,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.169s on Mon Nov 11 at 8:48</p>
+<p align="right">Generated in 0.161s on Mon Nov 11 at 8:51</p>
