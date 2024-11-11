@@ -84,17 +84,6 @@
     <tr>
       <td align="center">12438</td>
       <td align="center">
-        <a href="https://github.com/Valim19" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/136052536?u=b2f9e5d0fd3056d7d311bd2979183ad402c74573&v=4" alt="Valim19" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Valim19" target="_blank">Valim19</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">12439</td>
-      <td align="center">
         <a href="https://github.com/fioque" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/165177191?v=4" alt="fioque" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">12440</td>
+      <td align="center">12439</td>
       <td align="center">
         <a href="https://github.com/juninhoojl" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/24274125?u=5577aad29621a933c42bbdad5854bbd326e4c808&v=4" alt="juninhoojl" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/juninhoojl" target="_blank">juninhoojl</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">12440</td>
+      <td align="center">
+        <a href="https://github.com/JohnMwendwa" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/72663882?u=fbeaea2dc64c633b6fbeb986e966ab812610025e&v=4" alt="JohnMwendwa" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/JohnMwendwa" target="_blank">JohnMwendwa</a>
       </td>
     </tr>
     <tr>
@@ -1014,4 +1014,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.861s on Mon Nov 11 at 18:37</p>
+<p align="right">Generated in 0.761s on Mon Nov 11 at 18:37</p>
