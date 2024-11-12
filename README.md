@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">12472</td>
-      <td align="center">
-        <a href="https://github.com/Ongeri-brian" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/176937173?v=4" alt="Ongeri-brian" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Ongeri-brian" target="_blank">Ongeri-brian</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">12473</td>
       <td align="center">
         <a href="https://github.com/nataliasantosfarias" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">12475</td>
+      <td align="center">
+        <a href="https://github.com/selamicaliskan" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/116517639?v=4" alt="selamicaliskan" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/selamicaliskan" target="_blank">selamicaliskan</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">12476</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -874,4 +874,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.291s on Tue Nov 12 at 16:21</p>
+<p align="right">Generated in 0.145s on Tue Nov 12 at 16:25</p>
