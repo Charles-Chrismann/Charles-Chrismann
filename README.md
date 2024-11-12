@@ -82,7 +82,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">12451</td>
+      <td align="center">12450</td>
       <td align="center">
         <a href="https://github.com/GuilhermeBueno259" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/91388792?u=bd3177e1491f08943719ec5e0fee3b641c48ecb7&v=4" alt="GuilhermeBueno259" width="40" height="40"/>
@@ -93,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">12452</td>
+      <td align="center">12451</td>
       <td align="center">
         <a href="https://github.com/EmqDev" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/45549537?u=267567639995d3a64e30ac8a21b01b14270e7870&v=4" alt="EmqDev" width="40" height="40"/>
@@ -104,7 +104,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">12453</td>
+      <td align="center">12452</td>
       <td align="center">
         <a href="https://github.com/ahmetberke" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/44931171?u=55d4b274fdf22424b1211fe52e2f4acfb989f958&v=4" alt="ahmetberke" width="40" height="40"/>
@@ -115,7 +115,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">12454</td>
+      <td align="center">12453</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -859,4 +859,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 1.088s on Tue Nov 12 at 1:33</p>
+<p align="right">Generated in 1.063s on Tue Nov 12 at 1:36</p>
