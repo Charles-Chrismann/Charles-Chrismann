@@ -748,6 +748,16 @@
       </td>
     </tr>
     <tr>
+      <td>$\text{\color{lightgreen}{M}}$</td>
+      <td>$\text{\color{lightgreen}{I}}$</td>
+      <td>$\text{\color{lightgreen}{N}}$</td>
+      <td>$\text{\color{lightgreen}{C}}$</td>
+      <td>$\text{\color{lightgreen}{E}}$</td>
+      <td>
+        <a href="https://github.com/ZigaoWang">@ZigaoWang</a>
+      </td>
+    </tr>
+    <tr>
       <td>‎ </td>
       <td>‎ </td>
       <td>‎ </td>
@@ -822,6 +832,18 @@
     <tr>
       <td align="center">5</td>
       <td align="center">
+        <a href="https://github.com/ZigaoWang">
+          <img src="https://avatars.githubusercontent.com/u/102006756?size=32" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/ZigaoWang">@ZigaoWang</a>
+      </td>
+      <td align="center">2</td>
+    </tr>
+    <tr>
+      <td align="center">6</td>
+      <td align="center">
         <a href="https://github.com/IcaroD">
           <img src="https://avatars.githubusercontent.com/u/137448580?size=32" width="40" height="40"/>
         </a>
@@ -832,7 +854,7 @@
       <td align="center">1</td>
     </tr>
     <tr>
-      <td align="center">6</td>
+      <td align="center">7</td>
       <td align="center">
         <a href="https://github.com/TohidEq">
           <img src="https://avatars.githubusercontent.com/u/85791540?size=32" width="40" height="40"/>
@@ -844,7 +866,7 @@
       <td align="center">1</td>
     </tr>
     <tr>
-      <td align="center">7</td>
+      <td align="center">8</td>
       <td align="center">
         <a href="https://github.com/huhuhu0420">
           <img src="https://avatars.githubusercontent.com/u/94506311?size=32" width="40" height="40"/>
@@ -856,7 +878,7 @@
       <td align="center">1</td>
     </tr>
     <tr>
-      <td align="center">8</td>
+      <td align="center">9</td>
       <td align="center">
         <a href="https://github.com/LucasMSCaetano">
           <img src="https://avatars.githubusercontent.com/u/60528504?size=32" width="40" height="40"/>
@@ -868,7 +890,7 @@
       <td align="center">1</td>
     </tr>
     <tr>
-      <td align="center">9</td>
+      <td align="center">10</td>
       <td align="center">
         <a href="https://github.com/Coder-Dude10">
           <img src="https://avatars.githubusercontent.com/u/106555946?size=32" width="40" height="40"/>
@@ -876,18 +898,6 @@
       </td>
       <td>
         <a href="https://github.com/Coder-Dude10">@Coder-Dude10</a>
-      </td>
-      <td align="center">1</td>
-    </tr>
-    <tr>
-      <td align="center">10</td>
-      <td align="center">
-        <a href="https://github.com/ZigaoWang">
-          <img src="https://avatars.githubusercontent.com/u/102006756?size=32" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/ZigaoWang">@ZigaoWang</a>
       </td>
       <td align="center">1</td>
     </tr>
@@ -905,4 +915,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.18s on Wed Nov 13 at 12:40</p>
+<p align="right">Generated in 0.284s on Wed Nov 13 at 12:41</p>
