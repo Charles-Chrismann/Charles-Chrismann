@@ -738,86 +738,6 @@
   </thead>
   <tbody>
     <tr>
-      <td>$\text{\color{red}{A}}$</td>
-      <td>$\text{\color{red}{D}}$</td>
-      <td>$\text{\color{red}{I}}$</td>
-      <td>$\text{\color{red}{E}}$</td>
-      <td>$\text{\color{red}{U}}$</td>
-      <td>
-        <a href="https://github.com/ZigaoWang">@ZigaoWang</a>
-      </td>
-    </tr>
-    <tr>
-      <td>$\text{\color{white}{S}}$</td>
-      <td>$\text{\color{orange}{N}}$</td>
-      <td>$\text{\color{white}{O}}$</td>
-      <td>$\text{\color{white}{R}}$</td>
-      <td>$\text{\color{white}{T}}$</td>
-      <td>
-        <a href="https://github.com/ZigaoWang">@ZigaoWang</a>
-      </td>
-    </tr>
-    <tr>
-      <td>$\text{\color{orange}{N}}$</td>
-      <td>$\text{\color{white}{A}}$</td>
-      <td>$\text{\color{orange}{I}}$</td>
-      <td>$\text{\color{white}{V}}$</td>
-      <td>$\text{\color{lightgreen}{E}}$</td>
-      <td>
-        <a href="https://github.com/ZigaoWang">@ZigaoWang</a>
-      </td>
-    </tr>
-    <tr>
-      <td>$\text{\color{white}{G}}$</td>
-      <td>$\text{\color{orange}{E}}$</td>
-      <td>$\text{\color{lightgreen}{N}}$</td>
-      <td>$\text{\color{orange}{I}}$</td>
-      <td>$\text{\color{lightgreen}{E}}$</td>
-      <td>
-        <a href="https://github.com/ZigaoWang">@ZigaoWang</a>
-      </td>
-    </tr>
-    <tr>
-      <td>$\text{\color{white}{H}}$</td>
-      <td>$\text{\color{lightgreen}{I}}$</td>
-      <td>$\text{\color{lightgreen}{N}}$</td>
-      <td>$\text{\color{white}{G}}$</td>
-      <td>$\text{\color{lightgreen}{E}}$</td>
-      <td>
-        <a href="https://github.com/ZigaoWang">@ZigaoWang</a>
-      </td>
-    </tr>
-    <tr>
-      <td>$\text{\color{white}{S}}$</td>
-      <td>$\text{\color{lightgreen}{I}}$</td>
-      <td>$\text{\color{lightgreen}{N}}$</td>
-      <td>$\text{\color{lightgreen}{C}}$</td>
-      <td>$\text{\color{lightgreen}{E}}$</td>
-      <td>
-        <a href="https://github.com/ZigaoWang">@ZigaoWang</a>
-      </td>
-    </tr>
-    <tr>
-      <td>$\text{\color{red}{V}}$</td>
-      <td>$\text{\color{red}{I}}$</td>
-      <td>$\text{\color{red}{N}}$</td>
-      <td>$\text{\color{red}{C}}$</td>
-      <td>$\text{\color{red}{E}}$</td>
-      <td>
-        <a href="https://github.com/ZigaoWang">@ZigaoWang</a>
-      </td>
-    </tr>
-    <tr>
-      <td>$\text{\color{lightgreen}{M}}$</td>
-      <td>$\text{\color{lightgreen}{I}}$</td>
-      <td>$\text{\color{lightgreen}{N}}$</td>
-      <td>$\text{\color{lightgreen}{C}}$</td>
-      <td>$\text{\color{lightgreen}{E}}$</td>
-      <td>
-        <a href="https://github.com/ZigaoWang">@ZigaoWang</a>
-      </td>
-    </tr>
-    <tr>
       <td>‎ </td>
       <td>‎ </td>
       <td>‎ </td>
@@ -975,4 +895,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.428s on Wed Nov 13 at 21:58</p>
+<p align="right">Generated in 0.397s on Wed Nov 13 at 22:00</p>
