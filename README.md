@@ -678,6 +678,16 @@
   </thead>
   <tbody>
     <tr>
+      <td>$\text{\color{red}{A}}$</td>
+      <td>$\text{\color{red}{D}}$</td>
+      <td>$\text{\color{red}{I}}$</td>
+      <td>$\text{\color{red}{E}}$</td>
+      <td>$\text{\color{red}{U}}$</td>
+      <td>
+        <a href="https://github.com/ZigaoWang">@ZigaoWang</a>
+      </td>
+    </tr>
+    <tr>
       <td>‎ </td>
       <td>‎ </td>
       <td>‎ </td>
@@ -835,4 +845,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.272s on Wed Nov 13 at 12:26</p>
+<p align="right">Generated in 0.259s on Wed Nov 13 at 12:27</p>
