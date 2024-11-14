@@ -82,29 +82,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">12523</td>
-      <td align="center">
-        <a href="https://github.com/chethiya216" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/70134842?u=0753ca9f84976611d0fc46aa8297b88d15de1ae1&v=4" alt="chethiya216" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/chethiya216" target="_blank">chethiya216</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">12524</td>
-      <td align="center">
-        <a href="https://github.com/cassimahmedattia" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/83620058?v=4" alt="cassimahmedattia" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/cassimahmedattia" target="_blank">cassimahmedattia</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">12525</td>
       <td align="center">
         <a href="https://github.com/BenyaminGhorbani" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/174341810?v=4" alt="BenyaminGhorbani" width="40" height="40"/>
@@ -115,7 +93,29 @@
       </td>
     </tr>
     <tr>
+      <td align="center">12525</td>
+      <td align="center">
+        <a href="https://github.com/JohnMwendwa" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/72663882?u=fbeaea2dc64c633b6fbeb986e966ab812610025e&v=4" alt="JohnMwendwa" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/JohnMwendwa" target="_blank">JohnMwendwa</a>
+      </td>
+    </tr>
+    <tr>
       <td align="center">12526</td>
+      <td align="center">
+        <a href="https://github.com/MVitabar" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/166755010?u=2c61618fb97b43b0ff1ff562eb89ec917c16082a&v=4" alt="MVitabar" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/MVitabar" target="_blank">MVitabar</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">12527</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -830,4 +830,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.778s on Thu Nov 14 at 10:58</p>
+<p align="right">Generated in 0.693s on Thu Nov 14 at 10:59</p>
