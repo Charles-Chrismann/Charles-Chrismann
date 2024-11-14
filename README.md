@@ -84,17 +84,6 @@
     <tr>
       <td align="center">12531</td>
       <td align="center">
-        <a href="https://github.com/luxedo" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/14118472?u=dfe27a9f7511b1d84be47676e1c0d0c2d5ad63a2&v=4" alt="luxedo" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/luxedo" target="_blank">luxedo</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">12532</td>
-      <td align="center">
         <a href="https://github.com/NoorFatima-developer" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/129104494?u=c5cc093cd0d52585893ceef5c025f919fc5ca54c&v=4" alt="NoorFatima-developer" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">12533</td>
+      <td align="center">12532</td>
       <td align="center">
         <a href="https://github.com/atenadlt2004" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/125186951?u=3f80b7ff24fa0744cc1b63070388b0780b788934&v=4" alt="atenadlt2004" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/atenadlt2004" target="_blank">atenadlt2004</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">12533</td>
+      <td align="center">
+        <a href="https://github.com/m-nicioli" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/132221995?u=4a47370fbc3a3faa4fd41f105166483979bbc31c&v=4" alt="m-nicioli" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/m-nicioli" target="_blank">m-nicioli</a>
       </td>
     </tr>
     <tr>
@@ -880,4 +880,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.367s on Thu Nov 14 at 17:54</p>
+<p align="right">Generated in 0.308s on Thu Nov 14 at 17:57</p>
