@@ -84,17 +84,6 @@
     <tr>
       <td align="center">12519</td>
       <td align="center">
-        <a href="https://github.com/baryalaysafi" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/98233316?u=9b4946df59f52860c7facac4fd6f819f1d8d61db&v=4" alt="baryalaysafi" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/baryalaysafi" target="_blank">baryalaysafi</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">12520</td>
-      <td align="center">
         <a href="https://github.com/mcavalcantedesouza" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/149630140?u=3e923e735d9ae0347e441f60c9df782b473be20a&v=4" alt="mcavalcantedesouza" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">12521</td>
+      <td align="center">12520</td>
       <td align="center">
         <a href="https://github.com/RaKel-Dina" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/176775296?u=34844e4a07b792755962127484697f0c0bd55597&v=4" alt="RaKel-Dina" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/RaKel-Dina" target="_blank">RaKel-Dina</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">12521</td>
+      <td align="center">
+        <a href="https://github.com/Evandro-J-O-Andrade" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/45280444?u=e6ca40f4daa93b379f226af280ded643542e0da2&v=4" alt="Evandro-J-O-Andrade" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Evandro-J-O-Andrade" target="_blank">Evandro-J-O-Andrade</a>
       </td>
     </tr>
     <tr>
@@ -885,4 +885,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.544s on Thu Nov 14 at 1:45</p>
+<p align="right">Generated in 0.549s on Thu Nov 14 at 1:46</p>
