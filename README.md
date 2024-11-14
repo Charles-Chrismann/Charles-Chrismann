@@ -84,17 +84,6 @@
     <tr>
       <td align="center">12530</td>
       <td align="center">
-        <a href="https://github.com/MtyNet" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/130319725?u=3b68fc852457f6755302e8cec5dc333b51cd4e57&v=4" alt="MtyNet" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/MtyNet" target="_blank">MtyNet</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">12531</td>
-      <td align="center">
         <a href="https://github.com/devddine" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/128975433?u=716077e1f1d5dd6d668edde215bd30c6edc7ff4d&v=4" alt="devddine" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">12532</td>
+      <td align="center">12531</td>
       <td align="center">
         <a href="https://github.com/binayrijal" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/94471576?u=bead082a4cd5f15715d99ad1b74269ab52080310&v=4" alt="binayrijal" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/binayrijal" target="_blank">binayrijal</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">12532</td>
+      <td align="center">
+        <a href="https://github.com/luxedo" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/14118472?u=dfe27a9f7511b1d84be47676e1c0d0c2d5ad63a2&v=4" alt="luxedo" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/luxedo" target="_blank">luxedo</a>
       </td>
     </tr>
     <tr>
@@ -836,4 +836,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.7s on Thu Nov 14 at 16:18</p>
+<p align="right">Generated in 0.642s on Thu Nov 14 at 16:19</p>
