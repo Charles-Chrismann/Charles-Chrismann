@@ -84,17 +84,6 @@
     <tr>
       <td align="center">12589</td>
       <td align="center">
-        <a href="https://github.com/Denis-Jovith" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/140693355?v=4" alt="Denis-Jovith" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Denis-Jovith" target="_blank">Denis-Jovith</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">12590</td>
-      <td align="center">
         <a href="https://github.com/Rez4-3yz" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/167752965?u=57c122101adf557cf8da43c1e950b6760dc86087&v=4" alt="Rez4-3yz" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">12591</td>
+      <td align="center">12590</td>
       <td align="center">
         <a href="https://github.com/membae" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/66680159?v=4" alt="membae" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/membae" target="_blank">membae</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">12591</td>
+      <td align="center">
+        <a href="https://github.com/JohnMwendwa" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/72663882?u=fbeaea2dc64c633b6fbeb986e966ab812610025e&v=4" alt="JohnMwendwa" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/JohnMwendwa" target="_blank">JohnMwendwa</a>
       </td>
     </tr>
     <tr>
@@ -898,4 +898,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.346s on Sun Nov 17 at 18:29</p>
+<p align="right">Generated in 0.184s on Sun Nov 17 at 18:30</p>
