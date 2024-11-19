@@ -82,7 +82,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">12653</td>
+      <td align="center">12652</td>
       <td align="center">
         <a href="https://github.com/danielBRTanimacao" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/93400508?u=f8a081f946d20c8484be6019c43d8fb907461d36&v=4" alt="danielBRTanimacao" width="40" height="40"/>
@@ -93,10 +93,10 @@
       </td>
     </tr>
     <tr>
-      <td align="center">12654</td>
+      <td align="center">12653</td>
       <td align="center">
         <a href="https://github.com/Awrsha" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/89135083?u=27f355c493f8e3efdcd2daba7c75c45d2fe7edf7&v=4" alt="Awrsha" width="40" height="40"/>
+          <img src="https://avatars.githubusercontent.com/u/89135083?u=3f5e7f259d5f357a13891f8e6270ac834e59eb8b&v=4" alt="Awrsha" width="40" height="40"/>
         </a>
       </td>
       <td>
@@ -104,7 +104,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">12655</td>
+      <td align="center">12654</td>
       <td align="center">
         <a href="https://github.com/LABECHE-Abdelbassat" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/133759791?u=5bb32e33df06242699d2e3ec3098d7af8bf0af76&v=4" alt="LABECHE-Abdelbassat" width="40" height="40"/>
@@ -115,7 +115,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">12656</td>
+      <td align="center">12655</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -885,4 +885,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.146s on Tue Nov 19 at 21:21</p>
+<p align="right">Generated in 0.285s on Tue Nov 19 at 21:24</p>
