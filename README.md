@@ -82,40 +82,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">12681</td>
-      <td align="center">
-        <a href="https://github.com/Daniolet" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/175744656?u=5cd89c86a1ce3fb2f41c163b330c091ce4505c25&v=4" alt="Daniolet" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Daniolet" target="_blank">Daniolet</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">12682</td>
-      <td align="center">
-        <a href="https://github.com/Sunnat888" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/153606674?v=4" alt="Sunnat888" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Sunnat888" target="_blank">Sunnat888</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">12683</td>
-      <td align="center">
-        <a href="https://github.com/yahya-banouk" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/83559441?u=37ad9e342cea9c9ac11ac4578f3610c45ba414a5&v=4" alt="yahya-banouk" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/yahya-banouk" target="_blank">yahya-banouk</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">12684</td>
+      <td align="center">
+        <a href="https://github.com/JosephineAkello" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/39112051?u=312950e743c7284c0347047aebfe74d13b39752e&v=4" alt="JosephineAkello" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/JosephineAkello" target="_blank">JosephineAkello</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">12685</td>
+      <td align="center">
+        <a href="https://github.com/jonah05" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/111374968?u=af5eef852cf09f3c6642e68d06d62f40eda9228e&v=4" alt="jonah05" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/jonah05" target="_blank">jonah05</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">12686</td>
+      <td align="center">
+        <a href="https://github.com/GulcB" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/152058251?u=327c5b74af168fedc7eb845954c67702ebc34dab&v=4" alt="GulcB" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/GulcB" target="_blank">GulcB</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">12687</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -830,4 +830,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.301s on Wed Nov 20 at 17:34</p>
+<p align="right">Generated in 0.289s on Wed Nov 20 at 17:37</p>
