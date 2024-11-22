@@ -82,40 +82,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">12711</td>
+      <td align="center">12715</td>
       <td align="center">
-        <a href="https://github.com/danielfs13" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/88854271?u=8c1e4557dbb3e35d198b5c987bd56b2ad02c5bec&v=4" alt="danielfs13" width="40" height="40"/>
+        <a href="https://github.com/dutofanim" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/39578998?u=68825b4723c99616842ccc6aa5a9b52d755861d6&v=4" alt="dutofanim" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/danielfs13" target="_blank">danielfs13</a>
+        <a href="https://github.com/dutofanim" target="_blank">dutofanim</a>
       </td>
     </tr>
     <tr>
-      <td align="center">12712</td>
+      <td align="center">12716</td>
       <td align="center">
-        <a href="https://github.com/BunyaminYavuz" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/91992194?u=a6c17ca155212f1e8c2876b5e681f565f82fc347&v=4" alt="BunyaminYavuz" width="40" height="40"/>
+        <a href="https://github.com/staffle" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/111873193?u=b9d592fba9c7b99d540ef94eaa7b98b4f047a6ea&v=4" alt="staffle" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/BunyaminYavuz" target="_blank">BunyaminYavuz</a>
+        <a href="https://github.com/staffle" target="_blank">staffle</a>
       </td>
     </tr>
     <tr>
-      <td align="center">12713</td>
+      <td align="center">12717</td>
       <td align="center">
-        <a href="https://github.com/Brahmahamadou" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/124585116?u=0658755d48a2a0510cf4d48cb65d80add873ebb1&v=4" alt="Brahmahamadou" width="40" height="40"/>
+        <a href="https://github.com/somotto" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/172541497?u=1b32e125d44f4dcf72c0969a2261a228a8571001&v=4" alt="somotto" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/Brahmahamadou" target="_blank">Brahmahamadou</a>
+        <a href="https://github.com/somotto" target="_blank">somotto</a>
       </td>
     </tr>
     <tr>
-      <td align="center">12714</td>
+      <td align="center">12718</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -882,4 +882,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.28s on Fri Nov 22 at 1:09</p>
+<p align="right">Generated in 0.224s on Fri Nov 22 at 1:10</p>
