@@ -82,40 +82,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">12732</td>
-      <td align="center">
-        <a href="https://github.com/ItsukiYamamoto0323" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/105542355?u=067daf9f1284a8e94c39beba0eca7741d460fcbb&v=4" alt="ItsukiYamamoto0323" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/ItsukiYamamoto0323" target="_blank">ItsukiYamamoto0323</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">12733</td>
-      <td align="center">
-        <a href="https://github.com/izmahaerill" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/115071388?u=c415478c60b92090848801f73bef3cec33f6984a&v=4" alt="izmahaerill" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/izmahaerill" target="_blank">izmahaerill</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">12734</td>
-      <td align="center">
-        <a href="https://github.com/beIove" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/173327670?u=335303e1dc519206848ea0b2533c13634a6b3d0e&v=4" alt="beIove" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/beIove" target="_blank">beIove</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">12735</td>
+      <td align="center">1</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -892,4 +859,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.282s on Fri Nov 22 at 14:25</p>
+<p align="right">Generated in 0.239s on Fri Nov 22 at 14:26</p>
