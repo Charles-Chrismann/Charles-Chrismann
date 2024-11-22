@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">12717</td>
-      <td align="center">
-        <a href="https://github.com/somotto" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/172541497?u=1b32e125d44f4dcf72c0969a2261a228a8571001&v=4" alt="somotto" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/somotto" target="_blank">somotto</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">12718</td>
       <td align="center">
         <a href="https://github.com/Tankiste" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">12720</td>
+      <td align="center">
+        <a href="https://github.com/officeshinyujun" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/153915968?v=4" alt="officeshinyujun" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/officeshinyujun" target="_blank">officeshinyujun</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">12721</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -826,4 +826,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.18s on Fri Nov 22 at 3:38</p>
+<p align="right">Generated in 0.121s on Fri Nov 22 at 3:40</p>
