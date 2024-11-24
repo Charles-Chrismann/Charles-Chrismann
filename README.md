@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">12786</td>
-      <td align="center">
-        <a href="https://github.com/JGITSol" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/129165119?u=e73ede6ea7dbea5e693d28c590666b393d5a0b1a&v=4" alt="JGITSol" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/JGITSol" target="_blank">JGITSol</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">12787</td>
       <td align="center">
         <a href="https://github.com/kaique-feitosa" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">12789</td>
+      <td align="center">
+        <a href="https://github.com/heltonjuniodesouza1" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/188676128?u=d21e923aeff7440aa7cc75c67fd3d05f24967794&v=4" alt="heltonjuniodesouza1" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/heltonjuniodesouza1" target="_blank">heltonjuniodesouza1</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">12790</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -717,4 +717,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.309s on Sun Nov 24 at 22:01</p>
+<p align="right">Generated in 0.237s on Sun Nov 24 at 22:14</p>
