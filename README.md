@@ -82,40 +82,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">12807</td>
-      <td align="center">
-        <a href="https://github.com/raffaP19" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/114430076?u=dd164937d6327d7c9ddf25e314c291c9bd7f0719&v=4" alt="raffaP19" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/raffaP19" target="_blank">raffaP19</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">12808</td>
-      <td align="center">
-        <a href="https://github.com/JohnMwendwa" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/72663882?u=fbeaea2dc64c633b6fbeb986e966ab812610025e&v=4" alt="JohnMwendwa" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/JohnMwendwa" target="_blank">JohnMwendwa</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">12809</td>
-      <td align="center">
-        <a href="https://github.com/LuuisGouveia" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/139708442?u=0d5fd7cbfd6fdc4d89ed8af77f5b5992867c6cec&v=4" alt="LuuisGouveia" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/LuuisGouveia" target="_blank">LuuisGouveia</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">12810</td>
+      <td align="center">
+        <a href="https://github.com/lusca0x01" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/79675318?u=87c92f00b6e57cb10725d8ad441c9e3f62cfb269&v=4" alt="lusca0x01" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/lusca0x01" target="_blank">lusca0x01</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">12811</td>
+      <td align="center">
+        <a href="https://github.com/rperez-rosario" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/24212098?u=12db45f5efb8de2818b970a70a83bec78cffb51f&v=4" alt="rperez-rosario" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/rperez-rosario" target="_blank">rperez-rosario</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">12812</td>
+      <td align="center">
+        <a href="https://github.com/RGB-Keys" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/94059438?u=01b8554c49d029cc81f9e4479c8ab52ce961c8e5&v=4" alt="RGB-Keys" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/RGB-Keys" target="_blank">RGB-Keys</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">12813</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -872,4 +872,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.427s on Mon Nov 25 at 20:32</p>
+<p align="right">Generated in 0.183s on Mon Nov 25 at 20:43</p>
