@@ -82,40 +82,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">12806</td>
-      <td align="center">
-        <a href="https://github.com/elizairam" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/57414154?u=fce630683026d4e50c0ba33eb19621cb96a1d642&v=4" alt="elizairam" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/elizairam" target="_blank">elizairam</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">12807</td>
-      <td align="center">
-        <a href="https://github.com/luisdelgado" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/5077922?u=5b740d91105c6e4029226a18ec12aca588ec213c&v=4" alt="luisdelgado" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/luisdelgado" target="_blank">luisdelgado</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">12808</td>
       <td align="center">
-        <a href="https://github.com/senadaghan" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/122734302?u=e253b54d6d19ccbf1a2ad79b770f94b148161660&v=4" alt="senadaghan" width="40" height="40"/>
+        <a href="https://github.com/raffaP19" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/114430076?u=dd164937d6327d7c9ddf25e314c291c9bd7f0719&v=4" alt="raffaP19" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/senadaghan" target="_blank">senadaghan</a>
+        <a href="https://github.com/raffaP19" target="_blank">raffaP19</a>
       </td>
     </tr>
     <tr>
       <td align="center">12809</td>
+      <td align="center">
+        <a href="https://github.com/JohnMwendwa" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/72663882?u=fbeaea2dc64c633b6fbeb986e966ab812610025e&v=4" alt="JohnMwendwa" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/JohnMwendwa" target="_blank">JohnMwendwa</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">12810</td>
+      <td align="center">
+        <a href="https://github.com/LuuisGouveia" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/139708442?u=0d5fd7cbfd6fdc4d89ed8af77f5b5992867c6cec&v=4" alt="LuuisGouveia" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/LuuisGouveia" target="_blank">LuuisGouveia</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">12811</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -872,4 +872,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.372s on Mon Nov 25 at 19:24</p>
+<p align="right">Generated in 0.375s on Mon Nov 25 at 19:27</p>
