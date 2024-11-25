@@ -82,7 +82,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">12793</td>
+      <td align="center">12792</td>
       <td align="center">
         <a href="https://github.com/samispaintoken" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/172177128?u=506d0f9ffe7b0dfb8bbc4e7934856b5692403263&v=4" alt="samispaintoken" width="40" height="40"/>
@@ -93,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">12794</td>
+      <td align="center">12793</td>
       <td align="center">
         <a href="https://github.com/26thDecCake" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/99866660?u=dc796142d934827237094def3c9c1de115b713fe&v=4" alt="26thDecCake" width="40" height="40"/>
@@ -104,7 +104,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">12795</td>
+      <td align="center">12794</td>
       <td align="center">
         <a href="https://github.com/polatemre" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/41800395?v=4" alt="polatemre" width="40" height="40"/>
@@ -115,7 +115,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">12796</td>
+      <td align="center">12795</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -879,4 +879,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.243s on Mon Nov 25 at 7:44</p>
+<p align="right">Generated in 0.125s on Mon Nov 25 at 7:55</p>
