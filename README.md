@@ -82,28 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">12816</td>
-      <td align="center">
-        <a href="https://github.com/sammmms" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/156488637?u=c79f7b28459462de27fb1c8f556bb98f59a3cb43&v=4" alt="sammmms" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/sammmms" target="_blank">sammmms</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">12817</td>
-      <td align="center">
-        <a href="https://github.com/julioamj06" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/112665125?v=4" alt="julioamj06" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/julioamj06" target="_blank">julioamj06</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">12818</td>
       <td align="center">
         <a href="https://github.com/bhautikpatel21" target="_blank">
@@ -116,6 +94,28 @@
     </tr>
     <tr>
       <td align="center">12819</td>
+      <td align="center">
+        <a href="https://github.com/latorresl" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/115896668?u=076d78de2e3882a3a38236db15c1cb4148b52ab0&v=4" alt="latorresl" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/latorresl" target="_blank">latorresl</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">12820</td>
+      <td align="center">
+        <a href="https://github.com/hakimLyon" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/64654633?v=4" alt="hakimLyon" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/hakimLyon" target="_blank">hakimLyon</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">12821</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -717,4 +717,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.218s on Tue Nov 26 at 5:33</p>
+<p align="right">Generated in 0.205s on Tue Nov 26 at 5:34</p>
