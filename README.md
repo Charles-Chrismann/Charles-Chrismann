@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">12845</td>
-      <td align="center">
-        <a href="https://github.com/MDaiyan-Dev" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/146009961?u=6b4909c212f385bd8f2c363389fe83877d90ece5&v=4" alt="MDaiyan-Dev" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/MDaiyan-Dev" target="_blank">MDaiyan-Dev</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">12846</td>
       <td align="center">
         <a href="https://github.com/Tetzdesen" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">12848</td>
+      <td align="center">
+        <a href="https://github.com/ajimaulana123" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/184538204?u=4fd655c65441ecdf4744299d0de337dc14a30662&v=4" alt="ajimaulana123" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/ajimaulana123" target="_blank">ajimaulana123</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">12849</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -888,4 +888,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.324s on Wed Nov 27 at 9:13</p>
+<p align="right">Generated in 0.156s on Wed Nov 27 at 9:21</p>
