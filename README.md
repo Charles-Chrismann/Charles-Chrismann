@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">12860</td>
-      <td align="center">
-        <a href="https://github.com/gurecci" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/65499362?u=60124945e22e23ac0e3809e25ba9bf6d5670b6c5&v=4" alt="gurecci" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/gurecci" target="_blank">gurecci</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">12861</td>
       <td align="center">
         <a href="https://github.com/kimman8" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">12863</td>
+      <td align="center">
+        <a href="https://github.com/VictorAID" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/75183450?v=4" alt="VictorAID" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/VictorAID" target="_blank">VictorAID</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">12864</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -896,4 +896,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 1.579s on Thu Nov 28 at 5:14</p>
+<p align="right">Generated in 1.57s on Thu Nov 28 at 5:36</p>
