@@ -82,29 +82,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">12858</td>
-      <td align="center">
-        <a href="https://github.com/AtalaySezen" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/88587309?u=54afe0eb555d8b3022cd56721ae390e1a0bf3d20&v=4" alt="AtalaySezen" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/AtalaySezen" target="_blank">AtalaySezen</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">12859</td>
-      <td align="center">
-        <a href="https://github.com/Ugwuagba" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/101457423?v=4" alt="Ugwuagba" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Ugwuagba" target="_blank">Ugwuagba</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">12860</td>
       <td align="center">
         <a href="https://github.com/malikobansa" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/56732809?u=a43855a7b6c00c92d2974877c1a30fbadd884e40&v=4" alt="malikobansa" width="40" height="40"/>
@@ -115,7 +93,29 @@
       </td>
     </tr>
     <tr>
+      <td align="center">12860</td>
+      <td align="center">
+        <a href="https://github.com/GessycaBorges" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/124705468?u=ff87df826281c74174289e467aa62498bb034cf0&v=4" alt="GessycaBorges" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/GessycaBorges" target="_blank">GessycaBorges</a>
+      </td>
+    </tr>
+    <tr>
       <td align="center">12861</td>
+      <td align="center">
+        <a href="https://github.com/gurecci" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/65499362?u=60124945e22e23ac0e3809e25ba9bf6d5670b6c5&v=4" alt="gurecci" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/gurecci" target="_blank">gurecci</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">12862</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -842,4 +842,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.314s on Thu Nov 28 at 0:54</p>
+<p align="right">Generated in 0.285s on Thu Nov 28 at 0:57</p>
