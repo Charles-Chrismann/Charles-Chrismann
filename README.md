@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">12886</td>
-      <td align="center">
-        <a href="https://github.com/Salpadding" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/17157439?u=fb8a9ced9c65a1ebf143cde63da8d0a7dd98cc05&v=4" alt="Salpadding" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Salpadding" target="_blank">Salpadding</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">12887</td>
       <td align="center">
         <a href="https://github.com/elliott-diy" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">12889</td>
+      <td align="center">
+        <a href="https://github.com/shimu-ui" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/139744804?u=1a9a67543812dc70c9f3b961b425e4c18ba63b72&v=4" alt="shimu-ui" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/shimu-ui" target="_blank">shimu-ui</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">12890</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -914,4 +914,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.205s on Fri Nov 29 at 3:41</p>
+<p align="right">Generated in 0.303s on Fri Nov 29 at 3:58</p>
