@@ -84,17 +84,6 @@
     <tr>
       <td align="center">12891</td>
       <td align="center">
-        <a href="https://github.com/studentyashsrivastava" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/143353577?v=4" alt="studentyashsrivastava" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/studentyashsrivastava" target="_blank">studentyashsrivastava</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">12892</td>
-      <td align="center">
         <a href="https://github.com/Rez4-3yz" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/167752965?u=57c122101adf557cf8da43c1e950b6760dc86087&v=4" alt="Rez4-3yz" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">12893</td>
+      <td align="center">12892</td>
       <td align="center">
         <a href="https://github.com/alreadysons" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/83567253?u=86c34803937531e6685844fd7d931d86fd5fd76a&v=4" alt="alreadysons" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/alreadysons" target="_blank">alreadysons</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">12893</td>
+      <td align="center">
+        <a href="https://github.com/standardgalactic" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/43516554?u=0742b59e476f52f7c2e298c5954afcc50b5b7738&v=4" alt="standardgalactic" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/standardgalactic" target="_blank">standardgalactic</a>
       </td>
     </tr>
     <tr>
@@ -906,4 +906,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.207s on Fri Nov 29 at 8:16</p>
+<p align="right">Generated in 0.202s on Fri Nov 29 at 8:43</p>
