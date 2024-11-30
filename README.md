@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">12920</td>
-      <td align="center">
-        <a href="https://github.com/rfcosta85" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/57047212?u=68a64ac6caecf6c3e793745ad908a291118a634e&v=4" alt="rfcosta85" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/rfcosta85" target="_blank">rfcosta85</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">12921</td>
       <td align="center">
         <a href="https://github.com/aminesayagh" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">12923</td>
+      <td align="center">
+        <a href="https://github.com/XpertForexTrade" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/182742731?v=4" alt="XpertForexTrade" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/XpertForexTrade" target="_blank">XpertForexTrade</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">12924</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -906,4 +906,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.381s on Sat Nov 30 at 10:26</p>
+<p align="right">Generated in 0.375s on Sat Nov 30 at 10:35</p>
