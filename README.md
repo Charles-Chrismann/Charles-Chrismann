@@ -84,17 +84,6 @@
     <tr>
       <td align="center">12921</td>
       <td align="center">
-        <a href="https://github.com/aminesayagh" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/29354548?u=25c593891022d466fcf322c246656b8251ec3c50&v=4" alt="aminesayagh" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/aminesayagh" target="_blank">aminesayagh</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">12922</td>
-      <td align="center">
         <a href="https://github.com/norochalise" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/11798517?u=4b0a6a845ca230cecaa07ae1f146470e1c590e99&v=4" alt="norochalise" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">12923</td>
+      <td align="center">12922</td>
       <td align="center">
         <a href="https://github.com/XpertForexTrade" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/182742731?v=4" alt="XpertForexTrade" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/XpertForexTrade" target="_blank">XpertForexTrade</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">12923</td>
+      <td align="center">
+        <a href="https://github.com/JohnMwendwa" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/72663882?u=fbeaea2dc64c633b6fbeb986e966ab812610025e&v=4" alt="JohnMwendwa" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/JohnMwendwa" target="_blank">JohnMwendwa</a>
       </td>
     </tr>
     <tr>
@@ -906,4 +906,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.375s on Sat Nov 30 at 10:35</p>
+<p align="right">Generated in 0.316s on Sat Nov 30 at 10:39</p>
