@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">12921</td>
-      <td align="center">
-        <a href="https://github.com/norochalise" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/11798517?u=4b0a6a845ca230cecaa07ae1f146470e1c590e99&v=4" alt="norochalise" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/norochalise" target="_blank">norochalise</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">12922</td>
       <td align="center">
         <a href="https://github.com/XpertForexTrade" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">12924</td>
+      <td align="center">
+        <a href="https://github.com/jayparmar11" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/53110999?u=411ff427e77de17cae11b1335c3e38c03ef079fc&v=4" alt="jayparmar11" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/jayparmar11" target="_blank">jayparmar11</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">12925</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -835,4 +835,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.38s on Sat Nov 30 at 11:14</p>
+<p align="right">Generated in 0.176s on Sat Nov 30 at 11:17</p>
