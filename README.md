@@ -84,34 +84,34 @@
     <tr>
       <td align="center">12967</td>
       <td align="center">
-        <a href="https://github.com/lucakim27" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/63194988?u=91aeb6477ad90d6d45f33a80f6e1d582b937f27e&v=4" alt="lucakim27" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/lucakim27" target="_blank">lucakim27</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">12968</td>
-      <td align="center">
-        <a href="https://github.com/JoaoGRMira" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/103254343?u=0e22feb78637d51270d950b0e6dc3d17ba117c40&v=4" alt="JoaoGRMira" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/JoaoGRMira" target="_blank">JoaoGRMira</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">12969</td>
-      <td align="center">
         <a href="https://github.com/avi-codesmith" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/188601286?u=f0410b35fcbc974cc33a15ad1c00613eeada94ac&v=4" alt="avi-codesmith" width="40" height="40"/>
         </a>
       </td>
       <td>
         <a href="https://github.com/avi-codesmith" target="_blank">avi-codesmith</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">12968</td>
+      <td align="center">
+        <a href="https://github.com/Salvelop07" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/187376026?u=dc303ac7fe969cce5df499a58ec42bcd41273b37&v=4" alt="Salvelop07" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Salvelop07" target="_blank">Salvelop07</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">12969</td>
+      <td align="center">
+        <a href="https://github.com/duartegab" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/162778199?u=e094a983284c7bee2c63500528daa3577f8443f3&v=4" alt="duartegab" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/duartegab" target="_blank">duartegab</a>
       </td>
     </tr>
     <tr>
@@ -895,4 +895,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.313s on Mon Dec 2 at 16:09</p>
+<p align="right">Generated in 0.152s on Mon Dec 2 at 16:39</p>
