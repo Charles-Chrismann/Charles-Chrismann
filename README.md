@@ -84,17 +84,6 @@
     <tr>
       <td align="center">12955</td>
       <td align="center">
-        <a href="https://github.com/quantux" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/7468387?u=710989446ac6e51dcf36b768d3fdde82de54fd1b&v=4" alt="quantux" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/quantux" target="_blank">quantux</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">12956</td>
-      <td align="center">
         <a href="https://github.com/Rishavbro" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/147848995?v=4" alt="Rishavbro" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">12957</td>
+      <td align="center">12956</td>
       <td align="center">
         <a href="https://github.com/farshad6218" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/85079369?u=57ad5e845931b01c95e47626b0c88c37bad5b35f&v=4" alt="farshad6218" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/farshad6218" target="_blank">farshad6218</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">12957</td>
+      <td align="center">
+        <a href="https://github.com/Abdullahsaleh203" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/132389571?u=07bc5ae65186a85e4bb0c629f366246eef12a4d8&v=4" alt="Abdullahsaleh203" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Abdullahsaleh203" target="_blank">Abdullahsaleh203</a>
       </td>
     </tr>
     <tr>
@@ -863,4 +863,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.201s on Mon Dec 2 at 5:39</p>
+<p align="right">Generated in 0.283s on Mon Dec 2 at 5:41</p>
