@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">12980</td>
-      <td align="center">
-        <a href="https://github.com/juancpan" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/53495684?u=07e15d8a98c59dfb5583de4472c904b45d15f1ee&v=4" alt="juancpan" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/juancpan" target="_blank">juancpan</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">12981</td>
       <td align="center">
         <a href="https://github.com/najimpinjari" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">12983</td>
+      <td align="center">
+        <a href="https://github.com/kode4food" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/69445?u=c682ec8af2c0d9dfc977e8c8dcd7ba5b42f51f6f&v=4" alt="kode4food" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/kode4food" target="_blank">kode4food</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">12984</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -877,4 +877,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.179s on Tue Dec 3 at 8:34</p>
+<p align="right">Generated in 0.172s on Tue Dec 3 at 8:41</p>
