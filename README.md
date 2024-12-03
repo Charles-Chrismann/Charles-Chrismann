@@ -84,17 +84,6 @@
     <tr>
       <td align="center">12978</td>
       <td align="center">
-        <a href="https://github.com/llseungjun" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/133944361?u=7c6f78430b7d1ec6f48d2bdcc7503032a12dbe44&v=4" alt="llseungjun" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/llseungjun" target="_blank">llseungjun</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">12979</td>
-      <td align="center">
         <a href="https://github.com/Junsious" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/114828272?u=1b4e711f0d254045832fd8f6bf1653b961c5f8db&v=4" alt="Junsious" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">12980</td>
+      <td align="center">12979</td>
       <td align="center">
         <a href="https://github.com/jihoon8730" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/88140865?u=7b667e05ddb981a0e8fa84f18b9d16ba5f91734d&v=4" alt="jihoon8730" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/jihoon8730" target="_blank">jihoon8730</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">12980</td>
+      <td align="center">
+        <a href="https://github.com/juancpan" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/53495684?u=07e15d8a98c59dfb5583de4472c904b45d15f1ee&v=4" alt="juancpan" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/juancpan" target="_blank">juancpan</a>
       </td>
     </tr>
     <tr>
@@ -873,4 +873,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.17s on Tue Dec 3 at 7:21</p>
+<p align="right">Generated in 0.238s on Tue Dec 3 at 7:25</p>
