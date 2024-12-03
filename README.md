@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">12979</td>
-      <td align="center">
-        <a href="https://github.com/jihoon8730" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/88140865?u=7b667e05ddb981a0e8fa84f18b9d16ba5f91734d&v=4" alt="jihoon8730" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/jihoon8730" target="_blank">jihoon8730</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">12980</td>
       <td align="center">
         <a href="https://github.com/juancpan" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">12982</td>
+      <td align="center">
+        <a href="https://github.com/RadiantDelta" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/40035893?v=4" alt="RadiantDelta" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/RadiantDelta" target="_blank">RadiantDelta</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">12983</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -902,4 +902,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.186s on Tue Dec 3 at 7:48</p>
+<p align="right">Generated in 0.297s on Tue Dec 3 at 7:55</p>
