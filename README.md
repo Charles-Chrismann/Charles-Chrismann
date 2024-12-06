@@ -82,29 +82,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">13057</td>
-      <td align="center">
-        <a href="https://github.com/guigallo" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/17219256?u=93c3673dcbb696e0c0f6c8a159cc29b4cc9d86e8&v=4" alt="guigallo" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/guigallo" target="_blank">guigallo</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">13058</td>
-      <td align="center">
-        <a href="https://github.com/Calebjazz" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/177735330?v=4" alt="Calebjazz" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Calebjazz" target="_blank">Calebjazz</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">13059</td>
       <td align="center">
         <a href="https://github.com/pmachado364" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/153815489?u=39dd55aca28daabb74df07162e1cf54b7706d90d&v=4" alt="pmachado364" width="40" height="40"/>
@@ -115,7 +93,29 @@
       </td>
     </tr>
     <tr>
+      <td align="center">13059</td>
+      <td align="center">
+        <a href="https://github.com/Rez4-3yz" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/167752965?u=57c122101adf557cf8da43c1e950b6760dc86087&v=4" alt="Rez4-3yz" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Rez4-3yz" target="_blank">Rez4-3yz</a>
+      </td>
+    </tr>
+    <tr>
       <td align="center">13060</td>
+      <td align="center">
+        <a href="https://github.com/Dana-Nurse" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/143125347?u=e47f89e5912c7fd360e4f6bde933115ec47746b3&v=4" alt="Dana-Nurse" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Dana-Nurse" target="_blank">Dana-Nurse</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">13061</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -879,4 +879,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.14s on Fri Dec 6 at 17:22</p>
+<p align="right">Generated in 0.134s on Fri Dec 6 at 17:27</p>
