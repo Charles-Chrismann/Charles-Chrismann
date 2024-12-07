@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">13067</td>
-      <td align="center">
-        <a href="https://github.com/rhythmdev" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/68784427?u=da877cc3d3e1e7cef46d9816e0bf98262d5516cf&v=4" alt="rhythmdev" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/rhythmdev" target="_blank">rhythmdev</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">13068</td>
       <td align="center">
         <a href="https://github.com/adithyanraj03" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">13070</td>
+      <td align="center">
+        <a href="https://github.com/lavzd13" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/129123180?v=4" alt="lavzd13" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/lavzd13" target="_blank">lavzd13</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">13071</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -865,4 +865,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.25s on Sat Dec 7 at 17:03</p>
+<p align="right">Generated in 0.151s on Sat Dec 7 at 17:08</p>
