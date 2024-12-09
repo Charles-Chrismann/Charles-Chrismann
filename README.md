@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">13098</td>
-      <td align="center">
-        <a href="https://github.com/TrungpdtE" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/134119472?u=ec8270ef6759cfa7056da6185bd7dbf07dc7f4b6&v=4" alt="TrungpdtE" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/TrungpdtE" target="_blank">TrungpdtE</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">13099</td>
       <td align="center">
         <a href="https://github.com/Jcassio-dev" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">13101</td>
+      <td align="center">
+        <a href="https://github.com/Arcron-ArchLinux" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/186321222?u=9d14361d2ef50858d496ede2af470c57ed4fe214&v=4" alt="Arcron-ArchLinux" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Arcron-ArchLinux" target="_blank">Arcron-ArchLinux</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">13102</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -879,4 +879,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.143s on Mon Dec 9 at 13:37</p>
+<p align="right">Generated in 0.304s on Mon Dec 9 at 13:38</p>
