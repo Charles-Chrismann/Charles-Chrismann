@@ -82,18 +82,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">13118</td>
-      <td align="center">
-        <a href="https://github.com/wandyalmeida" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/77290358?u=9b33f9923e13072c66efe6975ccbcb1c9b9a531e&v=4" alt="wandyalmeida" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/wandyalmeida" target="_blank">wandyalmeida</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">13119</td>
+      <td align="center">13117</td>
       <td align="center">
         <a href="https://github.com/thisisdineth" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/153892128?u=d6bf87e9447af75a8743ecc7c841474b8c6d6e54&v=4" alt="thisisdineth" width="40" height="40"/>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">13120</td>
+      <td align="center">13118</td>
       <td align="center">
         <a href="https://github.com/Rez4-3yz" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/167752965?u=57c122101adf557cf8da43c1e950b6760dc86087&v=4" alt="Rez4-3yz" width="40" height="40"/>
@@ -115,7 +104,18 @@
       </td>
     </tr>
     <tr>
-      <td align="center">13121</td>
+      <td align="center">13119</td>
+      <td align="center">
+        <a href="https://github.com/A-Devss" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/116179168?u=29adc5b52a3d2ceaee38a224eabb93bde93666f4&v=4" alt="A-Devss" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/A-Devss" target="_blank">A-Devss</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">13120</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -544,20 +544,20 @@
 <p align="center">
   <img width="256" src="https://o.charles-chrismann.fr/board.png" />
 </p>
-<p align="center">It's Black's turn</p>
+<p align="center">It's White's turn</p>
 <table align="center">
   <tbody>
     <tr>
       <td align="center">:eight:</td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
-      <td align="center">♔      </td>
       <td align="center">
         <details>
-          <summary>♜</summary>
-          <a href="https://o.charles-chrismann.fr/chess/move?x1=3&y1=0&x2=2&y2=0">c8</a>
+          <summary>♔</summary>
+          <a href="https://o.charles-chrismann.fr/chess/move?x1=2&y1=0&x2=2&y2=1">c7</a>
         </details>
       </td>
+      <td align="center">♜      </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
       <td align="center">♟      </td>
@@ -567,13 +567,7 @@
       <td align="center">:seven:</td>
       <td align="center">♟      </td>
       <td align="center">♙      </td>
-      <td align="center">
-        <details>
-          <summary>♚</summary>
-          <a href="https://o.charles-chrismann.fr/chess/move?x1=2&y1=1&x2=1&y2=2">b6</a>
-          <a href="https://o.charles-chrismann.fr/chess/move?x1=2&y1=1&x2=3&y2=2">d6</a>
-        </details>
-      </td>
+      <td align="center">♚      </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
       <td align="center">♟      </td>
@@ -584,7 +578,7 @@
       <td align="center">:six:</td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
-      <td align="center">♟      </td>
+      <td align="center">‎       </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
       <td align="center">♝      </td>
@@ -617,7 +611,7 @@
       <td align="center">:three:</td>
       <td align="center">‎       </td>
       <td align="center">♘      </td>
-      <td align="center">♕      </td>
+      <td align="center">♟      </td>
       <td align="center">‎       </td>
       <td align="center">♘      </td>
       <td align="center">‎       </td>
@@ -830,4 +824,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.526s on Tue Dec 10 at 7:34</p>
+<p align="right">Generated in 0.33s on Tue Dec 10 at 7:36</p>
