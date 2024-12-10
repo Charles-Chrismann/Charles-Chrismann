@@ -82,18 +82,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">13123</td>
-      <td align="center">
-        <a href="https://github.com/lkaymakanov" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/15797263?u=1418402826fdc0ece52815ed2008288c2924ce31&v=4" alt="lkaymakanov" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/lkaymakanov" target="_blank">lkaymakanov</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">13124</td>
+      <td align="center">13122</td>
       <td align="center">
         <a href="https://github.com/howlil" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/87646428?u=55188731e276ebf07e8916cb076486f5bf8302a1&v=4" alt="howlil" width="40" height="40"/>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">13125</td>
+      <td align="center">13123</td>
       <td align="center">
         <a href="https://github.com/urlichelim" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/191227716?u=97160b45da5a069915df99c109e4333948f20545&v=4" alt="urlichelim" width="40" height="40"/>
@@ -115,7 +104,18 @@
       </td>
     </tr>
     <tr>
-      <td align="center">13126</td>
+      <td align="center">13124</td>
+      <td align="center">
+        <a href="https://github.com/JohnMwendwa" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/72663882?u=fbeaea2dc64c633b6fbeb986e966ab812610025e&v=4" alt="JohnMwendwa" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/JohnMwendwa" target="_blank">JohnMwendwa</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">13125</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -891,4 +891,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.682s on Tue Dec 10 at 12:42</p>
+<p align="right">Generated in 0.596s on Tue Dec 10 at 12:46</p>
