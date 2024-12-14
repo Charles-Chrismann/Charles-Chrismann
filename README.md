@@ -107,7 +107,7 @@
       <td align="center">13216</td>
       <td align="center">
         <a href="https://github.com/thiagotexdev" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/75262040?v=4" alt="thiagotexdev" width="40" height="40"/>
+          <img src="https://avatars.githubusercontent.com/u/75262040?u=54d69574c7aa29d32fce4b858ae0a3bc6f489918&v=4" alt="thiagotexdev" width="40" height="40"/>
         </a>
       </td>
       <td>
@@ -881,4 +881,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.532s on Sat Dec 14 at 21:23</p>
+<p align="right">Generated in 0.572s on Sat Dec 14 at 21:31</p>
