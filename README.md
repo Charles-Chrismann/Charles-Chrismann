@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">13213</td>
-      <td align="center">
-        <a href="https://github.com/stevejj4" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/39529759?u=e932f146cc125d254c0d38cf5d28c84f03a65fcf&v=4" alt="stevejj4" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/stevejj4" target="_blank">stevejj4</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">13214</td>
       <td align="center">
         <a href="https://github.com/pagimos" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">13216</td>
+      <td align="center">
+        <a href="https://github.com/thiagotexdev" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/75262040?v=4" alt="thiagotexdev" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/thiagotexdev" target="_blank">thiagotexdev</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">13217</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -898,4 +898,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.526s on Sat Dec 14 at 20:47</p>
+<p align="right">Generated in 0.465s on Sat Dec 14 at 20:49</p>
