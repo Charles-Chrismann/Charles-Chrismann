@@ -82,40 +82,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">13242</td>
-      <td align="center">
-        <a href="https://github.com/Aldikitta" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/63404324?u=bb7817099b8f1b11b663e2fdf3d180f8068e5ff5&v=4" alt="Aldikitta" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Aldikitta" target="_blank">Aldikitta</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">13243</td>
-      <td align="center">
-        <a href="https://github.com/tarfao" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/29742240?u=248acadcccfd4a6f71b05f0d5d473110ba8f3e25&v=4" alt="tarfao" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/tarfao" target="_blank">tarfao</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">13244</td>
-      <td align="center">
-        <a href="https://github.com/pauloandresdf" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/134179071?u=02632a16209ed52a2dfe2c99def86f65d329dafa&v=4" alt="pauloandresdf" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/pauloandresdf" target="_blank">pauloandresdf</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">13245</td>
+      <td align="center">
+        <a href="https://github.com/0teklee" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/89988500?u=2f680f54987a02bba2d295b62d022038d458029c&v=4" alt="0teklee" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/0teklee" target="_blank">0teklee</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">13246</td>
+      <td align="center">
+        <a href="https://github.com/bitmanvs" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/13892694?u=f1043bcc2707a9aca343af59db44fe4f06d53b67&v=4" alt="bitmanvs" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/bitmanvs" target="_blank">bitmanvs</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">13247</td>
+      <td align="center">
+        <a href="https://github.com/shiumano" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/75152752?u=43de0308bcc2c9447e77cdc61d1905a5eb9d1a52&v=4" alt="shiumano" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/shiumano" target="_blank">shiumano</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">13248</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -842,4 +842,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.455s on Mon Dec 16 at 2:57</p>
+<p align="right">Generated in 0.411s on Mon Dec 16 at 3:00</p>
