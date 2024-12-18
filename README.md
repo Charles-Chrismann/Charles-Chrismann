@@ -740,6 +740,16 @@
       </td>
     </tr>
     <tr>
+      <td>$\text{\color{lightgreen}{A}}$</td>
+      <td>$\text{\color{lightgreen}{D}}$</td>
+      <td>$\text{\color{lightgreen}{O}}$</td>
+      <td>$\text{\color{lightgreen}{B}}$</td>
+      <td>$\text{\color{lightgreen}{E}}$</td>
+      <td>
+        <a href="https://github.com/userElaina">@userElaina</a>
+      </td>
+    </tr>
+    <tr>
       <td>‎ </td>
       <td>‎ </td>
       <td>‎ </td>
@@ -883,6 +893,18 @@
       </td>
       <td align="center">1</td>
     </tr>
+    <tr>
+      <td align="center">11</td>
+      <td align="center">
+        <a href="https://github.com/userElaina">
+          <img src="https://avatars.githubusercontent.com/u/80948381?size=32" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/userElaina">@userElaina</a>
+      </td>
+      <td align="center">1</td>
+    </tr>
   </tbody>
 </table>
 
@@ -897,4 +919,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.162s on Wed Dec 18 at 8:43</p>
+<p align="right">Generated in 0.183s on Wed Dec 18 at 8:44</p>
