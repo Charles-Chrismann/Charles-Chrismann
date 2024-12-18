@@ -551,7 +551,7 @@
       <td align="center">:eight:</td>
       <td align="center">♜      </td>
       <td align="center">♞      </td>
-      <td align="center">♟      </td>
+      <td align="center">♝      </td>
       <td align="center">♛      </td>
       <td align="center">♚      </td>
       <td align="center">♝      </td>
@@ -560,7 +560,7 @@
     </tr>
     <tr>
       <td align="center">:seven:</td>
-      <td align="center">‎       </td>
+      <td align="center">♟      </td>
       <td align="center">♟      </td>
       <td align="center">♟      </td>
       <td align="center">♟      </td>
@@ -682,13 +682,8 @@
           <a href="https://o.charles-chrismann.fr/chess/move?x1=1&y1=7&x2=2&y2=5">c3</a>
         </details>
       </td>
-      <td align="center">‎       </td>
-      <td align="center">
-        <details>
-          <summary>♕</summary>
-          <a href="https://o.charles-chrismann.fr/chess/move?x1=3&y1=7&x2=2&y2=7">c1</a>
-        </details>
-      </td>
+      <td align="center">♗      </td>
+      <td align="center">♕      </td>
       <td align="center">♔      </td>
       <td align="center">♗      </td>
       <td align="center">
@@ -926,4 +921,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 1.849s on Wed Dec 18 at 10:28</p>
+<p align="right">Generated in 1.876s on Wed Dec 18 at 10:31</p>
