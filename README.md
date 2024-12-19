@@ -84,17 +84,6 @@
     <tr>
       <td align="center">13331</td>
       <td align="center">
-        <a href="https://github.com/EdCarlosBicudo" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/14284058?u=6b82d800219bb9dd6d20895cacd08587ae8c2404&v=4" alt="EdCarlosBicudo" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/EdCarlosBicudo" target="_blank">EdCarlosBicudo</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">13332</td>
-      <td align="center">
         <a href="https://github.com/SweetCoding115" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/140162963?u=129cc24edb1d4e8ba970a4e991dfd995df4b13f2&v=4" alt="SweetCoding115" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">13333</td>
+      <td align="center">13332</td>
       <td align="center">
         <a href="https://github.com/salmane10" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/70725941?u=6aa48aa245d812570f3af5df0e8961a01b6bfd07&v=4" alt="salmane10" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/salmane10" target="_blank">salmane10</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">13333</td>
+      <td align="center">
+        <a href="https://github.com/Labitobi" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/175011570?u=0bb8c1c84af34ce66d19d22fa75f8f205eb9e9cd&v=4" alt="Labitobi" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Labitobi" target="_blank">Labitobi</a>
       </td>
     </tr>
     <tr>
@@ -904,4 +904,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.21s on Thu Dec 19 at 16:41</p>
+<p align="right">Generated in 0.2s on Thu Dec 19 at 16:51</p>
