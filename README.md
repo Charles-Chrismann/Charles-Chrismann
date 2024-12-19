@@ -84,17 +84,6 @@
     <tr>
       <td align="center">13322</td>
       <td align="center">
-        <a href="https://github.com/Juniortajra" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/176770209?v=4" alt="Juniortajra" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Juniortajra" target="_blank">Juniortajra</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">13323</td>
-      <td align="center">
         <a href="https://github.com/oO0O0O0" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/111515806?u=c3f5e35f6086e649e9ee281a0471c6a2b8c3bbf8&v=4" alt="oO0O0O0" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">13324</td>
+      <td align="center">13323</td>
       <td align="center">
         <a href="https://github.com/XkaV" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/26608906?v=4" alt="XkaV" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/XkaV" target="_blank">XkaV</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">13324</td>
+      <td align="center">
+        <a href="https://github.com/zacheson" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/14063214?v=4" alt="zacheson" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/zacheson" target="_blank">zacheson</a>
       </td>
     </tr>
     <tr>
@@ -544,7 +544,7 @@
 <p align="center">
   <img width="256" src="https://o.charles-chrismann.fr/board.png" />
 </p>
-<p align="center">It's Black's turn</p>
+<p align="center">It's White's turn</p>
 <table align="center">
   <tbody>
     <tr>
@@ -552,7 +552,7 @@
       <td align="center">‎       </td>
       <td align="center">♞      </td>
       <td align="center">‎       </td>
-      <td align="center">‎       </td>
+      <td align="center">♟      </td>
       <td align="center">‎       </td>
       <td align="center">♝      </td>
       <td align="center">♞      </td>
@@ -563,12 +563,7 @@
       <td align="center">♟      </td>
       <td align="center">♙      </td>
       <td align="center">♟      </td>
-      <td align="center">
-        <details>
-          <summary>♝</summary>
-          <a href="https://o.charles-chrismann.fr/chess/move?x1=3&y1=1&x2=7&y2=5">h3</a>
-        </details>
-      </td>
+      <td align="center">♝      </td>
       <td align="center">♟      </td>
       <td align="center">♟      </td>
       <td align="center">♟      </td>
@@ -579,7 +574,7 @@
       <td align="center">♜      </td>
       <td align="center">♘      </td>
       <td align="center">‎       </td>
-      <td align="center">♟      </td>
+      <td align="center">‎       </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
@@ -594,13 +589,7 @@
       <td align="center">♖      </td>
       <td align="center">‎       </td>
       <td align="center">♙      </td>
-      <td align="center">
-        <details>
-          <summary>♚</summary>
-          <a href="https://o.charles-chrismann.fr/chess/move?x1=7&y1=3&x2=6&y2=2">g6</a>
-          <a href="https://o.charles-chrismann.fr/chess/move?x1=7&y1=3&x2=6&y2=4">g4</a>
-        </details>
-      </td>
+      <td align="center">♚      </td>
     </tr>
     <tr>
       <td align="center">:four:</td>
@@ -641,7 +630,12 @@
       <td align="center">♘      </td>
       <td align="center">♗      </td>
       <td align="center">♛      </td>
-      <td align="center">♔      </td>
+      <td align="center">
+        <details>
+          <summary>♔</summary>
+          <a href="https://o.charles-chrismann.fr/chess/move?x1=4&y1=7&x2=3&y2=7">d1</a>
+        </details>
+      </td>
       <td align="center">♗      </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
@@ -842,4 +836,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.491s on Thu Dec 19 at 4:52</p>
+<p align="right">Generated in 0.397s on Thu Dec 19 at 4:54</p>
