@@ -775,6 +775,16 @@
       </td>
     </tr>
     <tr>
+      <td>$\text{\color{white}{N}}$</td>
+      <td>$\text{\color{lightgreen}{O}}$</td>
+      <td>$\text{\color{lightgreen}{I}}$</td>
+      <td>$\text{\color{lightgreen}{S}}$</td>
+      <td>$\text{\color{white}{Y}}$</td>
+      <td>
+        <a href="https://github.com/userElaina">@userElaina</a>
+      </td>
+    </tr>
+    <tr>
       <td>‎ </td>
       <td>‎ </td>
       <td>‎ </td>
@@ -944,4 +954,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.255s on Sat Dec 21 at 5:58</p>
+<p align="right">Generated in 0.241s on Sat Dec 21 at 6:00</p>
