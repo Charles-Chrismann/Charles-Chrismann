@@ -718,66 +718,6 @@
   </thead>
   <tbody>
     <tr>
-      <td>$\text{\color{white}{M}}$</td>
-      <td>$\text{\color{white}{U}}$</td>
-      <td>$\text{\color{orange}{S}}$</td>
-      <td>$\text{\color{orange}{I}}$</td>
-      <td>$\text{\color{white}{C}}$</td>
-      <td>
-        <a href="https://github.com/userElaina">@userElaina</a>
-      </td>
-    </tr>
-    <tr>
-      <td>$\text{\color{orange}{S}}$</td>
-      <td>$\text{\color{white}{P}}$</td>
-      <td>$\text{\color{lightgreen}{I}}$</td>
-      <td>$\text{\color{white}{K}}$</td>
-      <td>$\text{\color{white}{E}}$</td>
-      <td>
-        <a href="https://github.com/userElaina">@userElaina</a>
-      </td>
-    </tr>
-    <tr>
-      <td>$\text{\color{red}{E}}$</td>
-      <td>$\text{\color{red}{L}}$</td>
-      <td>$\text{\color{red}{I}}$</td>
-      <td>$\text{\color{red}{S}}$</td>
-      <td>$\text{\color{red}{A}}$</td>
-      <td>
-        <a href="https://github.com/userElaina">@userElaina</a>
-      </td>
-    </tr>
-    <tr>
-      <td>$\text{\color{white}{N}}$</td>
-      <td>$\text{\color{lightgreen}{O}}$</td>
-      <td>$\text{\color{lightgreen}{I}}$</td>
-      <td>$\text{\color{lightgreen}{S}}$</td>
-      <td>$\text{\color{white}{Y}}$</td>
-      <td>
-        <a href="https://github.com/userElaina">@userElaina</a>
-      </td>
-    </tr>
-    <tr>
-      <td>$\text{\color{white}{F}}$</td>
-      <td>$\text{\color{white}{L}}$</td>
-      <td>$\text{\color{white}{A}}$</td>
-      <td>$\text{\color{lightgreen}{S}}$</td>
-      <td>$\text{\color{orange}{H}}$</td>
-      <td>
-        <a href="https://github.com/userElaina">@userElaina</a>
-      </td>
-    </tr>
-    <tr>
-      <td>$\text{\color{lightgreen}{H}}$</td>
-      <td>$\text{\color{lightgreen}{O}}$</td>
-      <td>$\text{\color{lightgreen}{I}}$</td>
-      <td>$\text{\color{lightgreen}{S}}$</td>
-      <td>$\text{\color{lightgreen}{T}}$</td>
-      <td>
-        <a href="https://github.com/userElaina">@userElaina</a>
-      </td>
-    </tr>
-    <tr>
       <td>‎ </td>
       <td>‎ </td>
       <td>‎ </td>
@@ -947,4 +887,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.389s on Sat Dec 21 at 21:59</p>
+<p align="right">Generated in 0.381s on Sat Dec 21 at 22:00</p>
