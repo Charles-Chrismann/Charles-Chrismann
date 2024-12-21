@@ -785,6 +785,16 @@
       </td>
     </tr>
     <tr>
+      <td>$\text{\color{white}{F}}$</td>
+      <td>$\text{\color{white}{L}}$</td>
+      <td>$\text{\color{white}{A}}$</td>
+      <td>$\text{\color{lightgreen}{S}}$</td>
+      <td>$\text{\color{orange}{H}}$</td>
+      <td>
+        <a href="https://github.com/userElaina">@userElaina</a>
+      </td>
+    </tr>
+    <tr>
       <td>‎ </td>
       <td>‎ </td>
       <td>‎ </td>
@@ -954,4 +964,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.175s on Sat Dec 21 at 6:02</p>
+<p align="right">Generated in 0.272s on Sat Dec 21 at 6:04</p>
