@@ -795,6 +795,16 @@
       </td>
     </tr>
     <tr>
+      <td>$\text{\color{lightgreen}{H}}$</td>
+      <td>$\text{\color{lightgreen}{O}}$</td>
+      <td>$\text{\color{lightgreen}{I}}$</td>
+      <td>$\text{\color{lightgreen}{S}}$</td>
+      <td>$\text{\color{lightgreen}{T}}$</td>
+      <td>
+        <a href="https://github.com/userElaina">@userElaina</a>
+      </td>
+    </tr>
+    <tr>
       <td>‎ </td>
       <td>‎ </td>
       <td>‎ </td>
@@ -857,6 +867,18 @@
     <tr>
       <td align="center">4</td>
       <td align="center">
+        <a href="https://github.com/userElaina">
+          <img src="https://avatars.githubusercontent.com/u/80948381?size=32" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/userElaina">@userElaina</a>
+      </td>
+      <td align="center">3</td>
+    </tr>
+    <tr>
+      <td align="center">5</td>
+      <td align="center">
         <a href="https://github.com/GabrielTrifoni">
           <img src="https://avatars.githubusercontent.com/u/111247285?size=32" width="40" height="40"/>
         </a>
@@ -867,7 +889,7 @@
       <td align="center">2</td>
     </tr>
     <tr>
-      <td align="center">5</td>
+      <td align="center">6</td>
       <td align="center">
         <a href="https://github.com/ZigaoWang">
           <img src="https://avatars.githubusercontent.com/u/102006756?size=32" width="40" height="40"/>
@@ -875,18 +897,6 @@
       </td>
       <td>
         <a href="https://github.com/ZigaoWang">@ZigaoWang</a>
-      </td>
-      <td align="center">2</td>
-    </tr>
-    <tr>
-      <td align="center">6</td>
-      <td align="center">
-        <a href="https://github.com/userElaina">
-          <img src="https://avatars.githubusercontent.com/u/80948381?size=32" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/userElaina">@userElaina</a>
       </td>
       <td align="center">2</td>
     </tr>
@@ -964,4 +974,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.272s on Sat Dec 21 at 6:04</p>
+<p align="right">Generated in 0.255s on Sat Dec 21 at 6:04</p>
