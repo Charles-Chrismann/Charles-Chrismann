@@ -640,6 +640,16 @@
       </td>
     </tr>
     <tr>
+      <td>$\text{\color{lightgreen}{W}}$</td>
+      <td>$\text{\color{lightgreen}{I}}$</td>
+      <td>$\text{\color{lightgreen}{M}}$</td>
+      <td>$\text{\color{lightgreen}{P}}$</td>
+      <td>$\text{\color{lightgreen}{Y}}$</td>
+      <td>
+        <a href="https://github.com/userElaina">@userElaina</a>
+      </td>
+    </tr>
+    <tr>
       <td>‎ </td>
       <td>‎ </td>
       <td>‎ </td>
@@ -709,7 +719,7 @@
       <td>
         <a href="https://github.com/userElaina">@userElaina</a>
       </td>
-      <td align="center">3</td>
+      <td align="center">4</td>
     </tr>
     <tr>
       <td align="center">5</td>
@@ -809,4 +819,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.352s on Sun Dec 22 at 10:50</p>
+<p align="right">Generated in 0.36s on Sun Dec 22 at 10:51</p>
