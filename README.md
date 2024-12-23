@@ -82,40 +82,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">13411</td>
-      <td align="center">
-        <a href="https://github.com/Daosre" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/161069654?u=3227b776f1bebf0bcba2d093d0fd4ea7ee5faf9c&v=4" alt="Daosre" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Daosre" target="_blank">Daosre</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">13412</td>
-      <td align="center">
-        <a href="https://github.com/OllieII" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/118081531?u=a0b8ab77f17125be4109be05eb63bd22621da8b0&v=4" alt="OllieII" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/OllieII" target="_blank">OllieII</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">13413</td>
-      <td align="center">
-        <a href="https://github.com/Huzaifa-Abbasi" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/151647824?u=574903023e14f32964a3cf7e7e6a7a0f199d1b31&v=4" alt="Huzaifa-Abbasi" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Huzaifa-Abbasi" target="_blank">Huzaifa-Abbasi</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">13414</td>
+      <td align="center">
+        <a href="https://github.com/brightman7942" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/182664524?u=f64d6c31b5dcfc540789c31d38d85bbd525d568a&v=4" alt="brightman7942" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/brightman7942" target="_blank">brightman7942</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">13415</td>
+      <td align="center">
+        <a href="https://github.com/felipengeletrica" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/18504734?u=b9d821af3e5aeed7740f08e2dd367c86b6e6b2cd&v=4" alt="felipengeletrica" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/felipengeletrica" target="_blank">felipengeletrica</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">13416</td>
+      <td align="center">
+        <a href="https://github.com/marianamelx" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/95263206?u=97c51a15c589157d1c83e605a4c4316f5c2f9dc8&v=4" alt="marianamelx" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/marianamelx" target="_blank">marianamelx</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">13417</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -891,4 +891,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.398s on Mon Dec 23 at 18:51</p>
+<p align="right">Generated in 0.339s on Mon Dec 23 at 19:06</p>
