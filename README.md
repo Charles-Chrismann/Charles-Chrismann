@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">13434</td>
-      <td align="center">
-        <a href="https://github.com/slatro" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/52999425?u=f1508a161d401163bb021756d11a4e2f0f3d552e&v=4" alt="slatro" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/slatro" target="_blank">slatro</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">13435</td>
       <td align="center">
         <a href="https://github.com/GeniusGoldDev" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">13437</td>
+      <td align="center">
+        <a href="https://github.com/SavJas" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/86425637?u=a0b04f09f8fe92492f8d87ccc30697900d99a7a4&v=4" alt="SavJas" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/SavJas" target="_blank">SavJas</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">13438</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -264,7 +264,7 @@
 <h1 align="center">Flex Zone</h1>
 <h3 align="center">A classic Minesweeper</h3>
 <p align="center">
-  <a href="https://o.charles-chrismann.fr/minesweeper/click?x=0&y=0">:black_large_square:</a>
+  <span>:one:</span>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=1&y=0">:black_large_square:</a>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=2&y=0">:black_large_square:</a>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=3&y=0">:black_large_square:</a>
@@ -530,7 +530,7 @@
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=16&y=13">:black_large_square:</a>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=17&y=13">:black_large_square:</a>
 </p>
-<p align="center">Come on, try it</p>
+<p align="center">Keep clearing, there are still many mines left.</p>
 <p align="center">
   <img width="256" src="https://o.charles-chrismann.fr/minesweeper.gif" />
 </p>
@@ -930,4 +930,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.217s on Tue Dec 24 at 22:09</p>
+<p align="right">Generated in 0.267s on Tue Dec 24 at 22:09</p>
