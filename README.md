@@ -82,28 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">13426</td>
-      <td align="center">
-        <a href="https://github.com/spiros40" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/30153656?u=72743e923acdf430c2623015ed733fc37ccf99d1&v=4" alt="spiros40" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/spiros40" target="_blank">spiros40</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">13427</td>
-      <td align="center">
-        <a href="https://github.com/usasmmhivewqwe44" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/192734785?u=c4f215d1479b3739e335b1ff46d11c5b9cf4399f&v=4" alt="usasmmhivewqwe44" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/usasmmhivewqwe44" target="_blank">usasmmhivewqwe44</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">13428</td>
       <td align="center">
         <a href="https://github.com/0xyvz" target="_blank">
@@ -116,6 +94,28 @@
     </tr>
     <tr>
       <td align="center">13429</td>
+      <td align="center">
+        <a href="https://github.com/Quanta-Crypt" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/109692193?u=20346739de3b4068b22e3d946dbd26b99993d6dd&v=4" alt="Quanta-Crypt" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Quanta-Crypt" target="_blank">Quanta-Crypt</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">13430</td>
+      <td align="center">
+        <a href="https://github.com/TabletRennie" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/119327777?u=07906ccfb19c079c5c8e3ca731e9493401d7b327&v=4" alt="TabletRennie" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/TabletRennie" target="_blank">TabletRennie</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">13431</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -963,4 +963,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.363s on Tue Dec 24 at 18:41</p>
+<p align="right">Generated in 0.31s on Tue Dec 24 at 18:44</p>
