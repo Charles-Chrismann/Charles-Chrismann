@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">13438</td>
-      <td align="center">
-        <a href="https://github.com/FarHan949" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/160049785?u=5cf1f43261bf9d9767396fd4d2b1ca56453e3249&v=4" alt="FarHan949" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/FarHan949" target="_blank">FarHan949</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">13439</td>
       <td align="center">
         <a href="https://github.com/mooosakhan" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">13441</td>
+      <td align="center">
+        <a href="https://github.com/sezzgi" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/171323413?v=4" alt="sezzgi" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/sezzgi" target="_blank">sezzgi</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">13442</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -836,4 +836,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.2s on Wed Dec 25 at 8:57</p>
+<p align="right">Generated in 0.306s on Wed Dec 25 at 9:00</p>
