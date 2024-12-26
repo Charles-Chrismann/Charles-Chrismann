@@ -107,7 +107,7 @@
       <td align="center">13461</td>
       <td align="center">
         <a href="https://github.com/Natas41" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/176904466?v=4" alt="Natas41" width="40" height="40"/>
+          <img src="https://avatars.githubusercontent.com/u/176904466?u=086bdfab7c584a6af711c3e42342608d1464cfc9&v=4" alt="Natas41" width="40" height="40"/>
         </a>
       </td>
       <td>
@@ -843,4 +843,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 1.599s on Thu Dec 26 at 17:42</p>
+<p align="right">Generated in 1.522s on Thu Dec 26 at 17:43</p>
