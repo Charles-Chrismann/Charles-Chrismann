@@ -82,7 +82,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">13456</td>
+      <td align="center">13455</td>
       <td align="center">
         <a href="https://github.com/Mohammed-Mahmoud0" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/92043895?u=ef218da1df2bb77cd2689dbfb876ce072e6f9a6e&v=4" alt="Mohammed-Mahmoud0" width="40" height="40"/>
@@ -93,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">13457</td>
+      <td align="center">13456</td>
       <td align="center">
         <a href="https://github.com/beIove" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/173327670?u=a6e9140eff19a753ee31c268d061986dd0274296&v=4" alt="beIove" width="40" height="40"/>
@@ -104,7 +104,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">13458</td>
+      <td align="center">13457</td>
       <td align="center">
         <a href="https://github.com/skribascode" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/24965923?u=776aa65431fe1f4370102d7f59fdd491ed6ea1c1&v=4" alt="skribascode" width="40" height="40"/>
@@ -115,7 +115,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">13459</td>
+      <td align="center">13458</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -544,7 +544,7 @@
 <p align="center">
   <img width="256" src="https://o.charles-chrismann.fr/board.png" />
 </p>
-<p align="center">It's White's turn</p>
+<p align="center">It's Black's turn</p>
 <table align="center">
   <tbody>
     <tr>
@@ -555,7 +555,12 @@
       <td align="center">‎       </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
-      <td align="center">♝      </td>
+      <td align="center">
+        <details>
+          <summary>♝</summary>
+          <a href="https://o.charles-chrismann.fr/chess/move?x1=6&y1=0&x2=5&y2=1">f7</a>
+        </details>
+      </td>
       <td align="center">♟      </td>
     </tr>
     <tr>
@@ -565,7 +570,7 @@
       <td align="center">‎       </td>
       <td align="center">‎       </td>
       <td align="center">♘      </td>
-      <td align="center">♙      </td>
+      <td align="center">♔      </td>
       <td align="center">‎       </td>
       <td align="center">♘      </td>
     </tr>
@@ -575,7 +580,14 @@
       <td align="center">‎       </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
-      <td align="center">♚      </td>
+      <td align="center">
+        <details>
+          <summary>♚</summary>
+          <a href="https://o.charles-chrismann.fr/chess/move?x1=4&y1=2&x2=5&y2=1">f7</a>
+          <a href="https://o.charles-chrismann.fr/chess/move?x1=4&y1=2&x2=3&y2=2">d6</a>
+          <br><a href="https://o.charles-chrismann.fr/chess/move?x1=4&y1=2&x2=4&y2=3">e5</a>
+        </details>
+      </td>
       <td align="center">♙      </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
@@ -631,16 +643,7 @@
       <td align="center">♗      </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
-      <td align="center">
-        <details>
-          <summary>♔</summary>
-          <a href="https://o.charles-chrismann.fr/chess/move?x1=5&y1=7&x2=4&y2=6">e2</a>
-          <a href="https://o.charles-chrismann.fr/chess/move?x1=5&y1=7&x2=5&y2=6">f2</a>
-          <a href="https://o.charles-chrismann.fr/chess/move?x1=5&y1=7&x2=6&y2=6">g2</a>
-          <br><a href="https://o.charles-chrismann.fr/chess/move?x1=5&y1=7&x2=4&y2=7">e1</a>
-          <a href="https://o.charles-chrismann.fr/chess/move?x1=5&y1=7&x2=6&y2=7">g1</a>
-        </details>
-      </td>
+      <td align="center">‎       </td>
       <td align="center">‎       </td>
       <td align="center">♖      </td>
     </tr>
@@ -840,4 +843,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 1.084s on Thu Dec 26 at 14:58</p>
+<p align="right">Generated in 0.95s on Thu Dec 26 at 14:58</p>
