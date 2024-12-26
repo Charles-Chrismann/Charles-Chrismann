@@ -107,7 +107,7 @@
       <td align="center">13458</td>
       <td align="center">
         <a href="https://github.com/beIove" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/173327670?u=c562e2cda273b97fdd542ec640b4e9807e8dce96&v=4" alt="beIove" width="40" height="40"/>
+          <img src="https://avatars.githubusercontent.com/u/173327670?u=a6e9140eff19a753ee31c268d061986dd0274296&v=4" alt="beIove" width="40" height="40"/>
         </a>
       </td>
       <td>
@@ -866,4 +866,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.152s on Thu Dec 26 at 14:22</p>
+<p align="right">Generated in 0.144s on Thu Dec 26 at 14:25</p>
