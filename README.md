@@ -746,6 +746,16 @@
   </thead>
   <tbody>
     <tr>
+      <td>$\text{\color{white}{F}}$</td>
+      <td>$\text{\color{white}{R}}$</td>
+      <td>$\text{\color{orange}{I}}$</td>
+      <td>$\text{\color{white}{E}}$</td>
+      <td>$\text{\color{white}{D}}$</td>
+      <td>
+        <a href="https://github.com/HamzaBenerradi">@HamzaBenerradi</a>
+      </td>
+    </tr>
+    <tr>
       <td>‎ </td>
       <td>‎ </td>
       <td>‎ </td>
@@ -915,4 +925,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.185s on Fri Dec 27 at 1:06</p>
+<p align="right">Generated in 0.276s on Fri Dec 27 at 1:07</p>
