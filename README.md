@@ -771,6 +771,16 @@
       </td>
     </tr>
     <tr>
+      <td>$\text{\color{lightgreen}{C}}$</td>
+      <td>$\text{\color{lightgreen}{A}}$</td>
+      <td>$\text{\color{lightgreen}{N}}$</td>
+      <td>$\text{\color{lightgreen}{A}}$</td>
+      <td>$\text{\color{lightgreen}{L}}$</td>
+      <td>
+        <a href="https://github.com/userElaina">@userElaina</a>
+      </td>
+    </tr>
+    <tr>
       <td>‎ </td>
       <td>‎ </td>
       <td>‎ </td>
@@ -821,24 +831,24 @@
     <tr>
       <td align="center">3</td>
       <td align="center">
-        <a href="https://github.com/dana-akesh">
-          <img src="https://avatars.githubusercontent.com/u/86303193?size=32" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/dana-akesh">@dana-akesh</a>
-      </td>
-      <td align="center">7</td>
-    </tr>
-    <tr>
-      <td align="center">4</td>
-      <td align="center">
         <a href="https://github.com/userElaina">
           <img src="https://avatars.githubusercontent.com/u/80948381?size=32" width="40" height="40"/>
         </a>
       </td>
       <td>
         <a href="https://github.com/userElaina">@userElaina</a>
+      </td>
+      <td align="center">8</td>
+    </tr>
+    <tr>
+      <td align="center">4</td>
+      <td align="center">
+        <a href="https://github.com/dana-akesh">
+          <img src="https://avatars.githubusercontent.com/u/86303193?size=32" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/dana-akesh">@dana-akesh</a>
       </td>
       <td align="center">7</td>
     </tr>
@@ -940,4 +950,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.299s on Sat Dec 28 at 8:19</p>
+<p align="right">Generated in 0.291s on Sat Dec 28 at 8:20</p>
