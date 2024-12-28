@@ -692,56 +692,6 @@
   </thead>
   <tbody>
     <tr>
-      <td>$\text{\color{orange}{A}}$</td>
-      <td>$\text{\color{white}{U}}$</td>
-      <td>$\text{\color{white}{D}}$</td>
-      <td>$\text{\color{white}{I}}$</td>
-      <td>$\text{\color{white}{O}}$</td>
-      <td>
-        <a href="https://github.com/userElaina">@userElaina</a>
-      </td>
-    </tr>
-    <tr>
-      <td>$\text{\color{white}{E}}$</td>
-      <td>$\text{\color{lightgreen}{A}}$</td>
-      <td>$\text{\color{white}{R}}$</td>
-      <td>$\text{\color{orange}{L}}$</td>
-      <td>$\text{\color{white}{Y}}$</td>
-      <td>
-        <a href="https://github.com/userElaina">@userElaina</a>
-      </td>
-    </tr>
-    <tr>
-      <td>$\text{\color{white}{F}}$</td>
-      <td>$\text{\color{lightgreen}{A}}$</td>
-      <td>$\text{\color{white}{T}}$</td>
-      <td>$\text{\color{lightgreen}{A}}$</td>
-      <td>$\text{\color{lightgreen}{L}}$</td>
-      <td>
-        <a href="https://github.com/userElaina">@userElaina</a>
-      </td>
-    </tr>
-    <tr>
-      <td>$\text{\color{white}{B}}$</td>
-      <td>$\text{\color{white}{E}}$</td>
-      <td>$\text{\color{lightgreen}{N}}$</td>
-      <td>$\text{\color{orange}{C}}$</td>
-      <td>$\text{\color{white}{H}}$</td>
-      <td>
-        <a href="https://github.com/userElaina">@userElaina</a>
-      </td>
-    </tr>
-    <tr>
-      <td>$\text{\color{lightgreen}{C}}$</td>
-      <td>$\text{\color{lightgreen}{A}}$</td>
-      <td>$\text{\color{lightgreen}{N}}$</td>
-      <td>$\text{\color{lightgreen}{A}}$</td>
-      <td>$\text{\color{lightgreen}{L}}$</td>
-      <td>
-        <a href="https://github.com/userElaina">@userElaina</a>
-      </td>
-    </tr>
-    <tr>
       <td>‎ </td>
       <td>‎ </td>
       <td>‎ </td>
@@ -911,4 +861,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.529s on Sat Dec 28 at 21:56</p>
+<p align="right">Generated in 0.463s on Sat Dec 28 at 22:00</p>
