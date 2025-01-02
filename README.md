@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">13574</td>
-      <td align="center">
-        <a href="https://github.com/Edasun" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/125764100?v=4" alt="Edasun" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Edasun" target="_blank">Edasun</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">13575</td>
       <td align="center">
         <a href="https://github.com/AlexWilliam12" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">13577</td>
+      <td align="center">
+        <a href="https://github.com/HexaDev-De" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/192714413?u=64b17ff19acffa97f8f9a2d9fdd520d01608f90e&v=4" alt="HexaDev-De" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/HexaDev-De" target="_blank">HexaDev-De</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">13578</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -894,4 +894,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.339s on Thu Jan 2 at 21:50</p>
+<p align="right">Generated in 0.308s on Thu Jan 2 at 21:52</p>
