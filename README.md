@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">13592</td>
-      <td align="center">
-        <a href="https://github.com/HexaDev-De" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/192714413?u=64b17ff19acffa97f8f9a2d9fdd520d01608f90e&v=4" alt="HexaDev-De" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/HexaDev-De" target="_blank">HexaDev-De</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">13593</td>
       <td align="center">
         <a href="https://github.com/ajowijunior" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">13595</td>
+      <td align="center">
+        <a href="https://github.com/Infernolia" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/47828335?u=0d2f85856806f23095f3d1578da371dd40bd794b&v=4" alt="Infernolia" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Infernolia" target="_blank">Infernolia</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">13596</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -930,4 +930,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.444s on Sat Jan 4 at 2:24</p>
+<p align="right">Generated in 0.257s on Sat Jan 4 at 2:28</p>
