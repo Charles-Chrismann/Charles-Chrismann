@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">13597</td>
-      <td align="center">
-        <a href="https://github.com/Coinsintegrity" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/129631673?v=4" alt="Coinsintegrity" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Coinsintegrity" target="_blank">Coinsintegrity</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">13598</td>
       <td align="center">
         <a href="https://github.com/3S-SecretSuperStar" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">13600</td>
+      <td align="center">
+        <a href="https://github.com/ErickWDaniel" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/67169390?u=51865d712a8c86732c19164781f346e5f3b2f4ca&v=4" alt="ErickWDaniel" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/ErickWDaniel" target="_blank">ErickWDaniel</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">13601</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -837,4 +837,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.247s on Sat Jan 4 at 10:04</p>
+<p align="right">Generated in 0.357s on Sat Jan 4 at 10:04</p>
