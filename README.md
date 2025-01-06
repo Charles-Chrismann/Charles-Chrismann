@@ -107,7 +107,7 @@
       <td align="center">13639</td>
       <td align="center">
         <a href="https://github.com/lockjawstudio" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/193853840?v=4" alt="lockjawstudio" width="40" height="40"/>
+          <img src="https://avatars.githubusercontent.com/u/193853840?u=46a45a8993245f07e9cb7d5b279da378c85bc5d2&v=4" alt="lockjawstudio" width="40" height="40"/>
         </a>
       </td>
       <td>
@@ -898,4 +898,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.513s on Mon Jan 6 at 4:53</p>
+<p align="right">Generated in 0.458s on Mon Jan 6 at 4:55</p>
