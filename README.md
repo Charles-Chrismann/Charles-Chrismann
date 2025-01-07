@@ -84,17 +84,6 @@
     <tr>
       <td align="center">13661</td>
       <td align="center">
-        <a href="https://github.com/Taonganambela" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/111157406?v=4" alt="Taonganambela" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Taonganambela" target="_blank">Taonganambela</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">13662</td>
-      <td align="center">
         <a href="https://github.com/HussainDadHassani" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/142839694?u=75e57f2f78fd8621db49c0b63e897c11edfdf210&v=4" alt="HussainDadHassani" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">13663</td>
+      <td align="center">13662</td>
       <td align="center">
         <a href="https://github.com/sandeshsitaula" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/77562229?u=3f0c175bd3d4e39ea9c242eabfefd27161d2903a&v=4" alt="sandeshsitaula" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/sandeshsitaula" target="_blank">sandeshsitaula</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">13663</td>
+      <td align="center">
+        <a href="https://github.com/rizkyfrdiansyah" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/103484286?u=943b66d5a7c8637f118f8e5ab126f4fca53722ec&v=4" alt="rizkyfrdiansyah" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/rizkyfrdiansyah" target="_blank">rizkyfrdiansyah</a>
       </td>
     </tr>
     <tr>
@@ -903,4 +903,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.325s on Tue Jan 7 at 13:34</p>
+<p align="right">Generated in 0.158s on Tue Jan 7 at 13:38</p>
