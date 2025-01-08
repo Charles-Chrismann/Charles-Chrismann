@@ -84,17 +84,6 @@
     <tr>
       <td align="center">13692</td>
       <td align="center">
-        <a href="https://github.com/thiagoassimos" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/141238907?u=85282dbbb82ac77d515eef03fe9d3567ccb1dfd5&v=4" alt="thiagoassimos" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/thiagoassimos" target="_blank">thiagoassimos</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">13693</td>
-      <td align="center">
         <a href="https://github.com/usasmmhivew44rf" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/194273380?u=636b9b5c09935f92aa47ce5bee1ee245d4ba9ed4&v=4" alt="usasmmhivew44rf" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">13694</td>
+      <td align="center">13693</td>
       <td align="center">
         <a href="https://github.com/zerlix" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/1010052?u=85f4195d5c73cb54f99db6ee86a066f07de71801&v=4" alt="zerlix" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/zerlix" target="_blank">zerlix</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">13694</td>
+      <td align="center">
+        <a href="https://github.com/briananotado" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/150988643?u=90f8c22a08afff6bac4dd1f808849935f478234c&v=4" alt="briananotado" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/briananotado" target="_blank">briananotado</a>
       </td>
     </tr>
     <tr>
@@ -901,4 +901,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.975s on Wed Jan 8 at 18:37</p>
+<p align="right">Generated in 0.902s on Wed Jan 8 at 19:00</p>
