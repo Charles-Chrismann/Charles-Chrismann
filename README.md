@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">13714</td>
-      <td align="center">
-        <a href="https://github.com/lemeote" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/174832638?u=3ceca8c046a5efcad65f66196f71d7fabdcba3f5&v=4" alt="lemeote" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/lemeote" target="_blank">lemeote</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">13715</td>
       <td align="center">
         <a href="https://github.com/Alt-ctrl-DEL-HOMESCREEN" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">13717</td>
+      <td align="center">
+        <a href="https://github.com/SorbetLover" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/89319609?u=053ae8012045dffbb3ba20cf22d1147f23f263e6&v=4" alt="SorbetLover" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/SorbetLover" target="_blank">SorbetLover</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">13718</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -886,4 +886,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.281s on Thu Jan 9 at 18:56</p>
+<p align="right">Generated in 0.132s on Thu Jan 9 at 18:57</p>
