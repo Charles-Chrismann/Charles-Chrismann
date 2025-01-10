@@ -696,16 +696,6 @@
   </thead>
   <tbody>
     <tr>
-      <td>$\text{\color{orange}{L}}$</td>
-      <td>$\text{\color{white}{U}}$</td>
-      <td>$\text{\color{white}{C}}$</td>
-      <td>$\text{\color{white}{K}}$</td>
-      <td>$\text{\color{white}{Y}}$</td>
-      <td>
-        <a href="https://github.com/lulunac27a">@lulunac27a</a>
-      </td>
-    </tr>
-    <tr>
       <td>‎ </td>
       <td>‎ </td>
       <td>‎ </td>
@@ -875,4 +865,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.371s on Fri Jan 10 at 21:41</p>
+<p align="right">Generated in 0.39s on Fri Jan 10 at 22:00</p>
