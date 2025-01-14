@@ -107,7 +107,7 @@
       <td align="center">13819</td>
       <td align="center">
         <a href="https://github.com/TechwiseUK" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/192969546?v=4" alt="TechwiseUK" width="40" height="40"/>
+          <img src="https://avatars.githubusercontent.com/u/192969546?u=e3880ce03908f6563e6ad83b8b5cefd959caa066&v=4" alt="TechwiseUK" width="40" height="40"/>
         </a>
       </td>
       <td>
@@ -914,4 +914,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.424s on Tue Jan 14 at 11:02</p>
+<p align="right">Generated in 0.421s on Tue Jan 14 at 11:04</p>
