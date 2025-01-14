@@ -84,17 +84,6 @@
     <tr>
       <td align="center">13829</td>
       <td align="center">
-        <a href="https://github.com/edgardhsl" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/42762618?u=ad4a9ade953e6bd78382be7f041f13c49840f6bd&v=4" alt="edgardhsl" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/edgardhsl" target="_blank">edgardhsl</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">13830</td>
-      <td align="center">
         <a href="https://github.com/sevvalates" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/57041105?v=4" alt="sevvalates" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">13831</td>
+      <td align="center">13830</td>
       <td align="center">
         <a href="https://github.com/Riyaazct" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/94745207?u=aa93144fd2ffcb3960e7a9846b0418d3f14440af&v=4" alt="Riyaazct" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/Riyaazct" target="_blank">Riyaazct</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">13831</td>
+      <td align="center">
+        <a href="https://github.com/briananotado" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/150988643?u=90f8c22a08afff6bac4dd1f808849935f478234c&v=4" alt="briananotado" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/briananotado" target="_blank">briananotado</a>
       </td>
     </tr>
     <tr>
@@ -905,4 +905,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.521s on Tue Jan 14 at 22:02</p>
+<p align="right">Generated in 0.457s on Tue Jan 14 at 22:05</p>
