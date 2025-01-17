@@ -84,17 +84,6 @@
     <tr>
       <td align="center">13870</td>
       <td align="center">
-        <a href="https://github.com/mustafaanilkaradavut" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/96293203?u=b5c19d82455d83dbc6bb5b7f35bd97e5615db718&v=4" alt="mustafaanilkaradavut" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/mustafaanilkaradavut" target="_blank">mustafaanilkaradavut</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">13871</td>
-      <td align="center">
         <a href="https://github.com/LinuxPath" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/75592952?u=7e111f3f085afc6fa4f9930915f221fa085e1b8e&v=4" alt="LinuxPath" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">13872</td>
+      <td align="center">13871</td>
       <td align="center">
         <a href="https://github.com/Sad7Dayz" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/35678035?v=4" alt="Sad7Dayz" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/Sad7Dayz" target="_blank">Sad7Dayz</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">13872</td>
+      <td align="center">
+        <a href="https://github.com/DursunFC" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/115872199?u=6b4eab3bfe8cc4faf1efe4494117715c47882f35&v=4" alt="DursunFC" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/DursunFC" target="_blank">DursunFC</a>
       </td>
     </tr>
     <tr>
@@ -891,4 +891,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.162s on Fri Jan 17 at 10:35</p>
+<p align="right">Generated in 0.162s on Fri Jan 17 at 10:37</p>
