@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">13889</td>
-      <td align="center">
-        <a href="https://github.com/adedoyin-a" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/110562771?u=0ffccb8820d0e5b3c846eb2e1f0f813d82acb262&v=4" alt="adedoyin-a" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/adedoyin-a" target="_blank">adedoyin-a</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">13890</td>
       <td align="center">
         <a href="https://github.com/G-Mustafa1" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">13892</td>
+      <td align="center">
+        <a href="https://github.com/vsm-dv" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/88745793?v=4" alt="vsm-dv" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/vsm-dv" target="_blank">vsm-dv</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">13893</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -932,4 +932,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.421s on Sat Jan 18 at 22:48</p>
+<p align="right">Generated in 0.208s on Sat Jan 18 at 22:54</p>
