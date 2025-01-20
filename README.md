@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">13906</td>
-      <td align="center">
-        <a href="https://github.com/w00ye0l" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/87852507?u=b6a83e094072c384f09b83eeb72282424d7ac52c&v=4" alt="w00ye0l" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/w00ye0l" target="_blank">w00ye0l</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">13907</td>
       <td align="center">
         <a href="https://github.com/Justine101213k" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">13909</td>
+      <td align="center">
+        <a href="https://github.com/owayo-cloud" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/62441451?u=3c8a8dac243c907b14502b5056a91640d84e30c1&v=4" alt="owayo-cloud" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/owayo-cloud" target="_blank">owayo-cloud</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">13910</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -729,4 +729,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.47s on Mon Jan 20 at 10:35</p>
+<p align="right">Generated in 0.412s on Mon Jan 20 at 10:35</p>
