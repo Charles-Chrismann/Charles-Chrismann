@@ -84,17 +84,6 @@
     <tr>
       <td align="center">13908</td>
       <td align="center">
-        <a href="https://github.com/its-me-abi" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/172070126?u=0fd7378c7c0a412cdf62e0986fffe9ac7bd78fe8&v=4" alt="its-me-abi" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/its-me-abi" target="_blank">its-me-abi</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">13909</td>
-      <td align="center">
         <a href="https://github.com/quintin-dev" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/170239327?u=7fce5eb05bbc4fea28b46ab962d4a6326b8a4061&v=4" alt="quintin-dev" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">13910</td>
+      <td align="center">13909</td>
       <td align="center">
         <a href="https://github.com/gabrielsimas" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/1619214?u=aad7f2e966d0ae6cfda336f43e3433bed95f4bfe&v=4" alt="gabrielsimas" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/gabrielsimas" target="_blank">gabrielsimas</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">13910</td>
+      <td align="center">
+        <a href="https://github.com/ByteCrister" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/143107015?u=d8415e8450708c837d7177b785c3ddb0710659d6&v=4" alt="ByteCrister" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/ByteCrister" target="_blank">ByteCrister</a>
       </td>
     </tr>
     <tr>
@@ -729,4 +729,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.394s on Mon Jan 20 at 14:47</p>
+<p align="right">Generated in 0.215s on Mon Jan 20 at 14:48</p>
