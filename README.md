@@ -84,17 +84,6 @@
     <tr>
       <td align="center">13957</td>
       <td align="center">
-        <a href="https://github.com/AllanCasa" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/138077346?u=81f85e3a758929914bd03ba892bfbcfe6f7b8fdb&v=4" alt="AllanCasa" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/AllanCasa" target="_blank">AllanCasa</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">13958</td>
-      <td align="center">
         <a href="https://github.com/sezerkutluk" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/7365118?u=abdf1d4042615534afd0927202b44281caeb3d15&v=4" alt="sezerkutluk" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">13959</td>
+      <td align="center">13958</td>
       <td align="center">
         <a href="https://github.com/NishchayRajput" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/121144841?u=883049faa776cd92bc21f312d4672d0a1b7bda80&v=4" alt="NishchayRajput" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/NishchayRajput" target="_blank">NishchayRajput</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">13959</td>
+      <td align="center">
+        <a href="https://github.com/EmmanuelOmale" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/109354110?u=c7d9f3f2272ccbe80649302de4fa1bb6e1691809&v=4" alt="EmmanuelOmale" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/EmmanuelOmale" target="_blank">EmmanuelOmale</a>
       </td>
     </tr>
     <tr>
@@ -931,4 +931,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.417s on Wed Jan 22 at 12:52</p>
+<p align="right">Generated in 0.199s on Wed Jan 22 at 13:00</p>
