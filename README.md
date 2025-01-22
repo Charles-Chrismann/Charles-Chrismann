@@ -84,17 +84,6 @@
     <tr>
       <td align="center">13956</td>
       <td align="center">
-        <a href="https://github.com/singhAvanish" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/88013566?v=4" alt="singhAvanish" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/singhAvanish" target="_blank">singhAvanish</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">13957</td>
-      <td align="center">
         <a href="https://github.com/Nareshvaithi" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/147930363?u=b33fd21258d9bfa03f966f1310b79bb6d8b4da1a&v=4" alt="Nareshvaithi" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">13958</td>
+      <td align="center">13957</td>
       <td align="center">
         <a href="https://github.com/hamidovnorbek" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/103917967?u=ed8ba221de927f6cfe318be7d698a2f48a66825a&v=4" alt="hamidovnorbek" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/hamidovnorbek" target="_blank">hamidovnorbek</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">13958</td>
+      <td align="center">
+        <a href="https://github.com/WesleyCodeMaster" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/1189811?u=8a8b122c90039b53ed62a675915cc1ef2e9bf3b1&v=4" alt="WesleyCodeMaster" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/WesleyCodeMaster" target="_blank">WesleyCodeMaster</a>
       </td>
     </tr>
     <tr>
@@ -931,4 +931,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.474s on Wed Jan 22 at 9:44</p>
+<p align="right">Generated in 0.413s on Wed Jan 22 at 9:55</p>
