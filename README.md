@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">13985</td>
-      <td align="center">
-        <a href="https://github.com/TrixSec" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/157342883?u=aa63dd23501608e8d9163269779d5c9eca416b82&v=4" alt="TrixSec" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/TrixSec" target="_blank">TrixSec</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">13986</td>
       <td align="center">
         <a href="https://github.com/Siddanth-pai" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">13988</td>
+      <td align="center">
+        <a href="https://github.com/Viktoh98" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/118138492?v=4" alt="Viktoh98" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Viktoh98" target="_blank">Viktoh98</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">13989</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -905,4 +905,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.279s on Fri Jan 24 at 13:36</p>
+<p align="right">Generated in 0.25s on Fri Jan 24 at 13:37</p>
