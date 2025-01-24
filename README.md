@@ -82,40 +82,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">13982</td>
-      <td align="center">
-        <a href="https://github.com/AdepojuWasiu" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/136388170?v=4" alt="AdepojuWasiu" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/AdepojuWasiu" target="_blank">AdepojuWasiu</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">13983</td>
-      <td align="center">
-        <a href="https://github.com/fastline21" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/19354682?u=55a6382b851f81cebe413d474ead9629eb120b1b&v=4" alt="fastline21" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/fastline21" target="_blank">fastline21</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">13984</td>
-      <td align="center">
-        <a href="https://github.com/nsidibe-ops" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/60523702?u=a0332f635faadf749466086e957319b0347e7bf9&v=4" alt="nsidibe-ops" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/nsidibe-ops" target="_blank">nsidibe-ops</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">13985</td>
+      <td align="center">
+        <a href="https://github.com/TrixSec" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/157342883?u=aa63dd23501608e8d9163269779d5c9eca416b82&v=4" alt="TrixSec" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/TrixSec" target="_blank">TrixSec</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">13986</td>
+      <td align="center">
+        <a href="https://github.com/Siddanth-pai" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/23281078?u=8f65ce1092d2f8f7e0b5b95ae7974d776853f937&v=4" alt="Siddanth-pai" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Siddanth-pai" target="_blank">Siddanth-pai</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">13987</td>
+      <td align="center">
+        <a href="https://github.com/DiegoMBS" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/91227185?u=c00b1dc0033c3e08866dad30f9e127bf3e4c99bc&v=4" alt="DiegoMBS" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/DiegoMBS" target="_blank">DiegoMBS</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">13988</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -905,4 +905,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.182s on Fri Jan 24 at 13:08</p>
+<p align="right">Generated in 0.167s on Fri Jan 24 at 13:08</p>
