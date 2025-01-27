@@ -82,29 +82,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">14064</td>
-      <td align="center">
-        <a href="https://github.com/Anna-KS-Oliveira" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/169391508?u=6376c3520262c222850e57adb2d03b90aa2a715e&v=4" alt="Anna-KS-Oliveira" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Anna-KS-Oliveira" target="_blank">Anna-KS-Oliveira</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">14065</td>
-      <td align="center">
-        <a href="https://github.com/vt-mxs" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/148018750?u=bd7e6a4fc64cccb939d23e6041b047a943190c20&v=4" alt="vt-mxs" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/vt-mxs" target="_blank">vt-mxs</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">14066</td>
       <td align="center">
         <a href="https://github.com/meugenom" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/26843480?u=ad20477edd91e3c4bdfaedd18987dc2d1221d747&v=4" alt="meugenom" width="40" height="40"/>
@@ -115,7 +93,29 @@
       </td>
     </tr>
     <tr>
+      <td align="center">14066</td>
+      <td align="center">
+        <a href="https://github.com/rc-chuah" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/44928288?u=9ecf72eb5d9530b65e3ca8d6d9f1f72c0dd22f5c&v=4" alt="rc-chuah" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/rc-chuah" target="_blank">rc-chuah</a>
+      </td>
+    </tr>
+    <tr>
       <td align="center">14067</td>
+      <td align="center">
+        <a href="https://github.com/SP4R0W" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/52696628?u=07695a7a97bb69809bd4f1034568f7cba2196a78&v=4" alt="SP4R0W" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/SP4R0W" target="_blank">SP4R0W</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">14068</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -887,4 +887,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.11s on Mon Jan 27 at 17:58</p>
+<p align="right">Generated in 0.195s on Mon Jan 27 at 17:59</p>
