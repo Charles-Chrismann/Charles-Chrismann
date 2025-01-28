@@ -84,17 +84,6 @@
     <tr>
       <td align="center">14073</td>
       <td align="center">
-        <a href="https://github.com/adrianooss" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/142845667?u=ef2cc4c6dbeef87ed9368cc0337831ab096f05a7&v=4" alt="adrianooss" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/adrianooss" target="_blank">adrianooss</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">14074</td>
-      <td align="center">
         <a href="https://github.com/luccabcarvalho" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/133079954?u=af5472ba61efe26913e154e64030482fb93a201d&v=4" alt="luccabcarvalho" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">14075</td>
+      <td align="center">14074</td>
       <td align="center">
         <a href="https://github.com/mfelipegs" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/104948713?u=504d83cea886850b7442210282c7cf0c98883627&v=4" alt="mfelipegs" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/mfelipegs" target="_blank">mfelipegs</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">14075</td>
+      <td align="center">
+        <a href="https://github.com/itech-sniper" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/192218508?v=4" alt="itech-sniper" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/itech-sniper" target="_blank">itech-sniper</a>
       </td>
     </tr>
     <tr>
@@ -872,4 +872,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.124s on Tue Jan 28 at 5:22</p>
+<p align="right">Generated in 0.115s on Tue Jan 28 at 5:24</p>
