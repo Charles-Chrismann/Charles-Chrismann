@@ -82,40 +82,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">14118</td>
-      <td align="center">
-        <a href="https://github.com/GeovanaS" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/28990470?u=8723fd2543204a8cda32e26cc0c8c3992e6eeaea&v=4" alt="GeovanaS" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/GeovanaS" target="_blank">GeovanaS</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">14119</td>
-      <td align="center">
-        <a href="https://github.com/Montiel23" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/68209298?u=675b4597824cd03ce2655b0f5641526d3a5e5f31&v=4" alt="Montiel23" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Montiel23" target="_blank">Montiel23</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">14120</td>
-      <td align="center">
-        <a href="https://github.com/Dantheman23-coder" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/129481670?u=4c7c042a6485f7b07d6950b3c98708a1ebd414b4&v=4" alt="Dantheman23-coder" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Dantheman23-coder" target="_blank">Dantheman23-coder</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">14121</td>
+      <td align="center">1</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -927,4 +894,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.144s on Fri Jan 31 at 7:48</p>
+<p align="right">Generated in 0.134s on Fri Jan 31 at 7:49</p>
