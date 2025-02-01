@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">14145</td>
-      <td align="center">
-        <a href="https://github.com/cansucreates" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/118272563?u=e60321929f3a118bb4b177445bc0e781cb59612a&v=4" alt="cansucreates" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/cansucreates" target="_blank">cansucreates</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">14146</td>
       <td align="center">
         <a href="https://github.com/Canal-Desenvolvendo-e-Aprendendo" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">14148</td>
+      <td align="center">
+        <a href="https://github.com/ISONIC0788" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/134501684?v=4" alt="ISONIC0788" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/ISONIC0788" target="_blank">ISONIC0788</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">14149</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -913,4 +913,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.258s on Sat Feb 1 at 22:00</p>
+<p align="right">Generated in 0.166s on Sat Feb 1 at 22:06</p>
