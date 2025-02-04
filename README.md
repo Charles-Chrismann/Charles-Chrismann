@@ -82,40 +82,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">14174</td>
-      <td align="center">
-        <a href="https://github.com/Denis-Jovith" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/140693355?v=4" alt="Denis-Jovith" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Denis-Jovith" target="_blank">Denis-Jovith</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">14175</td>
-      <td align="center">
-        <a href="https://github.com/DeFiApeSniper" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/23091919?u=6fa2c320a78c97391f97d1c5a8bccee0629fbcbb&v=4" alt="DeFiApeSniper" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/DeFiApeSniper" target="_blank">DeFiApeSniper</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">14176</td>
-      <td align="center">
-        <a href="https://github.com/amirr-m1997" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/54853022?u=6846e6212c75ab24c50ddd9609797fd0b2ee335b&v=4" alt="amirr-m1997" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/amirr-m1997" target="_blank">amirr-m1997</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">14177</td>
+      <td align="center">
+        <a href="https://github.com/BiancaSBrito" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/128428856?u=b51d3be3bf48bca5c93ae802c7df706de3add647&v=4" alt="BiancaSBrito" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/BiancaSBrito" target="_blank">BiancaSBrito</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">14178</td>
+      <td align="center">
+        <a href="https://github.com/KuruiJoanjebiwot" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/121471837?u=a25c1cec5d3fd010228364ec142fa996fa569185&v=4" alt="KuruiJoanjebiwot" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/KuruiJoanjebiwot" target="_blank">KuruiJoanjebiwot</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">14179</td>
+      <td align="center">
+        <a href="https://github.com/frederico-moreira" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/161894345?u=8bdc1f2d5eeaa62fee7c76bb7a5ebb43c808b89b&v=4" alt="frederico-moreira" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/frederico-moreira" target="_blank">frederico-moreira</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">14180</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -914,4 +914,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.376s on Tue Feb 4 at 15:53</p>
+<p align="right">Generated in 0.184s on Tue Feb 4 at 15:53</p>
