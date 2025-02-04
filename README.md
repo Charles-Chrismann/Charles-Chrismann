@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">14168</td>
-      <td align="center">
-        <a href="https://github.com/Suellenrosana" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/168927710?u=11c80415ac4b0c56e15b3398e040cf392019ad23&v=4" alt="Suellenrosana" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Suellenrosana" target="_blank">Suellenrosana</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">14169</td>
       <td align="center">
         <a href="https://github.com/TUBE-GULL" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">14171</td>
+      <td align="center">
+        <a href="https://github.com/FabioSantos99" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/120610757?u=fcde02ff92358203fa39253afd01ff2602dc0828&v=4" alt="FabioSantos99" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/FabioSantos99" target="_blank">FabioSantos99</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">14172</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -544,7 +544,7 @@
 <p align="center">
   <img width="256" src="https://o.charles-chrismann.fr/board.png" />
 </p>
-<p align="center">It's Black's turn</p>
+<p align="center">It's White's turn</p>
 <table align="center">
   <tbody>
     <tr>
@@ -572,7 +572,12 @@
     <tr>
       <td align="center">:six:</td>
       <td align="center">‎       </td>
-      <td align="center">♖      </td>
+      <td align="center">
+        <details>
+          <summary>♖</summary>
+          <a href="https://o.charles-chrismann.fr/chess/move?x1=1&y1=2&x2=6&y2=2">g6</a>
+        </details>
+      </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
@@ -585,13 +590,7 @@
       <td align="center">♟      </td>
       <td align="center">‎       </td>
       <td align="center">♙      </td>
-      <td align="center">
-        <details>
-          <summary>♚</summary>
-          <a href="https://o.charles-chrismann.fr/chess/move?x1=3&y1=3&x2=2&y2=3">c5</a>
-          <a href="https://o.charles-chrismann.fr/chess/move?x1=3&y1=3&x2=4&y2=4">e4</a>
-        </details>
-      </td>
+      <td align="center">‎       </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
@@ -603,8 +602,19 @@
       <td align="center">‎       </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
-      <td align="center">♔      </td>
-      <td align="center">♙      </td>
+      <td align="center">
+        <details>
+          <summary>♔</summary>
+          <a href="https://o.charles-chrismann.fr/chess/move?x1=4&y1=4&x2=3&y2=3">d5</a>
+          <a href="https://o.charles-chrismann.fr/chess/move?x1=4&y1=4&x2=5&y2=5">f3</a>
+        </details>
+      </td>
+      <td align="center">
+        <details>
+          <summary>♙</summary>
+          <a href="https://o.charles-chrismann.fr/chess/move?x1=5&y1=4&x2=5&y2=3">f5</a>
+        </details>
+      </td>
       <td align="center">♞      </td>
       <td align="center">‎       </td>
     </tr>
@@ -612,9 +622,14 @@
       <td align="center">:three:</td>
       <td align="center">‎       </td>
       <td align="center">♙      </td>
+      <td align="center">♚      </td>
       <td align="center">‎       </td>
-      <td align="center">‎       </td>
-      <td align="center">♘      </td>
+      <td align="center">
+        <details>
+          <summary>♘</summary>
+          <a href="https://o.charles-chrismann.fr/chess/move?x1=4&y1=5&x2=5&y2=3">f5</a>
+        </details>
+      </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
@@ -837,4 +852,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.357s on Tue Feb 4 at 5:37</p>
+<p align="right">Generated in 0.3s on Tue Feb 4 at 5:39</p>
