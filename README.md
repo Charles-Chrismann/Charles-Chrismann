@@ -82,7 +82,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">14169</td>
+      <td align="center">14168</td>
       <td align="center">
         <a href="https://github.com/TUBE-GULL" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/109498728?u=10f7d93c6d37671553c5c479c775e365c382b05c&v=4" alt="TUBE-GULL" width="40" height="40"/>
@@ -93,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">14170</td>
+      <td align="center">14169</td>
       <td align="center">
         <a href="https://github.com/FrostPrince003" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/121849400?u=b21c6da3c8e0b04b778406d9a51792d6632ce8fb&v=4" alt="FrostPrince003" width="40" height="40"/>
@@ -104,7 +104,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">14171</td>
+      <td align="center">14170</td>
       <td align="center">
         <a href="https://github.com/FabioSantos99" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/120610757?u=fcde02ff92358203fa39253afd01ff2602dc0828&v=4" alt="FabioSantos99" width="40" height="40"/>
@@ -115,7 +115,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">14172</td>
+      <td align="center">14171</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -544,7 +544,7 @@
 <p align="center">
   <img width="256" src="https://o.charles-chrismann.fr/board.png" />
 </p>
-<p align="center">It's White's turn</p>
+<p align="center">It's Black's turn</p>
 <table align="center">
   <tbody>
     <tr>
@@ -567,17 +567,12 @@
       <td align="center">‎       </td>
       <td align="center">♟      </td>
       <td align="center">‎       </td>
-      <td align="center">‎       </td>
+      <td align="center">♙      </td>
     </tr>
     <tr>
       <td align="center">:six:</td>
       <td align="center">‎       </td>
-      <td align="center">
-        <details>
-          <summary>♖</summary>
-          <a href="https://o.charles-chrismann.fr/chess/move?x1=1&y1=2&x2=6&y2=2">g6</a>
-        </details>
-      </td>
+      <td align="center">♖      </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
@@ -602,19 +597,8 @@
       <td align="center">‎       </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
-      <td align="center">
-        <details>
-          <summary>♔</summary>
-          <a href="https://o.charles-chrismann.fr/chess/move?x1=4&y1=4&x2=3&y2=3">d5</a>
-          <a href="https://o.charles-chrismann.fr/chess/move?x1=4&y1=4&x2=5&y2=5">f3</a>
-        </details>
-      </td>
-      <td align="center">
-        <details>
-          <summary>♙</summary>
-          <a href="https://o.charles-chrismann.fr/chess/move?x1=5&y1=4&x2=5&y2=3">f5</a>
-        </details>
-      </td>
+      <td align="center">♔      </td>
+      <td align="center">♙      </td>
       <td align="center">♞      </td>
       <td align="center">‎       </td>
     </tr>
@@ -622,14 +606,14 @@
       <td align="center">:three:</td>
       <td align="center">‎       </td>
       <td align="center">♙      </td>
-      <td align="center">♚      </td>
-      <td align="center">‎       </td>
       <td align="center">
         <details>
-          <summary>♘</summary>
-          <a href="https://o.charles-chrismann.fr/chess/move?x1=4&y1=5&x2=5&y2=3">f5</a>
+          <summary>♚</summary>
+          <a href="https://o.charles-chrismann.fr/chess/move?x1=2&y1=5&x2=1&y2=6">b2</a>
         </details>
       </td>
+      <td align="center">‎       </td>
+      <td align="center">♘      </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
@@ -648,7 +632,7 @@
     <tr>
       <td align="center">:one:</td>
       <td align="center">‎       </td>
-      <td align="center">♙      </td>
+      <td align="center">‎       </td>
       <td align="center">‎       </td>
       <td align="center">♕      </td>
       <td align="center">‎       </td>
@@ -852,4 +836,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.513s on Tue Feb 4 at 5:49</p>
+<p align="right">Generated in 0.201s on Tue Feb 4 at 5:57</p>
