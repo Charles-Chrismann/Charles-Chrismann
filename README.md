@@ -84,17 +84,6 @@
     <tr>
       <td align="center">14172</td>
       <td align="center">
-        <a href="https://github.com/42andy" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/150129844?u=3de9bea9a26e3f4b8d15d2ba51750b1e017f4cb3&v=4" alt="42andy" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/42andy" target="_blank">42andy</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">14173</td>
-      <td align="center">
         <a href="https://github.com/Princemashumu" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/113059693?u=28ba892a2599b9f1024a70f64e7b2a8e98b61243&v=4" alt="Princemashumu" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">14174</td>
+      <td align="center">14173</td>
       <td align="center">
         <a href="https://github.com/rayhaanalykhan" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/41393765?u=19db646218930f59f68d01fa3a3a016efc331656&v=4" alt="rayhaanalykhan" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/rayhaanalykhan" target="_blank">rayhaanalykhan</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">14174</td>
+      <td align="center">
+        <a href="https://github.com/TaroAkz" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/62086882?u=a27774315076bfd974b2ace23c709f8a8b2f7e86&v=4" alt="TaroAkz" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/TaroAkz" target="_blank">TaroAkz</a>
       </td>
     </tr>
     <tr>
@@ -883,4 +883,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.21s on Tue Feb 4 at 8:41</p>
+<p align="right">Generated in 0.319s on Tue Feb 4 at 8:43</p>
