@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">14178</td>
-      <td align="center">
-        <a href="https://github.com/KuruiJoanjebiwot" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/121471837?u=a25c1cec5d3fd010228364ec142fa996fa569185&v=4" alt="KuruiJoanjebiwot" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/KuruiJoanjebiwot" target="_blank">KuruiJoanjebiwot</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">14179</td>
       <td align="center">
         <a href="https://github.com/frederico-moreira" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">14181</td>
+      <td align="center">
+        <a href="https://github.com/money-k" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/140596450?v=4" alt="money-k" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/money-k" target="_blank">money-k</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">14182</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -836,4 +836,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.295s on Tue Feb 4 at 16:10</p>
+<p align="right">Generated in 0.194s on Tue Feb 4 at 16:12</p>
