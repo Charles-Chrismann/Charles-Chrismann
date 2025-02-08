@@ -698,6 +698,16 @@
       </td>
     </tr>
     <tr>
+      <td>$\text{\color{lightgreen}{S}}$</td>
+      <td>$\text{\color{lightgreen}{W}}$</td>
+      <td>$\text{\color{lightgreen}{E}}$</td>
+      <td>$\text{\color{lightgreen}{E}}$</td>
+      <td>$\text{\color{lightgreen}{T}}$</td>
+      <td>
+        <a href="https://github.com/aishalieva0">@aishalieva0</a>
+      </td>
+    </tr>
+    <tr>
       <td>‎ </td>
       <td>‎ </td>
       <td>‎ </td>
@@ -853,6 +863,18 @@
       </td>
       <td align="center">1</td>
     </tr>
+    <tr>
+      <td align="center">12</td>
+      <td align="center">
+        <a href="https://github.com/aishalieva0">
+          <img src="https://avatars.githubusercontent.com/u/56561786?size=32" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/aishalieva0">@aishalieva0</a>
+      </td>
+      <td align="center">1</td>
+    </tr>
   </tbody>
 </table>
 
@@ -867,4 +889,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.46s on Sat Feb 8 at 22:21</p>
+<p align="right">Generated in 0.459s on Sat Feb 8 at 22:22</p>
