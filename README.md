@@ -728,6 +728,16 @@
       </td>
     </tr>
     <tr>
+      <td>$\text{\color{lightgreen}{S}}$</td>
+      <td>$\text{\color{white}{H}}$</td>
+      <td>$\text{\color{lightgreen}{E}}$</td>
+      <td>$\text{\color{lightgreen}{E}}$</td>
+      <td>$\text{\color{lightgreen}{T}}$</td>
+      <td>
+        <a href="https://github.com/aishalieva0">@aishalieva0</a>
+      </td>
+    </tr>
+    <tr>
       <td>‎ </td>
       <td>‎ </td>
       <td>‎ </td>
@@ -897,4 +907,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.479s on Sat Feb 8 at 22:17</p>
+<p align="right">Generated in 0.524s on Sat Feb 8 at 22:20</p>
