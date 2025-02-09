@@ -82,29 +82,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">14260</td>
-      <td align="center">
-        <a href="https://github.com/albertfrancajosuacosta" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/122242494?u=9e3c08c2a60add2dcc95755032a23a6cace95888&v=4" alt="albertfrancajosuacosta" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/albertfrancajosuacosta" target="_blank">albertfrancajosuacosta</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">14261</td>
-      <td align="center">
-        <a href="https://github.com/animesh156" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/114474707?u=66e1902247570c3c8bc66b94023cc2d134a5c01a&v=4" alt="animesh156" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/animesh156" target="_blank">animesh156</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">14262</td>
+      <td align="center">14259</td>
       <td align="center">
         <a href="https://github.com/rodrigo-bombaldo" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/133614482?v=4" alt="rodrigo-bombaldo" width="40" height="40"/>
@@ -115,7 +93,29 @@
       </td>
     </tr>
     <tr>
-      <td align="center">14263</td>
+      <td align="center">14260</td>
+      <td align="center">
+        <a href="https://github.com/LanMalJR" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/47083471?u=7d11413f095f1f84f0d495fdfd0e58d4ee4702c2&v=4" alt="LanMalJR" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/LanMalJR" target="_blank">LanMalJR</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">14261</td>
+      <td align="center">
+        <a href="https://github.com/khamitskiy-vlad" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/114489733?u=a1857dfeadbe26fa1891ecb0062abab473f0db4e&v=4" alt="khamitskiy-vlad" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/khamitskiy-vlad" target="_blank">khamitskiy-vlad</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">14262</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -948,4 +948,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.307s on Sun Feb 9 at 20:49</p>
+<p align="right">Generated in 0.138s on Sun Feb 9 at 20:51</p>
