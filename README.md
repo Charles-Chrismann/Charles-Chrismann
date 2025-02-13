@@ -84,17 +84,6 @@
     <tr>
       <td align="center">14329</td>
       <td align="center">
-        <a href="https://github.com/kim-seonwoo" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/95562494?u=2b26bdc93c06ec642e09d2babbb1f8d54ef3854b&v=4" alt="kim-seonwoo" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/kim-seonwoo" target="_blank">kim-seonwoo</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">14330</td>
-      <td align="center">
         <a href="https://github.com/wadadawadada" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/97312279?u=5e271465b4db9ec3589c160a8e715fecceed0a26&v=4" alt="wadadawadada" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">14331</td>
+      <td align="center">14330</td>
       <td align="center">
         <a href="https://github.com/AhmedWaheed204" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/120286376?u=010eec065febaa2ab4ce4410c3fe93e38b74ce8c&v=4" alt="AhmedWaheed204" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/AhmedWaheed204" target="_blank">AhmedWaheed204</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">14331</td>
+      <td align="center">
+        <a href="https://github.com/stevedelbert" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/199028657?v=4" alt="stevedelbert" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/stevedelbert" target="_blank">stevedelbert</a>
       </td>
     </tr>
     <tr>
@@ -909,4 +909,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.145s on Thu Feb 13 at 20:32</p>
+<p align="right">Generated in 0.14s on Thu Feb 13 at 21:11</p>
