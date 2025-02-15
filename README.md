@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">14361</td>
-      <td align="center">
-        <a href="https://github.com/jjohntan" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/157524776?v=4" alt="jjohntan" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/jjohntan" target="_blank">jjohntan</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">14362</td>
       <td align="center">
         <a href="https://github.com/DmytroPutko" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">14364</td>
+      <td align="center">
+        <a href="https://github.com/shashwat0426" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/60343675?u=7f4210656537b854ca666987d204f9ea52140138&v=4" alt="shashwat0426" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/shashwat0426" target="_blank">shashwat0426</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">14365</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -544,7 +544,7 @@
 <p align="center">
   <img width="256" src="https://o.charles-chrismann.fr/board.png" />
 </p>
-<p align="center">It's White's turn</p>
+<p align="center">It's Black's turn</p>
 <table align="center">
   <tbody>
     <tr>
@@ -593,38 +593,14 @@
     </tr>
     <tr>
       <td align="center">:four:</td>
-      <td align="center">
-        <details>
-          <summary>♔</summary>
-          <a href="https://o.charles-chrismann.fr/chess/move?x1=0&y1=4&x2=0&y2=5">a3</a>
-        </details>
-      </td>
-      <td align="center">
-        <details>
-          <summary>♙</summary>
-          <a href="https://o.charles-chrismann.fr/chess/move?x1=1&y1=4&x2=1&y2=3">b5</a>
-        </details>
-      </td>
+      <td align="center">♔      </td>
+      <td align="center">♙      </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
-      <td align="center">
-        <details>
-          <summary>♙</summary>
-          <a href="https://o.charles-chrismann.fr/chess/move?x1=5&y1=4&x2=5&y2=3">f5</a>
-          <a href="https://o.charles-chrismann.fr/chess/move?x1=5&y1=4&x2=6&y2=3">g5</a>
-        </details>
-      </td>
+      <td align="center">♙      </td>
       <td align="center">‎       </td>
-      <td align="center">
-        <details>
-          <summary>♘</summary>
-          <a href="https://o.charles-chrismann.fr/chess/move?x1=7&y1=4&x2=6&y2=6">g2</a>
-          <a href="https://o.charles-chrismann.fr/chess/move?x1=7&y1=4&x2=6&y2=2">g6</a>
-          <br><a href="https://o.charles-chrismann.fr/chess/move?x1=7&y1=4&x2=5&y2=3">f5</a>
-          <a href="https://o.charles-chrismann.fr/chess/move?x1=7&y1=4&x2=5&y2=5">f3</a>
-        </details>
-      </td>
+      <td align="center">♘      </td>
     </tr>
     <tr>
       <td align="center">:three:</td>
@@ -642,45 +618,26 @@
       <td align="center">♝      </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
-      <td align="center">♚      </td>
       <td align="center">
         <details>
-          <summary>♗</summary>
-          <a href="https://o.charles-chrismann.fr/chess/move?x1=4&y1=6&x2=3&y2=5">d3</a>
-          <a href="https://o.charles-chrismann.fr/chess/move?x1=4&y1=6&x2=5&y2=7">f1</a>
-          <a href="https://o.charles-chrismann.fr/chess/move?x1=4&y1=6&x2=5&y2=5">f3</a>
-          <br><a href="https://o.charles-chrismann.fr/chess/move?x1=4&y1=6&x2=6&y2=4">g4</a>
-          <a href="https://o.charles-chrismann.fr/chess/move?x1=4&y1=6&x2=7&y2=3">h5</a>
-          <a href="https://o.charles-chrismann.fr/chess/move?x1=4&y1=6&x2=3&y2=7">d1</a>
+          <summary>♚</summary>
+          <a href="https://o.charles-chrismann.fr/chess/move?x1=3&y1=6&x2=2&y2=6">c2</a>
+          <a href="https://o.charles-chrismann.fr/chess/move?x1=3&y1=6&x2=4&y2=6">e2</a>
+          <a href="https://o.charles-chrismann.fr/chess/move?x1=3&y1=6&x2=2&y2=7">c1</a>
+          <br><a href="https://o.charles-chrismann.fr/chess/move?x1=3&y1=6&x2=3&y2=7">d1</a>
+          <a href="https://o.charles-chrismann.fr/chess/move?x1=3&y1=6&x2=4&y2=7">e1</a>
         </details>
       </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
-      <td align="center">
-        <details>
-          <summary>♙</summary>
-          <a href="https://o.charles-chrismann.fr/chess/move?x1=7&y1=6&x2=7&y2=5">h3</a>
-          <a href="https://o.charles-chrismann.fr/chess/move?x1=7&y1=6&x2=6&y2=5">g3</a>
-        </details>
-      </td>
+      <td align="center">‎       </td>
+      <td align="center">♙      </td>
     </tr>
     <tr>
       <td align="center">:one:</td>
-      <td align="center">
-        <details>
-          <summary>♖</summary>
-          <a href="https://o.charles-chrismann.fr/chess/move?x1=0&y1=7&x2=0&y2=6">a2</a>
-        </details>
-      </td>
-      <td align="center">
-        <details>
-          <summary>♘</summary>
-          <a href="https://o.charles-chrismann.fr/chess/move?x1=1&y1=7&x2=0&y2=5">a3</a>
-          <a href="https://o.charles-chrismann.fr/chess/move?x1=1&y1=7&x2=2&y2=5">c3</a>
-          <br><a href="https://o.charles-chrismann.fr/chess/move?x1=1&y1=7&x2=3&y2=6">d2</a>
-        </details>
-      </td>
-      <td align="center">‎       </td>
+      <td align="center">♖      </td>
+      <td align="center">♘      </td>
+      <td align="center">♗      </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
@@ -895,4 +852,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 1.365s on Sat Feb 15 at 12:52</p>
+<p align="right">Generated in 1.226s on Sat Feb 15 at 13:03</p>
