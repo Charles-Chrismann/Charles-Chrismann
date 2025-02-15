@@ -82,29 +82,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">14354</td>
-      <td align="center">
-        <a href="https://github.com/icaropaixao" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/106492577?u=27977a663682ee7df9a221db74c5de68db20b899&v=4" alt="icaropaixao" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/icaropaixao" target="_blank">icaropaixao</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">14355</td>
-      <td align="center">
-        <a href="https://github.com/0xolami" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/160856164?u=8b8c53e0ab95d431db49275c4b3c7b5cdd5dd11b&v=4" alt="0xolami" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/0xolami" target="_blank">0xolami</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">14356</td>
       <td align="center">
         <a href="https://github.com/shovon2464" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/46128485?u=e492df6d6570d42e425ddbad2e4dc0503c01d491&v=4" alt="shovon2464" width="40" height="40"/>
@@ -115,7 +93,29 @@
       </td>
     </tr>
     <tr>
+      <td align="center">14356</td>
+      <td align="center">
+        <a href="https://github.com/Stivenjs" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/143671152?u=b9a5359bf1a4b5858cffd5d08d1c9326da8998bd&v=4" alt="Stivenjs" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Stivenjs" target="_blank">Stivenjs</a>
+      </td>
+    </tr>
+    <tr>
       <td align="center">14357</td>
+      <td align="center">
+        <a href="https://github.com/RogerOliveiraRS" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/145621898?v=4" alt="RogerOliveiraRS" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/RogerOliveiraRS" target="_blank">RogerOliveiraRS</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">14358</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -858,4 +858,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.53s on Sat Feb 15 at 0:28</p>
+<p align="right">Generated in 0.287s on Sat Feb 15 at 0:42</p>
