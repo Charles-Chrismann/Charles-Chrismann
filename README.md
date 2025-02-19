@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">14423</td>
-      <td align="center">
-        <a href="https://github.com/mayu200" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/110773122?v=4" alt="mayu200" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/mayu200" target="_blank">mayu200</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">14424</td>
       <td align="center">
         <a href="https://github.com/durmusdede" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">14426</td>
+      <td align="center">
+        <a href="https://github.com/Ousoka" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/102234876?u=5ea217e551dae9be00cf4e62b7dee1aefc4fdabe&v=4" alt="Ousoka" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Ousoka" target="_blank">Ousoka</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">14427</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -933,4 +933,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.34s on Wed Feb 19 at 22:51</p>
+<p align="right">Generated in 0.338s on Wed Feb 19 at 23:21</p>
