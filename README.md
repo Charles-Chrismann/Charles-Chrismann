@@ -84,34 +84,34 @@
     <tr>
       <td align="center">14427</td>
       <td align="center">
-        <a href="https://github.com/gugucazhiz" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/107414595?u=3d4bbcd6353abf9eae63e6f83d78cbd1a24923f9&v=4" alt="gugucazhiz" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/gugucazhiz" target="_blank">gugucazhiz</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">14428</td>
-      <td align="center">
-        <a href="https://github.com/mmarcolino" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/81192295?u=d83dd12467a3c591d6d7a5ce3c8abb82e03d7f76&v=4" alt="mmarcolino" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/mmarcolino" target="_blank">mmarcolino</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">14429</td>
-      <td align="center">
         <a href="https://github.com/Nurzarina" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/174670455?u=d3d3ce305c92655d82cbceb055e50b2a5d2169a5&v=4" alt="Nurzarina" width="40" height="40"/>
         </a>
       </td>
       <td>
         <a href="https://github.com/Nurzarina" target="_blank">Nurzarina</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">14428</td>
+      <td align="center">
+        <a href="https://github.com/florian-ariasu" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/119046752?u=98cf7edcfdbca56e29ba64de938f97304cc9e472&v=4" alt="florian-ariasu" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/florian-ariasu" target="_blank">florian-ariasu</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">14429</td>
+      <td align="center">
+        <a href="https://github.com/paulorbpinho-fullstacklabs" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/94078820?u=6fcaa12df0a0d180dc13141befa675adf7d38c1f&v=4" alt="paulorbpinho-fullstacklabs" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/paulorbpinho-fullstacklabs" target="_blank">paulorbpinho-fullstacklabs</a>
       </td>
     </tr>
     <tr>
@@ -906,4 +906,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.129s on Thu Feb 20 at 22:19</p>
+<p align="right">Generated in 0.229s on Thu Feb 20 at 22:19</p>
