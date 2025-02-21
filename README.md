@@ -107,7 +107,7 @@
       <td align="center">14445</td>
       <td align="center">
         <a href="https://github.com/ANILAKKAN" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/83928744?u=4b3e9bf03df336a2865a8915ae25d2839b1e0ea0&v=4" alt="ANILAKKAN" width="40" height="40"/>
+          <img src="https://avatars.githubusercontent.com/u/83928744?v=4" alt="ANILAKKAN" width="40" height="40"/>
         </a>
       </td>
       <td>
@@ -917,4 +917,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.173s on Fri Feb 21 at 17:46</p>
+<p align="right">Generated in 0.254s on Fri Feb 21 at 17:49</p>
