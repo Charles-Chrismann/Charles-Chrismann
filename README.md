@@ -82,40 +82,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">14465</td>
-      <td align="center">
-        <a href="https://github.com/nfultz" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/418638?u=76fa821dabfbc97cd67519377dcd863210c1f596&v=4" alt="nfultz" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/nfultz" target="_blank">nfultz</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">14466</td>
-      <td align="center">
-        <a href="https://github.com/xTekker" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/68022353?u=01035464c9c8e166902eeb68b0cf70ac665a0527&v=4" alt="xTekker" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/xTekker" target="_blank">xTekker</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">14467</td>
       <td align="center">
-        <a href="https://github.com/paolomariano" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/95939510?u=effdf8279cc3003e625a97998963f5ea4014e00b&v=4" alt="paolomariano" width="40" height="40"/>
+        <a href="https://github.com/M4kram" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/99606353?u=895f60666f83e685f63ffcc9c340247f61476989&v=4" alt="M4kram" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/paolomariano" target="_blank">paolomariano</a>
+        <a href="https://github.com/M4kram" target="_blank">M4kram</a>
       </td>
     </tr>
     <tr>
       <td align="center">14468</td>
+      <td align="center">
+        <a href="https://github.com/andreluiskunert" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/58589369?u=7988f84c671a0577a648ace886a33968b9dbefeb&v=4" alt="andreluiskunert" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/andreluiskunert" target="_blank">andreluiskunert</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">14469</td>
+      <td align="center">
+        <a href="https://github.com/brighteddev221" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/198260854?u=2f5ef255d6acb0955888650b9e20df243a43163b&v=4" alt="brighteddev221" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/brighteddev221" target="_blank">brighteddev221</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">14470</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -924,4 +924,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.175s on Mon Feb 24 at 1:22</p>
+<p align="right">Generated in 0.378s on Mon Feb 24 at 2:11</p>
