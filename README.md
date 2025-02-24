@@ -82,29 +82,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">14476</td>
-      <td align="center">
-        <a href="https://github.com/Furia25" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/53374731?u=f3f5672c51d1872538f5bc6f52dba10496d97427&v=4" alt="Furia25" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Furia25" target="_blank">Furia25</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">14477</td>
-      <td align="center">
-        <a href="https://github.com/uplord1379" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/98021135?u=219f4035ceee8d08d10e442bf88277790e674e7f&v=4" alt="uplord1379" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/uplord1379" target="_blank">uplord1379</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">14478</td>
       <td align="center">
         <a href="https://github.com/bubaic" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/18497931?u=48b1162b8dcddcff4026b0cff2746d35bb5a51dd&v=4" alt="bubaic" width="40" height="40"/>
@@ -115,7 +93,29 @@
       </td>
     </tr>
     <tr>
+      <td align="center">14478</td>
+      <td align="center">
+        <a href="https://github.com/Ardiv26" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/153474448?u=7290591c8519220baaa0bd16856bf5ed49949896&v=4" alt="Ardiv26" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Ardiv26" target="_blank">Ardiv26</a>
+      </td>
+    </tr>
+    <tr>
       <td align="center">14479</td>
+      <td align="center">
+        <a href="https://github.com/SHERLOCKx90" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/97678993?u=e237d9c1501b1315c159814e338c7a364068c8cf&v=4" alt="SHERLOCKx90" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/SHERLOCKx90" target="_blank">SHERLOCKx90</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">14480</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -916,4 +916,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.154s on Mon Feb 24 at 18:30</p>
+<p align="right">Generated in 0.256s on Mon Feb 24 at 18:33</p>
