@@ -84,17 +84,6 @@
     <tr>
       <td align="center">14492</td>
       <td align="center">
-        <a href="https://github.com/Arti-1" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/104570755?v=4" alt="Arti-1" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Arti-1" target="_blank">Arti-1</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">14493</td>
-      <td align="center">
         <a href="https://github.com/gopine" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/30730075?u=b64953ce72edd969a083473df6afc8f113f0510e&v=4" alt="gopine" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">14494</td>
+      <td align="center">14493</td>
       <td align="center">
         <a href="https://github.com/Roohollah81" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/81440448?u=962518d4c32173084b3aaacfd64bfb96de60b479&v=4" alt="Roohollah81" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/Roohollah81" target="_blank">Roohollah81</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">14494</td>
+      <td align="center">
+        <a href="https://github.com/Nazirovna" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/110692269?u=aa8daf9b4c601c632adeb1383a26f6a2a3ba60c1&v=4" alt="Nazirovna" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Nazirovna" target="_blank">Nazirovna</a>
       </td>
     </tr>
     <tr>
@@ -905,4 +905,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.216s on Tue Feb 25 at 9:23</p>
+<p align="right">Generated in 0.123s on Tue Feb 25 at 10:27</p>
