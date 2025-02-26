@@ -84,17 +84,6 @@
     <tr>
       <td align="center">14508</td>
       <td align="center">
-        <a href="https://github.com/vrushankdhande" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/67654855?u=4f833f9a0c347032f37b1612c1c97f18ffff7a16&v=4" alt="vrushankdhande" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/vrushankdhande" target="_blank">vrushankdhande</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">14509</td>
-      <td align="center">
         <a href="https://github.com/anabcarvalho30" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/160976038?u=7c9a2192d3a5e92554db72f1df5627fdfe2ef900&v=4" alt="anabcarvalho30" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">14510</td>
+      <td align="center">14509</td>
       <td align="center">
         <a href="https://github.com/ErickWeberDev" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/141372331?u=a5cef4c51f21c48600044b3604fff53cfe3b4ef5&v=4" alt="ErickWeberDev" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/ErickWeberDev" target="_blank">ErickWeberDev</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">14510</td>
+      <td align="center">
+        <a href="https://github.com/sir-braz" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/131637538?u=180425991cca73657a1e40211d21652fef8ee2dc&v=4" alt="sir-braz" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/sir-braz" target="_blank">sir-braz</a>
       </td>
     </tr>
     <tr>
@@ -914,4 +914,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.327s on Wed Feb 26 at 1:01</p>
+<p align="right">Generated in 0.269s on Wed Feb 26 at 1:02</p>
