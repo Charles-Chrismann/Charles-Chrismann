@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">14535</td>
-      <td align="center">
-        <a href="https://github.com/doyaGu" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/10153309?v=4" alt="doyaGu" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/doyaGu" target="_blank">doyaGu</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">14536</td>
       <td align="center">
         <a href="https://github.com/rishabhyadav3171" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">14538</td>
+      <td align="center">
+        <a href="https://github.com/sa2taka" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/13149507?u=1a5fd076852ca05e1a626b17b6aac656615f42b7&v=4" alt="sa2taka" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/sa2taka" target="_blank">sa2taka</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">14539</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -925,4 +925,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.319s on Fri Feb 28 at 7:12</p>
+<p align="right">Generated in 0.176s on Fri Feb 28 at 7:51</p>
