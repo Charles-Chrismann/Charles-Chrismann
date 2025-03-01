@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">14547</td>
-      <td align="center">
-        <a href="https://github.com/JohnMwendwa" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/72663882?u=fbeaea2dc64c633b6fbeb986e966ab812610025e&v=4" alt="JohnMwendwa" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/JohnMwendwa" target="_blank">JohnMwendwa</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">14548</td>
       <td align="center">
         <a href="https://github.com/android-mk" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">14550</td>
+      <td align="center">
+        <a href="https://github.com/olak-olanizo" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/136018648?v=4" alt="olak-olanizo" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/olak-olanizo" target="_blank">olak-olanizo</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">14551</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -903,4 +903,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.209s on Sat Mar 1 at 20:42</p>
+<p align="right">Generated in 0.153s on Sat Mar 1 at 20:59</p>
