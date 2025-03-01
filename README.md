@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">14545</td>
-      <td align="center">
-        <a href="https://github.com/awolverp" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/118073811?u=8243a049ad9d2fef459c03e77aa7a1206f4ccf1f&v=4" alt="awolverp" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/awolverp" target="_blank">awolverp</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">14546</td>
       <td align="center">
         <a href="https://github.com/hezronkimutai" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">14548</td>
+      <td align="center">
+        <a href="https://github.com/jstrother" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/16010889?v=4" alt="jstrother" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/jstrother" target="_blank">jstrother</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">14549</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -936,4 +936,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.386s on Sat Mar 1 at 18:57</p>
+<p align="right">Generated in 0.203s on Sat Mar 1 at 19:02</p>
