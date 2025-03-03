@@ -96,7 +96,7 @@
       <td align="center">14561</td>
       <td align="center">
         <a href="https://github.com/ZenXen7" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/119471599?u=7f59384fae1bcdcc893471e3be8aa8945d3dc615&v=4" alt="ZenXen7" width="40" height="40"/>
+          <img src="https://avatars.githubusercontent.com/u/119471599?u=468659aac68582a7e64868c1e056218ca969b49e&v=4" alt="ZenXen7" width="40" height="40"/>
         </a>
       </td>
       <td>
@@ -936,4 +936,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.623s on Mon Mar 3 at 16:27</p>
+<p align="right">Generated in 0.619s on Mon Mar 3 at 16:29</p>
