@@ -84,17 +84,6 @@
     <tr>
       <td align="center">14604</td>
       <td align="center">
-        <a href="https://github.com/lit2024" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/171516407?u=1fdb312861790478be084378ca1bdc2f19824efa&v=4" alt="lit2024" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/lit2024" target="_blank">lit2024</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">14605</td>
-      <td align="center">
         <a href="https://github.com/chitoadinugraha" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/4153583?v=4" alt="chitoadinugraha" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">14606</td>
+      <td align="center">14605</td>
       <td align="center">
         <a href="https://github.com/Vibe-Astral" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/100313635?u=3fe52f68c2f9f3ac3528649d8c11f8faee3dfd09&v=4" alt="Vibe-Astral" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/Vibe-Astral" target="_blank">Vibe-Astral</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">14606</td>
+      <td align="center">
+        <a href="https://github.com/Andersonapf" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/62948977?v=4" alt="Andersonapf" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Andersonapf" target="_blank">Andersonapf</a>
       </td>
     </tr>
     <tr>
@@ -903,4 +903,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.201s on Fri Mar 7 at 3:58</p>
+<p align="right">Generated in 0.125s on Fri Mar 7 at 4:38</p>
