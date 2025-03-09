@@ -84,17 +84,6 @@
     <tr>
       <td align="center">14629</td>
       <td align="center">
-        <a href="https://github.com/FazeElian" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/125149526?u=04a12a5a5f9358ffb90c89dffc7995c1e0e8d4a0&v=4" alt="FazeElian" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/FazeElian" target="_blank">FazeElian</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">14630</td>
-      <td align="center">
         <a href="https://github.com/patience00" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/35128024?u=8ce72679fac5baaeda2d80bbf6ab1c94387a228c&v=4" alt="patience00" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">14631</td>
+      <td align="center">14630</td>
       <td align="center">
         <a href="https://github.com/R4ffaell" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/142134854?u=ed3f8d29c0dcfbadd39b2fac652c595e3d9ef4aa&v=4" alt="R4ffaell" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/R4ffaell" target="_blank">R4ffaell</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">14631</td>
+      <td align="center">
+        <a href="https://github.com/Alwaz12" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/167531290?u=e36e42833acb41765908d7bcd8704a7ab8202f39&v=4" alt="Alwaz12" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Alwaz12" target="_blank">Alwaz12</a>
       </td>
     </tr>
     <tr>
@@ -908,4 +908,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.289s on Sun Mar 9 at 14:17</p>
+<p align="right">Generated in 0.277s on Sun Mar 9 at 14:35</p>
