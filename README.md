@@ -84,17 +84,6 @@
     <tr>
       <td align="center">14729</td>
       <td align="center">
-        <a href="https://github.com/Faguiro" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/22006316?u=368c6332f0056588f8200c7c5db93a7c07b243a7&v=4" alt="Faguiro" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Faguiro" target="_blank">Faguiro</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">14730</td>
-      <td align="center">
         <a href="https://github.com/GrimNihilist" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/43033145?v=4" alt="GrimNihilist" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">14731</td>
+      <td align="center">14730</td>
       <td align="center">
         <a href="https://github.com/higorv10" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/120610874?u=599165d09898a8dffa8f6597774453f54bc3947c&v=4" alt="higorv10" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/higorv10" target="_blank">higorv10</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">14731</td>
+      <td align="center">
+        <a href="https://github.com/MilesMaloka" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/178200324?v=4" alt="MilesMaloka" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/MilesMaloka" target="_blank">MilesMaloka</a>
       </td>
     </tr>
     <tr>
@@ -915,4 +915,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.333s on Sat Mar 15 at 20:10</p>
+<p align="right">Generated in 0.335s on Sat Mar 15 at 20:19</p>
