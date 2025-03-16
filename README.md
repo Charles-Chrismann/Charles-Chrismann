@@ -82,7 +82,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">14743</td>
+      <td align="center">14742</td>
       <td align="center">
         <a href="https://github.com/Mahanfix" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/121984414?u=e8ae4cc00e22981c2b46989a27f84cf8b6e7e1a0&v=4" alt="Mahanfix" width="40" height="40"/>
@@ -93,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">14744</td>
+      <td align="center">14743</td>
       <td align="center">
         <a href="https://github.com/sukhdeep143" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/140819461?u=4dcc72ae5665c289b3e081d31a6baf5739bfe873&v=4" alt="sukhdeep143" width="40" height="40"/>
@@ -104,7 +104,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">14745</td>
+      <td align="center">14744</td>
       <td align="center">
         <a href="https://github.com/issacdchain" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/134296625?u=1ce7ba706cc2a31c1c4ea4a5b0b2269087cced9c&v=4" alt="issacdchain" width="40" height="40"/>
@@ -115,7 +115,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">14746</td>
+      <td align="center">14745</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -894,4 +894,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.153s on Sun Mar 16 at 16:45</p>
+<p align="right">Generated in 0.392s on Sun Mar 16 at 16:45</p>
