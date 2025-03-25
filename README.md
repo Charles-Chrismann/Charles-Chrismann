@@ -801,6 +801,16 @@
       </td>
     </tr>
     <tr>
+      <td>$\text{\color{red}{R}}$</td>
+      <td>$\text{\color{red}{I}}$</td>
+      <td>$\text{\color{red}{Y}}$</td>
+      <td>$\text{\color{red}{A}}$</td>
+      <td>$\text{\color{red}{L}}$</td>
+      <td>
+        <a href="https://github.com/F-777">@F-777</a>
+      </td>
+    </tr>
+    <tr>
       <td>‎ </td>
       <td>‎ </td>
       <td>‎ </td>
@@ -982,4 +992,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.337s on Tue Mar 25 at 5:14</p>
+<p align="right">Generated in 0.331s on Tue Mar 25 at 5:15</p>
