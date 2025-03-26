@@ -739,6 +739,16 @@
   </thead>
   <tbody>
     <tr>
+      <td>$\text{\color{lightgreen}{A}}$</td>
+      <td>$\text{\color{white}{P}}$</td>
+      <td>$\text{\color{white}{P}}$</td>
+      <td>$\text{\color{white}{L}}$</td>
+      <td>$\text{\color{white}{E}}$</td>
+      <td>
+        <a href="https://github.com/F-777">@F-777</a>
+      </td>
+    </tr>
+    <tr>
       <td>‎ </td>
       <td>‎ </td>
       <td>‎ </td>
@@ -920,4 +930,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.327s on Wed Mar 26 at 1:38</p>
+<p align="right">Generated in 0.321s on Wed Mar 26 at 2:11</p>
