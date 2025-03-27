@@ -84,17 +84,6 @@
     <tr>
       <td align="center">14890</td>
       <td align="center">
-        <a href="https://github.com/tincho" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/178681?u=db8c388ddd102fa5ef0f189fac1a5cb41b1e7052&v=4" alt="tincho" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/tincho" target="_blank">tincho</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">14891</td>
-      <td align="center">
         <a href="https://github.com/ayoub0030" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/161967978?u=c826aca359fd2606c1d963c11fad6c1f8c4ec6cb&v=4" alt="ayoub0030" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">14892</td>
+      <td align="center">14891</td>
       <td align="center">
         <a href="https://github.com/JuanjoRestrepo" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/49797614?u=7bbd08522d4fb4e53c473d862a441e694608fe43&v=4" alt="JuanjoRestrepo" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/JuanjoRestrepo" target="_blank">JuanjoRestrepo</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">14892</td>
+      <td align="center">
+        <a href="https://github.com/brunomalessandro93" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/66646930?u=545df41a6de65594fd4aab0146953a0b3af503ea&v=4" alt="brunomalessandro93" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/brunomalessandro93" target="_blank">brunomalessandro93</a>
       </td>
     </tr>
     <tr>
@@ -917,4 +917,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.25s on Thu Mar 27 at 0:14</p>
+<p align="right">Generated in 0.204s on Thu Mar 27 at 0:51</p>
