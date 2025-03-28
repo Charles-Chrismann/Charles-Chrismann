@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">14916</td>
-      <td align="center">
-        <a href="https://github.com/ImaneTech" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/176291465?v=4" alt="ImaneTech" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/ImaneTech" target="_blank">ImaneTech</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">14917</td>
       <td align="center">
         <a href="https://github.com/indranil143" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">14919</td>
+      <td align="center">
+        <a href="https://github.com/mauriciofullana" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/12903446?u=f03521f9342eef68af33437a99913460ecd07c6c&v=4" alt="mauriciofullana" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/mauriciofullana" target="_blank">mauriciofullana</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">14920</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -915,4 +915,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.129s on Fri Mar 28 at 13:21</p>
+<p align="right">Generated in 0.124s on Fri Mar 28 at 14:08</p>
