@@ -84,17 +84,6 @@
     <tr>
       <td align="center">14980</td>
       <td align="center">
-        <a href="https://github.com/whoIsOneZero" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/86459374?u=a6525800648a10a33b302ccf3642856aab6f99b3&v=4" alt="whoIsOneZero" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/whoIsOneZero" target="_blank">whoIsOneZero</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">14981</td>
-      <td align="center">
         <a href="https://github.com/TejaNaik15" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/134024083?v=4" alt="TejaNaik15" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">14982</td>
+      <td align="center">14981</td>
       <td align="center">
         <a href="https://github.com/YashGajjar7017" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/83583064?u=c327113830f62dba6ba5683489e256c5ec31cae6&v=4" alt="YashGajjar7017" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/YashGajjar7017" target="_blank">YashGajjar7017</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">14982</td>
+      <td align="center">
+        <a href="https://github.com/42andy" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/150129844?u=3de9bea9a26e3f4b8d15d2ba51750b1e017f4cb3&v=4" alt="42andy" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/42andy" target="_blank">42andy</a>
       </td>
     </tr>
     <tr>
@@ -923,4 +923,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.207s on Wed Apr 2 at 14:31</p>
+<p align="right">Generated in 0.206s on Wed Apr 2 at 14:38</p>
