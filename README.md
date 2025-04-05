@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">15009</td>
-      <td align="center">
-        <a href="https://github.com/Joao-Victor-Developer" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/100379860?u=640f2f7e8145a0f0884427242f437ecff73fea95&v=4" alt="Joao-Victor-Developer" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Joao-Victor-Developer" target="_blank">Joao-Victor-Developer</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">15010</td>
       <td align="center">
         <a href="https://github.com/abasjr" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">15012</td>
+      <td align="center">
+        <a href="https://github.com/ioscore" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/167031453?v=4" alt="ioscore" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/ioscore" target="_blank">ioscore</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">15013</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -928,4 +928,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.176s on Sat Apr 5 at 8:00</p>
+<p align="right">Generated in 0.174s on Sat Apr 5 at 8:23</p>
