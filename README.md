@@ -84,17 +84,6 @@
     <tr>
       <td align="center">15009</td>
       <td align="center">
-        <a href="https://github.com/DIOGO03-NS" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/72827988?u=79dd9ecf3a076edb34932aecab18f27f8caca404&v=4" alt="DIOGO03-NS" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/DIOGO03-NS" target="_blank">DIOGO03-NS</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">15010</td>
-      <td align="center">
         <a href="https://github.com/bmarroc" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/82845801?u=d2f12886d26dc2cc9d3e1aa2f9ce320c9780601f&v=4" alt="bmarroc" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">15011</td>
+      <td align="center">15010</td>
       <td align="center">
         <a href="https://github.com/LariOpanda" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/81597667?u=506f83d224e3e707f4f1cee5f761e2dae79a0f06&v=4" alt="LariOpanda" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/LariOpanda" target="_blank">LariOpanda</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">15011</td>
+      <td align="center">
+        <a href="https://github.com/Joao-Victor-Developer" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/100379860?u=640f2f7e8145a0f0884427242f437ecff73fea95&v=4" alt="Joao-Victor-Developer" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Joao-Victor-Developer" target="_blank">Joao-Victor-Developer</a>
       </td>
     </tr>
     <tr>
@@ -935,4 +935,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.172s on Sat Apr 5 at 1:36</p>
+<p align="right">Generated in 0.257s on Sat Apr 5 at 2:09</p>
