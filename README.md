@@ -574,7 +574,7 @@
       <td align="center">‎       </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
-      <td align="center">♟      </td>
+      <td align="center">‎       </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
@@ -585,7 +585,7 @@
       <td align="center">♟      </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
-      <td align="center">‎       </td>
+      <td align="center">♟      </td>
       <td align="center">♗      </td>
       <td align="center">‎       </td>
       <td align="center">
@@ -604,7 +604,7 @@
       <td align="center">:four:</td>
       <td align="center">‎       </td>
       <td align="center">♝      </td>
-      <td align="center">♙      </td>
+      <td align="center">‎       </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
       <td align="center">♙      </td>
@@ -613,7 +613,7 @@
     </tr>
     <tr>
       <td align="center">:three:</td>
-      <td align="center">♟      </td>
+      <td align="center">♙      </td>
       <td align="center">♙      </td>
       <td align="center">♟      </td>
       <td align="center">‎       </td>
@@ -864,4 +864,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 1.337s on Wed Apr 9 at 1:37</p>
+<p align="right">Generated in 1.151s on Wed Apr 9 at 2:43</p>
