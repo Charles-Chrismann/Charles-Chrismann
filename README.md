@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">15041</td>
-      <td align="center">
-        <a href="https://github.com/clawedd" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/170586591?u=4f66bde9a4ffd583e8811bb5edc767cf31babd3a&v=4" alt="clawedd" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/clawedd" target="_blank">clawedd</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">15042</td>
       <td align="center">
         <a href="https://github.com/jessicalorentino" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">15044</td>
+      <td align="center">
+        <a href="https://github.com/vgalyant" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/37473477?u=16877f9cd16e0da3dda6c25eb790a8466eca2c7f&v=4" alt="vgalyant" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/vgalyant" target="_blank">vgalyant</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">15045</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -938,4 +938,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 1.143s on Wed Apr 9 at 0:10</p>
+<p align="right">Generated in 1.139s on Wed Apr 9 at 0:17</p>
