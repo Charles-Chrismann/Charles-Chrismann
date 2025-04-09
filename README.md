@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">15049</td>
-      <td align="center">
-        <a href="https://github.com/javicerezo" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/92026396?u=5335376b98e0312e77b19e4d117c0322ae7248f6&v=4" alt="javicerezo" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/javicerezo" target="_blank">javicerezo</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">15050</td>
       <td align="center">
         <a href="https://github.com/Abhishek782" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">15052</td>
+      <td align="center">
+        <a href="https://github.com/faridun-dev" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/121972180?u=e5e0ee0d13e894ad889b9a774fc3babba14704bf&v=4" alt="faridun-dev" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/faridun-dev" target="_blank">faridun-dev</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">15053</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -927,4 +927,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 1.133s on Wed Apr 9 at 9:47</p>
+<p align="right">Generated in 1.067s on Wed Apr 9 at 10:13</p>
