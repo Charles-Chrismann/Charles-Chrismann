@@ -84,17 +84,6 @@
     <tr>
       <td align="center">15050</td>
       <td align="center">
-        <a href="https://github.com/faridun-dev" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/121972180?u=e5e0ee0d13e894ad889b9a774fc3babba14704bf&v=4" alt="faridun-dev" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/faridun-dev" target="_blank">faridun-dev</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">15051</td>
-      <td align="center">
         <a href="https://github.com/marilourenco" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/18347982?u=d79616563fcb6cf8aeffa5a0f6637f02c9d0cd54&v=4" alt="marilourenco" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">15052</td>
+      <td align="center">15051</td>
       <td align="center">
         <a href="https://github.com/yuskraft" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/89844466?u=83d9cf27c79dec08af8531203a78304f57aa049e&v=4" alt="yuskraft" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/yuskraft" target="_blank">yuskraft</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">15052</td>
+      <td align="center">
+        <a href="https://github.com/paarniifaazell" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/137401079?u=95d9e029068b0de68dea05e100ae38ce7978d093&v=4" alt="paarniifaazell" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/paarniifaazell" target="_blank">paarniifaazell</a>
       </td>
     </tr>
     <tr>
@@ -915,4 +915,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.133s on Wed Apr 9 at 13:41</p>
+<p align="right">Generated in 0.184s on Wed Apr 9 at 13:51</p>
