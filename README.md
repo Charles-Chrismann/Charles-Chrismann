@@ -772,6 +772,16 @@
       </td>
     </tr>
     <tr>
+      <td>$\text{\color{lightgreen}{L}}$</td>
+      <td>$\text{\color{lightgreen}{E}}$</td>
+      <td>$\text{\color{lightgreen}{P}}$</td>
+      <td>$\text{\color{lightgreen}{E}}$</td>
+      <td>$\text{\color{lightgreen}{R}}$</td>
+      <td>
+        <a href="https://github.com/ciao1092">@ciao1092</a>
+      </td>
+    </tr>
+    <tr>
       <td>‎ </td>
       <td>‎ </td>
       <td>‎ </td>
@@ -951,6 +961,18 @@
       </td>
       <td align="center">1</td>
     </tr>
+    <tr>
+      <td align="center">14</td>
+      <td align="center">
+        <a href="https://github.com/ciao1092">
+          <img src="https://avatars.githubusercontent.com/u/100089228?size=32" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/ciao1092">@ciao1092</a>
+      </td>
+      <td align="center">1</td>
+    </tr>
   </tbody>
 </table>
 
@@ -965,4 +987,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.286s on Sun Apr 13 at 17:48</p>
+<p align="right">Generated in 0.275s on Sun Apr 13 at 17:50</p>
