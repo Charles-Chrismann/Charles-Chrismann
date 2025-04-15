@@ -82,28 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">15097</td>
-      <td align="center">
-        <a href="https://github.com/nanbuonafina" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/124320003?u=fc96fdd54349368f98eadbb2b323a7247f86b4cf&v=4" alt="nanbuonafina" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/nanbuonafina" target="_blank">nanbuonafina</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">15098</td>
-      <td align="center">
-        <a href="https://github.com/Chappy-Atomware" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/149477483?u=1c7f098ad4f3844cfaf7ffab61b2a1dee00d2004&v=4" alt="Chappy-Atomware" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Chappy-Atomware" target="_blank">Chappy-Atomware</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">15099</td>
       <td align="center">
         <a href="https://github.com/FardinXSS" target="_blank">
@@ -116,6 +94,28 @@
     </tr>
     <tr>
       <td align="center">15100</td>
+      <td align="center">
+        <a href="https://github.com/JoaoAugustoColassoHandocha" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/163477998?u=c05257d7100af7e04e269db53535dd47c40b2b78&v=4" alt="JoaoAugustoColassoHandocha" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/JoaoAugustoColassoHandocha" target="_blank">JoaoAugustoColassoHandocha</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">15101</td>
+      <td align="center">
+        <a href="https://github.com/sergio-oliveira-br" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/142422148?u=bc0ac6b2ab0070033b996274c615d8f1030eebee&v=4" alt="sergio-oliveira-br" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/sergio-oliveira-br" target="_blank">sergio-oliveira-br</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">15102</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -952,4 +952,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.65s on Tue Apr 15 at 15:02</p>
+<p align="right">Generated in 0.639s on Tue Apr 15 at 16:26</p>
