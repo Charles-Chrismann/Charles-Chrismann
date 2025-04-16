@@ -726,56 +726,6 @@
   </thead>
   <tbody>
     <tr>
-      <td>$\text{\color{white}{E}}$</td>
-      <td>$\text{\color{lightgreen}{A}}$</td>
-      <td>$\text{\color{orange}{R}}$</td>
-      <td>$\text{\color{white}{T}}$</td>
-      <td>$\text{\color{white}{H}}$</td>
-      <td>
-        <a href="https://github.com/JihadZaidan">@JihadZaidan</a>
-      </td>
-    </tr>
-    <tr>
-      <td>$\text{\color{white}{T}}$</td>
-      <td>$\text{\color{lightgreen}{A}}$</td>
-      <td>$\text{\color{orange}{R}}$</td>
-      <td>$\text{\color{white}{O}}$</td>
-      <td>$\text{\color{white}{T}}$</td>
-      <td>
-        <a href="https://github.com/JihadZaidan">@JihadZaidan</a>
-      </td>
-    </tr>
-    <tr>
-      <td>$\text{\color{red}{P}}$</td>
-      <td>$\text{\color{red}{A}}$</td>
-      <td>$\text{\color{red}{T}}$</td>
-      <td>$\text{\color{red}{R}}$</td>
-      <td>$\text{\color{red}{I}}$</td>
-      <td>
-        <a href="https://github.com/JihadZaidan">@JihadZaidan</a>
-      </td>
-    </tr>
-    <tr>
-      <td>$\text{\color{red}{B}}$</td>
-      <td>$\text{\color{red}{A}}$</td>
-      <td>$\text{\color{red}{R}}$</td>
-      <td>$\text{\color{red}{E}}$</td>
-      <td>$\text{\color{red}{T}}$</td>
-      <td>
-        <a href="https://github.com/JihadZaidan">@JihadZaidan</a>
-      </td>
-    </tr>
-    <tr>
-      <td>$\text{\color{white}{B}}$</td>
-      <td>$\text{\color{lightgreen}{A}}$</td>
-      <td>$\text{\color{white}{L}}$</td>
-      <td>$\text{\color{white}{E}}$</td>
-      <td>$\text{\color{orange}{R}}$</td>
-      <td>
-        <a href="https://github.com/NotReeceHarris">@NotReeceHarris</a>
-      </td>
-    </tr>
-    <tr>
       <td>‎ </td>
       <td>‎ </td>
       <td>‎ </td>
@@ -981,4 +931,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.302s on Wed Apr 16 at 21:59</p>
+<p align="right">Generated in 0.27s on Wed Apr 16 at 22:00</p>
