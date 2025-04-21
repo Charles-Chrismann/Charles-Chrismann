@@ -106,12 +106,12 @@
     <tr>
       <td align="center">15138</td>
       <td align="center">
-        <a href="https://github.com/developernahian" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/108415410?u=b248689804b22c821de1e20cce69bfb31bb7578e&v=4" alt="developernahian" width="40" height="40"/>
+        <a href="https://github.com/Khalil-NOUI" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/133600682?v=4" alt="Khalil-NOUI" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/developernahian" target="_blank">developernahian</a>
+        <a href="https://github.com/Khalil-NOUI" target="_blank">Khalil-NOUI</a>
       </td>
     </tr>
     <tr>
@@ -927,4 +927,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.206s on Mon Apr 21 at 19:36</p>
+<p align="right">Generated in 0.125s on Mon Apr 21 at 19:42</p>
