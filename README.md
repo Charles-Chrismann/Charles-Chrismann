@@ -722,6 +722,16 @@
   </thead>
   <tbody>
     <tr>
+      <td>$\text{\color{red}{I}}$</td>
+      <td>$\text{\color{red}{N}}$</td>
+      <td>$\text{\color{red}{T}}$</td>
+      <td>$\text{\color{red}{E}}$</td>
+      <td>$\text{\color{red}{L}}$</td>
+      <td>
+        <a href="https://github.com/JihadZaidan">@JihadZaidan</a>
+      </td>
+    </tr>
+    <tr>
       <td>‎ </td>
       <td>‎ </td>
       <td>‎ </td>
@@ -927,4 +937,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.365s on Tue Apr 22 at 1:21</p>
+<p align="right">Generated in 0.312s on Tue Apr 22 at 1:42</p>
