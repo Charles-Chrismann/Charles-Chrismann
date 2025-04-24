@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">15168</td>
-      <td align="center">
-        <a href="https://github.com/EGM" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/477971?v=4" alt="EGM" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/EGM" target="_blank">EGM</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">15169</td>
       <td align="center">
         <a href="https://github.com/Miguell-J" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">15171</td>
+      <td align="center">
+        <a href="https://github.com/lucascbarbosa" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/40960766?u=e601ff5df5dfcbf822e38683edff3507c22a4e3c&v=4" alt="lucascbarbosa" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/lucascbarbosa" target="_blank">lucascbarbosa</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">15172</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -1012,4 +1012,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.188s on Thu Apr 24 at 20:18</p>
+<p align="right">Generated in 0.185s on Thu Apr 24 at 20:22</p>
