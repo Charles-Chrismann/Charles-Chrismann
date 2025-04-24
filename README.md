@@ -736,66 +736,6 @@
   </thead>
   <tbody>
     <tr>
-      <td>$\text{\color{red}{A}}$</td>
-      <td>$\text{\color{red}{S}}$</td>
-      <td>$\text{\color{red}{T}}$</td>
-      <td>$\text{\color{red}{R}}$</td>
-      <td>$\text{\color{red}{A}}$</td>
-      <td>
-        <a href="https://github.com/JihadZaidan">@JihadZaidan</a>
-      </td>
-    </tr>
-    <tr>
-      <td>$\text{\color{white}{R}}$</td>
-      <td>$\text{\color{orange}{O}}$</td>
-      <td>$\text{\color{white}{B}}$</td>
-      <td>$\text{\color{orange}{O}}$</td>
-      <td>$\text{\color{white}{T}}$</td>
-      <td>
-        <a href="https://github.com/JihadZaidan">@JihadZaidan</a>
-      </td>
-    </tr>
-    <tr>
-      <td>$\text{\color{white}{B}}$</td>
-      <td>$\text{\color{white}{L}}$</td>
-      <td>$\text{\color{orange}{O}}$</td>
-      <td>$\text{\color{orange}{O}}$</td>
-      <td>$\text{\color{white}{D}}$</td>
-      <td>
-        <a href="https://github.com/JihadZaidan">@JihadZaidan</a>
-      </td>
-    </tr>
-    <tr>
-      <td>$\text{\color{white}{T}}$</td>
-      <td>$\text{\color{orange}{O}}$</td>
-      <td>$\text{\color{white}{R}}$</td>
-      <td>$\text{\color{white}{S}}$</td>
-      <td>$\text{\color{orange}{O}}$</td>
-      <td>
-        <a href="https://github.com/JihadZaidan">@JihadZaidan</a>
-      </td>
-    </tr>
-    <tr>
-      <td>$\text{\color{red}{O}}$</td>
-      <td>$\text{\color{red}{U}}$</td>
-      <td>$\text{\color{red}{T}}$</td>
-      <td>$\text{\color{red}{R}}$</td>
-      <td>$\text{\color{red}{O}}$</td>
-      <td>
-        <a href="https://github.com/JihadZaidan">@JihadZaidan</a>
-      </td>
-    </tr>
-    <tr>
-      <td>$\text{\color{white}{C}}$</td>
-      <td>$\text{\color{orange}{O}}$</td>
-      <td>$\text{\color{white}{L}}$</td>
-      <td>$\text{\color{orange}{O}}$</td>
-      <td>$\text{\color{white}{R}}$</td>
-      <td>
-        <a href="https://github.com/JihadZaidan">@JihadZaidan</a>
-      </td>
-    </tr>
-    <tr>
       <td>‎ </td>
       <td>‎ </td>
       <td>‎ </td>
@@ -1001,4 +941,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.183s on Thu Apr 24 at 21:57</p>
+<p align="right">Generated in 0.269s on Thu Apr 24 at 22:00</p>
