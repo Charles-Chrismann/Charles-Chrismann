@@ -82,17 +82,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">15234</td>
-      <td align="center">
-        <a href="https://github.com/AliTaladar" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/74368373?v=4" alt="AliTaladar" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/AliTaladar" target="_blank">AliTaladar</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">15235</td>
       <td align="center">
         <a href="https://github.com/cedavilu-web-academy" target="_blank">
@@ -116,6 +105,17 @@
     </tr>
     <tr>
       <td align="center">15237</td>
+      <td align="center">
+        <a href="https://github.com/artkom" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/2123434?u=d525e53f88d55656f097155f4499b7e54fc7b55b&v=4" alt="artkom" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/artkom" target="_blank">artkom</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">15238</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -948,4 +948,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.167s on Fri May 2 at 8:03</p>
+<p align="right">Generated in 0.16s on Fri May 2 at 8:26</p>
