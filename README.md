@@ -84,17 +84,6 @@
     <tr>
       <td align="center">15235</td>
       <td align="center">
-        <a href="https://github.com/cedavilu-web-academy" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/113645784?u=64ae7340f70a82ba3b262db7388b6e262c8fd997&v=4" alt="cedavilu-web-academy" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/cedavilu-web-academy" target="_blank">cedavilu-web-academy</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">15236</td>
-      <td align="center">
         <a href="https://github.com/DavidRichardson02" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/144840390?u=1c621325c9def017d7a62b4c4c94028828a3a198&v=4" alt="DavidRichardson02" width="40" height="40"/>
         </a>
@@ -104,7 +93,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">15237</td>
+      <td align="center">15236</td>
       <td align="center">
         <a href="https://github.com/artkom" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/2123434?u=d525e53f88d55656f097155f4499b7e54fc7b55b&v=4" alt="artkom" width="40" height="40"/>
@@ -112,6 +101,17 @@
       </td>
       <td>
         <a href="https://github.com/artkom" target="_blank">artkom</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">15237</td>
+      <td align="center">
+        <a href="https://github.com/021Skyfall" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/119563406?u=a91053320adeb59bbe9cfb3e6fe5c932de94e538&v=4" alt="021Skyfall" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/021Skyfall" target="_blank">021Skyfall</a>
       </td>
     </tr>
     <tr>
@@ -948,4 +948,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.309s on Fri May 2 at 8:50</p>
+<p align="right">Generated in 0.163s on Fri May 2 at 9:08</p>
