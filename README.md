@@ -3,8 +3,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Charles-Chrismann">
 </p>
-<p>:technologist: I'm a french student in 3rd year in web development at <a href="https://www.iim.fr" target="_blank" rel="noreferrer" title="Institut de l'Internet et du Multimédia">IIM DigitalSchool</a> in Paris.</p>
-<p>:heart: I am what you can call a javascript/typescript enthousiaste.</p>
 <h3 align="center">F*** Zodiac signs, let's play Pokemon together</h3>
 <p align="center">
   <a href="https://o.charles-chrismann.fr/gba/input">
@@ -759,4 +757,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.099s on Sat May 3 at 20:36</p>
+<p align="right">Generated in 0.126s on Sat May 3 at 20:37</p>
