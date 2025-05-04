@@ -80,18 +80,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">15250</td>
-      <td align="center">
-        <a href="https://github.com/crypto318" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/46261505?u=54474313f6b3a9574a30b226c0e9e6d672562d11&v=4" alt="crypto318" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/crypto318" target="_blank">crypto318</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">15251</td>
+      <td align="center">15249</td>
       <td align="center">
         <a href="https://github.com/Nithinrkashyap" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/120486263?u=31a0d1d558f6f1ef8ac7af7dcf8a8ce363f8db7d&v=4" alt="Nithinrkashyap" width="40" height="40"/>
@@ -102,7 +91,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">15252</td>
+      <td align="center">15250</td>
       <td align="center">
         <a href="https://github.com/Pouya-Ta" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/87365616?u=fae95d69f6d6d458d51da828bbd41a1b0b554dc3&v=4" alt="Pouya-Ta" width="40" height="40"/>
@@ -113,7 +102,18 @@
       </td>
     </tr>
     <tr>
-      <td align="center">15253</td>
+      <td align="center">15251</td>
+      <td align="center">
+        <a href="https://github.com/mallocdev" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/95880663?u=992b4c9b245b2ad57deba101bc64c7d60190f22a&v=4" alt="mallocdev" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/mallocdev" target="_blank">mallocdev</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">15252</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -930,4 +930,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.509s on Sun May 4 at 12:24</p>
+<p align="right">Generated in 0.49s on Sun May 4 at 12:41</p>
