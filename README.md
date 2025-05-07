@@ -80,17 +80,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">15292</td>
-      <td align="center">
-        <a href="https://github.com/Kirito9910" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/121258433?u=26d4cb024a1e2fac06853242bdaf487144005884&v=4" alt="Kirito9910" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Kirito9910" target="_blank">Kirito9910</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">15293</td>
       <td align="center">
         <a href="https://github.com/AsHkAn-Django" target="_blank">
@@ -114,6 +103,17 @@
     </tr>
     <tr>
       <td align="center">15295</td>
+      <td align="center">
+        <a href="https://github.com/ice-truck" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/210230961?u=a4564074ee916b3b206d62bbb0b4ee7a21b38bec&v=4" alt="ice-truck" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/ice-truck" target="_blank">ice-truck</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">15296</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -925,4 +925,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.163s on Wed May 7 at 13:32</p>
+<p align="right">Generated in 0.16s on Wed May 7 at 13:39</p>
