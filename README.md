@@ -729,6 +729,16 @@
   </thead>
   <tbody>
     <tr>
+      <td>$\text{\color{white}{A}}$</td>
+      <td>$\text{\color{white}{P}}$</td>
+      <td>$\text{\color{white}{P}}$</td>
+      <td>$\text{\color{white}{L}}$</td>
+      <td>$\text{\color{white}{E}}$</td>
+      <td>
+        <a href="https://github.com/TohidEq">@TohidEq</a>
+      </td>
+    </tr>
+    <tr>
       <td>‎ </td>
       <td>‎ </td>
       <td>‎ </td>
@@ -934,4 +944,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.259s on Fri May 9 at 6:36</p>
+<p align="right">Generated in 0.24s on Fri May 9 at 6:37</p>
