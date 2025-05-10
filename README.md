@@ -448,7 +448,7 @@
   <span>:one:</span>
   <span>:one:</span>
   <span>:two:</span>
-  <a href="https://o.charles-chrismann.fr/minesweeper/click?x=15&y=9">:black_large_square:</a>
+  <span>:one:</span>
   <span>:one:</span>
   <span>:white_large_square:</span>
   <br>
@@ -941,4 +941,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.739s on Sat May 10 at 14:56</p>
+<p align="right">Generated in 0.776s on Sat May 10 at 14:56</p>
