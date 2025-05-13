@@ -80,17 +80,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">15369</td>
-      <td align="center">
-        <a href="https://github.com/Kelvintsokozani" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/39803913?v=4" alt="Kelvintsokozani" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Kelvintsokozani" target="_blank">Kelvintsokozani</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">15370</td>
       <td align="center">
         <a href="https://github.com/saisampaththumati-datascientists" target="_blank">
@@ -114,6 +103,17 @@
     </tr>
     <tr>
       <td align="center">15372</td>
+      <td align="center">
+        <a href="https://github.com/shash64" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/34834756?u=e45e52a6f069afc2c94791c8845592439b818c33&v=4" alt="shash64" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/shash64" target="_blank">shash64</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">15373</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -930,4 +930,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.299s on Tue May 13 at 18:33</p>
+<p align="right">Generated in 0.167s on Tue May 13 at 19:04</p>
