@@ -80,17 +80,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">15379</td>
-      <td align="center">
-        <a href="https://github.com/Gnanapriya19" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/159014808?v=4" alt="Gnanapriya19" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Gnanapriya19" target="_blank">Gnanapriya19</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">15380</td>
       <td align="center">
         <a href="https://github.com/mohamedeidelshoura" target="_blank">
@@ -114,6 +103,17 @@
     </tr>
     <tr>
       <td align="center">15382</td>
+      <td align="center">
+        <a href="https://github.com/magicbart" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/1617992?v=4" alt="magicbart" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/magicbart" target="_blank">magicbart</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">15383</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -945,4 +945,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.193s on Wed May 14 at 12:31</p>
+<p align="right">Generated in 0.188s on Wed May 14 at 12:46</p>
