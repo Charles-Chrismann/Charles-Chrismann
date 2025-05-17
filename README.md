@@ -80,17 +80,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">15419</td>
-      <td align="center">
-        <a href="https://github.com/SKX-Pro" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/212001770?u=c2a847a86fdfcaff038f3e4e1db09269f6a993f9&v=4" alt="SKX-Pro" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/SKX-Pro" target="_blank">SKX-Pro</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">15420</td>
       <td align="center">
         <a href="https://github.com/DKwave" target="_blank">
@@ -114,6 +103,17 @@
     </tr>
     <tr>
       <td align="center">15422</td>
+      <td align="center">
+        <a href="https://github.com/brintadis" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/75175813?u=cbec2e05d553181e9763efaa8142b4a59fc3f89d&v=4" alt="brintadis" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/brintadis" target="_blank">brintadis</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">15423</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -935,4 +935,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.234s on Sat May 17 at 13:56</p>
+<p align="right">Generated in 0.246s on Sat May 17 at 14:21</p>
