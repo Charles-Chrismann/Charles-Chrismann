@@ -80,17 +80,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">15446</td>
-      <td align="center">
-        <a href="https://github.com/aosan" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/8534160?u=2244e14dbcafd6150ff52089bcc79cbf48297b2e&v=4" alt="aosan" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/aosan" target="_blank">aosan</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">15447</td>
       <td align="center">
         <a href="https://github.com/undefined-name12" target="_blank">
@@ -114,6 +103,17 @@
     </tr>
     <tr>
       <td align="center">15449</td>
+      <td align="center">
+        <a href="https://github.com/PrithwishDev" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/176946350?v=4" alt="PrithwishDev" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/PrithwishDev" target="_blank">PrithwishDev</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">15450</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -872,4 +872,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.189s on Mon May 19 at 15:16</p>
+<p align="right">Generated in 0.275s on Mon May 19 at 15:18</p>
