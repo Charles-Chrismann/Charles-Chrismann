@@ -82,17 +82,6 @@
     <tr>
       <td align="center">15500</td>
       <td align="center">
-        <a href="https://github.com/gr33kurious" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/187106256?u=299f48d6924329f4cc523bcd81dcb601f1170bf4&v=4" alt="gr33kurious" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/gr33kurious" target="_blank">gr33kurious</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">15501</td>
-      <td align="center">
         <a href="https://github.com/dev-ggomes" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/144538043?u=5041c93ec846590f30ffac8c780d798f5047df6d&v=4" alt="dev-ggomes" width="40" height="40"/>
         </a>
@@ -102,7 +91,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">15502</td>
+      <td align="center">15501</td>
       <td align="center">
         <a href="https://github.com/davehorner" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/140924?v=4" alt="davehorner" width="40" height="40"/>
@@ -110,6 +99,17 @@
       </td>
       <td>
         <a href="https://github.com/davehorner" target="_blank">davehorner</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">15502</td>
+      <td align="center">
+        <a href="https://github.com/CAN-Aidoo" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/118754424?u=92e33b8bcaaf0c062218bed0ba72a2eea47cfcbc&v=4" alt="CAN-Aidoo" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/CAN-Aidoo" target="_blank">CAN-Aidoo</a>
       </td>
     </tr>
     <tr>
@@ -925,4 +925,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.124s on Thu May 22 at 22:40</p>
+<p align="right">Generated in 0.127s on Thu May 22 at 22:51</p>
