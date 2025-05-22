@@ -105,7 +105,7 @@
       <td align="center">15488</td>
       <td align="center">
         <a href="https://github.com/ashcryptoreal" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/212851775?v=4" alt="ashcryptoreal" width="40" height="40"/>
+          <img src="https://avatars.githubusercontent.com/u/212851775?u=d83d072be1d6807b292405ac03aaa42b073ffe99&v=4" alt="ashcryptoreal" width="40" height="40"/>
         </a>
       </td>
       <td>
@@ -936,4 +936,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.758s on Thu May 22 at 7:59</p>
+<p align="right">Generated in 0.693s on Thu May 22 at 8:15</p>
