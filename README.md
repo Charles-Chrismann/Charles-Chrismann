@@ -80,40 +80,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">15513</td>
-      <td align="center">
-        <a href="https://github.com/TopTrenDev" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/55486112?u=1ce9c5c30942ea3e5a1c04f4a12a61533bbe59a0&v=4" alt="TopTrenDev" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/TopTrenDev" target="_blank">TopTrenDev</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">15514</td>
-      <td align="center">
-        <a href="https://github.com/Lotar-lucas" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/57187908?u=fce43aa60fda293407a92bab1575fd03af40d974&v=4" alt="Lotar-lucas" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Lotar-lucas" target="_blank">Lotar-lucas</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">15515</td>
       <td align="center">
-        <a href="https://github.com/BernaolaBarrientos" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/101528344?u=c55a8c07da4c5b6cbf0dfc8e8a04f8d82d0fe381&v=4" alt="BernaolaBarrientos" width="40" height="40"/>
+        <a href="https://github.com/Dev-Mania1988" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/212638199?u=ba5ca35875a67e4363d64c9d581111c74f1efc72&v=4" alt="Dev-Mania1988" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/BernaolaBarrientos" target="_blank">BernaolaBarrientos</a>
+        <a href="https://github.com/Dev-Mania1988" target="_blank">Dev-Mania1988</a>
       </td>
     </tr>
     <tr>
       <td align="center">15516</td>
+      <td align="center">
+        <a href="https://github.com/Gabriel-Matias07" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/124216130?u=60f4569a7aee0ec1201fb0b3145d5183223e2344&v=4" alt="Gabriel-Matias07" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Gabriel-Matias07" target="_blank">Gabriel-Matias07</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">15517</td>
+      <td align="center">
+        <a href="https://github.com/tail-s" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/98503573?u=3a12cd8e995285c7fa5f31028b528612044c6aac&v=4" alt="tail-s" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/tail-s" target="_blank">tail-s</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">15518</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -952,4 +952,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.404s on Sat May 24 at 4:14</p>
+<p align="right">Generated in 0.361s on Sat May 24 at 4:44</p>
