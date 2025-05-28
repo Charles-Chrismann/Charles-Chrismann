@@ -80,17 +80,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">15565</td>
-      <td align="center">
-        <a href="https://github.com/Akash18272001" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/176675135?u=332c18c2a476322fe57ea595c16ed34d2abcdc54&v=4" alt="Akash18272001" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Akash18272001" target="_blank">Akash18272001</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">15566</td>
       <td align="center">
         <a href="https://github.com/THE-EGYPTIAN-GOD" target="_blank">
@@ -114,6 +103,17 @@
     </tr>
     <tr>
       <td align="center">15568</td>
+      <td align="center">
+        <a href="https://github.com/DanielRiunge" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/198462733?v=4" alt="DanielRiunge" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/DanielRiunge" target="_blank">DanielRiunge</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">15569</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -927,4 +927,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.126s on Wed May 28 at 15:42</p>
+<p align="right">Generated in 0.12s on Wed May 28 at 15:44</p>
