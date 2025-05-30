@@ -80,17 +80,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">15588</td>
-      <td align="center">
-        <a href="https://github.com/devpratap4685" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/121054172?v=4" alt="devpratap4685" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/devpratap4685" target="_blank">devpratap4685</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">15589</td>
       <td align="center">
         <a href="https://github.com/jihaad23" target="_blank">
@@ -114,6 +103,17 @@
     </tr>
     <tr>
       <td align="center">15591</td>
+      <td align="center">
+        <a href="https://github.com/Diagnoster" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/67591330?u=737c7784c484cabb623f6f814d28a745a062df0c&v=4" alt="Diagnoster" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Diagnoster" target="_blank">Diagnoster</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">15592</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -925,4 +925,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.147s on Fri May 30 at 18:43</p>
+<p align="right">Generated in 0.319s on Fri May 30 at 19:09</p>
