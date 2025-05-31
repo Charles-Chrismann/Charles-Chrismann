@@ -80,17 +80,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">15590</td>
-      <td align="center">
-        <a href="https://github.com/Amanc77" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/148977902?u=60c13665a46243d256db64420fac79422f9325fc&v=4" alt="Amanc77" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Amanc77" target="_blank">Amanc77</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">15591</td>
       <td align="center">
         <a href="https://github.com/nkosi-ncube" target="_blank">
@@ -114,6 +103,17 @@
     </tr>
     <tr>
       <td align="center">15593</td>
+      <td align="center">
+        <a href="https://github.com/sabrinafn" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/90803080?v=4" alt="sabrinafn" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/sabrinafn" target="_blank">sabrinafn</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">15594</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -954,4 +954,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.406s on Sat May 31 at 11:51</p>
+<p align="right">Generated in 0.216s on Sat May 31 at 12:27</p>
