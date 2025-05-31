@@ -82,17 +82,6 @@
     <tr>
       <td align="center">15591</td>
       <td align="center">
-        <a href="https://github.com/4ugust0" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/89557713?u=2c7d79657114850056f2ef447aa9c3c96d1c29b9&v=4" alt="4ugust0" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/4ugust0" target="_blank">4ugust0</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">15592</td>
-      <td align="center">
         <a href="https://github.com/AlessandroWindson" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/111008328?u=89239b6570c08d75d0b2d887aee0d950f886c857&v=4" alt="AlessandroWindson" width="40" height="40"/>
         </a>
@@ -102,7 +91,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">15593</td>
+      <td align="center">15592</td>
       <td align="center">
         <a href="https://github.com/Amanc77" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/148977902?u=60c13665a46243d256db64420fac79422f9325fc&v=4" alt="Amanc77" width="40" height="40"/>
@@ -110,6 +99,17 @@
       </td>
       <td>
         <a href="https://github.com/Amanc77" target="_blank">Amanc77</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">15593</td>
+      <td align="center">
+        <a href="https://github.com/nkosi-ncube" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/100485709?u=752a294be3420ca1bf6f3d94e3f5ce86f2fc379f&v=4" alt="nkosi-ncube" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/nkosi-ncube" target="_blank">nkosi-ncube</a>
       </td>
     </tr>
     <tr>
@@ -942,4 +942,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.185s on Sat May 31 at 8:08</p>
+<p align="right">Generated in 0.372s on Sat May 31 at 8:09</p>
