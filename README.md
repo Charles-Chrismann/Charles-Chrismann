@@ -80,17 +80,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">15627</td>
-      <td align="center">
-        <a href="https://github.com/Isrealolas" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/96452783?v=4" alt="Isrealolas" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Isrealolas" target="_blank">Isrealolas</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">15628</td>
       <td align="center">
         <a href="https://github.com/Haitam-ops" target="_blank">
@@ -114,6 +103,17 @@
     </tr>
     <tr>
       <td align="center">15630</td>
+      <td align="center">
+        <a href="https://github.com/ChagasJG40" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/99503411?u=327b1b06b259bec73177d72ef281424e77c9986c&v=4" alt="ChagasJG40" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/ChagasJG40" target="_blank">ChagasJG40</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">15631</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -874,4 +874,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.42s on Mon Jun 2 at 19:32</p>
+<p align="right">Generated in 0.412s on Mon Jun 2 at 19:40</p>
