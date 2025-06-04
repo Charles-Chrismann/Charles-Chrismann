@@ -80,18 +80,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">15653</td>
-      <td align="center">
-        <a href="https://github.com/Enzopereira01" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/126246486?u=311ff69f05dc62d484eb8e0fc4c9b4b918aa9326&v=4" alt="Enzopereira01" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Enzopereira01" target="_blank">Enzopereira01</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">15654</td>
+      <td align="center">15652</td>
       <td align="center">
         <a href="https://github.com/wendeldh7" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/85760216?u=36984fe5e445d8d148155dfbe53f9837858a24d0&v=4" alt="wendeldh7" width="40" height="40"/>
@@ -102,7 +91,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">15655</td>
+      <td align="center">15653</td>
       <td align="center">
         <a href="https://github.com/Tristochi" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/25446427?u=a606124ecfece39cfd2fe9d1303dc90a3675af46&v=4" alt="Tristochi" width="40" height="40"/>
@@ -113,7 +102,18 @@
       </td>
     </tr>
     <tr>
-      <td align="center">15656</td>
+      <td align="center">15654</td>
+      <td align="center">
+        <a href="https://github.com/Amosi-04-sanga" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/70682160?u=cbf7eac84aa922576ddc91c35bd4d734ac5133e4&v=4" alt="Amosi-04-sanga" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Amosi-04-sanga" target="_blank">Amosi-04-sanga</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">15655</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -925,4 +925,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.167s on Wed Jun 4 at 16:54</p>
+<p align="right">Generated in 0.286s on Wed Jun 4 at 18:03</p>
