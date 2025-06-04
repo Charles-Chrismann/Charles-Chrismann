@@ -82,17 +82,6 @@
     <tr>
       <td align="center">15652</td>
       <td align="center">
-        <a href="https://github.com/I-Am-Shimanto" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/182544496?u=48e53cdf6a51e4578ad11bcf74faea5f892ca0ce&v=4" alt="I-Am-Shimanto" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/I-Am-Shimanto" target="_blank">I-Am-Shimanto</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">15653</td>
-      <td align="center">
         <a href="https://github.com/isaacudofia" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/100437247?u=8eb3127079443086db5f619729c3bd4e33752027&v=4" alt="isaacudofia" width="40" height="40"/>
         </a>
@@ -102,7 +91,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">15654</td>
+      <td align="center">15653</td>
       <td align="center">
         <a href="https://github.com/Enzopereira01" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/126246486?u=311ff69f05dc62d484eb8e0fc4c9b4b918aa9326&v=4" alt="Enzopereira01" width="40" height="40"/>
@@ -110,6 +99,17 @@
       </td>
       <td>
         <a href="https://github.com/Enzopereira01" target="_blank">Enzopereira01</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">15654</td>
+      <td align="center">
+        <a href="https://github.com/wendeldh7" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/85760216?u=36984fe5e445d8d148155dfbe53f9837858a24d0&v=4" alt="wendeldh7" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/wendeldh7" target="_blank">wendeldh7</a>
       </td>
     </tr>
     <tr>
@@ -929,4 +929,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.431s on Wed Jun 4 at 15:14</p>
+<p align="right">Generated in 0.136s on Wed Jun 4 at 15:14</p>
