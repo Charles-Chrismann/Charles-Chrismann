@@ -80,29 +80,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">15668</td>
-      <td align="center">
-        <a href="https://github.com/morrisbmm" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/74307584?u=9b26eb3b1507d9796a1effe5cb66d1f0aaf28c0c&v=4" alt="morrisbmm" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/morrisbmm" target="_blank">morrisbmm</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">15669</td>
-      <td align="center">
-        <a href="https://github.com/lLalvar" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/44973936?u=a27b4f7f6b38294e7dfdbdbb9d4afedf08b255f9&v=4" alt="lLalvar" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/lLalvar" target="_blank">lLalvar</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">15670</td>
       <td align="center">
         <a href="https://github.com/slvz2556" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/23501581?u=33761812e9330a2546ddefe2ddfc89bf40eb2d8f&v=4" alt="slvz2556" width="40" height="40"/>
@@ -113,7 +91,29 @@
       </td>
     </tr>
     <tr>
+      <td align="center">15670</td>
+      <td align="center">
+        <a href="https://github.com/lgmro" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/84135761?u=5e941a5053c4f9bc9344c692ca53fa0dcade9cc0&v=4" alt="lgmro" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/lgmro" target="_blank">lgmro</a>
+      </td>
+    </tr>
+    <tr>
       <td align="center">15671</td>
+      <td align="center">
+        <a href="https://github.com/Laqrabti" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/137748143?u=25ada4f4e2528e5ca28745e385002e9adc4f073d&v=4" alt="Laqrabti" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Laqrabti" target="_blank">Laqrabti</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">15672</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -957,4 +957,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.592s on Thu Jun 5 at 18:53</p>
+<p align="right">Generated in 0.522s on Thu Jun 5 at 18:53</p>
