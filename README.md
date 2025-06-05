@@ -80,17 +80,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">15666</td>
-      <td align="center">
-        <a href="https://github.com/bjmmtin" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/170737613?u=bfe0a6746803ce6b1c1eacdf8c332831f7166663&v=4" alt="bjmmtin" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/bjmmtin" target="_blank">bjmmtin</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">15667</td>
       <td align="center">
         <a href="https://github.com/corniac" target="_blank">
@@ -114,6 +103,17 @@
     </tr>
     <tr>
       <td align="center">15669</td>
+      <td align="center">
+        <a href="https://github.com/Baguel" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/114688432?u=be9c2e71a6bfa0ce3d64dc279dc07ba136ee7af0&v=4" alt="Baguel" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Baguel" target="_blank">Baguel</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">15670</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -932,4 +932,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.456s on Thu Jun 5 at 13:43</p>
+<p align="right">Generated in 0.2s on Thu Jun 5 at 13:59</p>
