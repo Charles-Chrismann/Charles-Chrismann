@@ -82,17 +82,6 @@
     <tr>
       <td align="center">15703</td>
       <td align="center">
-        <a href="https://github.com/yosuke-kuroki" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/206260453?u=701f8274aa77588eeba4d14e7a0132996468a187&v=4" alt="yosuke-kuroki" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/yosuke-kuroki" target="_blank">yosuke-kuroki</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">15704</td>
-      <td align="center">
         <a href="https://github.com/Emreserif13" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/76877385?v=4" alt="Emreserif13" width="40" height="40"/>
         </a>
@@ -102,7 +91,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">15705</td>
+      <td align="center">15704</td>
       <td align="center">
         <a href="https://github.com/hemanthreddy739" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/93938266?v=4" alt="hemanthreddy739" width="40" height="40"/>
@@ -110,6 +99,17 @@
       </td>
       <td>
         <a href="https://github.com/hemanthreddy739" target="_blank">hemanthreddy739</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">15705</td>
+      <td align="center">
+        <a href="https://github.com/jade-banares" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/83527821?u=d834b8db19af9a742def476ce6a2d317385b7c1d&v=4" alt="jade-banares" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/jade-banares" target="_blank">jade-banares</a>
       </td>
     </tr>
     <tr>
@@ -875,4 +875,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.313s on Sun Jun 8 at 15:29</p>
+<p align="right">Generated in 0.225s on Sun Jun 8 at 15:50</p>
