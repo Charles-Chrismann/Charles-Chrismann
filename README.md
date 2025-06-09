@@ -80,29 +80,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">15727</td>
-      <td align="center">
-        <a href="https://github.com/shadrackrotich" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/98980266?u=7d74f879bbf5bfa4304458833e5e42c32cbf5132&v=4" alt="shadrackrotich" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/shadrackrotich" target="_blank">shadrackrotich</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">15728</td>
-      <td align="center">
-        <a href="https://github.com/Crisstudy" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/142364995?u=739ece3eb6c7b8ed888d1a2f6ca61e41edded497&v=4" alt="Crisstudy" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Crisstudy" target="_blank">Crisstudy</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">15729</td>
       <td align="center">
         <a href="https://github.com/riji-ra" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/154855363?u=643667f262cd8ceb3e872628ac6a56c68ddf4dd0&v=4" alt="riji-ra" width="40" height="40"/>
@@ -113,7 +91,29 @@
       </td>
     </tr>
     <tr>
+      <td align="center">15729</td>
+      <td align="center">
+        <a href="https://github.com/Lennis-jpg" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/69394991?v=4" alt="Lennis-jpg" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Lennis-jpg" target="_blank">Lennis-jpg</a>
+      </td>
+    </tr>
+    <tr>
       <td align="center">15730</td>
+      <td align="center">
+        <a href="https://github.com/dagmaryost001001" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/214821877?u=80facfb62ac38678fa1c18f08bb4d4ad91cde233&v=4" alt="dagmaryost001001" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/dagmaryost001001" target="_blank">dagmaryost001001</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">15731</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -931,4 +931,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.174s on Mon Jun 9 at 16:44</p>
+<p align="right">Generated in 0.26s on Mon Jun 9 at 16:54</p>
