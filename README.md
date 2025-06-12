@@ -80,17 +80,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">15758</td>
-      <td align="center">
-        <a href="https://github.com/sorivy" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/142723344?v=4" alt="sorivy" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/sorivy" target="_blank">sorivy</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">15759</td>
       <td align="center">
         <a href="https://github.com/Rohullah-Sarabi" target="_blank">
@@ -114,6 +103,17 @@
     </tr>
     <tr>
       <td align="center">15761</td>
+      <td align="center">
+        <a href="https://github.com/FabianoPereiraOne" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/68227160?u=3a23a98e37554471055f78b7880f91d200c0dbc4&v=4" alt="FabianoPereiraOne" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/FabianoPereiraOne" target="_blank">FabianoPereiraOne</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">15762</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -947,4 +947,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.437s on Thu Jun 12 at 13:24</p>
+<p align="right">Generated in 0.447s on Thu Jun 12 at 13:32</p>
