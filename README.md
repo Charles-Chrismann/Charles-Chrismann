@@ -82,17 +82,6 @@
     <tr>
       <td align="center">15771</td>
       <td align="center">
-        <a href="https://github.com/Gurudusecksu" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/173101870?v=4" alt="Gurudusecksu" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Gurudusecksu" target="_blank">Gurudusecksu</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">15772</td>
-      <td align="center">
         <a href="https://github.com/ruandd9" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/169394633?v=4" alt="ruandd9" width="40" height="40"/>
         </a>
@@ -102,7 +91,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">15773</td>
+      <td align="center">15772</td>
       <td align="center">
         <a href="https://github.com/rumned" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/114634183?u=9ce7b67da89baa8cb5f12703bc682510a5ec596f&v=4" alt="rumned" width="40" height="40"/>
@@ -110,6 +99,17 @@
       </td>
       <td>
         <a href="https://github.com/rumned" target="_blank">rumned</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">15773</td>
+      <td align="center">
+        <a href="https://github.com/elitedev31" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/213835992?u=59ce3288364ccc1e6f6cfe50cffe3abdeb4e9bf2&v=4" alt="elitedev31" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/elitedev31" target="_blank">elitedev31</a>
       </td>
     </tr>
     <tr>
@@ -943,4 +943,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.355s on Sun Jun 15 at 3:28</p>
+<p align="right">Generated in 0.188s on Sun Jun 15 at 3:32</p>
