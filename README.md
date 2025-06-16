@@ -80,18 +80,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">15778</td>
-      <td align="center">
-        <a href="https://github.com/Nayeem0011" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/199944279?u=a9d1563b61efc98be658fc2316e4b6de9b5dfd4c&v=4" alt="Nayeem0011" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Nayeem0011" target="_blank">Nayeem0011</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">15779</td>
+      <td align="center">15780</td>
       <td align="center">
         <a href="https://github.com/wandersondlopes" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/4650642?u=e3ff9308aa13cf757465f6e097184714157cbd16&v=4" alt="wandersondlopes" width="40" height="40"/>
@@ -102,7 +91,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">15780</td>
+      <td align="center">15781</td>
       <td align="center">
         <a href="https://github.com/developer-business" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/191841511?v=4" alt="developer-business" width="40" height="40"/>
@@ -113,7 +102,18 @@
       </td>
     </tr>
     <tr>
-      <td align="center">15781</td>
+      <td align="center">15782</td>
+      <td align="center">
+        <a href="https://github.com/elvis07jr" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/1086753?v=4" alt="elvis07jr" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/elvis07jr" target="_blank">elvis07jr</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">15783</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -885,4 +885,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.359s on Mon Jun 16 at 9:32</p>
+<p align="right">Generated in 0.202s on Mon Jun 16 at 9:45</p>
