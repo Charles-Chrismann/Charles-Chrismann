@@ -80,18 +80,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">15779</td>
-      <td align="center">
-        <a href="https://github.com/developer-business" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/191841511?v=4" alt="developer-business" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/developer-business" target="_blank">developer-business</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">15780</td>
+      <td align="center">15778</td>
       <td align="center">
         <a href="https://github.com/elvis07jr" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/1086753?v=4" alt="elvis07jr" width="40" height="40"/>
@@ -102,7 +91,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">15781</td>
+      <td align="center">15779</td>
       <td align="center">
         <a href="https://github.com/byronalfonso" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/11499179?u=1db294e247157400bddcfc356076083fc20959b0&v=4" alt="byronalfonso" width="40" height="40"/>
@@ -113,7 +102,18 @@
       </td>
     </tr>
     <tr>
-      <td align="center">15782</td>
+      <td align="center">15780</td>
+      <td align="center">
+        <a href="https://github.com/Kvngstar" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/92078581?u=763eb86f3949d13a8058309b6287c6edbe3eeaa8&v=4" alt="Kvngstar" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Kvngstar" target="_blank">Kvngstar</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">15781</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -885,4 +885,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.23s on Mon Jun 16 at 11:55</p>
+<p align="right">Generated in 0.315s on Mon Jun 16 at 11:59</p>
