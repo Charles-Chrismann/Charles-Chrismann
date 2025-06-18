@@ -82,17 +82,6 @@
     <tr>
       <td align="center">15811</td>
       <td align="center">
-        <a href="https://github.com/Nuii-tekky" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/108229919?u=d7b096fe25809da2c84054b901ae707d027f2c61&v=4" alt="Nuii-tekky" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Nuii-tekky" target="_blank">Nuii-tekky</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">15812</td>
-      <td align="center">
         <a href="https://github.com/KauaHenriqueGoncalves" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/156836718?u=30c4c196242a41d2efe1ba8564422eec0115e1b2&v=4" alt="KauaHenriqueGoncalves" width="40" height="40"/>
         </a>
@@ -102,7 +91,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">15813</td>
+      <td align="center">15812</td>
       <td align="center">
         <a href="https://github.com/edganji" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/188688359?u=6bfb45554731632ac858b774df53affca04931da&v=4" alt="edganji" width="40" height="40"/>
@@ -110,6 +99,17 @@
       </td>
       <td>
         <a href="https://github.com/edganji" target="_blank">edganji</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">15813</td>
+      <td align="center">
+        <a href="https://github.com/cetincelik" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/61453074?u=4cd5b91665904ca63a78741a9622d50cf010f1e2&v=4" alt="cetincelik" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/cetincelik" target="_blank">cetincelik</a>
       </td>
     </tr>
     <tr>
@@ -920,4 +920,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.143s on Wed Jun 18 at 15:40</p>
+<p align="right">Generated in 0.152s on Wed Jun 18 at 16:04</p>
