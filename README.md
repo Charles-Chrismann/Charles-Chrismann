@@ -82,17 +82,6 @@
     <tr>
       <td align="center">15810</td>
       <td align="center">
-        <a href="https://github.com/Viniciusalmei" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/125322102?u=df15d174f70cdcc9ff47d652b4ee3753bb7b48ed&v=4" alt="Viniciusalmei" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Viniciusalmei" target="_blank">Viniciusalmei</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">15811</td>
-      <td align="center">
         <a href="https://github.com/jeanpmodev" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/199088727?u=58d87afeea00bc1aa0f36cad3bcb451294765be3&v=4" alt="jeanpmodev" width="40" height="40"/>
         </a>
@@ -102,7 +91,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">15812</td>
+      <td align="center">15811</td>
       <td align="center">
         <a href="https://github.com/Shimmita" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/121051316?u=f74cad33a10c2f4c2ac3970f804a0ff9e3404f5d&v=4" alt="Shimmita" width="40" height="40"/>
@@ -110,6 +99,17 @@
       </td>
       <td>
         <a href="https://github.com/Shimmita" target="_blank">Shimmita</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">15812</td>
+      <td align="center">
+        <a href="https://github.com/Nuii-tekky" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/108229919?u=d7b096fe25809da2c84054b901ae707d027f2c61&v=4" alt="Nuii-tekky" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Nuii-tekky" target="_blank">Nuii-tekky</a>
       </td>
     </tr>
     <tr>
@@ -940,4 +940,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.296s on Wed Jun 18 at 12:31</p>
+<p align="right">Generated in 0.149s on Wed Jun 18 at 12:57</p>
