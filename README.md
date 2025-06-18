@@ -82,17 +82,6 @@
     <tr>
       <td align="center">15810</td>
       <td align="center">
-        <a href="https://github.com/jeanpmodev" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/199088727?u=58d87afeea00bc1aa0f36cad3bcb451294765be3&v=4" alt="jeanpmodev" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/jeanpmodev" target="_blank">jeanpmodev</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">15811</td>
-      <td align="center">
         <a href="https://github.com/Shimmita" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/121051316?u=f74cad33a10c2f4c2ac3970f804a0ff9e3404f5d&v=4" alt="Shimmita" width="40" height="40"/>
         </a>
@@ -102,7 +91,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">15812</td>
+      <td align="center">15811</td>
       <td align="center">
         <a href="https://github.com/Nuii-tekky" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/108229919?u=d7b096fe25809da2c84054b901ae707d027f2c61&v=4" alt="Nuii-tekky" width="40" height="40"/>
@@ -110,6 +99,17 @@
       </td>
       <td>
         <a href="https://github.com/Nuii-tekky" target="_blank">Nuii-tekky</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">15812</td>
+      <td align="center">
+        <a href="https://github.com/KauaHenriqueGoncalves" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/156836718?u=30c4c196242a41d2efe1ba8564422eec0115e1b2&v=4" alt="KauaHenriqueGoncalves" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/KauaHenriqueGoncalves" target="_blank">KauaHenriqueGoncalves</a>
       </td>
     </tr>
     <tr>
@@ -940,4 +940,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.154s on Wed Jun 18 at 14:05</p>
+<p align="right">Generated in 0.166s on Wed Jun 18 at 14:20</p>
