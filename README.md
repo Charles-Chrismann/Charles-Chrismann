@@ -80,17 +80,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">15827</td>
-      <td align="center">
-        <a href="https://github.com/wscfan" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/20600281?u=688e51c4edb2dba13380de6940d62691e9e5589c&v=4" alt="wscfan" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/wscfan" target="_blank">wscfan</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">15828</td>
       <td align="center">
         <a href="https://github.com/codewithdhruba01" target="_blank">
@@ -114,6 +103,17 @@
     </tr>
     <tr>
       <td align="center">15830</td>
+      <td align="center">
+        <a href="https://github.com/KaneEast" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/13726303?v=4" alt="KaneEast" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/KaneEast" target="_blank">KaneEast</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">15831</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -953,4 +953,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.176s on Fri Jun 20 at 9:56</p>
+<p align="right">Generated in 0.261s on Fri Jun 20 at 10:01</p>
