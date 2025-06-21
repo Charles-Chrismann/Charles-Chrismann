@@ -82,17 +82,6 @@
     <tr>
       <td align="center">15839</td>
       <td align="center">
-        <a href="https://github.com/WendelAgra" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/101684715?v=4" alt="WendelAgra" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/WendelAgra" target="_blank">WendelAgra</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">15840</td>
-      <td align="center">
         <a href="https://github.com/BhagwaniVishi" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/162348077?u=fee38e039006f526c342d1f2a6a473f8887dc7f7&v=4" alt="BhagwaniVishi" width="40" height="40"/>
         </a>
@@ -102,7 +91,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">15841</td>
+      <td align="center">15840</td>
       <td align="center">
         <a href="https://github.com/mandimartins" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/47390004?u=13aa0bc38c1790ef4309fbeb34432ae22a20655b&v=4" alt="mandimartins" width="40" height="40"/>
@@ -110,6 +99,17 @@
       </td>
       <td>
         <a href="https://github.com/mandimartins" target="_blank">mandimartins</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">15841</td>
+      <td align="center">
+        <a href="https://github.com/liftctrl" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/54854184?u=2c7fab97dec78ee536e57cc02667e25e0b1d39b8&v=4" alt="liftctrl" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/liftctrl" target="_blank">liftctrl</a>
       </td>
     </tr>
     <tr>
@@ -942,4 +942,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.191s on Sat Jun 21 at 4:05</p>
+<p align="right">Generated in 0.205s on Sat Jun 21 at 4:22</p>
