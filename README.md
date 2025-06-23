@@ -82,17 +82,6 @@
     <tr>
       <td align="center">15853</td>
       <td align="center">
-        <a href="https://github.com/dalmasm" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/122312864?u=dc8ff64571e3e44ff56813ea3ecad852795b1e47&v=4" alt="dalmasm" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/dalmasm" target="_blank">dalmasm</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">15854</td>
-      <td align="center">
         <a href="https://github.com/kesesek" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/126723293?u=d4ed7de6c4250e59dde0d08e6b12651e37dbd423&v=4" alt="kesesek" width="40" height="40"/>
         </a>
@@ -102,7 +91,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">15855</td>
+      <td align="center">15854</td>
       <td align="center">
         <a href="https://github.com/UsQuake" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/24998577?u=2d5f0994ca0b93605b3b953802bd690533b9a0f7&v=4" alt="UsQuake" width="40" height="40"/>
@@ -110,6 +99,17 @@
       </td>
       <td>
         <a href="https://github.com/UsQuake" target="_blank">UsQuake</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">15855</td>
+      <td align="center">
+        <a href="https://github.com/semihgezerca" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/217569430?v=4" alt="semihgezerca" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/semihgezerca" target="_blank">semihgezerca</a>
       </td>
     </tr>
     <tr>
@@ -935,4 +935,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.167s on Mon Jun 23 at 9:03</p>
+<p align="right">Generated in 0.159s on Mon Jun 23 at 9:11</p>
