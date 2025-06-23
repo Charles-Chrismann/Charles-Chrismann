@@ -551,7 +551,7 @@
       <td align="center">♞      </td>
       <td align="center">♝      </td>
       <td align="center">♛      </td>
-      <td align="center">♚      </td>
+      <td align="center">‎       </td>
       <td align="center">‎       </td>
       <td align="center">♞      </td>
       <td align="center">♜      </td>
@@ -563,7 +563,7 @@
       <td align="center">♟      </td>
       <td align="center">♗      </td>
       <td align="center">♟      </td>
-      <td align="center">♟      </td>
+      <td align="center">♚      </td>
       <td align="center">♟      </td>
       <td align="center">♟      </td>
     </tr>
@@ -585,7 +585,7 @@
       <td align="center">‎       </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
-      <td align="center">‎       </td>
+      <td align="center">♘      </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
     </tr>
@@ -608,7 +608,7 @@
       <td align="center">♙      </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
-      <td align="center">♘      </td>
+      <td align="center">‎       </td>
       <td align="center">‎       </td>
     </tr>
     <tr>
@@ -873,4 +873,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.339s on Mon Jun 23 at 17:37</p>
+<p align="right">Generated in 0.199s on Mon Jun 23 at 18:56</p>
