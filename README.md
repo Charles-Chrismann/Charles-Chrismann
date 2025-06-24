@@ -82,17 +82,6 @@
     <tr>
       <td align="center">15859</td>
       <td align="center">
-        <a href="https://github.com/aldidoanta" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/4391973?v=4" alt="aldidoanta" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/aldidoanta" target="_blank">aldidoanta</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">15860</td>
-      <td align="center">
         <a href="https://github.com/TheRealJim1" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/108199944?u=44f1d92033961f4a8a3c7f80d0aa175d3c3f15b4&v=4" alt="TheRealJim1" width="40" height="40"/>
         </a>
@@ -102,7 +91,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">15861</td>
+      <td align="center">15860</td>
       <td align="center">
         <a href="https://github.com/SilentProgrammer-max" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/193732801?u=85f4fba64a0b41b86ed93368da828ad887d6ad59&v=4" alt="SilentProgrammer-max" width="40" height="40"/>
@@ -110,6 +99,17 @@
       </td>
       <td>
         <a href="https://github.com/SilentProgrammer-max" target="_blank">SilentProgrammer-max</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">15861</td>
+      <td align="center">
+        <a href="https://github.com/briananotado" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/150988643?u=90f8c22a08afff6bac4dd1f808849935f478234c&v=4" alt="briananotado" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/briananotado" target="_blank">briananotado</a>
       </td>
     </tr>
     <tr>
@@ -925,4 +925,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 3.642s on Tue Jun 24 at 15:04</p>
+<p align="right">Generated in 3.703s on Tue Jun 24 at 15:09</p>
