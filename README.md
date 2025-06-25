@@ -105,7 +105,7 @@
       <td align="center">15878</td>
       <td align="center">
         <a href="https://github.com/entropymaxx" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/216183410?v=4" alt="entropymaxx" width="40" height="40"/>
+          <img src="https://avatars.githubusercontent.com/u/216183410?u=ae76bf0bffe9c1062d2c72569b08891d4ff741da&v=4" alt="entropymaxx" width="40" height="40"/>
         </a>
       </td>
       <td>
@@ -944,4 +944,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.164s on Wed Jun 25 at 16:42</p>
+<p align="right">Generated in 0.165s on Wed Jun 25 at 17:01</p>
