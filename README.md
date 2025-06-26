@@ -80,29 +80,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">15890</td>
-      <td align="center">
-        <a href="https://github.com/megalodontia" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/107318841?u=c06d74437e35e65885114ac93bb0250689d23431&v=4" alt="megalodontia" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/megalodontia" target="_blank">megalodontia</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">15891</td>
-      <td align="center">
-        <a href="https://github.com/AlexisGioia" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/156523051?v=4" alt="AlexisGioia" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/AlexisGioia" target="_blank">AlexisGioia</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">15892</td>
       <td align="center">
         <a href="https://github.com/EsneiderMajin" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/99764615?u=87ba26bfda3dbbe1f764415e05b73751d9983506&v=4" alt="EsneiderMajin" width="40" height="40"/>
@@ -113,7 +91,29 @@
       </td>
     </tr>
     <tr>
+      <td align="center">15892</td>
+      <td align="center">
+        <a href="https://github.com/briananotado" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/150988643?u=90f8c22a08afff6bac4dd1f808849935f478234c&v=4" alt="briananotado" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/briananotado" target="_blank">briananotado</a>
+      </td>
+    </tr>
+    <tr>
       <td align="center">15893</td>
+      <td align="center">
+        <a href="https://github.com/ishandutta2007" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/2527354?u=6bac124f7707983d195cc2c7846104272bfef200&v=4" alt="ishandutta2007" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/ishandutta2007" target="_blank">ishandutta2007</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">15894</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -943,4 +943,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.409s on Thu Jun 26 at 22:00</p>
+<p align="right">Generated in 0.438s on Thu Jun 26 at 23:23</p>
