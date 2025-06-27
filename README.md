@@ -80,17 +80,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">15897</td>
-      <td align="center">
-        <a href="https://github.com/sntk-76" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/109945697?u=32d00454409c0be89d137e9b4e1972aca5977b3a&v=4" alt="sntk-76" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/sntk-76" target="_blank">sntk-76</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">15898</td>
       <td align="center">
         <a href="https://github.com/briananotado" target="_blank">
@@ -114,6 +103,17 @@
     </tr>
     <tr>
       <td align="center">15900</td>
+      <td align="center">
+        <a href="https://github.com/talent-guru" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/217628887?u=1fd693d4eb16846b96aeb942e49775c0e4b588b6&v=4" alt="talent-guru" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/talent-guru" target="_blank">talent-guru</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">15901</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -928,4 +928,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.178s on Fri Jun 27 at 13:38</p>
+<p align="right">Generated in 0.364s on Fri Jun 27 at 14:05</p>
