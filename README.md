@@ -82,17 +82,6 @@
     <tr>
       <td align="center">15899</td>
       <td align="center">
-        <a href="https://github.com/talent-guru" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/217628887?u=1fd693d4eb16846b96aeb942e49775c0e4b588b6&v=4" alt="talent-guru" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/talent-guru" target="_blank">talent-guru</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">15900</td>
-      <td align="center">
         <a href="https://github.com/usasmmhivewqssde" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/216269752?u=757f54531af7a633a8d9da9df30abe230257216f&v=4" alt="usasmmhivewqssde" width="40" height="40"/>
         </a>
@@ -102,7 +91,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">15901</td>
+      <td align="center">15900</td>
       <td align="center">
         <a href="https://github.com/youssef88ab" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/82283823?u=7614423827606abd3d1aa44e3c864e0b94737782&v=4" alt="youssef88ab" width="40" height="40"/>
@@ -110,6 +99,17 @@
       </td>
       <td>
         <a href="https://github.com/youssef88ab" target="_blank">youssef88ab</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">15901</td>
+      <td align="center">
+        <a href="https://github.com/nancythomas68" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/194291763?u=679d3a402342dcd6bc9f019d2c192219bf1a103c&v=4" alt="nancythomas68" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/nancythomas68" target="_blank">nancythomas68</a>
       </td>
     </tr>
     <tr>
@@ -943,4 +943,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.242s on Fri Jun 27 at 17:56</p>
+<p align="right">Generated in 0.245s on Fri Jun 27 at 18:08</p>
