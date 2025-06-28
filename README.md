@@ -80,17 +80,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">15899</td>
-      <td align="center">
-        <a href="https://github.com/code-sum" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/106902415?u=b37e5bd3052ad4e11b74ba9695faa007bf15ded9&v=4" alt="code-sum" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/code-sum" target="_blank">code-sum</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">15900</td>
       <td align="center">
         <a href="https://github.com/weldthami" target="_blank">
@@ -114,6 +103,17 @@
     </tr>
     <tr>
       <td align="center">15902</td>
+      <td align="center">
+        <a href="https://github.com/Jerry-Wemisiko" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/82439539?u=7436df4de376da1e48356695be5ae476abe8185a&v=4" alt="Jerry-Wemisiko" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Jerry-Wemisiko" target="_blank">Jerry-Wemisiko</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">15903</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -925,4 +925,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.124s on Sat Jun 28 at 5:06</p>
+<p align="right">Generated in 0.226s on Sat Jun 28 at 5:49</p>
