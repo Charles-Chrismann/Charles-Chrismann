@@ -104,12 +104,12 @@
     <tr>
       <td align="center">15910</td>
       <td align="center">
-        <a href="https://github.com/LovelyMe-Nachi" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/186932345?u=d115039241459773f964d589be9cf6a28011a9db&v=4" alt="LovelyMe-Nachi" width="40" height="40"/>
+        <a href="https://github.com/Ohakwe-Love" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/186932345?u=1843efe4c49970380e16281121b73aeb7c4561c3&v=4" alt="Ohakwe-Love" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/LovelyMe-Nachi" target="_blank">LovelyMe-Nachi</a>
+        <a href="https://github.com/Ohakwe-Love" target="_blank">Ohakwe-Love</a>
       </td>
     </tr>
     <tr>
@@ -944,4 +944,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.291s on Sat Jun 28 at 22:49</p>
+<p align="right">Generated in 0.145s on Sat Jun 28 at 22:49</p>
