@@ -105,7 +105,7 @@
       <td align="center">15917</td>
       <td align="center">
         <a href="https://github.com/Emilosaurus" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/78587473?u=02396fe9b57f2078f3b49d14b3abb939f8325609&v=4" alt="Emilosaurus" width="40" height="40"/>
+          <img src="https://avatars.githubusercontent.com/u/78587473?u=3e8d773df49791cd71ac87cae1a9cf33a6302a03&v=4" alt="Emilosaurus" width="40" height="40"/>
         </a>
       </td>
       <td>
@@ -944,4 +944,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.269s on Mon Jun 30 at 6:36</p>
+<p align="right">Generated in 0.265s on Mon Jun 30 at 6:39</p>
