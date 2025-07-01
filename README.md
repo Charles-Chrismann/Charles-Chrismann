@@ -80,18 +80,18 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">15898</td>
+      <td align="center">15897</td>
       <td align="center">
-        <a href="https://github.com/briananotado" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/150988643?u=90f8c22a08afff6bac4dd1f808849935f478234c&v=4" alt="briananotado" width="40" height="40"/>
+        <a href="https://github.com/yordanos-bogale5" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/145749217?u=7685ef35493a5145238727280a2c7272dd2cfc0b&v=4" alt="yordanos-bogale5" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/briananotado" target="_blank">briananotado</a>
+        <a href="https://github.com/yordanos-bogale5" target="_blank">yordanos-bogale5</a>
       </td>
     </tr>
     <tr>
-      <td align="center">15899</td>
+      <td align="center">15898</td>
       <td align="center">
         <a href="https://github.com/JavadTorabiKh" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/133141970?u=49313d00a84a0b67ea21024944ef9e3144d4895d&v=4" alt="JavadTorabiKh" width="40" height="40"/>
@@ -102,7 +102,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">15900</td>
+      <td align="center">15899</td>
       <td align="center">
         <a href="https://github.com/karina-klinkeviciute" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/8834031?v=4" alt="karina-klinkeviciute" width="40" height="40"/>
@@ -113,7 +113,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">15901</td>
+      <td align="center">15900</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -957,4 +957,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.215s on Tue Jul 1 at 14:42</p>
+<p align="right">Generated in 0.216s on Tue Jul 1 at 14:48</p>
