@@ -80,17 +80,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">15900</td>
-      <td align="center">
-        <a href="https://github.com/IgCodeCraft32" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/151102839?u=0c0ef29e1ce7ea6ae7b43f9856666b354a4daa38&v=4" alt="IgCodeCraft32" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/IgCodeCraft32" target="_blank">IgCodeCraft32</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">15901</td>
       <td align="center">
         <a href="https://github.com/ishandutta2007" target="_blank">
@@ -114,6 +103,17 @@
     </tr>
     <tr>
       <td align="center">15903</td>
+      <td align="center">
+        <a href="https://github.com/Thenamu" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/133782100?u=ee5692adcb1e526cf43ae6a8aa625d8878ba10a5&v=4" alt="Thenamu" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Thenamu" target="_blank">Thenamu</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">15904</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -925,4 +925,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.126s on Wed Jul 2 at 7:00</p>
+<p align="right">Generated in 0.122s on Wed Jul 2 at 7:10</p>
