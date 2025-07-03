@@ -82,17 +82,6 @@
     <tr>
       <td align="center">15908</td>
       <td align="center">
-        <a href="https://github.com/wecoded-dev" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/196182741?u=4e43b952a65f3b01cf09e076166f147d939f825f&v=4" alt="wecoded-dev" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/wecoded-dev" target="_blank">wecoded-dev</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">15909</td>
-      <td align="center">
         <a href="https://github.com/NagoyaKensuke" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/46418599?u=ee94483d0a2a7972ba0af782495dbfe51d25ea0d&v=4" alt="NagoyaKensuke" width="40" height="40"/>
         </a>
@@ -102,7 +91,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">15910</td>
+      <td align="center">15909</td>
       <td align="center">
         <a href="https://github.com/rudrapratap592005" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/169872286?u=310f92f8d9d2cea466c3271aa07957c30eb657a5&v=4" alt="rudrapratap592005" width="40" height="40"/>
@@ -110,6 +99,17 @@
       </td>
       <td>
         <a href="https://github.com/rudrapratap592005" target="_blank">rudrapratap592005</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">15910</td>
+      <td align="center">
+        <a href="https://github.com/briananotado" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/150988643?u=90f8c22a08afff6bac4dd1f808849935f478234c&v=4" alt="briananotado" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/briananotado" target="_blank">briananotado</a>
       </td>
     </tr>
     <tr>
@@ -949,4 +949,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.388s on Thu Jul 3 at 13:55</p>
+<p align="right">Generated in 0.393s on Thu Jul 3 at 14:04</p>
