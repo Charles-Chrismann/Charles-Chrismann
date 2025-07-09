@@ -80,40 +80,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">15964</td>
-      <td align="center">
-        <a href="https://github.com/felpscybernet" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/89610077?u=c7f936c3bbd3c6d5d3eae9481684fe0bece050cb&v=4" alt="felpscybernet" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/felpscybernet" target="_blank">felpscybernet</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">15965</td>
-      <td align="center">
-        <a href="https://github.com/MadRukus" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/430401?v=4" alt="MadRukus" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/MadRukus" target="_blank">MadRukus</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">15966</td>
-      <td align="center">
-        <a href="https://github.com/davellanedam" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/5108067?u=84ee0204edf9516e74753a4d8cf1e7f8bdf05b44&v=4" alt="davellanedam" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/davellanedam" target="_blank">davellanedam</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">15967</td>
+      <td align="center">
+        <a href="https://github.com/lucasqatech" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/213309731?v=4" alt="lucasqatech" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/lucasqatech" target="_blank">lucasqatech</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">15968</td>
+      <td align="center">
+        <a href="https://github.com/DevOam" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/114288376?u=65185bf8d487005be5ad2371751a48772530dfb7&v=4" alt="DevOam" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/DevOam" target="_blank">DevOam</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">15969</td>
+      <td align="center">
+        <a href="https://github.com/ntkachenko21" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/194839143?u=951cfc6f947d4522d78251c73d5fb8cf2f5bc873&v=4" alt="ntkachenko21" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/ntkachenko21" target="_blank">ntkachenko21</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">15970</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -959,4 +959,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.214s on Wed Jul 9 at 15:45</p>
+<p align="right">Generated in 0.303s on Wed Jul 9 at 15:50</p>
