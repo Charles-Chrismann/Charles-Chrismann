@@ -743,16 +743,6 @@
   </thead>
   <tbody>
     <tr>
-      <td>$\text{\color{white}{R}}$</td>
-      <td>$\text{\color{orange}{A}}$</td>
-      <td>$\text{\color{white}{I}}$</td>
-      <td>$\text{\color{white}{S}}$</td>
-      <td>$\text{\color{orange}{E}}$</td>
-      <td>
-        <a href="https://github.com/GoularteLB">@GoularteLB</a>
-      </td>
-    </tr>
-    <tr>
       <td>‎ </td>
       <td>‎ </td>
       <td>‎ </td>
@@ -958,4 +948,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.362s on Wed Jul 9 at 21:10</p>
+<p align="right">Generated in 0.343s on Wed Jul 9 at 22:00</p>
