@@ -82,17 +82,6 @@
     <tr>
       <td align="center">15967</td>
       <td align="center">
-        <a href="https://github.com/bahattinyunuscetin" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/83650878?u=2dd983bae457b73c07f7f1aedea33a5930300849&v=4" alt="bahattinyunuscetin" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/bahattinyunuscetin" target="_blank">bahattinyunuscetin</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">15968</td>
-      <td align="center">
         <a href="https://github.com/felpscybernet" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/89610077?u=c7f936c3bbd3c6d5d3eae9481684fe0bece050cb&v=4" alt="felpscybernet" width="40" height="40"/>
         </a>
@@ -102,7 +91,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">15969</td>
+      <td align="center">15968</td>
       <td align="center">
         <a href="https://github.com/MadRukus" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/430401?v=4" alt="MadRukus" width="40" height="40"/>
@@ -110,6 +99,17 @@
       </td>
       <td>
         <a href="https://github.com/MadRukus" target="_blank">MadRukus</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">15969</td>
+      <td align="center">
+        <a href="https://github.com/davellanedam" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/5108067?u=84ee0204edf9516e74753a4d8cf1e7f8bdf05b44&v=4" alt="davellanedam" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/davellanedam" target="_blank">davellanedam</a>
       </td>
     </tr>
     <tr>
@@ -925,4 +925,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.413s on Wed Jul 9 at 8:00</p>
+<p align="right">Generated in 0.35s on Wed Jul 9 at 8:04</p>
