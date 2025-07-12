@@ -80,17 +80,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">16002</td>
-      <td align="center">
-        <a href="https://github.com/AresAdora" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/84374009?u=1c90ec98fcca894faef5945baad62e980aaa77ac&v=4" alt="AresAdora" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/AresAdora" target="_blank">AresAdora</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">16003</td>
       <td align="center">
         <a href="https://github.com/aappy01" target="_blank">
@@ -114,6 +103,17 @@
     </tr>
     <tr>
       <td align="center">16005</td>
+      <td align="center">
+        <a href="https://github.com/MuiruriSK" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/157828999?v=4" alt="MuiruriSK" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/MuiruriSK" target="_blank">MuiruriSK</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">16006</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -935,4 +935,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.198s on Sat Jul 12 at 12:02</p>
+<p align="right">Generated in 0.226s on Sat Jul 12 at 12:03</p>
