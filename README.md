@@ -94,7 +94,7 @@
       <td align="center">16006</td>
       <td align="center">
         <a href="https://github.com/afsar-dev" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/154600314?v=4" alt="afsar-dev" width="40" height="40"/>
+          <img src="https://avatars.githubusercontent.com/u/154600314?u=f26a85938fa9bd918aba674d7419c2a61805c426&v=4" alt="afsar-dev" width="40" height="40"/>
         </a>
       </td>
       <td>
@@ -925,4 +925,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.358s on Sat Jul 12 at 15:23</p>
+<p align="right">Generated in 0.315s on Sat Jul 12 at 15:28</p>
