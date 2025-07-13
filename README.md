@@ -82,17 +82,6 @@
     <tr>
       <td align="center">16012</td>
       <td align="center">
-        <a href="https://github.com/Mingyang0018" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/85098418?v=4" alt="Mingyang0018" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Mingyang0018" target="_blank">Mingyang0018</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">16013</td>
-      <td align="center">
         <a href="https://github.com/n-cognto" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/152717293?u=83de7d1b2840cbc463a8e2374f86a12a00b182e8&v=4" alt="n-cognto" width="40" height="40"/>
         </a>
@@ -102,7 +91,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">16014</td>
+      <td align="center">16013</td>
       <td align="center">
         <a href="https://github.com/rafallltm" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/29133616?u=8faafddca01b7358f03ac1289cf2068bcaa33bb0&v=4" alt="rafallltm" width="40" height="40"/>
@@ -110,6 +99,17 @@
       </td>
       <td>
         <a href="https://github.com/rafallltm" target="_blank">rafallltm</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">16014</td>
+      <td align="center">
+        <a href="https://github.com/TAKINGdev" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/164622511?u=68743385fdd75c809363ebbfa0891d941e635acc&v=4" alt="TAKINGdev" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/TAKINGdev" target="_blank">TAKINGdev</a>
       </td>
     </tr>
     <tr>
@@ -936,4 +936,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.44s on Sun Jul 13 at 13:49</p>
+<p align="right">Generated in 1.349s on Sun Jul 13 at 13:50</p>
