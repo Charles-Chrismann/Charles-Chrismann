@@ -80,18 +80,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">16028</td>
-      <td align="center">
-        <a href="https://github.com/0bio0" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/137343776?v=4" alt="0bio0" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/0bio0" target="_blank">0bio0</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">16029</td>
+      <td align="center">16030</td>
       <td align="center">
         <a href="https://github.com/pedrotomazdev" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/60102999?u=93f342a9039904feea42b98dd86f36a0c3e21a1e&v=4" alt="pedrotomazdev" width="40" height="40"/>
@@ -102,7 +91,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">16030</td>
+      <td align="center">16031</td>
       <td align="center">
         <a href="https://github.com/mimoccc" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/289705?u=f337a5958199b0f4670f4f12f6c86d9852ae65cc&v=4" alt="mimoccc" width="40" height="40"/>
@@ -113,7 +102,18 @@
       </td>
     </tr>
     <tr>
-      <td align="center">16031</td>
+      <td align="center">16032</td>
+      <td align="center">
+        <a href="https://github.com/wagnermc506" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/47457792?u=b914e3f391c2e1789a0a9378ba3628b2c861a9d8&v=4" alt="wagnermc506" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/wagnermc506" target="_blank">wagnermc506</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">16033</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -932,4 +932,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.453s on Mon Jul 14 at 15:58</p>
+<p align="right">Generated in 0.454s on Mon Jul 14 at 17:18</p>
