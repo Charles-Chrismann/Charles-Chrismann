@@ -80,40 +80,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">16033</td>
-      <td align="center">
-        <a href="https://github.com/AdnanBolifa" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/64565509?u=73471d7023ec34f58a3b85f3b6367e06b99d5d3a&v=4" alt="AdnanBolifa" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/AdnanBolifa" target="_blank">AdnanBolifa</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">16034</td>
-      <td align="center">
-        <a href="https://github.com/0xJeff1" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/78095454?u=407aeb4c74945925e763813026c5756b4f084ad3&v=4" alt="0xJeff1" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/0xJeff1" target="_blank">0xJeff1</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">16035</td>
-      <td align="center">
-        <a href="https://github.com/furkanterzi0" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/118385938?u=e3fc15f8e2a5e40437e5fafe23ade2e7754044b5&v=4" alt="furkanterzi0" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/furkanterzi0" target="_blank">furkanterzi0</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">16036</td>
+      <td align="center">
+        <a href="https://github.com/LeonardoFebba" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/86565503?u=8141370ee53ca95c16f9139d1e0a6aec4d36b15e&v=4" alt="LeonardoFebba" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/LeonardoFebba" target="_blank">LeonardoFebba</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">16037</td>
+      <td align="center">
+        <a href="https://github.com/Salamandery" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/5824220?u=d0efdb5a3ff12a0fda34b7d2116483770626fadd&v=4" alt="Salamandery" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Salamandery" target="_blank">Salamandery</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">16038</td>
+      <td align="center">
+        <a href="https://github.com/KushalPathak21" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/197114404?v=4" alt="KushalPathak21" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/KushalPathak21" target="_blank">KushalPathak21</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">16039</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -942,4 +942,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.513s on Mon Jul 14 at 19:54</p>
+<p align="right">Generated in 0.456s on Mon Jul 14 at 20:11</p>
