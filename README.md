@@ -80,40 +80,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">16075</td>
-      <td align="center">
-        <a href="https://github.com/rijulER6" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/150535584?u=9b431581a61391aa67e5d5c71a6158ad166bd7a7&v=4" alt="rijulER6" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/rijulER6" target="_blank">rijulER6</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">16076</td>
-      <td align="center">
-        <a href="https://github.com/miztizm" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/617020?u=f63bacb83a8aefdca6ee9d2aaf1d2aa184137d07&v=4" alt="miztizm" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/miztizm" target="_blank">miztizm</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">16077</td>
-      <td align="center">
-        <a href="https://github.com/ERTWENTY" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/150726860?u=d9ec98a870b377051a78000bc260a84f4acdee37&v=4" alt="ERTWENTY" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/ERTWENTY" target="_blank">ERTWENTY</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">16078</td>
+      <td align="center">
+        <a href="https://github.com/osmanx8" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/57502044?u=1566d7ffef396db9e53e992753e0f063d9631677&v=4" alt="osmanx8" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/osmanx8" target="_blank">osmanx8</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">16079</td>
+      <td align="center">
+        <a href="https://github.com/geovanavillafranca" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/67127199?u=ac90fae0e6d5689678ccb1f7ec91de3fff6cba1f&v=4" alt="geovanavillafranca" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/geovanavillafranca" target="_blank">geovanavillafranca</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">16080</td>
+      <td align="center">
+        <a href="https://github.com/mary-dante" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/197336549?u=575eaa7511c59bb50eea62aa3e8be79d3a64b034&v=4" alt="mary-dante" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/mary-dante" target="_blank">mary-dante</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">16081</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -958,4 +958,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.209s on Fri Jul 18 at 1:05</p>
+<p align="right">Generated in 0.414s on Fri Jul 18 at 1:35</p>
