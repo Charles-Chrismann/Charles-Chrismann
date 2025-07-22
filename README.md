@@ -80,17 +80,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">16118</td>
-      <td align="center">
-        <a href="https://github.com/dinesh0831" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/81325951?u=df030c3a672b98ccbd26417075aaf0a39e7ad7f9&v=4" alt="dinesh0831" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/dinesh0831" target="_blank">dinesh0831</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">16119</td>
       <td align="center">
         <a href="https://github.com/chatman-media" target="_blank">
@@ -114,6 +103,17 @@
     </tr>
     <tr>
       <td align="center">16121</td>
+      <td align="center">
+        <a href="https://github.com/tcraig4" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/153317827?v=4" alt="tcraig4" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/tcraig4" target="_blank">tcraig4</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">16122</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -421,7 +421,7 @@
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=4&y=8">:black_large_square:</a>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=5&y=8">:black_large_square:</a>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=6&y=8">:black_large_square:</a>
-  <a href="https://o.charles-chrismann.fr/minesweeper/click?x=7&y=8">:black_large_square:</a>
+  <span>:three:</span>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=8&y=8">:black_large_square:</a>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=9&y=8">:black_large_square:</a>
   <a href="https://o.charles-chrismann.fr/minesweeper/click?x=10&y=8">:black_large_square:</a>
@@ -947,4 +947,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.183s on Tue Jul 22 at 13:21</p>
+<p align="right">Generated in 0.274s on Tue Jul 22 at 13:21</p>
