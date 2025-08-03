@@ -80,40 +80,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">16256</td>
-      <td align="center">
-        <a href="https://github.com/ajinkyaspatil20" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/157957821?u=09af11305dc143c29e62cfe9ca2f432f50e47482&v=4" alt="ajinkyaspatil20" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/ajinkyaspatil20" target="_blank">ajinkyaspatil20</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">16257</td>
-      <td align="center">
-        <a href="https://github.com/AbdullahRashid133" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/89905186?u=3d1015ca9cb53b8c1bac2f582437f62dd402eff9&v=4" alt="AbdullahRashid133" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/AbdullahRashid133" target="_blank">AbdullahRashid133</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">16258</td>
-      <td align="center">
-        <a href="https://github.com/jofranqueira" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/205443412?u=2849ee8cd93584f61bcf05b1fece523c035507b3&v=4" alt="jofranqueira" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/jofranqueira" target="_blank">jofranqueira</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">16259</td>
+      <td align="center">1</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -947,4 +914,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.174s on Sun Aug 3 at 14:20</p>
+<p align="right">Generated in 0.269s on Sun Aug 3 at 15:36</p>
