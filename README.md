@@ -82,17 +82,6 @@
     <tr>
       <td align="center">16339</td>
       <td align="center">
-        <a href="https://github.com/ruifrcosta" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/152488282?u=1dd703de2d1a5dc9b8f3f8e1f50166b2e2d64d9b&v=4" alt="ruifrcosta" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/ruifrcosta" target="_blank">ruifrcosta</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">16340</td>
-      <td align="center">
         <a href="https://github.com/luckyjanecoin" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/24949023?u=cb0edea606bdc7da83cfda66969028052abd6423&v=4" alt="luckyjanecoin" width="40" height="40"/>
         </a>
@@ -102,7 +91,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">16341</td>
+      <td align="center">16340</td>
       <td align="center">
         <a href="https://github.com/onurguven" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/3211240?u=c106afaf3179729b3b4b2fa00ffdef03eeda2184&v=4" alt="onurguven" width="40" height="40"/>
@@ -110,6 +99,17 @@
       </td>
       <td>
         <a href="https://github.com/onurguven" target="_blank">onurguven</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">16341</td>
+      <td align="center">
+        <a href="https://github.com/sevenjunebaby" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/157961276?u=6f2c53b19177c8f0c09f0324f2efc28c23b4ae1b&v=4" alt="sevenjunebaby" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/sevenjunebaby" target="_blank">sevenjunebaby</a>
       </td>
     </tr>
     <tr>
@@ -944,4 +944,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.274s on Tue Aug 12 at 11:44</p>
+<p align="right">Generated in 0.17s on Tue Aug 12 at 12:00</p>
