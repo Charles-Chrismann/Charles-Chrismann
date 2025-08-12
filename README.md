@@ -80,17 +80,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">16338</td>
-      <td align="center">
-        <a href="https://github.com/kassfreak" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/224453499?u=ce06833222dc6b768e536740a99c598dfcd716ad&v=4" alt="kassfreak" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/kassfreak" target="_blank">kassfreak</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">16339</td>
       <td align="center">
         <a href="https://github.com/Josephat-S" target="_blank">
@@ -114,6 +103,17 @@
     </tr>
     <tr>
       <td align="center">16341</td>
+      <td align="center">
+        <a href="https://github.com/luckyjanecoin" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/24949023?u=cb0edea606bdc7da83cfda66969028052abd6423&v=4" alt="luckyjanecoin" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/luckyjanecoin" target="_blank">luckyjanecoin</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">16342</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -948,4 +948,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.35s on Tue Aug 12 at 10:20</p>
+<p align="right">Generated in 0.301s on Tue Aug 12 at 11:01</p>
