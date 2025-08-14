@@ -82,17 +82,6 @@
     <tr>
       <td align="center">16368</td>
       <td align="center">
-        <a href="https://github.com/Vitalii0x" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/201724199?u=7ff7446500e5548e31676234db2cf1a2f27b9e03&v=4" alt="Vitalii0x" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Vitalii0x" target="_blank">Vitalii0x</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">16369</td>
-      <td align="center">
         <a href="https://github.com/GUIC-ISRA" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/167490961?u=a05638cfb26e2b1e247191437c41e20df42e995e&v=4" alt="GUIC-ISRA" width="40" height="40"/>
         </a>
@@ -102,7 +91,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">16370</td>
+      <td align="center">16369</td>
       <td align="center">
         <a href="https://github.com/ZohebAhmeDev" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/92684329?u=204e6a1d091eb07be2be03585c504767d619101e&v=4" alt="ZohebAhmeDev" width="40" height="40"/>
@@ -110,6 +99,17 @@
       </td>
       <td>
         <a href="https://github.com/ZohebAhmeDev" target="_blank">ZohebAhmeDev</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">16370</td>
+      <td align="center">
+        <a href="https://github.com/LivingG0D" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/123186616?u=6d5f9aad5010a3ff011ad98f4c70398a9d243bb6&v=4" alt="LivingG0D" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/LivingG0D" target="_blank">LivingG0D</a>
       </td>
     </tr>
     <tr>
@@ -942,4 +942,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.322s on Thu Aug 14 at 15:46</p>
+<p align="right">Generated in 0.178s on Thu Aug 14 at 15:50</p>
