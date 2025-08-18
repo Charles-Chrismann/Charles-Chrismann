@@ -80,29 +80,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">16414</td>
-      <td align="center">
-        <a href="https://github.com/okiess" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/3033?v=4" alt="okiess" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/okiess" target="_blank">okiess</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">16415</td>
-      <td align="center">
-        <a href="https://github.com/konradxmalinowski" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/142544506?u=b76d1e0fb3fed7dbbea2b6c83dca7d20325302b7&v=4" alt="konradxmalinowski" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/konradxmalinowski" target="_blank">konradxmalinowski</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">16416</td>
       <td align="center">
         <a href="https://github.com/John-Mukhwana" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/116833930?u=45dfca1e83f281ff0d6474d5dad259f6c7ed03aa&v=4" alt="John-Mukhwana" width="40" height="40"/>
@@ -113,7 +91,29 @@
       </td>
     </tr>
     <tr>
+      <td align="center">16416</td>
+      <td align="center">
+        <a href="https://github.com/biztex" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/86946125?u=95bb2a424180af5f80038f83c731f663c699c856&v=4" alt="biztex" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/biztex" target="_blank">biztex</a>
+      </td>
+    </tr>
+    <tr>
       <td align="center">16417</td>
+      <td align="center">
+        <a href="https://github.com/carolsnt" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/143157343?u=44ed589899c8d73dc9465ff701cadb3643fe6e16&v=4" alt="carolsnt" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/carolsnt" target="_blank">carolsnt</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">16418</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -922,4 +922,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.292s on Mon Aug 18 at 4:18</p>
+<p align="right">Generated in 0.342s on Mon Aug 18 at 4:22</p>
