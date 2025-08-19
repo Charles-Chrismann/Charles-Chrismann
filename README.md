@@ -80,17 +80,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">16450</td>
-      <td align="center">
-        <a href="https://github.com/Arikzen" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/106798027?u=4068dbe3009ea5c148195697e342b8d8432b5c72&v=4" alt="Arikzen" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Arikzen" target="_blank">Arikzen</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">16451</td>
       <td align="center">
         <a href="https://github.com/Arupjan" target="_blank">
@@ -114,6 +103,17 @@
     </tr>
     <tr>
       <td align="center">16453</td>
+      <td align="center">
+        <a href="https://github.com/AI-Generative-IoT" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/208020442?u=b9cb5602d009278115755c4c5e0825f9eeaf97d4&v=4" alt="AI-Generative-IoT" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/AI-Generative-IoT" target="_blank">AI-Generative-IoT</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">16454</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -933,4 +933,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.181s on Tue Aug 19 at 20:27</p>
+<p align="right">Generated in 0.256s on Tue Aug 19 at 20:28</p>
