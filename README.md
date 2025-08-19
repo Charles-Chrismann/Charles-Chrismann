@@ -80,17 +80,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">16437</td>
-      <td align="center">
-        <a href="https://github.com/Senurita533" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/142743537?v=4" alt="Senurita533" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Senurita533" target="_blank">Senurita533</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">16438</td>
       <td align="center">
         <a href="https://github.com/NitinSemwal2605" target="_blank">
@@ -114,6 +103,17 @@
     </tr>
     <tr>
       <td align="center">16440</td>
+      <td align="center">
+        <a href="https://github.com/Yun0825" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/131320432?v=4" alt="Yun0825" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Yun0825" target="_blank">Yun0825</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">16441</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -934,4 +934,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.441s on Tue Aug 19 at 5:56</p>
+<p align="right">Generated in 0.386s on Tue Aug 19 at 5:57</p>
