@@ -104,12 +104,12 @@
     <tr>
       <td align="center">16448</td>
       <td align="center">
-        <a href="https://github.com/Dryrtan" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/58276701?u=afc1c241009c14d616183220f605bf73cdef4945&v=4" alt="Dryrtan" width="40" height="40"/>
+        <a href="https://github.com/aliihsanakkoc" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/74712433?u=bc6ad5191b2be110986f4121446aaf20b8b5cf39&v=4" alt="aliihsanakkoc" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/Dryrtan" target="_blank">Dryrtan</a>
+        <a href="https://github.com/aliihsanakkoc" target="_blank">aliihsanakkoc</a>
       </td>
     </tr>
     <tr>
@@ -970,4 +970,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.212s on Tue Aug 19 at 14:43</p>
+<p align="right">Generated in 0.177s on Tue Aug 19 at 14:44</p>
