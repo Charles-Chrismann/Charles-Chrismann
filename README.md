@@ -94,7 +94,7 @@
       <td align="center">16462</td>
       <td align="center">
         <a href="https://github.com/carlosconto" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/125084322?v=4" alt="carlosconto" width="40" height="40"/>
+          <img src="https://avatars.githubusercontent.com/u/125084322?u=6067619541005c9f30b00c368e6ef9e66ed313f7&v=4" alt="carlosconto" width="40" height="40"/>
         </a>
       </td>
       <td>
@@ -921,4 +921,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.144s on Wed Aug 20 at 5:59</p>
+<p align="right">Generated in 0.109s on Wed Aug 20 at 6:00</p>
