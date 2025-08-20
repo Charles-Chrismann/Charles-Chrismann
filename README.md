@@ -80,17 +80,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">16457</td>
-      <td align="center">
-        <a href="https://github.com/lucasvmartins" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/22643447?u=3aefd79f5b3d57c9ca8249dc3fc4bf00510318f3&v=4" alt="lucasvmartins" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/lucasvmartins" target="_blank">lucasvmartins</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">16458</td>
       <td align="center">
         <a href="https://github.com/gu-lima" target="_blank">
@@ -114,6 +103,17 @@
     </tr>
     <tr>
       <td align="center">16460</td>
+      <td align="center">
+        <a href="https://github.com/funterminal" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/187716046?v=4" alt="funterminal" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/funterminal" target="_blank">funterminal</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">16461</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -930,4 +930,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.208s on Wed Aug 20 at 3:08</p>
+<p align="right">Generated in 0.207s on Wed Aug 20 at 3:09</p>
