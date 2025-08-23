@@ -80,18 +80,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">16511</td>
-      <td align="center">
-        <a href="https://github.com/0xsolz" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/228199625?u=b27c154203b6cd90d8210e8ce04d4f412fc5eca8&v=4" alt="0xsolz" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/0xsolz" target="_blank">0xsolz</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">16512</td>
+      <td align="center">16510</td>
       <td align="center">
         <a href="https://github.com/gayancliyanage" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/1917140?u=5c16a56c732175b0013669ca1033cedb7f2fdb7c&v=4" alt="gayancliyanage" width="40" height="40"/>
@@ -102,7 +91,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">16513</td>
+      <td align="center">16511</td>
       <td align="center">
         <a href="https://github.com/dipanshuu" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/84615076?u=1db686d0410af6ce84d2b194357e5061e96a182f&v=4" alt="dipanshuu" width="40" height="40"/>
@@ -113,7 +102,18 @@
       </td>
     </tr>
     <tr>
-      <td align="center">16514</td>
+      <td align="center">16512</td>
+      <td align="center">
+        <a href="https://github.com/tamadoge-max" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/109489220?u=1a06107e0b0a1a5ede703adea6379a6fcc6f31ce&v=4" alt="tamadoge-max" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/tamadoge-max" target="_blank">tamadoge-max</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">16513</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -917,4 +917,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.4s on Sat Aug 23 at 14:43</p>
+<p align="right">Generated in 0.345s on Sat Aug 23 at 14:54</p>
