@@ -82,17 +82,6 @@
     <tr>
       <td align="center">16495</td>
       <td align="center">
-        <a href="https://github.com/LucasLem0s" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/46539269?u=101a9c007e04f865509b59f225fcb3e0535bfabb&v=4" alt="LucasLem0s" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/LucasLem0s" target="_blank">LucasLem0s</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">16496</td>
-      <td align="center">
         <a href="https://github.com/gayatri48765" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/54055014?u=27fe71b632f4953c9d0b6c7428bae6b3d3f92439&v=4" alt="gayatri48765" width="40" height="40"/>
         </a>
@@ -102,7 +91,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">16497</td>
+      <td align="center">16496</td>
       <td align="center">
         <a href="https://github.com/MelissaLopesOliveira" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/166744852?u=dcec806598ebea3ac68331c11fb95482c45e64ba&v=4" alt="MelissaLopesOliveira" width="40" height="40"/>
@@ -110,6 +99,17 @@
       </td>
       <td>
         <a href="https://github.com/MelissaLopesOliveira" target="_blank">MelissaLopesOliveira</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">16497</td>
+      <td align="center">
+        <a href="https://github.com/mvmvenancio" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/221909110?v=4" alt="mvmvenancio" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/mvmvenancio" target="_blank">mvmvenancio</a>
       </td>
     </tr>
     <tr>
@@ -929,4 +929,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.179s on Sat Aug 23 at 1:30</p>
+<p align="right">Generated in 0.355s on Sat Aug 23 at 1:31</p>
