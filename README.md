@@ -104,12 +104,12 @@
     <tr>
       <td align="center">16517</td>
       <td align="center">
-        <a href="https://github.com/biserjade" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/4054659?u=239ea21150030c08162ca78237ea9e42775586fc&v=4" alt="biserjade" width="40" height="40"/>
+        <a href="https://github.com/TaufikNaufal14" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/4054659?u=239ea21150030c08162ca78237ea9e42775586fc&v=4" alt="TaufikNaufal14" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/biserjade" target="_blank">biserjade</a>
+        <a href="https://github.com/TaufikNaufal14" target="_blank">TaufikNaufal14</a>
       </td>
     </tr>
     <tr>
@@ -923,4 +923,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.408s on Sun Aug 24 at 9:03</p>
+<p align="right">Generated in 0.351s on Sun Aug 24 at 9:12</p>
