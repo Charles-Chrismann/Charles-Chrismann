@@ -82,17 +82,6 @@
     <tr>
       <td align="center">16531</td>
       <td align="center">
-        <a href="https://github.com/haseeblatif" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/62016719?u=9ce09f6a47bdb533bac34e798c57b766eaaa503d&v=4" alt="haseeblatif" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/haseeblatif" target="_blank">haseeblatif</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">16532</td>
-      <td align="center">
         <a href="https://github.com/FagnerAmorim" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/133175613?u=b78bdd6e17177dc53e8b2f9185816ab20b73fa92&v=4" alt="FagnerAmorim" width="40" height="40"/>
         </a>
@@ -102,7 +91,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">16533</td>
+      <td align="center">16532</td>
       <td align="center">
         <a href="https://github.com/nusserstudios" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/7240155?u=056926471f7d02f389d3b7d38b9a41a9a83e4a93&v=4" alt="nusserstudios" width="40" height="40"/>
@@ -110,6 +99,17 @@
       </td>
       <td>
         <a href="https://github.com/nusserstudios" target="_blank">nusserstudios</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">16533</td>
+      <td align="center">
+        <a href="https://github.com/dario208" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/124611899?u=7abc9b5f500bd88cfd010ab1293f4374ec899856&v=4" alt="dario208" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/dario208" target="_blank">dario208</a>
       </td>
     </tr>
     <tr>
@@ -948,4 +948,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.195s on Mon Aug 25 at 16:14</p>
+<p align="right">Generated in 0.185s on Mon Aug 25 at 16:25</p>
