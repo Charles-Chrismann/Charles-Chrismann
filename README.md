@@ -558,6 +558,16 @@
   </thead>
   <tbody>
     <tr>
+      <td>$\text{\color{white}{M}}$</td>
+      <td>$\text{\color{white}{A}}$</td>
+      <td>$\text{\color{white}{G}}$</td>
+      <td>$\text{\color{white}{I}}$</td>
+      <td>$\text{\color{white}{C}}$</td>
+      <td>
+        <a href="https://github.com/EthanThePhoenix38">@EthanThePhoenix38</a>
+      </td>
+    </tr>
+    <tr>
       <td>‎ </td>
       <td>‎ </td>
       <td>‎ </td>
@@ -763,4 +773,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.214s on Sun Aug 31 at 22:57</p>
+<p align="right">Generated in 0.39s on Sun Aug 31 at 22:59</p>
