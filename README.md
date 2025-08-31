@@ -94,7 +94,7 @@
       <td align="center">16364</td>
       <td align="center">
         <a href="https://github.com/victorykop" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/219255755?u=42e09018e277466b7d5b327431a3c93844caad7b&v=4" alt="victorykop" width="40" height="40"/>
+          <img src="https://avatars.githubusercontent.com/u/219255755?u=de16873e23baa098c47ffee41484c420f4159a8a&v=4" alt="victorykop" width="40" height="40"/>
         </a>
       </td>
       <td>
@@ -925,4 +925,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.263s on Sun Aug 31 at 15:13</p>
+<p align="right">Generated in 0.211s on Sun Aug 31 at 15:13</p>
