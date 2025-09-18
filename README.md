@@ -105,7 +105,7 @@
       <td align="center">16255</td>
       <td align="center">
         <a href="https://github.com/ai-joon" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/33125782?u=d639016bf4ddd83555fc160003ba0679470daa2d&v=4" alt="ai-joon" width="40" height="40"/>
+          <img src="https://avatars.githubusercontent.com/u/33125782?u=3b46b002bafd7f28225efa56435b7a77cd91525b&v=4" alt="ai-joon" width="40" height="40"/>
         </a>
       </td>
       <td>
@@ -763,4 +763,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.372s on Thu Sep 18 at 15:31</p>
+<p align="right">Generated in 0.321s on Thu Sep 18 at 16:37</p>
