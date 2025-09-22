@@ -80,17 +80,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">16238</td>
-      <td align="center">
-        <a href="https://github.com/remzitrl" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/155233219?u=90bdeede96fe941019219bac0861fc0442951849&v=4" alt="remzitrl" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/remzitrl" target="_blank">remzitrl</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">16239</td>
       <td align="center">
         <a href="https://github.com/ai-joon" target="_blank">
@@ -114,6 +103,17 @@
     </tr>
     <tr>
       <td align="center">16241</td>
+      <td align="center">
+        <a href="https://github.com/ninza-innovates" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/17889703?u=77c77a63f103647de241593cac2978877b7e9b19&v=4" alt="ninza-innovates" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/ninza-innovates" target="_blank">ninza-innovates</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">16242</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -763,4 +763,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.241s on Mon Sep 22 at 14:44</p>
+<p align="right">Generated in 0.234s on Mon Sep 22 at 14:51</p>
