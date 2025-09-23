@@ -82,17 +82,6 @@
     <tr>
       <td align="center">16235</td>
       <td align="center">
-        <a href="https://github.com/ai-joon" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/33125782?u=3b46b002bafd7f28225efa56435b7a77cd91525b&v=4" alt="ai-joon" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/ai-joon" target="_blank">ai-joon</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">16236</td>
-      <td align="center">
         <a href="https://github.com/amad3i" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/153606278?u=732b0dd989d990cacb95b0baaa82b780f38e5c8c&v=4" alt="amad3i" width="40" height="40"/>
         </a>
@@ -102,7 +91,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">16237</td>
+      <td align="center">16236</td>
       <td align="center">
         <a href="https://github.com/ninza-innovates" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/17889703?u=77c77a63f103647de241593cac2978877b7e9b19&v=4" alt="ninza-innovates" width="40" height="40"/>
@@ -110,6 +99,17 @@
       </td>
       <td>
         <a href="https://github.com/ninza-innovates" target="_blank">ninza-innovates</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">16237</td>
+      <td align="center">
+        <a href="https://github.com/derrick-maebar" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/178032174?u=e424b91c0b4e44f555981a2802c1f8bcf7cdf469&v=4" alt="derrick-maebar" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/derrick-maebar" target="_blank">derrick-maebar</a>
       </td>
     </tr>
     <tr>
@@ -934,4 +934,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.199s on Tue Sep 23 at 7:30</p>
+<p align="right">Generated in 0.193s on Tue Sep 23 at 7:55</p>
