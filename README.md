@@ -82,17 +82,6 @@
     <tr>
       <td align="center">16233</td>
       <td align="center">
-        <a href="https://github.com/ninza-innovates" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/17889703?u=77c77a63f103647de241593cac2978877b7e9b19&v=4" alt="ninza-innovates" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/ninza-innovates" target="_blank">ninza-innovates</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">16234</td>
-      <td align="center">
         <a href="https://github.com/derrick-maebar" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/178032174?u=e424b91c0b4e44f555981a2802c1f8bcf7cdf469&v=4" alt="derrick-maebar" width="40" height="40"/>
         </a>
@@ -102,7 +91,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">16235</td>
+      <td align="center">16234</td>
       <td align="center">
         <a href="https://github.com/Liuboshenko" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/88323640?u=5e30f46c00304ae0fcdd3ad978b75a2d10c0d469&v=4" alt="Liuboshenko" width="40" height="40"/>
@@ -110,6 +99,17 @@
       </td>
       <td>
         <a href="https://github.com/Liuboshenko" target="_blank">Liuboshenko</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">16235</td>
+      <td align="center">
+        <a href="https://github.com/dallywinston" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/111721670?u=61698f153011983faa86b1811a5b23fa7696b814&v=4" alt="dallywinston" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/dallywinston" target="_blank">dallywinston</a>
       </td>
     </tr>
     <tr>
@@ -931,4 +931,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.211s on Wed Sep 24 at 12:14</p>
+<p align="right">Generated in 0.203s on Wed Sep 24 at 12:25</p>
