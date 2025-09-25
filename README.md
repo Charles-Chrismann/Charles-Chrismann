@@ -716,6 +716,16 @@
   </thead>
   <tbody>
     <tr>
+      <td>$\text{\color{red}{X}}$</td>
+      <td>$\text{\color{red}{Y}}$</td>
+      <td>$\text{\color{red}{L}}$</td>
+      <td>$\text{\color{red}{Y}}$</td>
+      <td>$\text{\color{red}{L}}$</td>
+      <td>
+        <a href="https://github.com/EthanThePhoenix38">@EthanThePhoenix38</a>
+      </td>
+    </tr>
+    <tr>
       <td>‎ </td>
       <td>‎ </td>
       <td>‎ </td>
@@ -921,4 +931,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.169s on Thu Sep 25 at 0:36</p>
+<p align="right">Generated in 0.372s on Thu Sep 25 at 0:55</p>
