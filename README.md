@@ -549,7 +549,7 @@
       <td align="center">:eight:</td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
-      <td align="center">♜      </td>
+      <td align="center">‎       </td>
       <td align="center">‎       </td>
       <td align="center">♚      </td>
       <td align="center">♝      </td>
@@ -571,7 +571,7 @@
       <td align="center">:six:</td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
-      <td align="center">‎       </td>
+      <td align="center">♜      </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
@@ -595,7 +595,7 @@
       <td align="center">‎       </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
-      <td align="center">‎       </td>
+      <td align="center">♙      </td>
       <td align="center">♙      </td>
       <td align="center">♙      </td>
       <td align="center">‎       </td>
@@ -606,7 +606,7 @@
       <td align="center">‎       </td>
       <td align="center">‎       </td>
       <td align="center">♛      </td>
-      <td align="center">♙      </td>
+      <td align="center">‎       </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
@@ -885,4 +885,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.583s on Sun Sep 28 at 14:48</p>
+<p align="right">Generated in 0.528s on Sun Sep 28 at 14:49</p>
