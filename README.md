@@ -80,7 +80,18 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">16214</td>
+      <td align="center">16211</td>
+      <td align="center">
+        <a href="https://github.com/dallywinston" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/111721670?u=61698f153011983faa86b1811a5b23fa7696b814&v=4" alt="dallywinston" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/dallywinston" target="_blank">dallywinston</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">16212</td>
       <td align="center">
         <a href="https://github.com/steviesims" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/52649532?v=4" alt="steviesims" width="40" height="40"/>
@@ -91,7 +102,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">16215</td>
+      <td align="center">16213</td>
       <td align="center">
         <a href="https://github.com/lrepo52" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/219562195?v=4" alt="lrepo52" width="40" height="40"/>
@@ -102,18 +113,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">16216</td>
-      <td align="center">
-        <a href="https://github.com/Arison99" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/154712868?u=836484372f113de2fcc819e18fdcdc3b5c61dfb5&v=4" alt="Arison99" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Arison99" target="_blank">Arison99</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">16217</td>
+      <td align="center">16214</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -936,4 +936,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.319s on Mon Sep 29 at 17:07</p>
+<p align="right">Generated in 0.151s on Mon Sep 29 at 17:17</p>
