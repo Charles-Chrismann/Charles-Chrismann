@@ -80,17 +80,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">16202</td>
-      <td align="center">
-        <a href="https://github.com/frontendbootcampai-droid" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/234575541?v=4" alt="frontendbootcampai-droid" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/frontendbootcampai-droid" target="_blank">frontendbootcampai-droid</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">16203</td>
       <td align="center">
         <a href="https://github.com/levonk" target="_blank">
@@ -114,6 +103,17 @@
     </tr>
     <tr>
       <td align="center">16205</td>
+      <td align="center">
+        <a href="https://github.com/ikramagix" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/146087805?u=a125558b43105e8282b2b6136b2f2b94bfbac885&v=4" alt="ikramagix" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/ikramagix" target="_blank">ikramagix</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">16206</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -872,4 +872,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.11s on Thu Oct 2 at 18:39</p>
+<p align="right">Generated in 0.108s on Thu Oct 2 at 18:42</p>
