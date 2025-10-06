@@ -80,7 +80,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">16173</td>
+      <td align="center">16172</td>
       <td align="center">
         <a href="https://github.com/frontendbootcampai-droid" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/234575541?v=4" alt="frontendbootcampai-droid" width="40" height="40"/>
@@ -91,7 +91,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">16174</td>
+      <td align="center">16173</td>
       <td align="center">
         <a href="https://github.com/lrepo52" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/219562195?v=4" alt="lrepo52" width="40" height="40"/>
@@ -102,7 +102,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">16175</td>
+      <td align="center">16174</td>
       <td align="center">
         <a href="https://github.com/Murad098" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/100893216?u=a59bac0fc40f696ad7bcd18fdf81e8e64ed436f2&v=4" alt="Murad098" width="40" height="40"/>
@@ -113,7 +113,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">16176</td>
+      <td align="center">16175</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -910,4 +910,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.117s on Mon Oct 6 at 16:34</p>
+<p align="right">Generated in 0.31s on Mon Oct 6 at 17:57</p>
