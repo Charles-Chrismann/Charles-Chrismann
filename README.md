@@ -542,7 +542,7 @@
 <p align="center">
   <img width="256" src="https://o.charles-chrismann.fr/board.png" />
 </p>
-<p align="center">It's Black's turn</p>
+<p align="center">It's White's turn</p>
 <table align="center">
   <tbody>
     <tr>
@@ -552,12 +552,7 @@
       <td align="center">‎       </td>
       <td align="center">‎       </td>
       <td align="center">♜      </td>
-      <td align="center">
-        <details>
-          <summary>♚</summary>
-          <a href="https://o.charles-chrismann.fr/chess/move?x1=5&y1=0&x2=5&y2=1">f7</a>
-        </details>
-      </td>
+      <td align="center">‎       </td>
       <td align="center">♞      </td>
       <td align="center">‎       </td>
     </tr>
@@ -568,14 +563,9 @@
       <td align="center">‎       </td>
       <td align="center">‎       </td>
       <td align="center">♟      </td>
-      <td align="center">♖      </td>
+      <td align="center">♚      </td>
       <td align="center">‎       </td>
-      <td align="center">
-        <details>
-          <summary>♜</summary>
-          <a href="https://o.charles-chrismann.fr/chess/move?x1=7&y1=1&x2=5&y2=1">f7</a>
-        </details>
-      </td>
+      <td align="center">♜      </td>
     </tr>
     <tr>
       <td align="center">:six:</td>
@@ -625,7 +615,14 @@
       <td align="center">:two:</td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
-      <td align="center">♔      </td>
+      <td align="center">
+        <details>
+          <summary>♔</summary>
+          <a href="https://o.charles-chrismann.fr/chess/move?x1=2&y1=6&x2=1&y2=5">b3</a>
+          <a href="https://o.charles-chrismann.fr/chess/move?x1=2&y1=6&x2=3&y2=6">d2</a>
+          <br><a href="https://o.charles-chrismann.fr/chess/move?x1=2&y1=6&x2=2&y2=7">c1</a>
+        </details>
+      </td>
       <td align="center">‎       </td>
       <td align="center">♙      </td>
       <td align="center">‎       </td>
@@ -875,4 +872,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.448s on Sun Oct 12 at 13:05</p>
+<p align="right">Generated in 0.16s on Sun Oct 12 at 13:15</p>
