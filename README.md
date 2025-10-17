@@ -552,7 +552,7 @@
       <td align="center">♝      </td>
       <td align="center">‎       </td>
       <td align="center">♚      </td>
-      <td align="center">♝      </td>
+      <td align="center">‎       </td>
       <td align="center">♞      </td>
       <td align="center">♜      </td>
     </tr>
@@ -562,7 +562,7 @@
       <td align="center">♟      </td>
       <td align="center">♟      </td>
       <td align="center">‎       </td>
-      <td align="center">‎       </td>
+      <td align="center">♝      </td>
       <td align="center">♟      </td>
       <td align="center">‎       </td>
       <td align="center">♟      </td>
@@ -650,7 +650,16 @@
           <a href="https://o.charles-chrismann.fr/chess/move?x1=2&y1=6&x2=2&y2=5">c3</a>
         </details>
       </td>
-      <td align="center">‎       </td>
+      <td align="center">
+        <details>
+          <summary>♔</summary>
+          <a href="https://o.charles-chrismann.fr/chess/move?x1=3&y1=6&x2=2&y2=5">c3</a>
+          <a href="https://o.charles-chrismann.fr/chess/move?x1=3&y1=6&x2=3&y2=5">d3</a>
+          <a href="https://o.charles-chrismann.fr/chess/move?x1=3&y1=6&x2=4&y2=6">e2</a>
+          <br><a href="https://o.charles-chrismann.fr/chess/move?x1=3&y1=6&x2=3&y2=7">d1</a>
+          <a href="https://o.charles-chrismann.fr/chess/move?x1=3&y1=6&x2=4&y2=7">e1</a>
+        </details>
+      </td>
       <td align="center">‎       </td>
       <td align="center">
         <details>
@@ -681,18 +690,10 @@
         <details>
           <summary>♗</summary>
           <a href="https://o.charles-chrismann.fr/chess/move?x1=2&y1=7&x2=1&y2=6">b2</a>
-          <a href="https://o.charles-chrismann.fr/chess/move?x1=2&y1=7&x2=3&y2=6">d2</a>
         </details>
       </td>
       <td align="center">‎       </td>
-      <td align="center">
-        <details>
-          <summary>♔</summary>
-          <a href="https://o.charles-chrismann.fr/chess/move?x1=4&y1=7&x2=3&y2=6">d2</a>
-          <a href="https://o.charles-chrismann.fr/chess/move?x1=4&y1=7&x2=4&y2=6">e2</a>
-          <br><a href="https://o.charles-chrismann.fr/chess/move?x1=4&y1=7&x2=3&y2=7">d1</a>
-        </details>
-      </td>
+      <td align="center">‎       </td>
       <td align="center">
         <details>
           <summary>♗</summary>
@@ -951,4 +952,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.36s on Fri Oct 17 at 5:11</p>
+<p align="right">Generated in 0.578s on Fri Oct 17 at 5:11</p>
