@@ -80,7 +80,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">16125</td>
+      <td align="center">16124</td>
       <td align="center">
         <a href="https://github.com/XiaomingX" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/5387930?u=1cd0cfa4ab9c6e30da495e621b850e4f61a203aa&v=4" alt="XiaomingX" width="40" height="40"/>
@@ -91,18 +91,18 @@
       </td>
     </tr>
     <tr>
-      <td align="center">16126</td>
+      <td align="center">16125</td>
       <td align="center">
-        <a href="https://github.com/pink0328-hash" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/232114333?u=23fd7adaec1ccc4cf891be28c00346be9c54b1bf&v=4" alt="pink0328-hash" width="40" height="40"/>
+        <a href="https://github.com/pink-hash0328" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/232114333?u=23fd7adaec1ccc4cf891be28c00346be9c54b1bf&v=4" alt="pink-hash0328" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/pink0328-hash" target="_blank">pink0328-hash</a>
+        <a href="https://github.com/pink-hash0328" target="_blank">pink-hash0328</a>
       </td>
     </tr>
     <tr>
-      <td align="center">16127</td>
+      <td align="center">16126</td>
       <td align="center">
         <a href="https://github.com/0xRustElite1111" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/30988803?u=a32ac770b0a89b3ab8a9dc35360a74203aee2de2&v=4" alt="0xRustElite1111" width="40" height="40"/>
@@ -113,7 +113,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">16128</td>
+      <td align="center">16127</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -941,4 +941,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.206s on Sat Oct 18 at 5:25</p>
+<p align="right">Generated in 0.229s on Sat Oct 18 at 7:16</p>
