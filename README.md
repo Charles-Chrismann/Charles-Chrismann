@@ -79,7 +79,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">16070</td>
+      <td align="center">16069</td>
       <td align="center">
         <a href="https://github.com/akoweicollinxx" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/110723714?v=4" alt="akoweicollinxx" width="40" height="40"/>
@@ -90,18 +90,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">16071</td>
-      <td align="center">
-        <a href="https://github.com/trinhminhtriet" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/1650997?u=9abc2c570e589518e913b4d34e3292d3800de60c&v=4" alt="trinhminhtriet" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/trinhminhtriet" target="_blank">trinhminhtriet</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">16072</td>
+      <td align="center">16070</td>
       <td align="center">
         <a href="https://github.com/giladfuchs" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/33724031?u=9fe1730ff913936a464f5d96a4b0f65775c2f9fc&v=4" alt="giladfuchs" width="40" height="40"/>
@@ -112,7 +101,18 @@
       </td>
     </tr>
     <tr>
-      <td align="center">16073</td>
+      <td align="center">16071</td>
+      <td align="center">
+        <a href="https://github.com/calebephrem" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/211212128?u=23f87087f196a5a0571449fa76b20cedfb64c439&v=4" alt="calebephrem" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/calebephrem" target="_blank">calebephrem</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">16072</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -943,4 +943,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0s on Sun Nov 2 at 14:34</p>
+<p align="right">Generated in 0s on Sun Nov 2 at 18:14</p>
