@@ -79,40 +79,40 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">16034</td>
-      <td align="center">
-        <a href="https://github.com/superdev947" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/93219466?u=5e364f5d6bab340de61cc347f50eaa6cab2195c3&v=4" alt="superdev947" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/superdev947" target="_blank">superdev947</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">16035</td>
-      <td align="center">
-        <a href="https://github.com/brucekibet" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/101664696?u=62b60fbc004aae7b82f606cf8bc4a3a65813d419&v=4" alt="brucekibet" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/brucekibet" target="_blank">brucekibet</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">16036</td>
-      <td align="center">
-        <a href="https://github.com/wecoded-dev" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/196182741?u=37ce77d90e4b9763fba18f269fe37e33fff37d8a&v=4" alt="wecoded-dev" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/wecoded-dev" target="_blank">wecoded-dev</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">16037</td>
+      <td align="center">
+        <a href="https://github.com/fxagro" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/25995920?u=d73d649a947cba9cdc3b991b084510bfddff8f42&v=4" alt="fxagro" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/fxagro" target="_blank">fxagro</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">16038</td>
+      <td align="center">
+        <a href="https://github.com/opd-ai" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/187915325?u=8b6d6b88c4a16029ae32e83c9f2a207cfa9bc266&v=4" alt="opd-ai" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/opd-ai" target="_blank">opd-ai</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">16039</td>
+      <td align="center">
+        <a href="https://github.com/lovehiccup" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/198247936?u=8fb909cc4da19bcd85f5b2d15129f7cfa6a091a1&v=4" alt="lovehiccup" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/lovehiccup" target="_blank">lovehiccup</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">16040</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -924,4 +924,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0s on Thu Nov 6 at 22:00</p>
+<p align="right">Generated in 0s on Fri Nov 7 at 3:51</p>
