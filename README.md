@@ -571,13 +571,14 @@
         </details>
       </td>
       <td align="center">♝      </td>
-      <td align="center">‎       </td>
       <td align="center">
         <details>
-          <summary>♜</summary>
-          <a href="https://o.charles-chrismann.fr/chess/chess-1/move?from=h8&to=g8">g8</a>
+          <summary>♞</summary>
+          <a href="https://o.charles-chrismann.fr/chess/chess-1/move?from=g8&to=h6">h6</a>
+          <a href="https://o.charles-chrismann.fr/chess/chess-1/move?from=g8&to=f6">f6</a>
         </details>
       </td>
+      <td align="center">♜      </td>
     </tr>
     <tr>
       <td align="center">:seven:</td>
@@ -604,7 +605,13 @@
           <a href="https://o.charles-chrismann.fr/chess/chess-1/move?from=e7&to=e5">e5</a>
         </details>
       </td>
-      <td align="center">♟      </td>
+      <td align="center">
+        <details>
+          <summary>♟</summary>
+          <a href="https://o.charles-chrismann.fr/chess/chess-1/move?from=f7&to=f6">f6</a>
+          <a href="https://o.charles-chrismann.fr/chess/chess-1/move?from=f7&to=f5">f5</a>
+        </details>
+      </td>
       <td align="center">
         <details>
           <summary>♟</summary>
@@ -631,16 +638,7 @@
       <td align="center">‎       </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
-      <td align="center">
-        <details>
-          <summary>♞</summary>
-          <a href="https://o.charles-chrismann.fr/chess/chess-1/move?from=f6&to=d7">d7</a>
-          <a href="https://o.charles-chrismann.fr/chess/chess-1/move?from=f6&to=g8">g8</a>
-          <a href="https://o.charles-chrismann.fr/chess/chess-1/move?from=f6&to=h5">h5</a>
-          <br><a href="https://o.charles-chrismann.fr/chess/chess-1/move?from=f6&to=g4">g4</a>
-          <a href="https://o.charles-chrismann.fr/chess/chess-1/move?from=f6&to=e4">e4</a>
-        </details>
-      </td>
+      <td align="center">‎       </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
     </tr>
@@ -682,7 +680,7 @@
     </tr>
     <tr>
       <td align="center">:three:</td>
-      <td align="center">♗      </td>
+      <td align="center">‎       </td>
       <td align="center">♙      </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
@@ -706,7 +704,7 @@
       <td align="center">:one:</td>
       <td align="center">♖      </td>
       <td align="center">♘      </td>
-      <td align="center">‎       </td>
+      <td align="center">♗      </td>
       <td align="center">♕      </td>
       <td align="center">♔      </td>
       <td align="center">♗      </td>
