@@ -79,6 +79,17 @@
   </thead>
   <tbody>
     <tr>
+      <td align="center">15978</td>
+      <td align="center">
+        <a href="https://github.com/RafaelaSommer" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/159449774?u=0bd866e533d2e14a014459d60c946817368c1dab&v=4" alt="RafaelaSommer" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/RafaelaSommer" target="_blank">RafaelaSommer</a>
+      </td>
+    </tr>
+    <tr>
       <td align="center">15979</td>
       <td align="center">
         <a href="https://github.com/mrwhite4939" target="_blank">
@@ -92,17 +103,6 @@
     <tr>
       <td align="center">15980</td>
       <td align="center">
-        <a href="https://github.com/Gabrieliam42" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/155897907?u=e472517843ae87a616711f134369a28ae2bad974&v=4" alt="Gabrieliam42" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Gabrieliam42" target="_blank">Gabrieliam42</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">15981</td>
-      <td align="center">
         <a href="https://github.com/x2yDevs" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/238047223?u=908e4eeff630423d922d4a17b718a24908dd3d4a&v=4" alt="x2yDevs" width="40" height="40"/>
         </a>
@@ -112,7 +112,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">15982</td>
+      <td align="center">15981</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -945,4 +945,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0s on Fri Dec 5 at 9:43</p>
+<p align="right">Generated in 0s on Fri Dec 5 at 10:29</p>
