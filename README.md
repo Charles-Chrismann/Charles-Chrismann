@@ -79,17 +79,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">15956</td>
-      <td align="center">
-        <a href="https://github.com/ByteCrister" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/143107015?u=d8415e8450708c837d7177b785c3ddb0710659d6&v=4" alt="ByteCrister" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/ByteCrister" target="_blank">ByteCrister</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">15957</td>
       <td align="center">
         <a href="https://github.com/GoXLd" target="_blank">
@@ -113,6 +102,17 @@
     </tr>
     <tr>
       <td align="center">15959</td>
+      <td align="center">
+        <a href="https://github.com/buddy1276" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/69501827?v=4" alt="buddy1276" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/buddy1276" target="_blank">buddy1276</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">15960</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -936,4 +936,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0s on Fri Dec 12 at 14:17</p>
+<p align="right">Generated in 0.001s on Fri Dec 12 at 18:10</p>
