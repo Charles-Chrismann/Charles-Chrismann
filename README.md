@@ -563,14 +563,15 @@
           <a href="https://o.charles-chrismann.fr/chess/chess-1/move?from=f8&to=g7">g7</a>
         </details>
       </td>
-      <td align="center">‎       </td>
       <td align="center">
         <details>
           <summary>♜</summary>
-          <a href="https://o.charles-chrismann.fr/chess/chess-1/move?from=h8&to=h7">h7</a>
-          <a href="https://o.charles-chrismann.fr/chess/chess-1/move?from=h8&to=g8">g8</a>
+          <a href="https://o.charles-chrismann.fr/chess/chess-1/move?from=g8&to=h8">h8</a>
+          <a href="https://o.charles-chrismann.fr/chess/chess-1/move?from=g8&to=g7">g7</a>
+          <br><a href="https://o.charles-chrismann.fr/chess/chess-1/move?from=g8&to=g6">g6</a>
         </details>
       </td>
+      <td align="center">‎       </td>
     </tr>
     <tr>
       <td align="center">:seven:</td>
@@ -666,8 +667,8 @@
       <td align="center">♘      </td>
       <td align="center">♙      </td>
       <td align="center">‎       </td>
-      <td align="center">‎       </td>
       <td align="center">♔      </td>
+      <td align="center">‎       </td>
       <td align="center">‎       </td>
     </tr>
     <tr>
@@ -924,4 +925,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0s on Sat Dec 13 at 18:58</p>
+<p align="right">Generated in 0s on Sat Dec 13 at 19:01</p>
