@@ -79,17 +79,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">15956</td>
-      <td align="center">
-        <a href="https://github.com/buddy1276" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/69501827?v=4" alt="buddy1276" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/buddy1276" target="_blank">buddy1276</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">15957</td>
       <td align="center">
         <a href="https://github.com/LustraI" target="_blank">
@@ -113,6 +102,17 @@
     </tr>
     <tr>
       <td align="center">15959</td>
+      <td align="center">
+        <a href="https://github.com/jagodekor" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/193548287?u=a7e4283d7c8edb9f866173d38934aa6dcfef7ca8&v=4" alt="jagodekor" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/jagodekor" target="_blank">jagodekor</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">15960</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
