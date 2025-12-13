@@ -104,7 +104,7 @@
       <td align="center">15959</td>
       <td align="center">
         <a href="https://github.com/LustraI" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/237835641?u=1eb00be8b13876795cd2b02e4a3ebc91d19d607f&v=4" alt="LustraI" width="40" height="40"/>
+          <img src="https://avatars.githubusercontent.com/u/237835641?u=d7d5fb275e42738266c988120c1f49120ecc519f&v=4" alt="LustraI" width="40" height="40"/>
         </a>
       </td>
       <td>
@@ -944,4 +944,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0s on Sat Dec 13 at 0:46</p>
+<p align="right">Generated in 0.001s on Sat Dec 13 at 4:15</p>
