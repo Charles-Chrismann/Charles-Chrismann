@@ -725,26 +725,6 @@
   </thead>
   <tbody>
     <tr>
-      <td>$\text{\color{red}{A}}$</td>
-      <td>$\text{\color{red}{D}}$</td>
-      <td>$\text{\color{red}{I}}$</td>
-      <td>$\text{\color{red}{E}}$</td>
-      <td>$\text{\color{red}{U}}$</td>
-      <td>
-        <a href="https://github.com/ImAwsumm">@ImAwsumm</a>
-      </td>
-    </tr>
-    <tr>
-      <td>$\text{\color{white}{C}}$</td>
-      <td>$\text{\color{white}{L}}$</td>
-      <td>$\text{\color{lightgreen}{O}}$</td>
-      <td>$\text{\color{white}{C}}$</td>
-      <td>$\text{\color{white}{K}}$</td>
-      <td>
-        <a href="https://github.com/ImAwsumm">@ImAwsumm</a>
-      </td>
-    </tr>
-    <tr>
       <td>‎ </td>
       <td>‎ </td>
       <td>‎ </td>
@@ -950,4 +930,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.001s on Mon Dec 15 at 18:24</p>
+<p align="right">Generated in 0s on Mon Dec 15 at 22:00</p>
