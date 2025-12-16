@@ -557,9 +557,9 @@
     </tr>
     <tr>
       <td align="center">:seven:</td>
-      <td align="center">‎       </td>
       <td align="center">♟      </td>
-      <td align="center">‎       </td>
+      <td align="center">♟      </td>
+      <td align="center">♟      </td>
       <td align="center">♟      </td>
       <td align="center">♟      </td>
       <td align="center">♟      </td>
@@ -579,9 +579,9 @@
     </tr>
     <tr>
       <td align="center">:five:</td>
-      <td align="center">♟      </td>
       <td align="center">‎       </td>
-      <td align="center">♟      </td>
+      <td align="center">‎       </td>
+      <td align="center">‎       </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
@@ -595,12 +595,7 @@
       <td align="center">‎       </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
-      <td align="center">
-        <details>
-          <summary>♙</summary>
-          <a href="https://o.charles-chrismann.fr/chess/chess-1/move?from=f4&to=f5">f5</a>
-        </details>
-      </td>
+      <td align="center">‎       </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
     </tr>
@@ -608,16 +603,7 @@
       <td align="center">:three:</td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
-      <td align="center">
-        <details>
-          <summary>♘</summary>
-          <a href="https://o.charles-chrismann.fr/chess/chess-1/move?from=c3&to=a4">a4</a>
-          <a href="https://o.charles-chrismann.fr/chess/chess-1/move?from=c3&to=b5">b5</a>
-          <a href="https://o.charles-chrismann.fr/chess/chess-1/move?from=c3&to=d5">d5</a>
-          <br><a href="https://o.charles-chrismann.fr/chess/chess-1/move?from=c3&to=e4">e4</a>
-          <a href="https://o.charles-chrismann.fr/chess/chess-1/move?from=c3&to=b1">b1</a>
-        </details>
-      </td>
+      <td align="center">‎       </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
@@ -640,7 +626,13 @@
           <a href="https://o.charles-chrismann.fr/chess/chess-1/move?from=b2&to=b4">b4</a>
         </details>
       </td>
-      <td align="center">♙      </td>
+      <td align="center">
+        <details>
+          <summary>♙</summary>
+          <a href="https://o.charles-chrismann.fr/chess/chess-1/move?from=c2&to=c3">c3</a>
+          <a href="https://o.charles-chrismann.fr/chess/chess-1/move?from=c2&to=c4">c4</a>
+        </details>
+      </td>
       <td align="center">
         <details>
           <summary>♙</summary>
@@ -655,7 +647,13 @@
           <a href="https://o.charles-chrismann.fr/chess/chess-1/move?from=e2&to=e4">e4</a>
         </details>
       </td>
-      <td align="center">‎       </td>
+      <td align="center">
+        <details>
+          <summary>♙</summary>
+          <a href="https://o.charles-chrismann.fr/chess/chess-1/move?from=f2&to=f3">f3</a>
+          <a href="https://o.charles-chrismann.fr/chess/chess-1/move?from=f2&to=f4">f4</a>
+        </details>
+      </td>
       <td align="center">
         <details>
           <summary>♙</summary>
@@ -673,21 +671,17 @@
     </tr>
     <tr>
       <td align="center">:one:</td>
+      <td align="center">♖      </td>
       <td align="center">
         <details>
-          <summary>♖</summary>
-          <a href="https://o.charles-chrismann.fr/chess/chess-1/move?from=a1&to=b1">b1</a>
+          <summary>♘</summary>
+          <a href="https://o.charles-chrismann.fr/chess/chess-1/move?from=b1&to=a3">a3</a>
+          <a href="https://o.charles-chrismann.fr/chess/chess-1/move?from=b1&to=c3">c3</a>
         </details>
       </td>
-      <td align="center">‎       </td>
       <td align="center">♗      </td>
       <td align="center">♕      </td>
-      <td align="center">
-        <details>
-          <summary>♔</summary>
-          <a href="https://o.charles-chrismann.fr/chess/chess-1/move?from=e1&to=f2">f2</a>
-        </details>
-      </td>
+      <td align="center">♔      </td>
       <td align="center">♗      </td>
       <td align="center">
         <details>
@@ -930,4 +924,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0s on Mon Dec 15 at 22:44</p>
+<p align="right">Generated in 0s on Tue Dec 16 at 2:12</p>
