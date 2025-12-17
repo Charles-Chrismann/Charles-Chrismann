@@ -411,7 +411,7 @@
   <a href="https://o.charles-chrismann.fr/minesweeper/msw-1/click?x=14&y=7">:black_large_square:</a>
   <span>:three:</span>
   <a href="https://o.charles-chrismann.fr/minesweeper/msw-1/click?x=16&y=7">:black_large_square:</a>
-  <a href="https://o.charles-chrismann.fr/minesweeper/msw-1/click?x=17&y=7">:black_large_square:</a>
+  <span>:two:</span>
   <br>
   <span>:white_large_square:</span>
   <span>:white_large_square:</span>
@@ -527,7 +527,7 @@
   <span>:white_large_square:</span>
   <span>:white_large_square:</span>
 </p>
-<p align="center">Keep clearing, there are still many mines left.</p>
+<p align="center">Congrats you won !</p>
 <p align="center">
   <img width="256" src="https://o.charles-chrismann.fr/minesweeper/msw-1/gif" />
 </p>
