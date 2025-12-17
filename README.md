@@ -373,7 +373,7 @@
   <span>:white_large_square:</span>
   <span>:two:</span>
   <span>:two:</span>
-  <a href="https://o.charles-chrismann.fr/minesweeper/msw-1/click?x=17&y=5">:black_large_square:</a>
+  <span>:two:</span>
   <br>
   <span>:white_large_square:</span>
   <span>:white_large_square:</span>
