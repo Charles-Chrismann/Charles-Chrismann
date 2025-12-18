@@ -79,18 +79,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">15942</td>
-      <td align="center">
-        <a href="https://github.com/Ayush277" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/131751122?u=967d56e97df2dd5eb6575b655083c354c5e6b7bb&v=4" alt="Ayush277" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Ayush277" target="_blank">Ayush277</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">15943</td>
+      <td align="center">15941</td>
       <td align="center">
         <a href="https://github.com/GoXLd" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/1161077?u=5f601b7495417494339ea055f1bd626e2fcbcace&v=4" alt="GoXLd" width="40" height="40"/>
@@ -101,7 +90,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">15944</td>
+      <td align="center">15942</td>
       <td align="center">
         <a href="https://github.com/snowopard" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/65512320?u=f0742b0e7c8e7668d6418c68fcd76cf121d15983&v=4" alt="snowopard" width="40" height="40"/>
@@ -112,7 +101,18 @@
       </td>
     </tr>
     <tr>
-      <td align="center">15945</td>
+      <td align="center">15943</td>
+      <td align="center">
+        <a href="https://github.com/fusiondev117-boop" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/244659565?u=a65a38f1a8fc38f54c2610d1fbc4e0fe706b749d&v=4" alt="fusiondev117-boop" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/fusiondev117-boop" target="_blank">fusiondev117-boop</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">15944</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -924,4 +924,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0s on Thu Dec 18 at 10:23</p>
+<p align="right">Generated in 0s on Thu Dec 18 at 11:40</p>
