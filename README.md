@@ -93,7 +93,7 @@
       <td align="center">15943</td>
       <td align="center">
         <a href="https://github.com/fusiondev117-boop" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/244659565?u=a65a38f1a8fc38f54c2610d1fbc4e0fe706b749d&v=4" alt="fusiondev117-boop" width="40" height="40"/>
+          <img src="https://avatars.githubusercontent.com/u/244659565?u=054c45963afac130fb7e54afd007533f8628dfc2&v=4" alt="fusiondev117-boop" width="40" height="40"/>
         </a>
       </td>
       <td>
@@ -947,4 +947,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.001s on Fri Dec 19 at 8:11</p>
+<p align="right">Generated in 0s on Fri Dec 19 at 9:03</p>
