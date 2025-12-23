@@ -79,7 +79,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">15936</td>
+      <td align="center">15935</td>
       <td align="center">
         <a href="https://github.com/edgeaiot" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/250473294?u=01db99d3384342841deecce284ff68813fe17f0c&v=4" alt="edgeaiot" width="40" height="40"/>
@@ -90,7 +90,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">15937</td>
+      <td align="center">15936</td>
       <td align="center">
         <a href="https://github.com/ByteCrister" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/143107015?u=d8415e8450708c837d7177b785c3ddb0710659d6&v=4" alt="ByteCrister" width="40" height="40"/>
@@ -101,7 +101,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">15938</td>
+      <td align="center">15937</td>
       <td align="center">
         <a href="https://github.com/sturm-afk" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/223175751?u=e47fbf8f74770718a6cac6d33dfeadf624625e04&v=4" alt="sturm-afk" width="40" height="40"/>
@@ -112,7 +112,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">15939</td>
+      <td align="center">15938</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -955,4 +955,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0s on Tue Dec 23 at 19:26</p>
+<p align="right">Generated in 0s on Tue Dec 23 at 19:47</p>
