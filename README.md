@@ -82,7 +82,7 @@
       <td align="center">15932</td>
       <td align="center">
         <a href="https://github.com/edgeaiot" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/250473294?u=01db99d3384342841deecce284ff68813fe17f0c&v=4" alt="edgeaiot" width="40" height="40"/>
+          <img src="https://avatars.githubusercontent.com/u/250473294?u=533b2380c38809d2c436beec58b89303e3255cd2&v=4" alt="edgeaiot" width="40" height="40"/>
         </a>
       </td>
       <td>
@@ -924,4 +924,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0s on Wed Dec 24 at 9:38</p>
+<p align="right">Generated in 0s on Wed Dec 24 at 10:41</p>
