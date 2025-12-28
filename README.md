@@ -79,17 +79,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">15918</td>
-      <td align="center">
-        <a href="https://github.com/edgeaiot" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/250473294?u=533b2380c38809d2c436beec58b89303e3255cd2&v=4" alt="edgeaiot" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/edgeaiot" target="_blank">edgeaiot</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">15919</td>
       <td align="center">
         <a href="https://github.com/ByteCrister" target="_blank">
@@ -113,6 +102,17 @@
     </tr>
     <tr>
       <td align="center">15921</td>
+      <td align="center">
+        <a href="https://github.com/frkicolmar-png" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/251901121?v=4" alt="frkicolmar-png" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/frkicolmar-png" target="_blank">frkicolmar-png</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">15922</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -941,4 +941,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0s on Sun Dec 28 at 18:12</p>
+<p align="right">Generated in 0s on Sun Dec 28 at 18:42</p>
