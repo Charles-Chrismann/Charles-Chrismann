@@ -584,7 +584,7 @@
       <td align="center">‎       </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
-      <td align="center">♞      </td>
+      <td align="center">‎       </td>
       <td align="center">♟      </td>
       <td align="center">‎       </td>
     </tr>
@@ -604,11 +604,12 @@
       <td align="center">
         <details>
           <summary>♙</summary>
+          <a href="https://o.charles-chrismann.fr/chess/chess-1/move?from=f4&to=f5">f5</a>
           <a href="https://o.charles-chrismann.fr/chess/chess-1/move?from=f4&to=g5">g5</a>
         </details>
       </td>
       <td align="center">‎       </td>
-      <td align="center">‎       </td>
+      <td align="center">♞      </td>
     </tr>
     <tr>
       <td align="center">:three:</td>
@@ -657,13 +658,7 @@
           <a href="https://o.charles-chrismann.fr/chess/chess-1/move?from=g2&to=g4">g4</a>
         </details>
       </td>
-      <td align="center">
-        <details>
-          <summary>♙</summary>
-          <a href="https://o.charles-chrismann.fr/chess/chess-1/move?from=h2&to=h3">h3</a>
-          <a href="https://o.charles-chrismann.fr/chess/chess-1/move?from=h2&to=h4">h4</a>
-        </details>
-      </td>
+      <td align="center">‎       </td>
     </tr>
     <tr>
       <td align="center">:one:</td>
@@ -698,7 +693,14 @@
           <a href="https://o.charles-chrismann.fr/chess/chess-1/move?from=g1&to=h3">h3</a>
         </details>
       </td>
-      <td align="center">♖      </td>
+      <td align="center">
+        <details>
+          <summary>♖</summary>
+          <a href="https://o.charles-chrismann.fr/chess/chess-1/move?from=h1&to=h2">h2</a>
+          <a href="https://o.charles-chrismann.fr/chess/chess-1/move?from=h1&to=h3">h3</a>
+          <br><a href="https://o.charles-chrismann.fr/chess/chess-1/move?from=h1&to=h4">h4</a>
+        </details>
+      </td>
     </tr>
   <tr>
     <td align="center"></td>
@@ -932,4 +934,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0s on Sun Dec 28 at 15:52</p>
+<p align="right">Generated in 0s on Sun Dec 28 at 15:53</p>
