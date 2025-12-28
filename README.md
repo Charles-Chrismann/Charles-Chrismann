@@ -557,7 +557,7 @@
     </tr>
     <tr>
       <td align="center">:seven:</td>
-      <td align="center">♟      </td>
+      <td align="center">‎       </td>
       <td align="center">♟      </td>
       <td align="center">♟      </td>
       <td align="center">♟      </td>
@@ -579,7 +579,7 @@
     </tr>
     <tr>
       <td align="center">:five:</td>
-      <td align="center">‎       </td>
+      <td align="center">♟      </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
@@ -595,12 +595,18 @@
         <details>
           <summary>♙</summary>
           <a href="https://o.charles-chrismann.fr/chess/chess-1/move?from=b4&to=b5">b5</a>
+          <a href="https://o.charles-chrismann.fr/chess/chess-1/move?from=b4&to=a5">a5</a>
         </details>
       </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
-      <td align="center">‎       </td>
+      <td align="center">
+        <details>
+          <summary>♙</summary>
+          <a href="https://o.charles-chrismann.fr/chess/chess-1/move?from=f4&to=f5">f5</a>
+        </details>
+      </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
     </tr>
@@ -646,13 +652,7 @@
           <a href="https://o.charles-chrismann.fr/chess/chess-1/move?from=e2&to=e4">e4</a>
         </details>
       </td>
-      <td align="center">
-        <details>
-          <summary>♙</summary>
-          <a href="https://o.charles-chrismann.fr/chess/chess-1/move?from=f2&to=f3">f3</a>
-          <a href="https://o.charles-chrismann.fr/chess/chess-1/move?from=f2&to=f4">f4</a>
-        </details>
-      </td>
+      <td align="center">‎       </td>
       <td align="center">
         <details>
           <summary>♙</summary>
@@ -686,7 +686,12 @@
         </details>
       </td>
       <td align="center">♕      </td>
-      <td align="center">♔      </td>
+      <td align="center">
+        <details>
+          <summary>♔</summary>
+          <a href="https://o.charles-chrismann.fr/chess/chess-1/move?from=e1&to=f2">f2</a>
+        </details>
+      </td>
       <td align="center">♗      </td>
       <td align="center">
         <details>
