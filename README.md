@@ -546,13 +546,7 @@
   <tbody>
     <tr>
       <td align="center">:eight:</td>
-      <td align="center">
-        <details>
-          <summary>♜</summary>
-          <a href="https://o.charles-chrismann.fr/chess/chess-1/move?from=a8&to=a7">a7</a>
-          <a href="https://o.charles-chrismann.fr/chess/chess-1/move?from=a8&to=a6">a6</a>
-        </details>
-      </td>
+      <td align="center">♜      </td>
       <td align="center">
         <details>
           <summary>♞</summary>
@@ -574,7 +568,13 @@
     </tr>
     <tr>
       <td align="center">:seven:</td>
-      <td align="center">‎       </td>
+      <td align="center">
+        <details>
+          <summary>♟</summary>
+          <a href="https://o.charles-chrismann.fr/chess/chess-1/move?from=a7&to=a6">a6</a>
+          <a href="https://o.charles-chrismann.fr/chess/chess-1/move?from=a7&to=a5">a5</a>
+        </details>
+      </td>
       <td align="center">
         <details>
           <summary>♟</summary>
@@ -639,12 +639,7 @@
     </tr>
     <tr>
       <td align="center">:five:</td>
-      <td align="center">
-        <details>
-          <summary>♟</summary>
-          <a href="https://o.charles-chrismann.fr/chess/chess-1/move?from=a5&to=b4">b4</a>
-        </details>
-      </td>
+      <td align="center">‎       </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
@@ -655,7 +650,7 @@
     </tr>
     <tr>
       <td align="center">:four:</td>
-      <td align="center">♙      </td>
+      <td align="center">‎       </td>
       <td align="center">♙      </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
@@ -677,7 +672,7 @@
     </tr>
     <tr>
       <td align="center">:two:</td>
-      <td align="center">‎       </td>
+      <td align="center">♙      </td>
       <td align="center">‎       </td>
       <td align="center">♙      </td>
       <td align="center">♙      </td>
