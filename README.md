@@ -81,17 +81,6 @@
     <tr>
       <td align="center">15914</td>
       <td align="center">
-        <a href="https://github.com/XiaomingX" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/5387930?u=1cd0cfa4ab9c6e30da495e621b850e4f61a203aa&v=4" alt="XiaomingX" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/XiaomingX" target="_blank">XiaomingX</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">15915</td>
-      <td align="center">
         <a href="https://github.com/OliverMuller23" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/132058948?u=97995a225caa7acedafd1568ff08f46576f0dd91&v=4" alt="OliverMuller23" width="40" height="40"/>
         </a>
@@ -101,7 +90,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">15916</td>
+      <td align="center">15915</td>
       <td align="center">
         <a href="https://github.com/Vasvi-Saini" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/156455045?u=8c1640662d3cc06562729885dfd9d90a6d8adb06&v=4" alt="Vasvi-Saini" width="40" height="40"/>
@@ -109,6 +98,17 @@
       </td>
       <td>
         <a href="https://github.com/Vasvi-Saini" target="_blank">Vasvi-Saini</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">15916</td>
+      <td align="center">
+        <a href="https://github.com/DevInit1995" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/112784619?u=94018990ff8980b35fac03791e0032f1451d359b&v=4" alt="DevInit1995" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/DevInit1995" target="_blank">DevInit1995</a>
       </td>
     </tr>
     <tr>
@@ -924,4 +924,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0s on Fri Jan 2 at 22:00</p>
+<p align="right">Generated in 0s on Fri Jan 2 at 23:24</p>
