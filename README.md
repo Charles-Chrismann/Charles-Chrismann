@@ -79,18 +79,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">15880</td>
-      <td align="center">
-        <a href="https://github.com/OOLin" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/12219774?u=f9acd57fa4e38ba7c29d793f22ebbe9f4427e84b&v=4" alt="OOLin" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/OOLin" target="_blank">OOLin</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">15881</td>
+      <td align="center">15876</td>
       <td align="center">
         <a href="https://github.com/tetref" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/11065044?u=f340fee57fdc04265e13e6d6df51ad80c0a5c180&v=4" alt="tetref" width="40" height="40"/>
@@ -101,7 +90,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">15882</td>
+      <td align="center">15877</td>
       <td align="center">
         <a href="https://github.com/xryutaro" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/5164876?u=139ab7dd29513e630975da425cee7a21d042fca0&v=4" alt="xryutaro" width="40" height="40"/>
@@ -112,7 +101,18 @@
       </td>
     </tr>
     <tr>
-      <td align="center">15883</td>
+      <td align="center">15878</td>
+      <td align="center">
+        <a href="https://github.com/ByteCrister" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/143107015?u=d8415e8450708c837d7177b785c3ddb0710659d6&v=4" alt="ByteCrister" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/ByteCrister" target="_blank">ByteCrister</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">15879</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -945,4 +945,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0s on Fri Jan 16 at 12:57</p>
+<p align="right">Generated in 0s on Fri Jan 16 at 15:51</p>
