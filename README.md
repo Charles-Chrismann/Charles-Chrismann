@@ -81,17 +81,6 @@
     <tr>
       <td align="center">15834</td>
       <td align="center">
-        <a href="https://github.com/lukasmiller1" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/254008597?u=3b8292db21c67d568771c06f87ecfd66c2d88655&v=4" alt="lukasmiller1" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/lukasmiller1" target="_blank">lukasmiller1</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">15835</td>
-      <td align="center">
         <a href="https://github.com/warchs" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/256081649?u=ca6ff0d08565e4727e0280878f150e75647f1a58&v=4" alt="warchs" width="40" height="40"/>
         </a>
@@ -101,7 +90,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">15836</td>
+      <td align="center">15835</td>
       <td align="center">
         <a href="https://github.com/ramzi-bouzaiene" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/229105657?u=32c33267c1b925d35e523dbd0c1e5403248e0201&v=4" alt="ramzi-bouzaiene" width="40" height="40"/>
@@ -109,6 +98,17 @@
       </td>
       <td>
         <a href="https://github.com/ramzi-bouzaiene" target="_blank">ramzi-bouzaiene</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">15836</td>
+      <td align="center">
+        <a href="https://github.com/jriost" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/201810442?u=2f42221c21ba8b08d77a29e1955ac210b434672f&v=4" alt="jriost" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/jriost" target="_blank">jriost</a>
       </td>
     </tr>
     <tr>
@@ -938,4 +938,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0s on Fri Jan 30 at 2:04</p>
+<p align="right">Generated in 0s on Fri Jan 30 at 4:04</p>
