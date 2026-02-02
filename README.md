@@ -79,18 +79,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">15828</td>
-      <td align="center">
-        <a href="https://github.com/warchs" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/256081649?u=ca6ff0d08565e4727e0280878f150e75647f1a58&v=4" alt="warchs" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/warchs" target="_blank">warchs</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">15829</td>
+      <td align="center">15827</td>
       <td align="center">
         <a href="https://github.com/ramzi-bouzaiene" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/229105657?u=32c33267c1b925d35e523dbd0c1e5403248e0201&v=4" alt="ramzi-bouzaiene" width="40" height="40"/>
@@ -101,7 +90,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">15830</td>
+      <td align="center">15828</td>
       <td align="center">
         <a href="https://github.com/jriost" target="_blank">
           <img src="https://avatars.githubusercontent.com/u/201810442?u=2f42221c21ba8b08d77a29e1955ac210b434672f&v=4" alt="jriost" width="40" height="40"/>
@@ -112,7 +101,18 @@
       </td>
     </tr>
     <tr>
-      <td align="center">15831</td>
+      <td align="center">15829</td>
+      <td align="center">
+        <a href="https://github.com/Vahlius" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/177187054?u=db10dcc28a723a16a0ce1cf37a0e3b17ea1dcfb5&v=4" alt="Vahlius" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Vahlius" target="_blank">Vahlius</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">15830</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -935,4 +935,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0s on Mon Feb 2 at 8:34</p>
+<p align="right">Generated in 0s on Mon Feb 2 at 13:03</p>
