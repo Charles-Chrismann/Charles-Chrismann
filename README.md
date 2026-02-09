@@ -561,9 +561,9 @@
       <td align="center">
         <details>
           <summary>♛</summary>
+          <a href="https://o.charles-chrismann.fr/chess/chess-1/move?from=d8&to=e7">e7</a>
           <a href="https://o.charles-chrismann.fr/chess/chess-1/move?from=d8&to=d7">d7</a>
           <a href="https://o.charles-chrismann.fr/chess/chess-1/move?from=d8&to=d6">d6</a>
-          <a href="https://o.charles-chrismann.fr/chess/chess-1/move?from=d8&to=d5">d5</a>
           <br><a href="https://o.charles-chrismann.fr/chess/chess-1/move?from=d8&to=c7">c7</a>
           <a href="https://o.charles-chrismann.fr/chess/chess-1/move?from=d8&to=b6">b6</a>
         </details>
@@ -571,11 +571,17 @@
       <td align="center">
         <details>
           <summary>♚</summary>
-          <a href="https://o.charles-chrismann.fr/chess/chess-1/move?from=e8&to=f8">f8</a>
+          <a href="https://o.charles-chrismann.fr/chess/chess-1/move?from=e8&to=e7">e7</a>
           <a href="https://o.charles-chrismann.fr/chess/chess-1/move?from=e8&to=d7">d7</a>
         </details>
       </td>
-      <td align="center">‎       </td>
+      <td align="center">
+        <details>
+          <summary>♝</summary>
+          <a href="https://o.charles-chrismann.fr/chess/chess-1/move?from=f8&to=e7">e7</a>
+          <a href="https://o.charles-chrismann.fr/chess/chess-1/move?from=f8&to=d6">d6</a>
+        </details>
+      </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
     </tr>
@@ -591,13 +597,7 @@
       </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
-      <td align="center">
-        <details>
-          <summary>♝</summary>
-          <a href="https://o.charles-chrismann.fr/chess/chess-1/move?from=e7&to=f8">f8</a>
-          <a href="https://o.charles-chrismann.fr/chess/chess-1/move?from=e7&to=d6">d6</a>
-        </details>
-      </td>
+      <td align="center">‎       </td>
       <td align="center">♟      </td>
       <td align="center">
         <details>
@@ -628,6 +628,7 @@
           <summary>♞</summary>
           <a href="https://o.charles-chrismann.fr/chess/chess-1/move?from=c6&to=a7">a7</a>
           <a href="https://o.charles-chrismann.fr/chess/chess-1/move?from=c6&to=b8">b8</a>
+          <a href="https://o.charles-chrismann.fr/chess/chess-1/move?from=c6&to=e7">e7</a>
           <br><a href="https://o.charles-chrismann.fr/chess/chess-1/move?from=c6&to=d4">d4</a>
           <a href="https://o.charles-chrismann.fr/chess/chess-1/move?from=c6&to=b4">b4</a>
         </details>
@@ -642,7 +643,6 @@
           <a href="https://o.charles-chrismann.fr/chess/chess-1/move?from=f6&to=h5">h5</a>
           <br><a href="https://o.charles-chrismann.fr/chess/chess-1/move?from=f6&to=g4">g4</a>
           <a href="https://o.charles-chrismann.fr/chess/chess-1/move?from=f6&to=e4">e4</a>
-          <a href="https://o.charles-chrismann.fr/chess/chess-1/move?from=f6&to=d5">d5</a>
         </details>
       </td>
       <td align="center">‎       </td>
@@ -663,13 +663,15 @@
         </details>
       </td>
       <td align="center">‎       </td>
+      <td align="center">♟      </td>
       <td align="center">
         <details>
           <summary>♟</summary>
-          <a href="https://o.charles-chrismann.fr/chess/chess-1/move?from=c5&to=c4">c4</a>
+          <a href="https://o.charles-chrismann.fr/chess/chess-1/move?from=d5&to=d4">d4</a>
+          <a href="https://o.charles-chrismann.fr/chess/chess-1/move?from=d5&to=e4">e4</a>
+          <br><a href="https://o.charles-chrismann.fr/chess/chess-1/move?from=d5&to=c4">c4</a>
         </details>
       </td>
-      <td align="center">♙      </td>
       <td align="center">
         <details>
           <summary>♟</summary>
@@ -684,7 +686,7 @@
       <td align="center">:four:</td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
-      <td align="center">‎       </td>
+      <td align="center">♙      </td>
       <td align="center">‎       </td>
       <td align="center">♙      </td>
       <td align="center">♙      </td>
