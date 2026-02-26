@@ -79,17 +79,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">15776</td>
-      <td align="center">
-        <a href="https://github.com/badjiallan053-boop" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/222314140?v=4" alt="badjiallan053-boop" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/badjiallan053-boop" target="_blank">badjiallan053-boop</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">15777</td>
       <td align="center">
         <a href="https://github.com/JossyCodexx" target="_blank">
@@ -113,6 +102,17 @@
     </tr>
     <tr>
       <td align="center">15779</td>
+      <td align="center">
+        <a href="https://github.com/vanaslihter-ui" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/264255240?v=4" alt="vanaslihter-ui" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/vanaslihter-ui" target="_blank">vanaslihter-ui</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">15780</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -927,4 +927,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0s on Thu Feb 26 at 16:03</p>
+<p align="right">Generated in 0s on Thu Feb 26 at 20:21</p>
