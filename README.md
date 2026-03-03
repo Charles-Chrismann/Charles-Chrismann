@@ -103,12 +103,12 @@
     <tr>
       <td align="center">15783</td>
       <td align="center">
-        <a href="https://github.com/brunomadrigal8" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/258112009?u=ffb39f3e2105969eb72e75cec15464b3ed01740e&v=4" alt="brunomadrigal8" width="40" height="40"/>
+        <a href="https://github.com/aurora8808" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/258112009?u=b97c7bbd839798a436871acc160fb23cfdd45151&v=4" alt="aurora8808" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/brunomadrigal8" target="_blank">brunomadrigal8</a>
+        <a href="https://github.com/aurora8808" target="_blank">aurora8808</a>
       </td>
     </tr>
     <tr>
@@ -921,4 +921,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.001s on Tue Mar 3 at 14:44</p>
+<p align="right">Generated in 0.001s on Tue Mar 3 at 15:08</p>
