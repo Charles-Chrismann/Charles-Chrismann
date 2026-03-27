@@ -82,7 +82,7 @@
       <td align="center">15743</td>
       <td align="center">
         <a href="https://github.com/ByteCrister" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/143107015?u=d8415e8450708c837d7177b785c3ddb0710659d6&v=4" alt="ByteCrister" width="40" height="40"/>
+          <img src="https://avatars.githubusercontent.com/u/143107015?u=c469a184142b510b56be0d2d605ec74fd87db3ec&v=4" alt="ByteCrister" width="40" height="40"/>
         </a>
       </td>
       <td>
@@ -924,4 +924,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0s on Fri Mar 27 at 4:43</p>
+<p align="right">Generated in 0s on Fri Mar 27 at 15:04</p>
