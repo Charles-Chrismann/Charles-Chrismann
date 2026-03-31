@@ -754,16 +754,6 @@
   </thead>
   <tbody>
     <tr>
-      <td>$\text{\color{lightgreen}{C}}$</td>
-      <td>$\text{\color{lightgreen}{L}}$</td>
-      <td>$\text{\color{white}{O}}$</td>
-      <td>$\text{\color{white}{U}}$</td>
-      <td>$\text{\color{white}{D}}$</td>
-      <td>
-        <a href="https://github.com/Arjun6472">@Arjun6472</a>
-      </td>
-    </tr>
-    <tr>
       <td>‎ </td>
       <td>‎ </td>
       <td>‎ </td>
@@ -969,4 +959,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0s on Tue Mar 31 at 20:04</p>
+<p align="right">Generated in 0s on Tue Mar 31 at 22:00</p>
