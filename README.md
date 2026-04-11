@@ -394,7 +394,7 @@
   <a href="https://o.charles-chrismann.fr/minesweeper/msw-1/click?x=16&y=6">:black_large_square:</a>
   <a href="https://o.charles-chrismann.fr/minesweeper/msw-1/click?x=17&y=6">:black_large_square:</a>
   <br>
-  <a href="https://o.charles-chrismann.fr/minesweeper/msw-1/click?x=0&y=7">:black_large_square:</a>
+  <span>:one:</span>
   <a href="https://o.charles-chrismann.fr/minesweeper/msw-1/click?x=1&y=7">:black_large_square:</a>
   <a href="https://o.charles-chrismann.fr/minesweeper/msw-1/click?x=2&y=7">:black_large_square:</a>
   <a href="https://o.charles-chrismann.fr/minesweeper/msw-1/click?x=3&y=7">:black_large_square:</a>
@@ -527,7 +527,10 @@
   <a href="https://o.charles-chrismann.fr/minesweeper/msw-1/click?x=16&y=13">:black_large_square:</a>
   <a href="https://o.charles-chrismann.fr/minesweeper/msw-1/click?x=17&y=13">:black_large_square:</a>
 </p>
-<p align="center">Come on, try it</p>
+<p align="center">Keep clearing, there are still many mines left.</p>
+<p align="center">
+  <img width="256" src="https://o.charles-chrismann.fr/minesweeper/msw-1/gif" />
+</p>
 <h3 align="center">
   <a href="https://o.charles-chrismann.fr/minesweeper/msw-1/new">Reset Game</a>
 </h3>
