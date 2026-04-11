@@ -79,17 +79,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">15719</td>
-      <td align="center">
-        <a href="https://github.com/Bluzzi" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/20624478?u=5be4f18e48b7ca4eafc1f38c05cc523ec46fa5f9&v=4" alt="Bluzzi" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Bluzzi" target="_blank">Bluzzi</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">15720</td>
       <td align="center">
         <a href="https://github.com/beringasbuas289-commits" target="_blank">
@@ -113,6 +102,17 @@
     </tr>
     <tr>
       <td align="center">15722</td>
+      <td align="center">
+        <a href="https://github.com/MANIKANTHREDDY-18" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/260348158?u=deb4e46fa45fcdc5a601680dc23121fc582ac5f2&v=4" alt="MANIKANTHREDDY-18" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/MANIKANTHREDDY-18" target="_blank">MANIKANTHREDDY-18</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">15723</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -947,4 +947,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.001s on Sat Apr 11 at 4:45</p>
+<p align="right">Generated in 0.001s on Sat Apr 11 at 5:03</p>
