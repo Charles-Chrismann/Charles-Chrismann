@@ -430,7 +430,7 @@
   <span>:two:</span>
   <a href="https://o.charles-chrismann.fr/minesweeper/msw-1/click?x=15&y=8">:black_large_square:</a>
   <a href="https://o.charles-chrismann.fr/minesweeper/msw-1/click?x=16&y=8">:black_large_square:</a>
-  <a href="https://o.charles-chrismann.fr/minesweeper/msw-1/click?x=17&y=8">:black_large_square:</a>
+  <span>:three:</span>
   <br>
   <span>:white_large_square:</span>
   <span>:one:</span>
