@@ -726,6 +726,16 @@
   </thead>
   <tbody>
     <tr>
+      <td>$\text{\color{red}{P}}$</td>
+      <td>$\text{\color{red}{I}}$</td>
+      <td>$\text{\color{red}{O}}$</td>
+      <td>$\text{\color{red}{U}}$</td>
+      <td>$\text{\color{red}{S}}$</td>
+      <td>
+        <a href="https://github.com/cinnamon-cicada">@cinnamon-cicada</a>
+      </td>
+    </tr>
+    <tr>
       <td>‎ </td>
       <td>‎ </td>
       <td>‎ </td>
@@ -931,4 +941,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0s on Mon Apr 13 at 19:49</p>
+<p align="right">Generated in 0s on Mon Apr 13 at 20:12</p>
