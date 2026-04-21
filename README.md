@@ -262,7 +262,7 @@
 <h3 align="center">A classic Minesweeper</h3>
 <p align="center">
   <span>:one:</span>
-  <a href="https://o.charles-chrismann.fr/minesweeper/msw-1/click?x=1&y=0">:black_large_square:</a>
+  <span>:one:</span>
   <a href="https://o.charles-chrismann.fr/minesweeper/msw-1/click?x=2&y=0">:black_large_square:</a>
   <span>:one:</span>
   <a href="https://o.charles-chrismann.fr/minesweeper/msw-1/click?x=4&y=0">:black_large_square:</a>
