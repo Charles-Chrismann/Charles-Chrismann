@@ -104,7 +104,7 @@
       <td align="center">15708</td>
       <td align="center">
         <a href="https://github.com/FADETOY" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/263399396?u=d3c30c3a50ba43ce76def9db501d2e896a2ed7db&v=4" alt="FADETOY" width="40" height="40"/>
+          <img src="https://avatars.githubusercontent.com/u/263399396?u=77e349abc0c8678276c31310cbce91f254a41d77&v=4" alt="FADETOY" width="40" height="40"/>
         </a>
       </td>
       <td>
@@ -943,4 +943,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0s on Tue Apr 21 at 4:04</p>
+<p align="right">Generated in 0s on Tue Apr 21 at 11:05</p>
