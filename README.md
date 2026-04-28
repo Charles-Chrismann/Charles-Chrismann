@@ -487,7 +487,7 @@
   <span>:one:</span>
   <span>:two:</span>
   <a href="https://o.charles-chrismann.fr/minesweeper/msw-1/click?x=16&y=11">:black_large_square:</a>
-  <a href="https://o.charles-chrismann.fr/minesweeper/msw-1/click?x=17&y=11">:black_large_square:</a>
+  <span>:one:</span>
   <br>
   <span>:two:</span>
   <span>:two:</span>
