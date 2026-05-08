@@ -79,17 +79,6 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">15675</td>
-      <td align="center">
-        <a href="https://github.com/Prithic" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/76239824?u=25780851007207642003fb2e1150e15b02586923&v=4" alt="Prithic" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Prithic" target="_blank">Prithic</a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">15676</td>
       <td align="center">
         <a href="https://github.com/whitesnow1211" target="_blank">
@@ -113,6 +102,17 @@
     </tr>
     <tr>
       <td align="center">15678</td>
+      <td align="center">
+        <a href="https://github.com/mrazeq122-byte" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/280851278?v=4" alt="mrazeq122-byte" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/mrazeq122-byte" target="_blank">mrazeq122-byte</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">15679</td>
       <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
     </tr>
   </tbody>
@@ -924,4 +924,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.001s on Fri May 8 at 10:49</p>
+<p align="right">Generated in 0s on Fri May 8 at 12:14</p>
