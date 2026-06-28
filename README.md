@@ -82,7 +82,7 @@
       <td align="center">15584</td>
       <td align="center">
         <a href="https://github.com/cryfatal" target="_blank">
-          <img src="https://avatars.githubusercontent.com/u/279388230?u=a32b63ae1da04f917a682c4a6e566db05e6cd704&v=4" alt="cryfatal" width="40" height="40"/>
+          <img src="https://avatars.githubusercontent.com/u/279388230?u=3d1ffb39bb0e68dfae5f13a8023f51e0b6b02f49&v=4" alt="cryfatal" width="40" height="40"/>
         </a>
       </td>
       <td>
@@ -924,4 +924,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0s on Sun Jun 28 at 12:10</p>
+<p align="right">Generated in 0s on Sun Jun 28 at 13:03</p>
