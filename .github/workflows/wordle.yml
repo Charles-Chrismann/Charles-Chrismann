@@ -14,8 +14,8 @@ jobs:
           echo "words : ${words[@]}"
           
           curl_data="{\"guess\":\"${words[1]}\", \"API_AUTH_TOKEN\":\"${{ secrets.API_AUTH_TOKEN }}\", \"issuer\": \"${{ github.event.issue.user.login }}\", \"issuerId\": ${{ github.event.issue.user.id }}}"
-          echo "running curl : curl -d '$curl_data' -H \"Content-Type: application/json\" -X POST https://o.charles-chrismann.fr/wordle/guess"
-          curl -d "{\"guess\":\"${words[1]}\", \"API_AUTH_TOKEN\":\"${{ secrets.API_AUTH_TOKEN }}\", \"issuer\": \"${{ github.event.issue.user.login }}\", \"issuerId\": ${{ github.event.issue.user.id }}}" -H "Content-Type: application/json" -X POST https://o.charles-chrismann.fr/wordle/guess
+          echo "running curl : curl -d '$curl_data' -H \"Content-Type: application/json\" -X POST ${{ vars.APP_BASE_URL }}/wordle/guess"
+          curl -d "{\"guess\":\"${words[1]}\", \"API_AUTH_TOKEN\":\"${{ secrets.API_AUTH_TOKEN }}\", \"issuer\": \"${{ github.event.issue.user.login }}\", \"issuerId\": ${{ github.event.issue.user.id }}}" -H "Content-Type: application/json" -X POST ${{ vars.APP_BASE_URL }}/wordle/guess
 
 
       - name: Close GitHub issue
