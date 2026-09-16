@@ -12,7 +12,7 @@
     <img src="./assets/gba/top-left.png">
   </a>
   <a href="http://p.charles-chrismann.fr/gba/gba-1/input">
-    <img src="http://p.charles-chrismann.fr/gba/gba-1/gif?a=1">
+    <img src="http://p.charles-chrismann.fr/gba/gba-1/gif">
   </a>
   <a href="http://p.charles-chrismann.fr/gba/gba-1/input">
     <img src="./assets/gba/top-right.png">
