@@ -338,10 +338,10 @@
   <span>:one:</span>
   <span>:white_large_square:</span>
   <br>
-  <a href="https://r.charles-chrismann.fr/minesweeper/msw-1/click?x=0&y=10">:black_large_square:</a>
-  <a href="https://r.charles-chrismann.fr/minesweeper/msw-1/click?x=1&y=10">:black_large_square:</a>
-  <a href="https://r.charles-chrismann.fr/minesweeper/msw-1/click?x=2&y=10">:black_large_square:</a>
-  <a href="https://r.charles-chrismann.fr/minesweeper/msw-1/click?x=3&y=10">:black_large_square:</a>
+  <span>:one:</span>
+  <span>:one:</span>
+  <span>:one:</span>
+  <span>:two:</span>
   <a href="https://r.charles-chrismann.fr/minesweeper/msw-1/click?x=4&y=10">:black_large_square:</a>
   <a href="https://r.charles-chrismann.fr/minesweeper/msw-1/click?x=5&y=10">:black_large_square:</a>
   <a href="https://r.charles-chrismann.fr/minesweeper/msw-1/click?x=6&y=10">:black_large_square:</a>
@@ -357,10 +357,10 @@
   <span>:two:</span>
   <span>:white_large_square:</span>
   <br>
-  <a href="https://r.charles-chrismann.fr/minesweeper/msw-1/click?x=0&y=11">:black_large_square:</a>
-  <a href="https://r.charles-chrismann.fr/minesweeper/msw-1/click?x=1&y=11">:black_large_square:</a>
-  <a href="https://r.charles-chrismann.fr/minesweeper/msw-1/click?x=2&y=11">:black_large_square:</a>
-  <a href="https://r.charles-chrismann.fr/minesweeper/msw-1/click?x=3&y=11">:black_large_square:</a>
+  <span>:white_large_square:</span>
+  <span>:white_large_square:</span>
+  <span>:white_large_square:</span>
+  <span>:one:</span>
   <a href="https://r.charles-chrismann.fr/minesweeper/msw-1/click?x=4&y=11">:black_large_square:</a>
   <a href="https://r.charles-chrismann.fr/minesweeper/msw-1/click?x=5&y=11">:black_large_square:</a>
   <a href="https://r.charles-chrismann.fr/minesweeper/msw-1/click?x=6&y=11">:black_large_square:</a>
@@ -376,10 +376,10 @@
   <span>:two:</span>
   <span>:white_large_square:</span>
   <br>
-  <a href="https://r.charles-chrismann.fr/minesweeper/msw-1/click?x=0&y=12">:black_large_square:</a>
-  <a href="https://r.charles-chrismann.fr/minesweeper/msw-1/click?x=1&y=12">:black_large_square:</a>
-  <a href="https://r.charles-chrismann.fr/minesweeper/msw-1/click?x=2&y=12">:black_large_square:</a>
-  <a href="https://r.charles-chrismann.fr/minesweeper/msw-1/click?x=3&y=12">:black_large_square:</a>
+  <span>:white_large_square:</span>
+  <span>:white_large_square:</span>
+  <span>:one:</span>
+  <span>:two:</span>
   <a href="https://r.charles-chrismann.fr/minesweeper/msw-1/click?x=4&y=12">:black_large_square:</a>
   <a href="https://r.charles-chrismann.fr/minesweeper/msw-1/click?x=5&y=12">:black_large_square:</a>
   <a href="https://r.charles-chrismann.fr/minesweeper/msw-1/click?x=6&y=12">:black_large_square:</a>
@@ -395,9 +395,9 @@
   <span>:one:</span>
   <span>:white_large_square:</span>
   <br>
-  <a href="https://r.charles-chrismann.fr/minesweeper/msw-1/click?x=0&y=13">:black_large_square:</a>
-  <a href="https://r.charles-chrismann.fr/minesweeper/msw-1/click?x=1&y=13">:black_large_square:</a>
-  <a href="https://r.charles-chrismann.fr/minesweeper/msw-1/click?x=2&y=13">:black_large_square:</a>
+  <span>:white_large_square:</span>
+  <span>:white_large_square:</span>
+  <span>:one:</span>
   <a href="https://r.charles-chrismann.fr/minesweeper/msw-1/click?x=3&y=13">:black_large_square:</a>
   <a href="https://r.charles-chrismann.fr/minesweeper/msw-1/click?x=4&y=13">:black_large_square:</a>
   <a href="https://r.charles-chrismann.fr/minesweeper/msw-1/click?x=5&y=13">:black_large_square:</a>
@@ -415,6 +415,9 @@
   <span>:white_large_square:</span>
 </p>
 <p align="center">Keep clearing, there are still many mines left.</p>
+<p align="center">
+  <img width="256" src="https://r.charles-chrismann.fr/minesweeper/msw-1/gif" />
+</p>
 <h3 align="center">
   <a href="https://r.charles-chrismann.fr/minesweeper/msw-1/new">Reset Game</a>
 </h3>
@@ -640,4 +643,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0s on Thu Sep 17 at 16:48</p>
+<p align="right">Generated in 0.003s on Thu Sep 17 at 16:48</p>
