@@ -192,7 +192,7 @@
   <a href="https://r.charles-chrismann.fr/minesweeper/msw-1/click?x=3&y=2">:black_large_square:</a>
   <a href="https://r.charles-chrismann.fr/minesweeper/msw-1/click?x=4&y=2">:black_large_square:</a>
   <a href="https://r.charles-chrismann.fr/minesweeper/msw-1/click?x=5&y=2">:black_large_square:</a>
-  <a href="https://r.charles-chrismann.fr/minesweeper/msw-1/click?x=6&y=2">:black_large_square:</a>
+  <span>:one:</span>
   <a href="https://r.charles-chrismann.fr/minesweeper/msw-1/click?x=7&y=2">:black_large_square:</a>
   <a href="https://r.charles-chrismann.fr/minesweeper/msw-1/click?x=8&y=2">:black_large_square:</a>
   <a href="https://r.charles-chrismann.fr/minesweeper/msw-1/click?x=9&y=2">:black_large_square:</a>
