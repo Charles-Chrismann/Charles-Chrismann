@@ -481,7 +481,7 @@
     <tr>
       <td align="center">:five:</td>
       <td align="center">♟      </td>
-      <td align="center">♝      </td>
+      <td align="center">‎       </td>
       <td align="center">♟      </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
@@ -496,7 +496,7 @@
     </tr>
     <tr>
       <td align="center">:four:</td>
-      <td align="center">‎       </td>
+      <td align="center">♝      </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
@@ -523,16 +523,12 @@
     </tr>
     <tr>
       <td align="center">:three:</td>
-      <td align="center">
-        <details>
-          <summary>♙</summary>
-          <a href="https://r.charles-chrismann.fr/chess/chs-1/move?from=a3&to=a4">a4</a>
-        </details>
-      </td>
+      <td align="center">♙      </td>
       <td align="center">
         <details>
           <summary>♙</summary>
           <a href="https://r.charles-chrismann.fr/chess/chs-1/move?from=b3&to=b4">b4</a>
+          <a href="https://r.charles-chrismann.fr/chess/chs-1/move?from=b3&to=a4">a4</a>
         </details>
       </td>
       <td align="center">‎       </td>
@@ -571,21 +567,11 @@
           <a href="https://r.charles-chrismann.fr/chess/chs-1/move?from=e2&to=d3">d3</a>
           <a href="https://r.charles-chrismann.fr/chess/chs-1/move?from=e2&to=c4">c4</a>
           <br><a href="https://r.charles-chrismann.fr/chess/chs-1/move?from=e2&to=b5">b5</a>
-          <a href="https://r.charles-chrismann.fr/chess/chs-1/move?from=e2&to=f1">f1</a>
+          <a href="https://r.charles-chrismann.fr/chess/chs-1/move?from=e2&to=a6">a6</a>
         </details>
       </td>
       <td align="center">‎       </td>
-      <td align="center">
-        <details>
-          <summary>♔</summary>
-          <a href="https://r.charles-chrismann.fr/chess/chs-1/move?from=g2&to=h3">h3</a>
-          <a href="https://r.charles-chrismann.fr/chess/chs-1/move?from=g2&to=h2">h2</a>
-          <a href="https://r.charles-chrismann.fr/chess/chs-1/move?from=g2&to=h1">h1</a>
-          <br><a href="https://r.charles-chrismann.fr/chess/chs-1/move?from=g2&to=g1">g1</a>
-          <a href="https://r.charles-chrismann.fr/chess/chs-1/move?from=g2&to=f1">f1</a>
-          <a href="https://r.charles-chrismann.fr/chess/chs-1/move?from=g2&to=f2">f2</a>
-        </details>
-      </td>
+      <td align="center">‎       </td>
       <td align="center">‎       </td>
     </tr>
     <tr>
@@ -608,15 +594,15 @@
           <a href="https://r.charles-chrismann.fr/chess/chs-1/move?from=d1&to=f2">f2</a>
         </details>
       </td>
+      <td align="center">♖      </td>
       <td align="center">
         <details>
-          <summary>♖</summary>
-          <a href="https://r.charles-chrismann.fr/chess/chs-1/move?from=e1&to=f1">f1</a>
-          <a href="https://r.charles-chrismann.fr/chess/chs-1/move?from=e1&to=g1">g1</a>
-          <br><a href="https://r.charles-chrismann.fr/chess/chs-1/move?from=e1&to=h1">h1</a>
+          <summary>♔</summary>
+          <a href="https://r.charles-chrismann.fr/chess/chs-1/move?from=f1&to=f2">f2</a>
+          <a href="https://r.charles-chrismann.fr/chess/chs-1/move?from=f1&to=g2">g2</a>
+          <br><a href="https://r.charles-chrismann.fr/chess/chs-1/move?from=f1&to=g1">g1</a>
         </details>
       </td>
-      <td align="center">‎       </td>
       <td align="center">‎       </td>
       <td align="center">‎       </td>
     </tr>
@@ -684,4 +670,4 @@
 <p align="center">
   <a href="https://github.com/Charles-Chrismann">See ya <3</a>
 </p>
-<p align="right">Generated in 0.02s on Fri Nov 20 at 20:51</p>
+<p align="right">Generated in 0.018s on Fri Nov 20 at 20:51</p>
